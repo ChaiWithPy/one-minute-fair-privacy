@@ -1,22 +1,24 @@
-title: Hello, world! I'm David Freeman
+title: Chai With Py
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to Chai With Py, where we combine our love for chai and coding to bring you the latest and greatest in AI and ML. We're two computer science undergraduates from India, who are on a mission to make AI accessible and fun for everyone. Whether we're experimenting with the latest Python libraries or exploring the depths of NLP, we're always on the lookout for new and exciting ways to push the boundaries of what's possible. So grab a chai, and join us on our journey as we dive into the world of AI and ML, one sip at a time!
+  ---
+  <b>Supriti Vijay</b><br>I am Supriti Vijay, an undergraduate student pursuing Computer Science Engineering at the Manipal Institute Of Technology, India. My research interest lies in the field of Natural Language Processing. My past work involves Social Network Science, Interpretability and Text Classification. Happy to chai your acquaintance ;)
+  ---
+  <b>Aman Priyanshu</b><br>I am Aman Priyanshu, a senior at Manipal Institute of Technology, currently pursuing my undergrad in Information Technology. My research interests include Privacy Preserving Machine Learning, Explainable AI, Fairness, and AI for Social Good. I have recently focused on areas such as Reinforcement Learning, Causal Inference, Bias Mitigation, and Low-Resource Computations. Chai to meet you!
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
+author: Supriti Vijay & Aman Priyanshu # add your name
+author-img: profile.png # add your photo
+about-author: Welcome to Chai With Py, where we combine our love for chai and coding to bring you the latest and greatest in AI and ML. Explore our blog series discussing tech and non-tech topics we're passionate about. # add description
+social-twitter: ChaiWithPy1# add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: ChaiWithPy # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: supritivijay@gmail.com# add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
