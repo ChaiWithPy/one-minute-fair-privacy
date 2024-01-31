@@ -11,7 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: ChaiWithPy1 #if your site has a twitter account, enter it here
 
 # Author Settings
-author: One Minute Fairness and Privacy (Supriti Vijay & Aman Priyanshu) # add your name
+author: One Minute Fairness and Privacy (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>) # add your name
 author-img: profile.jpg # add your photo
 about-author: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI. # add description
 social-twitter: ChaiWithPy1 # add your Twitter handle
