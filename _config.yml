@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   ---
   <b>Aman Priyanshu</b><br>I am Aman Priyanshu, a master's student Carnegie Mellon University. Completed my undergrad at Manipal Institute of Technology, in Information Technology. My research interests include Privacy Preserving Machine Learning, Explainable AI, Fairness, and AI for Social Good. I have recently focused on areas such as Reinforcement Learning, Causal Inference, Bias Mitigation, and Low-Resource Computations. Chai to meet you!
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/one-minute-fair-privacy/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: ChaiWithPy1 #if your site has a twitter account, enter it here
 
