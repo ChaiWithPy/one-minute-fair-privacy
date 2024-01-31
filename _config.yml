@@ -1,4 +1,4 @@
-title: Chai With Py
+title: One Minute AI Fairness and Privacy
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to Chai With Py, where we combine our love for chai and coding to bring you the latest and greatest in AI and ML. We're two computer science undergraduates from India, who are on a mission to make AI accessible and fun for everyone. Whether we're experimenting with the latest Python libraries or exploring the depths of NLP, we're always on the lookout for new and exciting ways to push the boundaries of what's possible. So grab a chai, and join us on our journey as we dive into the world of AI and ML, one sip at a time!
   ---
@@ -11,7 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: ChaiWithPy1 #if your site has a twitter account, enter it here
 
 # Author Settings
-author: One Minute Fairness and Privacy (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>) # add your name
+author: One Minute AI Fairness and Privacy (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>) # add your name
 author-img: profile.jpg # add your photo
 about-author: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI. # add description
 social-twitter: ChaiWithPy1 # add your Twitter handle
