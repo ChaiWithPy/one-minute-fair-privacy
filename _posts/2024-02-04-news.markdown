@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 2024-02-04 One-Minute Post
@@ -6,7 +5,7 @@ date: 2024-02-04 19:25:59 -0500
 description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
 img: one_minute_logo.png # Add image post (optional)
 fig-caption: One Minute Logo# Add figcaption (optional)
-tags: [Privacy,Fairness,Bias,AI]
+tags: [Privacy, Fairness, Bias, AI]
 ---
 
 Welcome to One-Minute-AI-Fairness-And-Privacy, Singapore proposes a Governance Framework for Generative AI to protect privacy. Meanwhile, AI is revolutionizing game development, raising concerns about data privacy. On the other hand, Amazon's GenAI chatbot faces scrutiny for bias and toxicity. Additionally, automated systems and AI are bleeding biases, prompting discussions on racial biases. However, DeepMind is pioneering responsible AI with WARM and SynthID, promoting fairness and privacy. As social media platforms aim to protect teens' privacy and autonomy, the balance is being sought with the help of AI. In the world of AI, privacy, bias, and fairness are at the forefront, shaping the future of technology and ethics.
