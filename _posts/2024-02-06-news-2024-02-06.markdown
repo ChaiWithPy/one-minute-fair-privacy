@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-02-06 One-Minute Post
+date: 2024-02-06 18:54:28 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, where Zuckerberg's AI plans raise privacy concerns as Meta aims to leverage Facebook and Instagram data. Meanwhile, OneTrust introduces a Data Privacy Maturity Model to ethically manage AI-driven datasets. On the other hand, NY's proposed AI rules are seen as just the start for insurance carriers, with concerns about reinforcing biases and inequality. Additionally, Safer Internet Day highlights the importance of AI Fairness, with the announcement of winners in the AI Fairness Innovation Challenge. Lastly, Senator Catherine Cortez Masto questions experts on the intersection of AI and biased home appraisals, shedding light on the growing presence of AI in the housing sector. Stay tuned for more updates on the evolving landscape of AI privacy and fairness.
+
+## Articles we found interesting:
+
+- **1. Zuckerberg&#39;s <b>AI</b> announcement raises <b>privacy</b> and toxicity red flags - 9to5Mac** [link](https://9to5mac.com/2024/02/06/zuckerbergs-ai-announcement/)
+_Highlight:_ He wants to take advantage of it by using data from Facebook and Instagram to create powerful, general-purpose <b>artificial intelligence</b> […] [Zuckerberg&nbsp;...
+
+- **2. Zuckerberg&#39;s Plan for <b>AI</b> Hinges on Your Facebook and Instagram Data - Bloomberg** [link](https://www.bloomberg.com/opinion/articles/2024-02-06/zuckerberg-s-plan-for-ai-hinges-on-your-facebook-and-instagram-data)
+_Highlight:_ Sounds great and Meta is well positioned to do it, but his billions of users may end up paying the price with their <b>privacy</b> and more. Here&#39;s how&nbsp;...
+
+- **3. OneTrust Introduces Data <b>Privacy</b> Maturity Model - PR Newswire** [link](https://www.prnewswire.com/news-releases/onetrust-introduces-data-privacy-maturity-model-302054860.html)
+_Highlight:_ &quot;The expanding footprint of regulation, the urgency of building first-party datasets, and the responsibility of ethically managing data-hungry <b>AI</b>&nbsp;...
+
+- **4. Catherine Cortez Masto Questions Experts On The Intersection Of <b>AI</b> And &#39;<b>Biased</b> Home Appraisals&#39;** [link](https://www.youtube.com/watch%3Fv%3DPyb9XED4jp8)
+_Highlight:_ On Wednesday, Sen. Catherine Cortez Masto (D-NV) questioned experts on the growing presence of <b>AI</b> in the housing sector during a Senate Banking&nbsp;...
+
+- **5. NY&#39;s proposed <b>AI</b> rules seen as just the start for insurance carriers - InsuranceNewsNet** [link](https://insurancenewsnet.com/innarticle/nys-proposed-ai-rules-seen-as-just-the-start-for-insurance-carriers)
+_Highlight:_ However, the letter also said the adoption of such technology may reflect systemic <b>biases</b> and its use could reinforce and exacerbate inequality. “This&nbsp;...
+
+- **6. <b>Artificial intelligence</b> in the risk prediction models of cardiovascular disease and ... - BMC Medicine** [link](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03273-7)
+_Highlight:_ ... <b>bias</b> was evaluated with the prediction risk of <b>bias</b> assessment tool (PROBAST). Subsequently, we designed IVS for model replicability evaluation&nbsp;...
+
+- **7. Safer Internet Day- &#39;Every 2 minutes, a suspected serious risk to a child online is identified&#39;** [link](https://www.fenews.co.uk/education/safer-internet-day-every-2-minutes-a-suspected-serious-risk-to-a-child-online-is-identified/)
+_Highlight:_ <b>AI Fairness</b> Innovation Challenge winners announced &middot; Cameron pursues career in finance with Forest Holidays &middot; Leading Recruiter Shares Success of&nbsp;...
+
+- **8. Empowering Growth: Essential Tools for Personalised Workforce Upskilling - FE News** [link](https://www.fenews.co.uk/skills/empowering-growth-essential-tools-for-personalised-workforce-upskilling/)
+_Highlight:_ <b>AI Fairness</b> Innovation Challenge winners announced. New solutions to address bias and discrimination in <b>AI</b> systems in higher education, healthcare&nbsp;...
+
+- **9. <b>AI Fairness</b> Innovation Challenge winners announced - GOV.UK** [link](https://www.gov.uk/government/news/ai-fairness-innovation-challenge-winners-announced)
+_Highlight:_ Four winning projects to support <b>AI</b> firms working in higher education, healthcare, finance, and recruitment under the Government&#39;s <b>AI Fairness</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
