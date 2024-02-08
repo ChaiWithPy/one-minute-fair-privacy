@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-02-08 One-Minute Post
+date: 2024-02-08 18:39:00 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, where California lawmakers are pushing for AI regulation to address privacy concerns. Meanwhile, leading AI companies are joining a safety consortium to develop AI while preserving data privacy. On the bias front, scholars are highlighting AI's role in reinforcing societal biases, while Singapore is building an AI model to represent Southeast Asians and combat bias. In the fairness realm, Amazon and DSIT are funding projects to promote responsible and fair AI development, with a focus on fairness in higher education and healthcare. Additionally, online casinos are using AI to ensure fairness and integrity. Stay tuned for more updates on the evolving landscape of AI privacy, bias, and fairness.
+
+## Articles we found interesting:
+
+- **1. California lawmakers aim to regulate <b>AI</b> - The Washington Post** [link](https://www.washingtonpost.com/technology/2024/02/08/california-legislation-artificial-intelligence-regulation/)
+_Highlight:_ <b>AI</b> regulation advocates are now concerned that the same pattern of debate without action that played out with previous tech issues like <b>privacy</b> and&nbsp;...
+
+- **2. Leading <b>AI</b> companies join new US safety consortium: Biden administration - The Hill** [link](https://thehill.com/policy/technology/4456050-ai-companies-join-new-us-safety-consortium/)
+_Highlight:_ Leading <b>artificial intelligence</b> (<b>AI</b>) companies joined a new safety ... <b>AI</b> development while preserving the <b>privacy</b> of data. The group will&nbsp;...
+
+- **3. Building Customer Trust: The Only Currency in the Age of <b>AI</b> - CMS Wire** [link](https://www.cmswire.com/customer-experience/building-customer-trust-the-only-currency-in-the-age-of-ai/)
+_Highlight:_ In fact, the deluge of information, alongside increasing concerns about <b>privacy</b>, data security and misinformation, has led to heightened distrust. We&#39;&nbsp;...
+
+- **4. <b>AI</b> and regime types: who benefits and how? - The Strand** [link](https://thestrand.ca/ai-and-regime-types-who-benefits-and-how/)
+_Highlight:_ Multiple scholars point to <b>AI&#39;s</b> bureaucratic use as a conduit for reinforcing racism, sexism, and other existing societal <b>biases</b>. More concretely, <b>AI</b>&nbsp;...
+
+- **5. <b>Biased</b> GPT? Singapore builds <b>AI</b> model to &#39;represent&#39; Southeast Asians - Deccan Herald** [link](https://www.deccanherald.com/technology/biased-gpt-singapore-builds-ai-model-to-represent-southeast-asians-2885475)
+_Highlight:_ <b>Biased</b> GPT? Singapore builds <b>AI</b> model to &#39;represent&#39; Southeast Asians. There are over 7,000 languages spoken worldwide. Yet LLMs including Open <b>AI&#39;s</b>&nbsp;...
+
+- **6. Can <b>AI</b> Shield Us from Aggressive Marketing? | DataDrivenInvestor** [link](https://www.datadriveninvestor.com/2024/02/07/can-ai-shield-us-from-aggressive-marketing/)
+_Highlight:_ <b>Bias</b> Busters: Promoting Conscious Choices. Unseen forces often nudge our decisions online. Cognitive <b>biases</b>, like the fear of missing out or the&nbsp;...
+
+- **7. Amazon Joins US <b>Artificial Intelligence</b> Safety Institute to Promote Responsible <b>AI</b>** [link](https://cordcuttersnews.com/amazon-joins-us-artificial-intelligence-safety-institute-to-promote-responsible-ai/)
+_Highlight:_ Today, Amazon announced it is taking steps to work with <b>AI</b> partners to develop safety, <b>fairness</b>, and security for the <b>AI</b> they develop. The hope is&nbsp;...
+
+- **8. DSIT funds projects for fair <b>AI</b> in higher education and healthcare | UKAuthority** [link](https://www.ukauthority.com/articles/dsit-funds-projects-for-fair-ai-in-higher-education-and-healthcare/)
+_Highlight:_ Projects to improve the <b>fairness</b> of <b>AI</b> systems in higher education and to use the technology in addressing bias in healthcare are among those to&nbsp;...
+
+- **9. What Role Does <b>Artificial Intelligence</b> Play in the Future of Online Casinos? - CIOLook** [link](https://ciolook.com/what-role-does-artificial-intelligence-play-in-the-future-of-online-casinos/)
+_Highlight:_ Online casinos are leveraging <b>AI</b> to guarantee <b>fairness</b> and integrity. Random Number Generators, essential for fair play, are now supplemented with <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
