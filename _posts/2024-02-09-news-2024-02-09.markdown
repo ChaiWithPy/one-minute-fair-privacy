@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-02-09 One-Minute Post
+date: 2024-02-09 18:33:57 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, Mayor Bowser signs order outlining AI plan for DC government, emphasizing privacy and cybersecurity. Meanwhile, Google introduces revolutionary AI app, Gemini, focusing on fairness and accountability. On the other hand, AI models show promise in predicting heart disease risks but lack validation, highlighting the importance of bias assessment. Additionally, Microsoft is set to highlight a responsible approach for AI-powered government services at the World Government Summit, emphasizing fairness. In the education sector, Google offers 10 free AI courses covering topics such as bias in AI and fairness. It's clear that AI innovation is intertwining with privacy, bias, and fairness, shaping the future of technology and governance.
+
+## Articles we found interesting:
+
+- **1. Mayor Bowser signs order outlining <b>AI</b> plan for DC government | The Hill** [link](https://thehill.com/policy/technology/4457401-mayor-bowser-signs-order-ai-dc-government/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) into local government agencies. “We ... <b>privacy</b> and cybersecurity as the agencies begin to use <b>AI</b>, the announcement said.
+
+- **2. Why Responsible <b>AI</b> Innovation Starts With Ethical Technologists - Forbes** [link](https://www.forbes.com/sites/forbestechcouncil/2024/02/09/why-responsible-ai-innovation-starts-with-ethical-technologists/)
+_Highlight:_ ... <b>AI</b> safety, security, <b>privacy</b>, equity and civil rights. Among other directives, the order asks developers of powerful <b>AI</b> systems to share safety&nbsp;...
+
+- **3. <b>Artificial Intelligence</b> Review and Outlook – 2024 - Gibson Dunn** [link](https://www.gibsondunn.com/artificial-intelligence-review-and-outlook-2024/)
+_Highlight:_ 2023 was a transformative year for the legal, regulatory, and policy landscape around <b>artificial intelligence</b> (“<b>AI</b>”). ... <b>AI</b> models can protect <b>privacy</b>&nbsp;...
+
+- **4. <b>AI</b> models show promise in predicting heart disease risks, but lack validation - News-Medical** [link](https://www.news-medical.net/news/20240208/AI-models-show-promise-in-predicting-heart-disease-risks-but-lack-validation.aspx)
+_Highlight:_ The prediction risk of <b>bias</b> assessment tool (PROBAST) was also used. Key findings. A total of 79 relevant articles published between 2017 and 2021&nbsp;...
+
+- **5. ClubTest 2024: 16 new fairway woods tested and reviewed - Golf Magazine** [link](https://golf.com/gear/fairway-woods/best-fairway-woods-2024-reviews-clubtest/)
+_Highlight:_ ... <b>bias Ai</b> Smoke Max D and lightweight Ai Smoke Max Fast. Club Comparison. Compare Callaway fairway wood models below. Callaway Paradym Ai Smoke Max.
+
+- **6. The Unforeseen Consequences of <b>AI</b> and Authorship in Scientific Research - Medriva** [link](https://medriva.com/breaking-news/the-unforeseen-consequences-of-ai-and-authorship-in-scientific-research/)
+_Highlight:_ Read about the legal tussle over authorship among scientists, the use of <b>AI</b> to detect fraudulent research papers, and the implications of <b>biased</b>&nbsp;...
+
+- **7. 10 Free <b>AI</b> Courses by Google for Students​ | Times of India - IndiaTimes** [link](https://timesofindia.indiatimes.com/education/web-stories/10-free-ai-courses-by-google-for-students/photostory/107544522.cms)
+_Highlight:_ ... <b>AI</b>. The course covers topics such as bias in <b>AI</b>, <b>fairness</b>, accountability, and transparency.​. Image Source: Canva&nbsp;...
+
+- **8. Microsoft to highlight responsible approach for <b>AI</b>-powered government services at World ...** [link](https://www.arabianbusiness.com/resources/microsoft-to-highlight-responsible-approach-for-ai-powered-government-services-at-world-government-summit-2024)
+_Highlight:_ “In the UAE, we are privileged to be a trusted technology partner to public sector entities setting new benchmarks in global <b>AI</b> leadership.” Microsoft&nbsp;...
+
+- **9. Google Introduces Revolutionary <b>AI</b> App, Gemini, to Enhance Users&#39; Lives - ISP Today** [link](https://isp.today/google-introduces-revolutionary-ai-app-gemini-to-enhance-users-lives/)
+_Highlight:_ ... <b>AI</b> principles, including social benefit, <b>fairness</b>, and accountability. As <b>AI</b> continues to revolutionize various aspects of our lives, both Google&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
