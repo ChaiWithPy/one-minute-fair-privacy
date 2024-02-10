@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-02-10 One-Minute Post
+date: 2024-02-10 18:29:20 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, where Canadians are embracing AI despite privacy concerns. Meanwhile, Singapore is combatting biased AI with a new model, and Malaysia is addressing AI bias in law. On the other hand, Imran Khan's use of AI-generated victory speech raises fairness questions in the Pakistan election. In the healthcare sector, the Senate Finance Committee is exploring AI's potential and challenges, including the importance of fairness. Stay tuned for more updates on the evolving landscape of AI privacy and fairness.
+
+## Articles we found interesting:
+
+- **1. More Canadians using <b>AI</b> tools, despite &#39;deep-rooted&#39; fears about the tech: poll | CP24.com** [link](https://www.cp24.com/news/more-canadians-using-ai-tools-despite-deep-rooted-fears-about-the-tech-poll-1.6763051)
+_Highlight:_ Some of the common worries are <b>privacy</b> and concerns that society is going to ... Canada must regulate <b>AI</b> to protect <b>privacy</b> and human rights: watchdog&nbsp;...
+
+- **2. Have we lost faith in technology? - BBC** [link](https://www.bbc.com/news/business-68057193)
+_Highlight:_ &quot;We have talked about this over the years, in relation to data <b>privacy</b>, <b>AI</b>, robotics, privacy, social media, jobs, wellbeing...&quot; She may feel like&nbsp;...
+
+- **3. NIH Considers <b>AI</b> Use within New Electronic Health Record - The Presidential Prayer Team** [link](https://www.presidentialprayerteam.org/2024/02/10/nih-considers-ai-use-within-new-electronic-health-record/)
+_Highlight:_ The National Institutes of Health (NIH) is considering how <b>artificial intelligence</b> (<b>AI</b>) ... <b>Privacy</b> Policy | Terms and Conditions of Use. Back to top.
+
+- **4. <b>Biased</b> GPT? Singapore builds <b>AI</b> model to &#39;represent&#39; Southeast Asians - Rappler** [link](https://www.rappler.com/technology/features/singapore-builds-ai-model-represent-southeast-asians/)
+_Highlight:_ <b>Biased</b> GPT? Singapore builds <b>AI</b> model to &#39;represent&#39; Southeast Asians. Feb 10, 2024 10:00 AM PHT. Reuters.
+
+- **5. Malaysia: <b>Artificial Intelligence</b> Looks At Law As Data And Not As Law (Part 2) - Mondaq** [link](https://www.mondaq.com/new-technology/1422214/artificial-intelligence-looks-at-law-as-data-and-not-as-law-part-2)
+_Highlight:_ Similar to their human counterparts, <b>AI</b> systems can exhibit <b>biases</b>. <b>Biased</b> training data or algorithms design can result in unfair treatment of&nbsp;...
+
+- **6. theCUBE talks with women in tech at WiDS - SiliconANGLE** [link](https://siliconangle.com/2024/02/09/women-data-science-conference-join-thecube-march-8/)
+_Highlight:_ ... <b>artificial intelligence</b>, make eliminating <b>bias</b> more relevant than ever. ... <b>AI</b> creates potential for women in tech. A large part of the conference will&nbsp;...
+
+- **7. Pakistan Election Results 2024 Live Updates: PTI calls on party workers to protest outside ...** [link](https://timesofindia.indiatimes.com/world/pakistan/pakistan-election-results-2024-live-updates-nawaz-sharif-imran-khan-army/liveblog/107566675.cms)
+_Highlight:_ Imran Khan has delivered a &#39;victory speech&#39; in his <b>AI</b>-generated voice, asserting that Nawaz Sharif&#39;s &#39;London Plan&#39; faltered due to the significant&nbsp;...
+
+- **8. Jailed Imran Khan uses <b>AI</b> video to claim victory in Pakistan election - as army chief says ...** [link](https://news.sky.com/story/jailed-imran-khan-uses-ai-video-to-claim-victory-in-pakistan-election-after-rival-nawaz-sharif-also-says-hes-won-13067569)
+_Highlight:_ Foreign Secretary Lord Cameron said there were &quot;serious concerns&quot; about the &quot;<b>fairness</b> and lack of inclusivity&quot; of the poll. Saturday 10 February 2024&nbsp;...
+
+- **9. The Future of <b>AI</b> in Healthcare: Senate Finance Committee Explores Potential and Challenges** [link](https://medriva.com/uncategorized/the-future-of-ai-in-healthcare-senate-finance-committee-explores-potential-and-challenges/)
+_Highlight:_ ... <b>fairness</b>. <b>AI</b> in Healthcare: Promise and Pitfalls. The Senate Finance Committee hearing titled &#39;<b>Artificial Intelligence</b> and Health Care: Promise and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
