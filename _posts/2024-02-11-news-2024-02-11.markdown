@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-02-11 One-Minute Post
+date: 2024-02-11 18:25:18 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy! Italy's Trento city fined for privacy violations, while California proposes landmark AI regulations. Feds rule out AI for health coverage denials. Concerns rise over AI bias in worker pay and access. Isaac Kohane discusses addressing AI bias in medicine. Industries urged to consider risks of AI model bias and data privacy. Stay tuned for more updates on AI, privacy, and bias!
+
+## Articles we found interesting:
+
+- **1. Italy: <b>AI</b>-using Trento city fined over data protection rules violations - CoinGeek** [link](https://coingeek.com/italy-ai-using-trento-city-fined-over-data-protection-rules-violations/)
+_Highlight:_ Following an in-depth investigation, the GPDP watchdogs said Trento committed “multiple violations of <b>privacy</b> regulations.” It revealed that&nbsp;...
+
+- **2. What to know about landmark <b>AI</b> regulations proposed in California - X101 Always Classic** [link](https://www.wxhc.com/what-to-know-about-landmark-ai-regulations-proposed-in-california/)
+_Highlight:_ The California measure on extreme <b>AI</b> risk comes amid a surge of <b>AI</b>-related bills in statehouses nationwide. ... <b>Privacy</b> Policy &middot; Public File (For help&nbsp;...
+
+- **3. <b>AI</b> Can&#39;t Be Used to Deny You Health Coverage, Say Feds - PCMag UK** [link](https://uk.pcmag.com/ai/150839/ai-cant-be-used-to-deny-you-health-coverage-say-feds)
+_Highlight:_ The decision comes after several patients sued Humana and United Healthcare claiming they use a flawed <b>AI</b> tool to deny care to patients that are&nbsp;...
+
+- **4. What to know about landmark <b>AI</b> regulations proposed in California - ABC News** [link](https://abcnews.go.com/Business/landmark-ai-regulations-proposed-california/story%3Fid%3D107095465)
+_Highlight:_ However, she added, many current risks posed by <b>AI</b> remain unaddressed, including <b>bias</b> in algorithms used to set worker pay or grant access to&nbsp;...
+
+- **5. The Future of <b>Artificial Intelligence</b> in Medicine: An Interview with Isaac Kohane** [link](https://harvardpolitics.com/future-of-artificial-intelligence-in-medicine-isaac-kohane/)
+_Highlight:_ We have a lot of opportunities to redress wrongs, including grievous wrongs due to <b>bias</b> using <b>AI</b>, but that&#39;s only so long as the people who are&nbsp;...
+
+- **6. <b>AI</b> Predictions 2024 | DataDrivenInvestor** [link](https://medium.datadriveninvestor.com/ai-predictions-2024-d43f2920ffc8)
+_Highlight:_ Before implementing language models like ChatGPT, industries must carefully consider several risks related to data privacy, <b>AI</b> model <b>bias</b>,&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
