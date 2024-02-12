@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2024-02-12 One-Minute Post
+date: 2024-02-12 18:25:59 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, DTEX Systems' Ai³ is set to revolutionize insider risk and data loss investigations with generative AI, ensuring employee privacy. Meanwhile, Google issues a serious warning about the security and privacy risks associated with generative AI upgrades for Android and iPhone users. In other news, AI and wearable technologies are transforming medicine, but concerns about healthcare privacy have arisen. Additionally, AI for persons with disabilities is gaining prominence in AI4D Africa phase 2, highlighting the need to address bias and structural inequalities. Lastly, the fairness and bias of AI systems are under scrutiny, with developers accusing OpenAI's ChatGPT of having a left-leaning bias, prompting the development of politically neutral alternatives. Stay tuned for more updates on AI, privacy, and fairness!
+
+## Articles we found interesting:
+
+- **1. DTEX Systems&#39; Ai³ to Transform Insider Risk and Data Loss Investigations with Generative <b>AI</b>** [link](https://finance.yahoo.com/news/dtex-systems-ai-transform-insider-140000330.html)
+_Highlight:_ Responses can detail where sensitive data is going, how it is transferred and most importantly, why; all while maintaining employee <b>privacy</b>. While the&nbsp;...
+
+- **2. Google Issues Serious New Warning For All Android And iPhone Users - Forbes** [link](https://www.forbes.com/sites/zakdoffman/2024/02/12/google-warns-as-free-ai-upgrade-for-iphone-android-and-samsung-users/)
+_Highlight:_ But not so fast—all this comes with a huge risk to your security and <b>privacy</b>. It seems we all have a blind spot when it comes to generative <b>AI</b>&nbsp;...
+
+- **3. How <b>AI</b> and Wearable Technologies Are Transforming Medicine - Newswise** [link](https://www.newswise.com/articles/how-ai-and-wearable-technologies-are-transforming-medicine)
+_Highlight:_ He also will discuss healthcare <b>privacy</b> issues that can occur with these technologies. The Cedars-Sinai Newsroom sat down with Schwab to discuss the&nbsp;...
+
+- **4. <b>AI</b> for persons with disabilities, others given prominence in AI4D Africa phase 2** [link](https://www.myjoyonline.com/ai-for-persons-with-disabilities-others-given-prominence-in-ai4d-africa-phase-2/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) ... It can reinforce structural inequalities and <b>bias</b>, perpetuate gender imbalances, threaten jobs, and facilitate&nbsp;...
+
+- **5. Beyond The Binary: Retrospecting The &#39;Gendered&#39; Realities Of <b>AI</b> Voice Assistants** [link](https://feminisminindia.com/2024/02/12/beyond-the-binary-retrospecting-the-gendered-realities-of-ai-voice-assistants/)
+_Highlight:_ Studies indicate a user <b>bias</b> towards responding more positively to female voices, influenced by cultural norms associating femininity with nurturing&nbsp;...
+
+- **6. Goody-2: The <b>AI</b> Chatbot That Takes Ethical Boundaries to the Extreme | Tech Times** [link](https://www.techtimes.com/articles/301518/20240211/goody-2-ai-chatbot-takes-ethical-boundaries-extreme.htm)
+_Highlight:_ ... <b>AI</b> landscape. Developers have accused OpenAI&#39;s ChatGPT of having a left-leaning <b>bias</b>, leading some to develop a politically neutral alternative.
+
+- **7. <b>AI</b> And The Law –Navigating The Future Together - Forbes Africa** [link](https://www.forbesafrica.com/opinion/op-ed/2024/02/12/ai-and-the-law-navigating-the-future-together/)
+_Highlight:_ <b>AI</b>, Machine learning, robot hand <b>ai artificial intelligence</b> assistance human touching on big data ... <b>fairness</b> and bias of <b>AI</b> systems, which are&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
