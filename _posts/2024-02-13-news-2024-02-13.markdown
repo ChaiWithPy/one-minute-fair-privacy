@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-02-13 One-Minute Post
+date: 2024-02-13 18:25:09 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, Google's new Gemini AI app raises privacy concerns, while Oklahoma schools grapple with AI's risks to data privacy. Meanwhile, corporate America's pivot to AI leads to bias amplification, as DTEX Systems' Ai³ aims to transform insider risk investigations while addressing AI bias. In healthcare, AI regulations are being assessed due to AI's inherent biases. On the other hand, AI in HR is navigating the legal landscape to ensure fairness in employee selection. Geeta Gurnani, IBM Technology CTO, emphasizes the importance of AI governance imperatives for responsible innovation, particularly in ensuring fairness and reducing bias. Lastly, NFU survey reveals the need for support in poultry production, highlighting the lack of fairness in the supply chain and the risk of avian influenza.
+
+## Articles we found interesting:
+
+- **1. Don&#39;t tell your <b>AI</b> anything personal, Google warns in new Gemini <b>privacy</b> notice | ZDNET** [link](https://www.zdnet.com/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/)
+_Highlight:_ <b>AI</b> apps like Gemini come with a risk, which Google&#39;s new <b>privacy</b> warning illustrates perfectly. Here&#39;s the information Google is collecting.
+
+- **2. Oklahoma schools, universities incorporate <b>AI</b> as state grapples with emerging technology** [link](https://www.oklahoman.com/story/news/2024/02/13/ai-programs-become-part-of-school-curriculums-okc-tulsa-epic/72571719007/)
+_Highlight:_ How are Oklahoma schools using <b>AI</b>? Oklahoma schools are now trying to balance <b>AI&#39;s</b> benefits with its risks to data <b>privacy</b> and academic integrity.
+
+- **3. The way <b>AI</b> will be sold to a skeptical public is starting to become clear - CNBC** [link](https://www.cnbc.com/2024/02/13/the-way-ai-will-be-sold-to-a-skeptical-public-is-becoming-clear.html)
+_Highlight:_ Get this delivered to your inbox, and more info about our products and services. Advertise With Us. Please Contact Us &middot; <b>Privacy</b> Policy; California&nbsp;...
+
+- **4. As corporate America pivots to <b>AI</b>, consumers rejected for loans, jobs - Al Jazeera** [link](https://www.aljazeera.com/economy/2024/2/12/as-corporate-america-pivots-to-ai-consumers-rejected-for-loans-jobs)
+_Highlight:_ Existing historical <b>biases</b> are often amplified with modern technology. According to a 2021 investigation by the outlet The Markup, Black Americans are&nbsp;...
+
+- **5. DTEX Systems&#39; Ai³ to Transform Insider Risk and Data Loss Investigations with Generative <b>AI</b>** [link](https://www.businesswire.com/news/home/20240212390809/en/DTEX-Systems%25E2%2580%2599-Ai%25C2%25B3-to-Transform-Insider-Risk-and-Data-Loss-Investigations-with-Generative-AI)
+_Highlight:_ ... <b>AI bias</b>. “The complexity of identifying genuine insider threats is akin to finding a needle in a haystack. This is especially true of malicious&nbsp;...
+
+- **6. Minding the Machine: Assessing the Case for <b>AI</b> Regulations in Healthcare - Medscape** [link](https://www.medscape.com/viewarticle/minding-machine-assessing-case-ai-regulations-healthcare-2024a10002yi)
+_Highlight:_ The Risks: <b>Bias</b>. <b>AI</b> is also as <b>biased</b> as the data used to train it. Policing algorithms that used historical arrest data to predict crime&nbsp;...
+
+- **7. <b>AI</b> in HR: Navigating the Legal Landscape and Ensuring <b>Fairness</b> in Employee Selection** [link](https://www.jdsupra.com/legalnews/ai-in-hr-navigating-the-legal-landscape-7030728/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) continues to revolutionize many industries, and the employment space is no exception. According to the Society for&nbsp;...
+
+- **8. Geeta Gurnani, IBM Technology CTO, delivers insight on <b>AI</b> governance imperatives for ...** [link](https://etinsights.et-edge.com/geeta-gurnani-ibm-technology-cto-delivers-insight-on-ai-governance-imperatives-for-responsible-innovation/)
+_Highlight:_ Finally, ensuring <b>fairness</b> and reducing bias is central to risk mitigation. This is especially true in highly regulated industries, such as&nbsp;...
+
+- **9. Poultry producers need support for future, NFU survey reveals – NFUonline** [link](https://www.nfuonline.com/updates-and-information/nfu-poultry-intentions-survey-results/)
+_Highlight:_ The risk of <b>AI</b> (avian influenza); The lack of <b>fairness</b> in the supply chain; High energy prices; Being undercut by imports. “The sector urgently needs&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
