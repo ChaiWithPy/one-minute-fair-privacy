@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-02-14 One-Minute Post
+date: 2024-02-14 18:16:27 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy! The U.K. Social Security department has banned the use of ChatGPT due to privacy concerns. Meanwhile, AI legislation is on the rise across U.S. states to combat deepfakes and protect privacy. In other news, ethical constraints are identified as the biggest challenge for AI in defense, and the SEC's Gensler cautions companies on underlying AI models and increasing biases. On the education front, the University of Pennsylvania launches the first U.S. B.S.E. in Artificial Intelligence, focusing on fairness and transparency. Lastly, the global AI governance market is growing, driven by the demand for AI regulation to address bias issues. Stay tuned for more updates on AI privacy and fairness!
+
+## Articles we found interesting:
+
+- **1. U.K. Social Security bans staff from using ChatGPT | Fortune Europe** [link](https://fortune.com/europe/2024/02/14/uk-government-dwp-social-security-banned-staff-using-chatgpt-microsoft-copilot/)
+_Highlight:_ The department that looks after 20 million Brits told its employees to stop using public <b>AI</b> tools, name-dropping ChatGPT ... ChatGPT <b>privacy</b> concerns&nbsp;...
+
+- **2. <b>AI</b> legislation spikes across U.S. states to combat deepfakes - Axios** [link](https://www.axios.com/2024/02/14/ai-bills-state-legislatures-deepfakes-bias-discrimination)
+_Highlight:_ Some of the most prominent <b>AI</b> legislators were active in state <b>privacy</b> legislation — seeing <b>AI</b> guardrails as a logical next step in digital rights.
+
+- **3. Stealing hearts, data, and <b>privacy</b>: Why you should be careful with <b>AI</b> partners | Euronews** [link](https://www.euronews.com/next/2024/02/14/stealing-hearts-data-and-privacy-why-you-should-be-careful-of-ai-partners)
+_Highlight:_ The 11 <b>AI</b> romantic platforms “failed miserably” at adequately safeguarding users&#39; <b>privacy</b>, security, and safety, according to the non-profit Mozilla,&nbsp;...
+
+- **4. Ethical constraints the biggest challenge for <b>AI</b> in defence – survey - Army Technology** [link](https://www.army-technology.com/news/ethical-constraints-the-biggest-challenge-for-ai-in-defence-survey/)
+_Highlight:_ Participants&#39; response to: &#39;What will be the biggest challenge for <b>AI</b> in defence over the next five years?&#39; Ethical and legal constraints. <b>Bias</b> and &#39;&nbsp;...
+
+- **5. SEC&#39;s Gensler cautions companies on underlying <b>AI</b> models and increasing <b>biases</b> | Fortune** [link](https://fortune.com/2024/02/13/secs-gensler-ai-biases/)
+_Highlight:_ He expressed concerns about the prospect of thousands of financial institutions all using the same underlying <b>AI</b> models furthering <b>biases</b>.
+
+- **6. Global <b>AI</b> Governance Market Size is Estimated to Reach USD 1,712.85 million by 2031 ...** [link](https://finance.yahoo.com/news/global-ai-governance-market-size-160500940.html)
+_Highlight:_ ... <b>bias</b> is one of the main factors pushing the demand for <b>AI</b> regulation. Delivering moral and transparent <b>AI</b> is one of the critical objectives of <b>AI</b>&nbsp;...
+
+- **7. University of Pennsylvania Launches First U.S. B.S.E. in <b>Artificial Intelligence</b> - BNN Breaking** [link](https://bnnbreaking.com/tech/university-of-pennsylvania-launches-first-us-bse-in-artificial-intelligence)
+_Highlight:_ By integrating responsible <b>AI</b> practices into the curriculum, students will learn to develop <b>AI</b> tools that prioritize <b>fairness</b>, transparency, and&nbsp;...
+
+- **8. The Future of Tech Jobs: Ethical <b>AI</b> and the Quest for <b>Fairness</b> in Machine Learning** [link](https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning)
+_Highlight:_ In an era where technology is advancing at an unprecedented pace, the quest for ethical <b>AI</b> and <b>fairness</b> in machine learning is not just a&nbsp;...
+
+- **9. Responsible Use of <b>Artificial Intelligence</b> - BankInfoSecurity** [link](https://www.bankinfosecurity.com/blogs/responsible-use-artificial-intelligence-p-3561)
+_Highlight:_ <b>Fairness</b>: <b>AI</b> shouldn&#39;t discriminate or bias based on unfair criteria. Provide continuous monitoring and control mechanisms to maintain fairness&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
