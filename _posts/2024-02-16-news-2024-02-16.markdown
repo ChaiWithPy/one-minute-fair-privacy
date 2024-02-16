@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-02-16 One-Minute Post
+date: 2024-02-16 18:13:19 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, NIST seems to have released a set of Differential Privacy Guidelines, on the other hand Meta is gearing up for a bias audit. While Meta is doing this, a new startup is unleashing the power of blockchain in AI ethics. Meanwhile, the ICO has updated its guidance on artificial intelligence and data protection, and OpenAI has revealed 'Sora', an AI video model capable of realistic text-to-video prompts. On the fairness front, there's a new study on dataset bias in machine learning for medical imaging, and the field studying fairness in machine learning is still in development. Lastly, concerns about bias in AI models are being addressed, with experts testing for misinformation, hateful content, and bias. Stay tuned for more updates on AI, fairness, and privacy!
+
+## Articles we found interesting:
+
+- **1. International Cybersecurity and Data <b>Privacy</b> Review and Outlook – 2024 - Gibson Dunn** [link](https://www.gibsondunn.com/international-cybersecurity-and-data-privacy-review-and-outlook-2024/)
+_Highlight:_ On 15 March 2023, the ICO announced that it had updated its guidance on <b>artificial intelligence</b> (“<b>AI</b>”) and data protection.[40] The ICO provides&nbsp;...
+
+- **2. <b>Privacy&#39;s</b> Va-Va-Voom Year - InformationWeek** [link](https://www.informationweek.com/data-management/privacy-s-va-va-voom-year)
+_Highlight:_ IAPP has shown how more than 50% of respondents designing <b>AI</b> governance approaches are building on top of <b>privacy</b> programs and more than 40% are using&nbsp;...
+
+- **3. Ed McNicholas and Sarah Young Moderate Roundtables at TechGC 2024 DeputyGC ...** [link](https://www.ropesgray.com/en/news-and-events/events/2024/02/ed-mcnicholas-and-sarah-young-moderate-roundtables-at-techgc-2024-deputygc-national-summit)
+_Highlight:_ Related Services &middot; <b>Artificial Intelligence</b> / Machine Learning &middot; Mergers &amp; Acquisitions &middot; Data, <b>Privacy</b> &amp; Cybersecurity &middot; Securities &amp; Public Companies&nbsp;...
+
+- **4. OpenAI Reveals &#39;Sora&#39;: <b>AI</b> Video Model Capable Of Realistic Text-To-Video Prompts** [link](https://www.forbes.com/sites/antoniopequenoiv/2024/02/15/openai-reveals-sora-ai-video-model-capable-of-realistic-text-to-video-prompts/)
+_Highlight:_ ... <b>AI</b> model is being “adversarially” tested by experts from areas such as misinformation, hateful content and <b>bias</b>. OpenAI also explained Sora&#39;s&nbsp;...
+
+- **5. A Deadly Trifecta: Disinformation Networks, <b>AI</b> Memetic Warfare, and Deepfakes – GNET** [link](https://gnet-research.org/2024/02/15/a-deadly-trifecta-disinformation-networks-ai-memetic-warfare-and-deepfakes/)
+_Highlight:_ This discrepancy poses deep concerns regarding algorithmic <b>bias</b>, data security, and the digital divide. The 2024 presidential election in the&nbsp;...
+
+- **6. <b>AI</b>-based diabetes care: risk prediction models and implementation concerns - Nature** [link](https://www.nature.com/articles/s41746-024-01034-7)
+_Highlight:_ For both unimodal and multimodal models, there are also concerns of <b>bias</b> with the lack of external validations and representation of race, age, and&nbsp;...
+
+- **7. Q&amp;A: What is the best route to fairer <b>AI</b> systems? | UW News** [link](https://www.washington.edu/news/2024/02/15/qa-what-is-the-best-route-to-fairer-ai-systems/)
+_Highlight:_ The field studying <b>fairness</b> in machine learning (a sub-field of <b>AI</b>) is relatively new, so clear regulation is still in development. Mike Teodorescu, a&nbsp;...
+
+- **8. Unleashing Power of Blockchain in <b>AI</b> Ethics - Techiexpert.com** [link](https://www.techiexpert.com/unleashing-the-power-of-blockchain-in-ai-ethics/)
+_Highlight:_ In today&#39;s technology world, <b>artificial intelligence</b> (<b>AI</b>) ... But did you know that <b>AI&#39;s</b> success depends a lot on the quality and <b>fairness</b> of the data it&nbsp;...
+
+- **9. A causal perspective on dataset bias in machine learning for medical imaging - Nature** [link](https://www.nature.com/articles/s42256-024-00797-8)
+_Highlight:_ As machine learning methods gain prominence within clinical decision-making, the need to address <b>fairness</b> concerns becomes increasingly urgent.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
