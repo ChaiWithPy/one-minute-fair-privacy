@@ -1,0 +1,31 @@
+---
+layout: post
+title: 2024-02-17 One-Minute Post
+date: 2024-02-17 18:08:56 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, where Reddit signs a content licensing deal with an AI company ahead of its IPO, while Europe's privacy enforcers are urged to oppose Meta Platforms' no-ads subscription service. On the other hand, on-premise AI solutions are enhancing data security, and Microsoft is combating AI deepfakes in elections to protect privacy. Meanwhile, AI is being harnessed to create a more resilient and sustainable food system in Africa. As ethical challenges of AI continue to emerge, a roadmap to responsible innovation is being navigated, emphasizing the importance of fairness in AI development. Stay tuned for more updates on the evolving landscape of AI, privacy, and fairness.
+
+## Articles we found interesting:
+
+- **1. Reddit signs content licensing deal with <b>AI</b> company ahead of IPO, Bloomberg reports** [link](https://www.reuters.com/technology/reddit-signs-content-licensing-deal-with-ai-company-ahead-ipo-bloomberg-reports-2024-02-16/)
+_Highlight:_ Europe&#39;s <b>privacy</b> enforcers should oppose Meta Platforms&#39; no-ads subscription service launched in Europe last November because it requires users to pay&nbsp;...
+
+- **2. The role of on-premise <b>AI</b> solutions in enhancing data security - The Financial Express** [link](https://www.financialexpress.com/business/digital-transformation-the-role-of-on-premise-ai-solutions-in-enhancing-data-security-3396608/)
+_Highlight:_ ... <b>privacy</b>-first <b>AI</b> solutions is poised to surge. The journey toward a future where digital innovation respects <b>privacy</b> is complex. It necessitates&nbsp;...
+
+- **3. Meeting the moment: combating <b>AI</b> deepfakes in elections through today&#39;s new tech accord** [link](https://blogs.microsoft.com/on-the-issues/2024/02/16/ai-deepfakes-elections-munich-tech-accord/)
+_Highlight:_ Tags: <b>AI</b> for Good, <b>artificial intelligence</b>, cyber influence, cybersecurity ... Enhancing trust and protecting <b>privacy</b> in the <b>AI</b> era &middot; RSS More&nbsp;...
+
+- **4. <b>AI</b> can result in a more resilient and sustainable food system - The Chronicle** [link](https://www.chronicle.co.zw/ai-can-result-in-a-more-resilient-and-sustainable-food-system/)
+_Highlight:_ Jacqueline Ntaka. FOOD security in Africa and Zimbabwe is threatened by recurrent droughts caused by climate change.
+
+- **5. Navigating the Ethical Challenges of <b>AI</b>: A Roadmap to Responsible Innovation** [link](https://bnnbreaking.com/tech/navigating-the-ethical-challenges-of-ai-a-roadmap-to-responsible-innovation)
+_Highlight:_ Explore the ethical dilemmas shaping <b>AI</b> development and its societal impact. Learn about responsible <b>AI</b> principles and the role of <b>AI</b> ethics&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
