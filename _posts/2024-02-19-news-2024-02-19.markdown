@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-02-19 One-Minute Post
+date: 2024-02-19 17:59:29 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, NIST seems to have released a set of Differential Privacy Guidelines, on the other hand Meta is gearing up for a bias audit. While Meta is doing this, a new startup is using AI to help companies with cybersecurity, reducing data breaches by 40%. Meanwhile, legal experts are closely monitoring AI for biases, as AI algorithms inherit biases from training data. On the other hand, Rice University has joined a federal consortium on AI safety, emphasizing the importance of fairness in decision-making. As AI continues to advance, ethical concerns in healthcare and education are being raised, highlighting the need for accountability and transparency to address biases in AI algorithms.
+
+## Articles we found interesting:
+
+- **1. Video ABC News Live: Major advancement in <b>AI</b> technology revealed** [link](https://abcnews.go.com/International/video/abc-news-live-major-advancement-ai-technology-revealed-107343820)
+_Highlight:_ A major advancement in <b>AI</b> may let you create realistic ... <b>Privacy</b> Rights section, for more information about your rights and our <b>privacy</b> practices.
+
+- **2. <b>Privacy</b>, governance, and <b>AI</b>: global trends on data - Cisco Newsroom** [link](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2024/m02/privacy-governance-and-ai-global-trends-on-data.html%3Fsource%3Drss)
+_Highlight:_ Cisco Chief Legal Officer Dev Stahlkopf shares key insights from the company&#39;s 2024 Data <b>Privacy</b> Benchmark Study. <b>Privacy</b>, governance, and <b>AI</b>:&nbsp;...
+
+- **3. Data Breaches Cost 40% Less for Companies with <b>AI</b>-Enabled Cybersecurity** [link](https://www.retailtouchpoints.com/resources/data-breaches-cost-40-less-for-companies-with-ai-enabled-cybersecurity)
+_Highlight:_ <b>Artificial intelligence</b> is creating some significant downsides: 85% of security experts blame <b>AI</b> for increased cyberattacks ... <b>privacy</b> issues and 37%&nbsp;...
+
+- **4. Lawyers and Legal Reformers Are Keeping a Close Eye on <b>AI</b> - The Good Men Project** [link](https://goodmenproject.com/featured-content/lawyers-and-legal-reformers-are-keeping-a-close-eye-on-ai/)
+_Highlight:_ ... <b>bias</b> from the human-created databases used to train them. They&#39;re also prone to simply making things up. While large language model <b>AI</b> is able to&nbsp;...
+
+- **5. The Impact of <b>Artificial Intelligence</b> on Education: Transforming Schools for the Future** [link](https://medium.com/%40afraser820/the-impact-of-artificial-intelligence-on-education-transforming-schools-for-the-future-4634db2fb637%3FresponsesOpen%3Dtrue%26sortBy%3DREVERSE_CHRON)
+_Highlight:_ <b>Artificial Intelligence</b> (<b>AI</b>) has emerged as a powerful force in reshaping ... <b>Bias</b> and Fairness: <b>AI</b> algorithms can inherit <b>biases</b> from training data.
+
+- **6. <b>Artificial Intelligence</b> in Healthcare: Ethical Concerns and the Quest for Accountability** [link](https://pc-tablet.com/artificial-intelligence-in-healthcare-ethical-concerns-and-the-quest-for-accountability/)
+_Highlight:_ Explore the ethical concerns and accountability challenges of <b>AI</b> in healthcare, from <b>bias</b> in algorithms to the importance of transparent,&nbsp;...
+
+- **7. Rice joins federal consortium on <b>AI</b> safety | Rice News | News and Media Relations** [link](https://news.rice.edu/news/2024/rice-joins-federal-consortium-ai-safety)
+_Highlight:_ “We are concerned about <b>AI</b> safety, trustworthiness, transparency and <b>fairness</b> in decision making. The need to pull together efforts from academia&nbsp;...
+
+- **8. Bias-free futures: strategies for ethical <b>AI</b> implementation - TechCentral** [link](https://techcentral.co.za/bcx-strategies-ethical-ai-bcxpr/239862/)
+_Highlight:_ Fundamental principles guiding ethical <b>AI</b> encompass transparency, the ability to provide explanations, <b>fairness</b>, non-discrimination, privacy, and the&nbsp;...
+
+- **9. <b>AI</b> Error Leads to Unjust Fine for Dutch Motorist - Cryptopolitan** [link](https://www.cryptopolitan.com/ai-error-leads-to-unjust-fine-for-dutch-motorist/)
+_Highlight:_ Collaboration is key to refining <b>AI</b> in law enforcement, ensuring <b>fairness</b> and accuracy. In a revealing case of <b>artificial intelligence</b> (<b>AI</b>)&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
