@@ -1,0 +1,40 @@
+---
+layout: post
+title: 2024-02-21 One-Minute Post
+date: 2024-02-21 17:56:45 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy! NIST has released Differential Privacy Guidelines, while Meta is gearing up for a bias audit. Meanwhile, a new startup is using AI to detect and mitigate algorithmic bias in hiring processes. In other news, the US forms a task force to explore guardrails for AI, emphasizing the importance of privacy and ethics. On the flip side, the DOJ signals a tough stance on crimes involving misuse of AI, highlighting the potential for amplifying biases and discriminatory practices. Stay tuned as AI art generators are being integrated into K-12 classrooms, sparking discussions about racial and gender bias. Lastly, journalists are navigating the integration of AI technologies while upholding values such as accuracy and fairness in media transformation.
+
+## Articles we found interesting:
+
+- **1. “Let&#39;s Talk Compliance”: Health Care <b>Privacy</b> and Cybersecurity | Foley &amp; Lardner LLP** [link](https://www.foley.com/insights/publications/2024/02/lets-talk-compliance-health-care-privacy-cybersecurity/)
+_Highlight:_ <b>Artificial Intelligence</b>. <b>AI</b> has quickly become a commonplace term in many industries across the U.S. and the world. There are lively debates on what&nbsp;...
+
+- **2. Elon Musk Almost Violated Twitter <b>Privacy</b> Order Before Staff Stopped Him - Bloomberg** [link](https://www.bloomberg.com/news/articles/2024-02-21/elon-musk-almost-violated-twitter-privacy-order-before-staff-stopped-him)
+_Highlight:_ ... <b>privacy</b> and security lapses,” Khan wrote in the letter. The FTC chair and ... <b>AI</b> chipmaker&#39;s shares higher. The key now, for Nvidia and the entire&nbsp;...
+
+- **3. US forms task force to explore guardrails for <b>AI</b> - Computerworld** [link](https://www.computerworld.com/article/3713102/us-forms-task-force-to-explore-guardrails-for-ai.html)
+_Highlight:_ ... <b>AI</b> advancement in terms of security, <b>privacy</b>, ethics, and sustainability, which will be critical for the public trust on <b>AI</b> in the long run.”.
+
+- **4. The world according to Hinton: Slowing <b>AI</b> down is not the answer | IT World Canada News** [link](https://www.itworldcanada.com/article/the-world-according-to-hinton-slowing-ai-down-is-not-the-answer/559048)
+_Highlight:_ And if they do that, we are in trouble. “<b>AI</b> trained by good people will have a <b>bias</b> towards good, <b>AI</b> trained by bad people such as Putin or somebody&nbsp;...
+
+- **5. DOJ Signals Tough Stance on Crimes Involving Misuse of <b>Artificial Intelligence</b>: Wiley** [link](https://www.wiley.law/alert-DOJ-Signals-Tough-Stance-on-Crimes-Involving-Misuse-of-Artificial-Intelligence)
+_Highlight:_ On the other side of the “sword,” DAG Monaco noted that <b>AI</b> also can accelerate risks to national security, amplify <b>biases</b> and discriminatory practices&nbsp;...
+
+- **6. <b>AI</b> art generators have a place in K-12 classrooms, say researchers - University of Alberta** [link](https://www.ualberta.ca/folio/2024/02/ai-art-generators-have-a-place-in-k-12-classrooms.html)
+_Highlight:_ ... <b>AI</b> art generator Dall-E 2 in response to the prompt, &quot;Create a painting or drawing or collage that shows the racial and gender <b>bias</b> found in Dall&nbsp;...
+
+- **7. Why <b>AI</b> Scares: Unraveling the Fear of <b>Artificial Intelligence</b> | by Adeline Fraser - Medium** [link](https://medium.com/%40afraser820/why-ai-scares-unraveling-the-fear-of-artificial-intelligence-af38cd94f36c)
+_Highlight:_ The ethical tightrope is precarious. We grapple with questions: Who is accountable for biased outcomes? How do we ensure <b>fairness</b> in <b>AI</b> systems? The&nbsp;...
+
+- **8. &#39;The Year of Saudi Media Transformation&#39; | Arab News** [link](https://www.arabnews.com/node/2463541/amp)
+_Highlight:_ Journalists are trying to figure out how to integrate <b>AI</b> technologies into their work, while upholding journalistic values such as accuracy, <b>fairness</b>,&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
