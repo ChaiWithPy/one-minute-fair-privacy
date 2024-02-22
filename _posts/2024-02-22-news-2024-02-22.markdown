@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-02-22 One-Minute Post
+date: 2024-02-22 18:20:02 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, where privacy concerns are at the forefront of AI adoption. Retail marketers are confident in using AI, but privacy remains their top concern. Meanwhile, the ethical considerations of AI implementation in shipping are being highlighted, emphasizing the importance of privacy. On the other hand, AI bias is being addressed by companies like Google, with a focus on overcoming biases in customer experiences and ensuring bias-free systems. Additionally, there is a growing emphasis on implementing AI ethically in business solutions, with calls for regular audits of AI algorithms for bias and the implementation of fairness metrics. As the AI landscape evolves, companies like Google are setting new standards for ethical development and bias-free systems, emphasizing data quality and fairness. Stay tuned for more updates on AI privacy and fairness!
+
+## Articles we found interesting:
+
+- **1. Survey: Marketers confident in using <b>AI</b>, but <b>privacy</b> remains top concern | Chain Store Age** [link](https://chainstoreage.com/survey-marketers-confident-using-ai-privacy-remains-top-concern)
+_Highlight:_ <b>Privacy</b> is the top concern for retail marketers looking to adopt <b>artificial intelligence</b> (<b>AI</b>) into their strategy, according to a new survey.
+
+- **2. Britannia: <b>AI&#39;s</b> evolution in shipping for enhanced efficiency and safety - safety4sea** [link](https://safety4sea.com/britannia-ais-evolution-in-shipping-for-enhanced-efficiency-and-safety/)
+_Highlight:_ <b>PRIVACY</b>: <b>AI</b> implementation entails not only technical but also ethical considerations. Many AI systems rely on input from cameras and real-time&nbsp;...
+
+- **3. How To Plan For The Unpredictability Of <b>AI</b> Data In 2024 - Forbes** [link](https://www.forbes.com/sites/forbestechcouncil/2024/02/22/how-to-plan-for-the-unpredictability-of-ai-data-in-2024/)
+_Highlight:_ For example, if you&#39;re making a call to an external entity like OpenAI, what are the <b>privacy</b> issues? As <b>AI</b> continues to mature in the enterprise&nbsp;...
+
+- **4. Latimer: Tackling <b>AI Bias</b> for Better Customer Experiences - CMS Wire** [link](https://www.cmswire.com/customer-experience/overcoming-ai-bias-in-cx-with-latimer/)
+_Highlight:_ However, <b>AI</b> systems are susceptible to scaling <b>biases</b> because they tackle tasks so quickly and can be limited to training data that is not updated&nbsp;...
+
+- **5. Google to fix <b>AI</b> picture bot after &#39;woke&#39; criticism - BBC** [link](https://www.bbc.com/news/business-68364690)
+_Highlight:_ ... <b>bias</b>. Mr Krawczyk said the company took representation and <b>bias</b> seriously and wanted its results to reflect its global user base. &quot;Historical&nbsp;...
+
+- **6. Google apologizes after new Gemini <b>AI</b> refuses to show pictures, achievements of White people** [link](https://www.foxbusiness.com/media/google-apologizes-new-gemini-ai-refuses-show-pictures-achievements-white-people)
+_Highlight:_ This can be damaging both to individuals who don&#39;t fit those stereotypes and to society as a whole, as it reinforces <b>biased</b> views,&quot; Gemini said.
+
+- **7. How To Implement <b>AI</b> Ethically In Business Solutions - iAfrica** [link](https://iafrica.com/how-to-implement-ai-ethically-in-business-solutions/)
+_Highlight:_ In today&#39;s business landscape, <b>Artificial Intelligence</b> (<b>AI</b>) ... Regular audits of <b>AI</b> algorithms for bias and the implementation of <b>fairness</b> metrics are&nbsp;...
+
+- **8. Regulating <b>AI</b> in South Africa – An international perspective - Polity.org** [link](https://www.polity.org.za/article/regulating-ai-in-south-africa-an-international-perspective-2024-02-22)
+_Highlight:_ ... <b>fairness</b> and accountability. France&#39;s Explainable <b>AI</b> Law mandates companies to make <b>AI</b> systems used in administrative decisions understandable for&nbsp;...
+
+- **9. Google Sets New Standards in <b>AI</b>: A Toolkit for Ethical Development and Bias-Free Systems** [link](https://bnnbreaking.com/world/us/google-sets-new-standards-in-ai-a-toolkit-for-ethical-development-and-bias-free-systems)
+_Highlight:_ Discover how Google&#39;s toolkit is revolutionizing the approach to <b>AI</b> development, emphasizing data quality, <b>fairness</b>, and inclusivity to set a new&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
