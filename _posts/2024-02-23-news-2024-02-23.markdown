@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-02-23 One-Minute Post
+date: 2024-02-23 17:52:01 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, where the US has shared AI security interests globally, while the Brave browser enhances its privacy-focused chatbot with new AI reading features. In other news, Google pauses its "absurdly woke" Gemini AI chatbot's image tool due to backlash over historically inaccurate pictures, highlighting the importance of addressing bias in AI systems. Meanwhile, the White House's Executive Order on AI emphasizes the significance of data privacy, urging federal legislation. Additionally, ethical AI governance is set to be a sought-after tech skill in 2024, as the Justice Department appoints a chief AI officer to ensure fairness in law enforcement. Lastly, the IRS addresses tax evasion by the wealthy, emphasizing the need for fairness and the utilization of AI. Stay tuned for more updates on AI, privacy, and fairness!
+
+## Articles we found interesting:
+
+- **1. US has shared <b>AI</b> security interests with &#39;every country around the world,&#39; State official says** [link](https://www.nextgov.com/artificial-intelligence/2024/02/us-has-shared-ai-security-interests-every-country-around-world-state-official-says/394386/)
+_Highlight:_ Your <b>Privacy</b> Choices; Exercise Your <b>Privacy</b> Rights. US has shared <b>AI</b> security interests with &#39;every country around the world,&#39; State official says.
+
+- **2. Brave browser brings new <b>AI</b> reading features to its <b>privacy</b>-focused chatbot - Digiday** [link](https://digiday.com/media/brave-browser-brings-new-ai-reading-features-to-its-privacy-focused-chatbot/)
+_Highlight:_ The <b>privacy</b>-focused browser Brave has added more ways for its <b>AI</b> assistant “Leo” to help users read PDFs, analyze Google Drive files and transcribe&nbsp;...
+
+- **3. Decoding the White House&#39;s Executive Order on <b>AI</b> - JD Supra** [link](https://www.jdsupra.com/legalnews/decoding-the-white-house-s-executive-5139630/)
+_Highlight:_ In tandem, while recognizing the importance of data <b>privacy</b> in the realm of <b>AI</b>, the Order urges Congress to enact federal data <b>privacy</b> legislation,&nbsp;...
+
+- **4. Google pauses &#39;absurdly woke&#39; Gemini <b>AI</b> chatbot&#39;s image tool after backlash over ... - New York Post** [link](https://nypost.com/2024/02/22/business/google-pauses-absurdly-woke-gemini-ai-chatbots-image-tool-after-backlash-over-historically-inaccurate-pictures/)
+_Highlight:_ ... <b>bias</b>, actual <b>bias</b> is being built into the systems.” “This is a concern not just for search results, but real-world applications where &#39;<b>bias</b> free&nbsp;...
+
+- **5. Google &#39;working to fix&#39; <b>AI</b> picture bot after inaccuracy row - Yahoo Finance** [link](https://uk.finance.yahoo.com/news/google-working-fix-ai-picture-131140567.html)
+_Highlight:_ ... <b>bias</b> problems within the technology. Users of the Gemini generative <b>AI</b> chatbot have claimed that the app generated images showing a range of&nbsp;...
+
+- **6. Operationalizing responsible <b>AI</b> principles for defense - IBM Blog** [link](https://www.ibm.com/blog/operationalizing-responsible-ai-principles-for-defense/)
+_Highlight:_ Equitable. “The Department will take deliberate steps to minimize unintended <b>bias</b> in <b>AI</b> capabilities.” Everyone agrees that use of <b>AI</b> models should be&nbsp;...
+
+- **7. Ethical <b>AI</b> Governance Will Be Among the Tech Skills in Demand for 2024 - ClearanceJobs** [link](https://news.clearancejobs.com/2024/02/23/ethical-ai-governance-will-be-among-the-tech-skills-in-demand-for-2024/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). We ... The aim is stop algorithms from showing favoritism or discrimination, which helps ensure <b>fairness</b> and trust in <b>AI</b>.
+
+- **8. The Justice Department gets a chief <b>AI</b> officer - The Verge** [link](https://www.theverge.com/2024/2/22/24080167/justice-department-chief-ai-officer-law-enforcement)
+_Highlight:_ ... <b>AI</b> officer as it figures out how <b>AI</b> impacts law enforcement. ... The executive order also includes establishing standards to ensure <b>fairness</b> if <b>AI</b>&nbsp;...
+
+- **9. Tax evasion by millionaires and billionaires tops $150 billion a year, says IRS chief - CNBC** [link](https://www.cnbc.com/2024/02/22/tax-evasion-by-wealthiest-americans-tops-150-billion-a-year-irs.html)
+_Highlight:_ ... <b>fairness</b> and utilizing <b>AI</b>. watch now. VIDEO23:3123:31. IRS Commissioner Danny Werfel on taxing the wealthy, restoring <b>fairness</b> and utilizing <b>AI</b>. News&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
