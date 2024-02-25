@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-02-25 One-Minute Post
+date: 2024-02-25 17:37:48 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy! Apple faces UK investor rebellion over lack of AI transparency, while Germany aids Ukraine in adding AI to drones. On the other hand, Google India is warned over biased response of Gemini AI chatbot, and Google admits AI image generation spirals out of control. Meanwhile, King's College London wins the Government's AI Fairness Innovation Challenge, and Elon Musk reveals Google's efforts to fix Gemini AI bias. In addition, NIST releases Differential Privacy Guidelines, and Meta gears up for a bias audit. Stay tuned for more updates on AI privacy and fairness!
+
+## Articles we found interesting:
+
+- **1. Apple faces major UK investor rebellion over lack of <b>AI</b> transparency - City A.M.** [link](https://www.cityam.com/apple-faces-major-uk-investor-rebellion-over-lack-of-ai-transparency/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) at its upcoming annual shareholder meeting. ... <b>privacy</b> and security, regulatory compliance and workforce transitions.
+
+- **2. The ethical quandaries of <b>AI</b> in 2024: Navigating the moral landscape** [link](https://www.financialexpress.com/business/digital-transformation-the-ethical-quandaries-of-ai-in-2024-navigating-the-moral-landscape-3404623/)
+_Highlight:_ Safety &amp; <b>Privacy</b> &middot; <b>Artificial Intelligence</b> &middot; Information Governance ... <b>AI</b> and robotics revolution: Growing frontier in <b>AI</b> careers globally Robotics&nbsp;...
+
+- **3. German Helsing GmbH to help Ukraine add <b>AI</b> to domestically-produced drones** [link](https://euromaidanpress.com/2024/02/25/german-helsing-gmbh-will-help-ukraine-add-ai-to-domestically-produced-drones/)
+_Highlight:_ <b>Privacy</b> and Cookie Policies. Euromaidan Press. The ... This memorandum has a specific goal – strengthening Ukrainian defense technology, introducing <b>AI</b>&nbsp;...
+
+- **4. IT minister warns Google India over <b>biased</b> response of Gemini <b>AI</b> chatbot | - Times of India** [link](https://timesofindia.indiatimes.com/gadgets-news/it-minister-warns-google-india-over-biased-response-of-gemini-ai-chatbot/articleshow/107974435.cms)
+_Highlight:_ Google responds to controversy over Gemini <b>AI</b> chatbot&#39;s <b>biased</b> response to a question on PM Narendra Modi. Union minister Rajeev Chandrasekhar&nbsp;...
+
+- **5. Google&#39;s admission: <b>AI</b> image generation spirals out of control - Global Village Space** [link](https://www.globalvillagespace.com/tech/googles-admission-ai-image-generation-spirals-out-of-control/)
+_Highlight:_ inaccurate results. This article explores the issue of <b>biases</b> in <b>AI</b> training data and the challenges of creating diverse outcomes. Find out why&nbsp;...
+
+- **6. Addressing Racism in <b>AI</b> Image Generators: A Weekly Update - Global Village Space** [link](https://www.globalvillagespace.com/tech/addressing-racism-in-ai-image-generators-a-weekly-update/)
+_Highlight:_ From Google&#39;s <b>AI</b> chatbot Gemini to the importance of addressing <b>biases</b> in <b>AI</b> models, here&#39;s what you need to know. Google&#39;s <b>AI</b> chatbot Gemini recently&nbsp;...
+
+- **7. King&#39;s College London Wins Government&#39;s <b>AI Fairness</b> Innovation Challenge** [link](https://indiaeducationdiary.in/kings-college-london-wins-governments-ai-fairness-innovation-challenge/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) <b>Fairness</b> Innovation Challenge. The winning project will use <b>AI</b> to address bias in early warning systems used to&nbsp;...
+
+- **8. Mitigating bias in <b>artificial intelligence</b>: Fair data generation via causal models for ...** [link](https://www.sciencedirect.com/science/article/pii/S0167739X24000694)
+_Highlight:_ This study aims to improve <b>fairness</b> and explainability in <b>AI</b> decision making. Existing bias mitigation strategies are classified as pre-training,&nbsp;...
+
+- **9. Elon Musk reveals Google&#39;s efforts to fix Gemini <b>AI</b> bias - Cryptopolitan** [link](https://www.cryptopolitan.com/elon-musk-reveal-google-effort-to-fix-gemini/)
+_Highlight:_ ... <b>AI</b> chatbot. The discussion highlighted Google&#39;s commitment to improving the inclusivity and <b>fairness</b> of its <b>artificial intelligence</b> technology.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
