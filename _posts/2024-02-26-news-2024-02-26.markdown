@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-02-26 One-Minute Post
+date: 2024-02-26 17:33:24 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy! NIST has released a set of Differential Privacy Guidelines, while Meta is gearing up for a bias audit. Meanwhile, Microsoft has announced its AI Access Principles, emphasizing the importance of privacy and confidentiality. On the other hand, Google has faced challenges regarding AI ethics and bias, with a temporary shutdown of its AI image generator "Gemini" due to perceived racial bias. As AI continues to advance, concerns over privacy breaches and biases persist, with healthcare AI also raising ethical and regulatory questions. Stay tuned for more updates on the evolving landscape of AI privacy and fairness!
+
+## Articles we found interesting:
+
+- **1. Why Data <b>Privacy</b> Will Be 2024&#39;s Defining Tech Issue - Unite.<b>AI</b>** [link](https://www.unite.ai/why-data-privacy-will-be-2024s-defining-tech-issue/)
+_Highlight:_ As <b>AI</b> continues its conquests across industries, a wave of apprehension swells regarding copyright infringement and <b>privacy</b> breaches. The question&nbsp;...
+
+- **2. Microsoft&#39;s <b>AI</b> Access Principles: Our commitments to promote innovation and competition in ...** [link](https://blogs.microsoft.com/on-the-issues/2024/02/26/microsoft-ai-access-principles-responsible-mobile-world-congress/)
+_Highlight:_ ... <b>privacy</b> and <b>confidentiality</b> of our customers&#39; data. We are also committed to safeguarding the cybersecurity of our <b>AI</b> models and applications, as&nbsp;...
+
+- **3. Generative <b>AI</b> to bring &#39;transformative change,&#39; says Froedtert/Inception Health CTO** [link](https://www.healthcareitnews.com/news/generative-ai-bring-transformative-change-says-froedtertinception-health-cto)
+_Highlight:_ The role of healthcare providers in <b>AI</b> extends far beyond clinical practice to encapsulate leadership, <b>privacy</b>, security and ethical governance. So,&nbsp;...
+
+- **4. Union Minister Challenges Google on <b>AI</b> Ethics: A Call for Accountability in the Digital Age** [link](https://bnnbreaking.com/politics/union-minister-challenges-google-on-ai-ethics-a-call-for-accountability-in-the-digital-age)
+_Highlight:_ Google&#39;s admission of the <b>AI</b> tool&#39;s <b>bias</b> and the subsequent action to rectify the situation has not gone unnoticed. However, the Minister&#39;s&nbsp;...
+
+- **5. Regulating healthcare <b>AI</b> in a fast-evolving world | Omnia Health Insights** [link](https://insights.omnia-health.com/technology/regulating-healthcare-ai-fast-evolving-world)
+_Highlight:_ Healthcare <b>AI</b> promises great things but concerns over <b>biases</b>, pitfalls, and outdated regulations loom large.
+
+- **6. Google Pushes Pause on &#39;Racist&#39; <b>AI</b> Image Generator - Dallas Express** [link](https://dallasexpress.com/business-markets/google-pushes-pause-on-racist-ai-image-generator/)
+_Highlight:_ Google has temporarily shut down its <b>artificial intelligence</b> image generator &quot;Gemini&quot; after backlash erupted over the tool&#39;s seeming <b>bias</b> against&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
