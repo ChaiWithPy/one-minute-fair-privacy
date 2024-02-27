@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-02-27 One-Minute Post
+date: 2024-02-27 17:37:06 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, where the corporate AI race is raising privacy and security risks, with concerns over data security and privacy. Meanwhile, Bharat is urged to regulate technology platforms to control anti-Bharat AI bias, as Google faces backlash and a $90 billion selloff due to apparent bias in its Gemini AI image generator. On the other hand, Microsoft pledges regulatory respect with 11 AI access principles, emphasizing fairness across the AI economy. Additionally, AI surpasses human benchmark in a global study on personality and behavior, showing potential for ethical and socially aligned decision-making. This comes as ABI launches a guide to help firms with AI, focusing on accountability, transparency, fairness, safety, contestability, and redress within the developing regulatory framework. Stay tuned for more updates on the evolving landscape of AI privacy, bias, and fairness.
+
+## Articles we found interesting:
+
+- **1. Corporate <b>AI</b> Race Could Cause <b>Privacy</b>, Security Risks to the Public, New Study Shows** [link](https://www.techtimes.com/articles/302075/20240227/corporate-ai-race-cause-privacy-security-risks-public-new-study.htm)
+_Highlight:_ A new study sheds light on the escalating <b>privacy</b> and security risks posed by the corporate <b>AI</b> race.
+
+- **2. PrivacyCon looks at latest research into <b>AI</b>, mobile device security, health <b>privacy</b>, deepfakes ...** [link](https://www.ftc.gov/business-guidance/blog/2024/02/privacycon-looks-latest-research-ai-mobile-device-security-health-privacy-deepfakes-more)
+_Highlight:_ If there were a bingo board that included just about every <b>privacy</b> and data security issue on the minds of consumers, academics, businesses,&nbsp;...
+
+- **3. Business leaders failing on <b>AI</b> guidance for workers - Fortune** [link](https://fortune.com/2024/02/27/executive-ai-guidance-gap-worker-productivity/)
+_Highlight:_ Slack found that some of the top concerns from executives when it comes to building <b>AI</b> into their operations were data security and <b>privacy</b> (44%), <b>AI</b>&nbsp;...
+
+- **4. Bharat needs to be more proactive in regulating technology platforms to control anti-Bharat <b>AI bias</b>** [link](https://hindupost.in/science-technology/bharat-needs-to-be-more-proactive-in-regulating-technology-platforms-to-control-anti-bharat-ai-bias/)
+_Highlight:_ Once the <b>AI bias</b> regarding the answer to a question on PM Modi came to the notice of the Bharatiya government, the IT Ministry warned Google that it&nbsp;...
+
+- **5. Google to release &#39;improved&#39; Gemini <b>AI</b> image generator after &#39;woke&#39; backlash** [link](https://timesofindia.indiatimes.com/gadgets-news/google-to-release-improved-gemini-ai-image-generator-after-woke-backlash/articleshow/108027220.cms)
+_Highlight:_ Google is releasing an improved version of its Gemini <b>AI</b> image generator after facing backlash for alleged <b>bias</b>. The new tool aims to address&nbsp;...
+
+- **6. Google&#39;s Gemini Headaches Spur $90 Billion Selloff - Forbes** [link](https://www.forbes.com/sites/dereksaul/2024/02/26/googles-gemini-headaches-spur-90-billion-selloff/)
+_Highlight:_ Gemini&#39;s apparent <b>bias</b> is the latest flub by Alphabet during the <b>AI</b> arms race, in which rival Microsoft appears to be in pole position. Alphabet&nbsp;...
+
+- **7. Microsoft Pledges Regulatory Respect with 11 <b>AI</b> Access Principles - Redmondmag.com** [link](https://redmondmag.com/Articles/2024/02/26/Microsoft-AI-Access-Principles.aspx)
+_Highlight:_ It pledged to observe &quot;<b>fairness</b> across the <b>AI</b> economy.&quot; Lastly, Microsoft declared that it would strive to &quot;meet our societal responsibilities.&quot; Those&nbsp;...
+
+- **8. ABI launches guide to help firms with <b>AI</b> - Cover Magazine** [link](https://www.covermagazine.co.uk/news/4178959/abi-launches-guide-help-firms-ai)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) and the developing regulatory framework ... <b>AI</b>: accountability, transparency, <b>fairness</b>, safety, contestability and redress.
+
+- **9. <b>AI</b> Surpasses Human Benchmark in Global Study on Personality and Behavior** [link](https://www.cryptopolitan.com/ai-surpasses-human-benchmark-in-study/)
+_Highlight:_ <b>AI</b> preferred <b>fairness</b> and adaptability to context, showing potential for ethical and socially aligned decision-making. In a study published in the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
