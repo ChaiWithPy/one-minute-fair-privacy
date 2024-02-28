@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-02-28 One-Minute Post
+date: 2024-02-28 17:38:53 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, where the UK ICO is prioritizing consumer rights in the AI era, while Biden issues an executive order to tackle foreign data brokers threatening Americans' privacy. Meanwhile, Elon Musk raises concerns about AI threats to privacy, and global leaders express worry about AI bias. Additionally, Google faces challenges with biased data and output in its AI systems, sparking renewed concerns. Stay tuned for more updates on AI privacy and fairness.
+
+## Articles we found interesting:
+
+- **1. UK ICO Vows to Safeguard <b>Privacy</b> in <b>AI</b> Era, Rules Out Bespoke Regulation** [link](https://www.infosecurity-magazine.com/news/uk-ico-safeguard-privacy-ai-era/)
+_Highlight:_ The UK&#39;s top Information Commissioner has confirmed safeguarding consumer rights in the era of <b>artificial intelligence</b> (<b>AI</b>) is a top priority,&nbsp;...
+
+- **2. Biden issues executive order to tackle foreign data brokers threatening Americans&#39; <b>privacy</b>** [link](https://www.pbs.org/newshour/politics/biden-issues-executive-order-to-tackle-foreign-data-brokers-threatening-americans-privacy)
+_Highlight:_ Wednesday&#39;s move follows Biden&#39;s executive order on <b>artificial intelligence</b> last fall that seeks to balance the needs of cutting-edge technology&nbsp;...
+
+- **3. Elon Musk might have ruined Twitter, but he&#39;s not wrong about Windows 11 and growing <b>AI</b> ...** [link](https://www.techradar.com/computing/windows/elon-musk-might-have-ruined-twitter-but-hes-not-wrong-about-windows-11-and-growing-ai-threats-to-privacy)
+_Highlight:_ Elon Musk might have ruined Twitter, but he&#39;s not wrong about Windows 11 and growing <b>AI</b> threats to <b>privacy</b> ... Please make a TechRadar account to read&nbsp;...
+
+- **4. Global leaders express concern about <b>Artificial Intelligence bias</b> | Spokane News | khq.com** [link](https://www.khq.com/news/global-leaders-express-concern-about-artificial-intelligence-bias/article_19f395aa-d5dd-11ee-9059-036efccc89e7.html)
+_Highlight:_ OLYMPIA, Wash.- Officials representing the United States and Spain signed a joint statement on Feb. 27 expressing concern that <b>Artificial</b>&nbsp;...
+
+- **5. Why Google&#39;s &#39;woke&#39; <b>AI</b> problem won&#39;t be an easy fix - BBC** [link](https://www.bbc.com/news/technology-68412620)
+_Highlight:_ <b>Biased</b> data. It appears that in trying to solve one problem - <b>bias</b> - the tech giant has created another: output which tries so hard to be&nbsp;...
+
+- **6. Renewed concerns over Google&#39;s <b>AI</b>: Here&#39;s what you need to know - YouTube** [link](https://www.youtube.com/watch%3Fv%3DrA71d0Cbsys)
+_Highlight:_ ... New 193K views &middot; 6:50. Go to channel &middot; Navigating <b>bias</b> in <b>AI</b>: Google&#39;s Gemini controversies. CNBC Television New 11K views &middot; 13:49. Go to channel&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
