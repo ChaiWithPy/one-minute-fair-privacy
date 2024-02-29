@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-02-29 One-Minute Post
+date: 2024-02-29 17:27:37 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, where AI surveillance company Flock allegedly violated driver safety and privacy laws. Meanwhile, Google's Gemini AI model has been called out for biased and completely unacceptable responses by the company's CEO. On the fairness front, SAP emphasizes the ethical side of AI, while researchers propose "Antagonistic AI" to address AI safety and fairness concerns. In the world of privacy, Informatica launches an AI-powered Cloud Data Access Management solution, and AI is set to reshape academia. Additionally, there are discussions on the implications of AI regulation for data integrity and the need for fairness in AI-driven decision making. Stay tuned for more updates on the evolving landscape of AI privacy, bias, and fairness.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> surveillance camera company allegedly violated US state laws** [link](https://iapp.org/news/a/ai-surveillance-camera-company-allegedly-violates-us-state-laws/)
+_Highlight:_ <b>Artificial intelligence</b> surveillance camera company Flock allegedly violated driver safety and <b>privacy</b> laws with its <b>AI</b> license plate reader.
+
+- **2. Informatica Launches Cloud Data Access Management, Industry&#39;s First <b>AI</b>-Powered Solution ...** [link](https://finance.yahoo.com/news/informatica-launches-cloud-data-access-144500227.html)
+_Highlight:_ REDWOOD CITY, Calif., February 29, 2024--Informatica is launching Informatica® Cloud Data Access Management (CDAM), a solution based on&nbsp;...
+
+- **3. Can <b>AI</b> And ChatGPT Reshape Academia: Arizona State Believes So - Forbes** [link](https://www.forbes.com/sites/jefffromm/2024/02/29/can-ai-and-chatgpt-reshape-academia-arizona-state-believes-so/)
+_Highlight:_ <b>AI</b> is poised to radically transform academics and the way universities support student success.
+
+- **4. Google chief admits &#39;<b>biased</b>&#39; <b>AI</b> tool&#39;s photo diversity offended users - The Guardian** [link](https://www.theguardian.com/technology/2024/feb/28/google-chief-ai-tools-photo-diversity-offended-users)
+_Highlight:_ Google&#39;s chief executive has described some responses by the company&#39;s Gemini <b>artificial intelligence</b> model as “<b>biased</b>” and “completely unacceptable”&nbsp;...
+
+- **5. Google CEO Sundar Pichai reacts to Gemini <b>AI</b> photo diversity scandal - Hindustan Times** [link](https://www.hindustantimes.com/world-news/us-news/google-ceo-sundar-pichai-calls-gemini-ai-photo-diversity-scandal-unacceptable-full-statement-here-101709130168773.html)
+_Highlight:_ &quot;I know that some of its responses have offended our users and shown <b>bias</b> — to be clear, that&#39;s completely unacceptable, and we got it wrong,&quot; Pichai&nbsp;...
+
+- **6. Google CEO Sundar Pichai calls <b>AI</b> tool&#39;s responses &#39;completely unacceptable&#39; | Semafor** [link](https://www.semafor.com/article/02/27/2024/google-ceo-sundar-pichai-calls-ai-tools-responses-completely-unacceptable)
+_Highlight:_ ... <b>bias</b>. Most companies offering <b>AI</b> tools like Gemini create guardrails to mitigate abuses and to avoid <b>bias</b>, especially in light of other experiences.
+
+- **7. <b>Fairness</b>, Transparency, and Human Involvement: The Ethical Side of <b>Artificial Intelligence</b>** [link](https://news.sap.com/2024/02/ethical-side-of-artificial-intelligence/)
+_Highlight:_ At SAP, <b>AI</b> ethics has been part of the research and development of the technology from the very beginning. Read to learn more.
+
+- **8. Implications of <b>AI</b> regulation for data integrity - European Pharmaceutical Review** [link](https://www.europeanpharmaceuticalreview.com/news/215608/implications-of-ai-regulation-for-data-integrity/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) to support data integrity assurance in <b>AI</b> applications. ... <b>fairness</b> of <b>AI</b>-driven decision making,” the authors continued.
+
+- **9. Why does <b>AI</b> have to be nice? Researchers propose &#39;Antagonistic <b>AI</b>&#39; | VentureBeat** [link](https://venturebeat.com/ai/why-does-ai-have-to-be-nice-researchers-propose-antagonistic-ai/)
+_Highlight:_ ... <b>AI</b> safety, <b>fairness</b> and harm have expressed appreciation for antagonism in <b>AI</b>. “This convinced me that the time has come for AAI; the world is&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
