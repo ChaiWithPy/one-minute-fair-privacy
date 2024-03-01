@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-01 One-Minute Post
+date: 2024-03-01 17:29:54 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy! NIST has released Differential Privacy Guidelines, while Meta is gearing up for a bias audit. Meanwhile, Apple's iOS 18 upgrade promises enhanced privacy with AI. In legal news, the ethical pitfalls of generative AI and LLMs are under scrutiny for confidentiality breaches. Connecticut lawmakers are taking on AI regulation to address algorithmic biases, and the importance of ethical AI is emphasized to prevent bias seeping into AI systems. Additionally, ChatGPT is now trained on safety and fairness, promoting respectful and non-discriminatory content generation. Lastly, the debate around fairness in academia is fueled by the influence of AI, highlighting the need for ethical and unbiased AI usage. Stay tuned for more updates on AI, privacy, and fairness!
+
+## Articles we found interesting:
+
+- **1. Key legal issues with generative <b>AI</b> for legal professionals** [link](https://legal.thomsonreuters.com/blog/the-key-legal-issues-with-gen-ai/)
+_Highlight:_ What are the primary ethical pitfalls of using generative <b>AI</b> and LLMs? &middot; Misunderstanding technology &middot; Failure to protect <b>confidentiality</b>.
+
+- **2. How companies can build trust in <b>AI</b> | Fortune** [link](https://fortune.com/2024/03/01/consumer-distrust-of-ai-sap-deloitte/)
+_Highlight:_ But its <b>AI</b> ethics group decided that even after removing personally identifiable information (PII), the data <b>privacy</b> risk of using CVs was too high.
+
+- **3. iOS 18—This Next Apple Upgrade Will Change Your iPhone Forever - Forbes** [link](https://www.forbes.com/sites/kateoflahertyuk/2024/03/01/ios-18-this-next-apple-upgrade-will-change-your-iphone-forever/)
+_Highlight:_ That&#39;s because iOS 18 comes with multiple enhancements fueled by <b>artificial intelligence</b> (<b>AI</b>) ... No doubt Apple will be launching security and <b>privacy</b>&nbsp;...
+
+- **4. Connecticut Lawmakers Take on <b>AI</b> Regulation in New Bill - CT Examiner** [link](https://ctexaminer.com/2024/02/29/connecticut-lawmakers-take-on-ai-regulation-in-new-bill/)
+_Highlight:_ ... <b>AI</b> and what it&#39;ll bring,” Maroney said. Harichandran noted that <b>AI</b> could promote inequities through algorithms that include implicit <b>biases</b>. Last&nbsp;...
+
+- **5. Importance of ethical <b>AI</b> - The Daily Texan** [link](https://thedailytexan.com/2024/02/29/importance-of-ethical-ai/)
+_Highlight:_ Computer science professor Swarat Chaudhuri, explains how <b>bias</b> seeps into <b>artificial intelligence</b> systems. Even carefully collected data will often&nbsp;...
+
+- **6. Ethical <b>AI</b> Isn&#39;t to Blame for Google&#39;s Gemini Debacle | TIME** [link](https://time.com/6836153/ethical-ai-google-gemini-debacle/)
+_Highlight:_ ... <b>AI</b> evaluation, and <b>AI</b> ethics. Earlier this month, Google released its long ... <b>bias</b> was an easily foreseeable PR nightmare, echoing the Gorilla&nbsp;...
+
+- **7. Tiou Clarke | <b>Artificial intelligence</b> and its ethical usage | Commentary - Jamaica Gleaner** [link](https://jamaica-gleaner.com/article/commentary/20240301/tiou-clarke-artificial-intelligence-and-its-ethical-usage)
+_Highlight:_ <b>Fairness</b> ensures that <b>AI</b> systems do not perpetuate biases or discrimination, advocating for equality across all user interactions. Headlines&nbsp;...
+
+- **8. ChatGPT Trained on Safety, <b>Fairness</b>, Copyright Respect | Mirage News** [link](https://www.miragenews.com/chatgpt-trained-on-safety-fairness-copyright-1185326/)
+_Highlight:_ It is also important for <b>AI</b> that generates images, video, or text to produce content that respects intellectual property, does not contain harmful&nbsp;...
+
+- **9. Pens vs Pixels: The Exam Debate - The Bubble** [link](https://www.thebubble.org.uk/current-affairs/student-life/pens-vs-pixels-the-exam-debate/)
+_Highlight:_ Their decision, this debate around &#39;<b>fairness</b>&#39;, is indicative of a larger epidemic in academia – the festering influence of <b>AI</b>, seen to corrupt online&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
