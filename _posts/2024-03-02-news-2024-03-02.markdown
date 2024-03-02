@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-03-02 One-Minute Post
+date: 2024-03-02 17:40:27 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy! NIST releases Differential Privacy Guidelines, while Meta gears up for a bias audit. New state-level privacy legislation is anticipated, and businesses are increasing biometric usage, leading to compliance headaches. Biden's executive order on sensitive personal information does little to curb the data market. Brave Leo AI Assistant prioritizes privacy on Android. Google suspends Gemini's image-generating app due to ingrained woke biases. In finance, biases in AI decision-making highlight the need for legal transparency. At the AI In Healthcare Forum, addressing biases and upholding ethical practices are crucial for building trust in AI applications. Stay tuned for more updates on AI, privacy, and fairness!
+
+## Articles we found interesting:
+
+- **1. Biometrics Regulation Heats Up, Portending Compliance Headaches - Dark Reading** [link](https://www.darkreading.com/application-security/biometrics-regulation-portending-compliance-headaches)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>)-based threats, growing biometric usage by businesses, anticipated new state-level <b>privacy</b> legislation, and a new&nbsp;...
+
+- **2. Biden executive order on sensitive personal information does little for now to curb data market** [link](https://www.thetelegraph.com/news/article/biden-executive-order-on-sensitive-personal-18699822.php)
+_Highlight:_ I am an attorney and law professor, and I work, write and teach about data, information <b>privacy</b> and <b>AI</b>. I appreciate the spotlight the order puts&nbsp;...
+
+- **3. <b>Privacy</b>-Focused Brave Leo <b>AI</b> Assistant Comes to Android - Gizchina.com** [link](https://www.gizchina.com/2024/03/02/brave-leo-ai-assistant-on-android/)
+_Highlight:_ Upgrade your mobile browsing with Brave Leo <b>AI</b> Assistant. Experience <b>privacy</b>, efficiency, and cutting-edge technology on your Android phone.
+
+- **4. Google&#39;s <b>Artificial Intelligence</b> - WSJ** [link](https://www.wsj.com/articles/google-gemini-artificial-intelligence-chatbot-alphabet-721435c4)
+_Highlight:_ ... <b>AI</b> plans. Google last week suspended Gemini&#39;s image-generating app after users exposed apparently ingrained woke <b>biases</b>. In response to user&nbsp;...
+
+- **5. Legal transparency in <b>AI</b> finance: facing the accountability dilemma in digital decision-making** [link](https://www.reuters.com/legal/transactional/legal-transparency-ai-finance-facing-accountability-dilemma-digital-decision-2024-03-01/)
+_Highlight:_ In the financial sector, these <b>biases</b> can influence a broad spectrum of decisions, highlighting the critical need to balance <b>AI&#39;s</b> benefits against the&nbsp;...
+
+- **6. At the <b>AI</b> In Healthcare Forum, a chance to compare notes and learn from peers** [link](https://www.healthcareitnews.com/news/ai-healthcare-forum-chance-compare-notes-and-learn-peers)
+_Highlight:_ ... <b>biases</b>, upholding ethical practices and ensuring confidence in <b>AI</b> applications are crucial steps in building trust across the <b>AI</b> ecosystem and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
