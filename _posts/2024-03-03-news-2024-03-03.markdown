@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-03 One-Minute Post
+date: 2024-03-03 17:25:30 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, where Salesforce's Einstein Copilot brings AI to CRM, while GoDaddy uses AI tools creating a security risk. Chelsea's winning AI formula targets Gen Z, utilizing AI software for marketing. On the other hand, Meta's AI tool creates historically inaccurate images, highlighting bias and overcorrection in AI models. Google's AI tool, Gemini, faces criticism for bias against White people. Meanwhile, ensuring fairness in AI systems becomes paramount as they integrate into daily lives. Additionally, combatting bias in AI involves diversifying data for greater inclusivity, while platforms are asked to seek approval for deploying under-trial AI. Stay tuned for more updates on AI privacy and fairness!
+
+## Articles we found interesting:
+
+- **1. Business Tech Roundup: Salesforce&#39;s Einstein Copilot Brings <b>AI</b> To CRM - Forbes** [link](https://www.forbes.com/sites/quickerbettertech/2024/03/03/business-tech-roundup-salesforces-einstein-copilot-brings-ai-to-crm/)
+_Highlight:_ GoDaddy uses <b>AI</b> to create websites, and employees are creating a security risk using <b>AI</b> tools.
+
+- **2. No Taylor Swift, no problem as Chelsea find winning <b>AI</b> formula that could pay off big time** [link](https://www.football.london/chelsea-fc/news/no-taylor-swift-no-problem-28723081)
+_Highlight:_ Chelsea chief marketing officer Claire Cronin has explained the approach to the club reaching &#39;Gen Z&#39;, including the use of <b>AI</b> software to tap&nbsp;...
+
+- **3. What is Genie <b>AI</b>? - Blockchain News** [link](https://blockchain.news/postamp%3Fid%3Dwhat-is-genie-ai)
+_Highlight:_ Genie <b>AI</b> is an avant-garde <b>AI</b> chatbot that harnesses the capabilities of OpenAI&#39;s ChatGPT and GPT-4, offering a plethora of functionalities,&nbsp;...
+
+- **4. After Google Gemini, Facebook parent Meta&#39;s <b>AI</b> tool creates &#39;historically inaccurate images** [link](https://timesofindia.indiatimes.com/gadgets-news/after-google-gemini-facebook-parent-metas-ai-tool-creates-historically-inaccurate-images/articleshow/108167833.cms)
+_Highlight:_ The issue highlighted <b>bias</b> and over correction in <b>AI</b> models, raising concerns about the accuracy and diversity of <b>AI</b>-generated content. Google&nbsp;...
+
+- **5. Govt asks platforms to seek approval for deploying under-trial <b>AI</b> - Udayavani** [link](https://www.udayavani.com/english-news/govt-asks-platforms-to-seek-approval-for-deploying-under-trial-ai)
+_Highlight:_ Google <b>AI</b> tool&#39;s &#39;<b>bias</b>&#39; response irks IT ministry &middot; Govt asks platforms ... MEITY Google Gemini <b>artificial intelligence AI</b> Google. Advertisement. Ad.
+
+- **6. Macy&#39;s shutters stores, Apple&#39;s pivot, Google&#39;s Gemini fail and Tesla&#39;s new model** [link](https://finance.yahoo.com/news/macys-shutters-stores-apples-pivot-161932914.html)
+_Highlight:_ GOOGLE&#39;S MISSTEP: The search giant&#39;s <b>AI</b> tool, Gemini, was shown to have a <b>bias</b> against White people. CEO Sundar Pichai finally addressed the&nbsp;...
+
+- **7. Google&#39;s <b>AI</b> Missteps Highlight Challenges in Race Against Microsoft - PC-Tablet** [link](https://pc-tablet.com/googles-ai-missteps-highlight-challenges-in-race-against-microsoft/)
+_Highlight:_ Ensuring the accuracy, <b>fairness</b>, and sensitivity of <b>AI</b> systems is paramount as these technologies become increasingly integrated into our daily lives&nbsp;...
+
+- **8. viaDOTS: Revolutionizing Ride-Hailing with Transparency, <b>Fairness</b>, and Empowerment** [link](https://cxotoday.com/interviews/viadots-revolutionizing-ride-hailing-with-transparency-fairness-and-empowerment/)
+_Highlight:_ Physics Wallah unveils India&#39;s first indigenously built <b>AI</b> education suite “Alakh <b>AI</b>”: Records 1.5 million users in less than 2 months. 1 day ago.
+
+- **9. Combatting Bias in <b>AI</b>: Diversifying Data for Greater Inclusivity - India Education** [link](https://indiaeducationdiary.in/combatting-bias-in-ai-diversifying-data-for-greater-inclusivity/)
+_Highlight:_ <b>AI</b> holds the potential to revolutionize healthcare, but it also brings ... <b>fairness</b> in the machine learning model.” Allen Chang. Quality diversity&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
