@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-04 One-Minute Post
+date: 2024-03-04 17:20:55 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, Singapore issues deterministic AI privacy guidelines, while concerns arise about AI regulation and existing privacy principles. In Africa, caution is advised against over-trusting AI due to inherent biases. In healthcare, AI's potential bias in treatment decisions is under scrutiny. On the other hand, efforts are being made to enhance fairness in medical AI diagnosis, with a focus on improving AI prediction models for better fairness. Meanwhile, the advertising industry is urged to leverage AI for business growth amidst increasing privacy concerns and regulatory changes. Stay tuned as the debate on fairness for artists continues, with concerns raised about AI-generated music that may not compensate musicians fairly.
+
+## Articles we found interesting:
+
+- **1. Singapore&#39;s Personal Data Protection Commission Advises on <b>Ai</b>** [link](https://www.natlawreview.com/article/singapore-issues-data-privacy-guidelines-deterministic-artificial-intelligence-ai)
+_Highlight:_ Singapore Issues Data <b>Privacy</b> Guidelines for Deterministic <b>Artificial Intelligence</b> (<b>AI</b>). by: Charmian Aw of Squire Patton Boggs (US) LLP - <b>Privacy</b>&nbsp;...
+
+- **2. Are we &#39;hallucinating&#39; about <b>privacy</b> and <b>AI</b>? - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D5d3ef2c5-5dee-4910-8899-eb0ceb71d44b)
+_Highlight:_ This week, its more from the school of thought that &#39;<b>AI</b>-regulation-based-on-existing-regulatory-principles&#39; would be a half-finished job.
+
+- **3. Digital marketers urged to leverage <b>AI</b> to grow business - The Star** [link](https://www.the-star.co.ke/business/2024-03-04-digital-marketers-urged-to-leverage-ai-to-grow-business/)
+_Highlight:_ The advertising industry is currently at a critical point, characterized by increased <b>privacy</b> concerns, regulatory changes.
+
+- **4. Why African enterprises should not over-trust <b>AI</b> – Intelligent CIO Africa** [link](https://www.intelligentcio.com/africa/2024/03/04/why-african-enterprises-should-not-over-trust-ai/)
+_Highlight:_ <b>AI</b> is an algorithmic construct built on the bones of human creative endeavours and data that is often flawed and <b>biased</b>. Kate Crawford, Professor at&nbsp;...
+
+- **5. As <b>artificial intelligence</b> aims to transform health care, soon your doctor may consult an <b>AI</b> ...** [link](https://www.columbian.com/news/2024/mar/03/as-artificial-intelligence-aims-to-transform-health-care-soon-your-doctor-may-consult-an-ai-algorithm-before-deciding-on-your-treatment/)
+_Highlight:_ Does <b>AI</b> create <b>bias</b> in health care? A 2019 study conducted by the by University of California, Berkeley found an algorithm used to triage care&nbsp;...
+
+- **6. <b>AI</b> chatbot gives questionable answers on teaching sex, DEI, LGBTQ topics to preschool kids** [link](https://www.foxbusiness.com/media/microsoft-copilot-ai-chatbot-gives-questionable-answers-teaching-sex-dei-lgbtq-topics-preschool-kids)
+_Highlight:_ The Centers for Disease Control and Prevention (CDC) defines the preschool age range as 3 to 5 years old. RACIAL <b>BIAS</b> IN <b>ARTIFICIAL INTELLIGENCE</b>:&nbsp;...
+
+- **7. Bridging the Divide: Novel Approach Aims to Enhance <b>Fairness</b> in Medical <b>AI</b> Diagnosis** [link](https://medriva.com/health/bridging-the-divide-novel-approach-aims-to-enhance-fairness-in-medical-ai-diagnosis)
+_Highlight:_ ... <b>fairness</b> and generalization in <b>Artificial Intelligence</b> (<b>AI</b>) applications for clinical practice. Centered on thyroid ultrasound image analysis in&nbsp;...
+
+- **8. Enhancing the <b>fairness</b> of <b>AI</b> prediction models by Quasi-Pareto improvement among ... - Nature** [link](https://www.nature.com/articles/s41467-024-44906-y)
+_Highlight:_ <b>Artificial Intelligence</b> (<b>AI</b>) models for medical diagnosis often face challenges of generalizability and <b>fairness</b>. We highlighted the algorithmic&nbsp;...
+
+- **9. James Blake on TikTok and <b>fairness</b> for artists: &quot;The brainwashing worked and now people ... - NME** [link](https://www.nme.com/news/music/james-blake-on-tiktok-and-fairness-for-artists-the-brainwashing-worked-and-now-people-think-music-is-free-3595880)
+_Highlight:_ ... <b>AI</b> generated music that pays musicians nothing at all.” “Anyway love you guys for caring about artists and I&#39;ve loved seeing your thoughtful&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
