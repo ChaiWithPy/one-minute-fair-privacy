@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-03-05 One-Minute Post
+date: 2024-03-05 17:19:32 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy! Microsoft's Copilot AI can now read your files directly, but it's not the privacy nightmare it sounds like. State privacy chiefs are closely watching AI as they bootstrap their practices inside government. Meanwhile, concerns about AI reinforcing bias and discrimination are rising, with Google addressing allegations of racial bias and historical errors in its AI tech. As we accelerate towards the age of AI, it's becoming increasingly evident that we must address risks around gender bias and inclusion. The growth of AI, quantum computing, and the Internet of Things has driven hyper growth, leading to a call for Wisconsinites to deserve data privacy. How will AI overcome systemic gender and racial biases common among humans? Stay tuned for more updates on AI, privacy, and bias!
+
+## Articles we found interesting:
+
+- **1. Microsoft&#39;s Copilot <b>AI</b> can now read your files directly, but it&#39;s not the <b>privacy</b> nightmare it sounds like** [link](https://www.techradar.com/computing/artificial-intelligence/microsofts-copilot-ai-can-now-read-your-files-directly-but-its-not-the-privacy-nightmare-it-sounds-like)
+_Highlight:_ Microsoft has begun rolling out a new feature for its Copilot <b>AI</b> assistant in Windows that will allow the bot to directly read files on your PC,&nbsp;...
+
+- **2. State <b>privacy</b> chiefs are watching <b>AI</b> closely - StateScoop** [link](https://statescoop.com/ai-state-privacy-practices/)
+_Highlight:_ Three state <b>privacy</b> chiefs said they&#39;re paying close attention to <b>AI</b> is they bootstrap their practices inside government.
+
+- **3. Shannon Zimmerman: Wisconsinites deserve data <b>privacy</b> - WisPolitics** [link](https://www.wispolitics.com/2024/shannon-zimmerman-wisconsinites-deserve-data-privacy/)
+_Highlight:_ The growth of <b>artificial intelligence</b> (<b>AI</b>), quantum computing, and the Internet of Things (IoT) has driven hyper growth. This acceleration of&nbsp;...
+
+- **4. What man &amp; gemini wrought: How will <b>AI</b> overcome systemic gender and racial <b>biases</b> ...** [link](https://timesofindia.indiatimes.com/blogs/toi-edit-page/what-man-gemini-wrought-how-will-ai-overcome-systemic-gender-and-racial-biases-common-among-humans/)
+_Highlight:_ A 2016 episode, Hated in the Nation, of British sci-fi TV series Black Mirror, shows how <b>AI</b> systems may reinforce <b>bias</b> and discrimination against&nbsp;...
+
+- **5. Are women right to be wary of <b>AI</b>? - Mercer** [link](https://www.mercer.com/insights/talent-and-transformation/diversity-equity-and-inclusion/are-women-right-to-be-wary-of-ai/)
+_Highlight:_ As we accelerate towards the age of <b>AI</b>, it is becoming increasingly evident that we must address risks around gender <b>bias</b> and inclusion. Businesses&nbsp;...
+
+- **6. Google Addresses Allegations Of Racial <b>Bias</b> And Historical Errors Regarding <b>AI</b> Tech** [link](https://www.oann.com/newsroom/google-addresses-allegations-of-racial-bias-and-historical-errors-regarding-ai-tech/)
+_Highlight:_ As a result of Google&#39;s acknowledged racial and historical <b>bias</b> programmed within its <b>artificial intelligence</b> (<b>AI</b>) technology. Advertisement. In a&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
