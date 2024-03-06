@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-03-06 One-Minute Post
+date: 2024-03-06 17:17:18 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy! eBay aligns its privacy policy with AI practices, while workers fear biased AI and loss of privacy. Navigating the AI interview landscape raises concerns over fairness and bias, and legal liability in healthcare expects AI products to be vetted for fairness and transparency. Additionally, Clifford Chance implements generative AI with a focus on fairness, transparency, and privacy in its global offices. Stay tuned for more updates on the evolving world of AI privacy and fairness!
+
+## Articles we found interesting:
+
+- **1. Emotion-tracking <b>AI</b> on the job: Workers fear being watched – and misunderstood** [link](https://theconversation.com/emotion-tracking-ai-on-the-job-workers-fear-being-watched-and-misunderstood-222592)
+_Highlight:_ Loss of <b>privacy</b> is just the beginning. Workers are worried about biased <b>AI</b> and the need to perform the &#39;right&#39; expressions and body language for&nbsp;...
+
+- **2. eBay Brings <b>Privacy</b> Policy in Line with Its <b>AI</b> Practices - EcommerceBytes** [link](https://www.ecommercebytes.com/2024/03/06/ebay-brings-privacy-policy-in-line-with-its-ai-practices/)
+_Highlight:_ eBay is changing its <b>privacy</b> policy on April 8 to bring it in line with how it uses <b>Artificial Intelligence</b> in dealing with customers.
+
+- **3. Bloomberg Law In-House Forum Examines Navigating Data Laws &amp; <b>AI</b> Challenges** [link](https://www.victoriaadvocate.com/bloomberg-law-in-house-forum-examines-navigating-data-laws-ai-challenges/article_db96a28c-87b8-5e2c-a302-2e130daf7ad0.html)
+_Highlight:_ A second panel will examine the implications of <b>AI</b>, machine learning, and automated decision-making on consumer <b>privacy</b> rights and what companies need&nbsp;...
+
+- **4. Navigating the <b>AI</b> Interview Landscape: Job Seekers Face Robotic Recruiters** [link](https://bnnbreaking.com/world/us/navigating-the-ai-interview-landscape-job-seekers-face-robotic-recruiters)
+_Highlight:_ Explore how <b>AI</b> is transforming the hiring process, impacting job seekers and raising concerns over <b>fairness</b>, bias, and the human element.
+
+- **5. 3 areas of likely risk for legal liability - AI in healthcare** [link](https://aiin.healthcare/topics/healthcare-management/legal-news/ai-healthcare-3-areas-likely-risk-legal-liability)
+_Highlight:_ Investigators and enforcers will likely expect <b>AI</b> developers and/or end-users to vet <b>AI</b> products for accuracy, <b>fairness</b>, transparency and&nbsp;...
+
+- **6. Clifford Chance implements generative <b>AI</b> in global offices | Australasian Lawyer** [link](https://www.thelawyermag.com/au/news/general/clifford-chance-implements-generative-ai-in-global-offices/479756)
+_Highlight:_ The framework aligns with international best practices rooted in <b>fairness</b>, transparency, accountability, and privacy. Legal output produced by <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
