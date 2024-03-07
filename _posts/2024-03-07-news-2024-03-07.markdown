@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-07 One-Minute Post
+date: 2024-03-07 17:15:21 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, where the House Oversight leaders introduce a government AI transparency bill to protect privacy. Meanwhile, Microsoft staff warns regulators about harmful AI content, and a Microsoft AI engineer raises concerns about Copilot Designer creating disturbing images with political bias. On the other hand, Spain bans Worldcoin operations over data privacy concerns, and ethical data advocates are optimistic about the rise of AI. Additionally, efforts are being made to ensure fairness in AI development, with China emphasizing the need for AI to be a force for good, safe, and fair. It's crucial for companies to establish guidelines for fairness, transparency, accountability, and privacy in AI applications to build trust among workers. Stay tuned for more updates on AI privacy and fairness!
+
+## Articles we found interesting:
+
+- **1. House Oversight leaders introduce government <b>AI</b> transparency bill - Nextgov/FCW** [link](https://www.nextgov.com/artificial-intelligence/2024/03/house-oversight-leaders-introduce-government-ai-transparency-bill/394722/)
+_Highlight:_ The proposal “ensures that the federal government&#39;s use of <b>AI</b> will improve government operations while protecting <b>privacy</b>, civil rights and civil&nbsp;...
+
+- **2. The rise of <b>AI</b> is good news for ethical data advocates | TechRadar** [link](https://www.techradar.com/pro/the-rise-of-ai-is-good-news-for-ethical-data-advocates)
+_Highlight:_ How should data persist in algorithms, and what does that mean for consent and <b>privacy</b>? What kinds of guardrails are needed to keep us safe in a world&nbsp;...
+
+- **3. Spain Bans Worldcoin Operations Over Data <b>Privacy</b> Concerns - Yahoo Finance** [link](https://finance.yahoo.com/news/spain-bans-worldcoin-operations-over-100502908.html)
+_Highlight:_ This <b>Artificial Intelligence</b> (<b>AI</b>) Stock Could Double, and It Is Way Cheaper Than Nvidia. 6h ago. Motley Fool. Two Beaten-Down Stocks That Could Soar&nbsp;...
+
+- **4. Microsoft Staffer Warns Regulators About Harmful <b>AI</b> Content - Bloomberg** [link](https://www.bloomberg.com/news/articles/2024-03-06/microsoft-staffer-warns-lawmakers-ftc-about-harmful-ai-content)
+_Highlight:_ He also said the <b>AI</b> tool created “harmful content in a variety of other categories including: political <b>bias</b>, underaged drinking and drug use&nbsp;...
+
+- **5. Microsoft <b>AI</b> engineer says Copilot Designer creates disturbing images - CNBC** [link](https://www.cnbc.com/2024/03/06/microsoft-ai-engineer-says-copilot-designer-creates-disturbing-images.html)
+_Highlight:_ In his letter to Khan, Jones said Copilot Designer can create potentially harmful images in categories such as political <b>bias</b>, underage drinking and&nbsp;...
+
+- **6. Police worried 101 call bot would struggle with &#39;brummie&#39; accents - BBC** [link](https://www.bbc.com/news/technology-68466369)
+_Highlight:_ &quot;<b>Bias</b> will naturally occur within the &quot;Amy&quot; system based on accents ... &quot;<b>AI</b> (<b>Artificial Intelligence</b>) does present some potential opportunities&nbsp;...
+
+- **7. Attempts to create &#39;small yard, high fence&#39; in <b>AI</b> development would result in ... - People&#39;s Daily** [link](http://en.people.cn/n3/2024/0307/c90000-20142200.html)
+_Highlight:_ He highlighted that China&#39;s main focus on the <b>AI</b> global governance is to ensure that <b>AI</b> is a force for good, while ensuring its safety and <b>fairness</b>.
+
+- **8. Wang Yi warns against creating <b>AI</b> barriers - Ecns.cn** [link](http://www.ecns.cn/news/2024-03-07/detail-ihcyipmf1906619.shtml)
+_Highlight:_ He explained China&#39;s three focuses — ensuring that <b>AI</b> is a force for good, ensuring safety, and ensuring <b>fairness</b>. Wang added that China will submit a&nbsp;...
+
+- **9. You can&#39;t expect workers to trust <b>AI</b> if your leader doesn&#39;t have these 3 values** [link](https://www.fastcompany.com/91048527/you-cant-expect-workers-to-trust-ai-if-your-leader-doesnt-have-these-3-values)
+_Highlight:_ These guidelines should outline the company&#39;s commitment to <b>fairness</b>, transparency, accountability, and privacy in <b>AI</b> applications. Build these&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
