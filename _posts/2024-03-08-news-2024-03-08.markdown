@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-08 One-Minute Post
+date: 2024-03-08 17:16:09 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Welcome to One-Minute-AI-Fairness-And-Privacy, NIST seems to have released a set of Differential Privacy Guidelines, on the other hand Meta is gearing up for a bias audit. While Meta is doing this, a new startup is using AI to track employee emotions, raising concerns over privacy and bias. Meanwhile, Salesforce emphasizes diversity as key to building AI models, and a job applicant expresses alarm after being interviewed by AI, highlighting ongoing concerns about fairness. In Europe, Italy's data watchdog is investigating Open AI's tool for compliance with EU privacy regulations, demonstrating the increasing scrutiny on AI and privacy. Lastly, UC's Academic Congress on AI discusses the use of AI in higher education and the potential for bias in information gathering.
+
+## Articles we found interesting:
+
+- **1. GDPR at 5 - Episode 4 - GDPR and <b>AI</b> - Gibson Dunn** [link](https://www.gibsondunn.com/gdpr-at-5-episode-4-gdpr-and-ai/)
+_Highlight:_ Co-Chair of our <b>Privacy</b>, Cybersecurity and Data Innovation Practice Group, Ahmed Baladi (Paris), is joined by partners Robert Spano (London and&nbsp;...
+
+- **2. A view from DC: Tracking <b>privacy</b> across Biden&#39;s State of the Union addresses** [link](https://iapp.org/news/a/a-view-from-dc-tracking-privacy-across-bidens-state-of-the-union-addresses/)
+_Highlight:_ Cobun Zweifel-Keegan compared U.S. President Joe Biden&#39;s <b>privacy</b> and <b>AI</b> callouts in his 2024 State of the Union address to mentions in prior&nbsp;...
+
+- **3. Italy&#39;s data watchdog looks into Open <b>AI</b> tool that turns text into video - Yahoo Finance** [link](https://finance.yahoo.com/news/italys-data-watchdog-looks-open-163151235.html)
+_Highlight:_ The Italian regulator is one of the bloc&#39;s most proactive authorities in assessing <b>AI</b> platform compliance with the EU&#39;s data <b>privacy</b> regime. Last year&nbsp;...
+
+- **4. UC&#39;s Academic Congress on <b>AI</b> discusses its use in higher education - Daily Bruin** [link](https://dailybruin.com/2024/03/07/ucs-academic-congress-on-ai-discusses-its-use-in-higher-education/)
+_Highlight:_ However, using <b>AI</b> for information gathering can also decrease informational diversity, which can lead to <b>bias</b>, he added. “If <b>AI</b> systems tell us&nbsp;...
+
+- **5. Salesforce&#39;s Shih Says Diversity Is Key to Building <b>AI</b> Models - Yahoo Finance** [link](https://finance.yahoo.com/news/salesforce-shih-says-diversity-key-034616207.html)
+_Highlight:_ ... <b>artificial intelligence</b> models and creating the policies for responsible <b>AI</b> ... <b>bias</b> and inaccuracies in <b>AI</b> models has come to the forefront. Ensuring&nbsp;...
+
+- **6. Workplace <b>AI</b> tracking employee emotions; expert raises concerns over privacy, <b>bias</b>** [link](https://fox11online.com/news/nation-world/workplace-ai-tracking-employee-emotions-expert-raises-concerns-over-privacy-bias-technology-artificial-intelligence-worker-rights-feelings-job-surveillance-productivity)
+_Highlight:_ But there are concerns that these <b>AI</b> tools can invade workers&#39; privacy, perpetuate <b>biases</b>, and might not even generate relevant or valid results. “I&nbsp;...
+
+- **7. Your <b>AI</b> products&#39; values and behaviors are vital: Here&#39;s how to get them right | Fortune** [link](https://fortune.com/2024/03/08/artificial-intelligence-ai-products-values-behaviors-bcg/)
+_Highlight:_ Increasingly, a selling point for <b>AI</b>-powered products is how well they embody specific values such as safety, dignity, <b>fairness</b>, and helpfulness.
+
+- **8. &#39;It was creepy&#39;: Job applicant alarms after being interviewed by <b>AI</b> - Interesting Engineering** [link](https://interestingengineering.com/science/it-was-creepy-job-applicant-alarms-after-being-interviewed-by-ai)
+_Highlight:_ While <b>AI</b> systems offer efficiency and convenience for employers, concerns about bias and <b>fairness</b> persist. Indeed, studies have shown that <b>AI</b>&nbsp;...
+
+- **9. Your <b>AI</b> products&#39; values and behaviors could make or break your business. Here&#39;s what you ...** [link](https://ca.finance.yahoo.com/news/ai-products-values-behaviors-could-103000874.html)
+_Highlight:_ ... <b>fairness</b>, harmlessness, and helpfulness. In fact, as <b>AI</b> becomes embedded across more aspects of daily life, the values upon which its decisions&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
