@@ -1,0 +1,25 @@
+---
+layout: post
+title: 2024-03-09 One-Minute Post
+date: 2024-03-09 05:39:29 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI chatbots exhibit racist stereotypes even after anti-racism training, while Dell emphasizes the need to exercise caution in checking biases in AI models. OpenAI's ChatGPT is found to favor Asian women and pick fewer Black candidates for jobs, highlighting the persistent issue of bias in AI systems.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> chatbots found to use racist stereotypes even after anti-racism training - Tech Xplore** [link](https://techxplore.com/news/2024-03-ai-chatbots-racist-stereotypes-anti.html)
+_Highlight:_ The research team concludes by noting that the larger LLMs tended to show more negative <b>bias</b> toward authors of African American English texts than did&nbsp;...
+
+- **2. Exercise caution to check <b>biases</b> in <b>AI</b> models, says Dell&#39;s Manakame - The Hindu** [link](https://www.thehindu.com/sci-tech/technology/exercise-caution-to-check-biases-in-ai-models-says-dells-manakame/article67929235.ece)
+_Highlight:_ Some believe <b>artificial intelligence</b> (<b>AI</b>) could be more <b>biased</b> than humans as the technology may display stronger racial and gender <b>biases</b> than people&nbsp;...
+
+- **3. Don&#39;t expect ChatGPT to take the <b>bias</b> out of job recruiting just yet - Business Insider** [link](https://www.businessinsider.com/chatgpt-racial-bias-job-hiring-report-2024-3)
+_Highlight:_ A test of OpenAI&#39;s ChatGPT found that the <b>AI</b> tool favored Asian women and picked fewer Black candidates for jobs based on names and resumes.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
