@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-03-09 One-Minute Post
+date: 2024-03-09 17:06:09 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Biden calls for ban on AI voice generations during State of the Union, while the FTC hosts a summit on the impact of AI on consumers' privacy. California Privacy Agency revises draft rules on AI assessments. An analysis establishes a framework for fairness in accounting. JobAI integrates AI and blockchain to redefine job market transparency. AIGC Technology focuses on AI governance frameworks for transparency and fairness in AI systems.
+
+## Articles we found interesting:
+
+- **1. Biden calls for ban on <b>AI</b> voice generations during State of the Union - ABC7 News** [link](https://abc7news.com/biden-state-of-the-union-address-ai-voice-generations-artificial-intelligence-regulations-ban/14505536/)
+_Highlight:_ SAN JOSE, Calif. (KGO) -- President Joe Biden took credit for the improving economy in his State of the Union speech Thursday.
+
+- **2. No Exceptions for <b>AI</b>: The FTC Hosts a Tech Summit to Discuss the Impacts of <b>AI</b> on ... - JD Supra** [link](https://www.jdsupra.com/legalnews/no-exceptions-for-ai-the-ftc-hosts-a-7745179/)
+_Highlight:_ On January 25, 2024, the Federal Trade Commission (FTC) hosted a summit focused on the impact of <b>artificial intelligence</b> (<b>AI</b>) on consumers and&nbsp;...
+
+- **3. California <b>Privacy</b> Agency Revises Draft Rules on <b>AI</b>, Assessments - Bloomberg Law News** [link](https://news.bloomberglaw.com/privacy-and-data-security/california-privacy-agency-revises-draft-rules-on-ai-assessments)
+_Highlight:_ The California <b>Privacy</b> Protection Agency&#39;s board on Friday moved closely watched regulations around automated technology and <b>privacy</b> assessments&nbsp;...
+
+- **4. Analysis establishes a framework for <b>fairness</b> in accounting, auditing - Phys.org** [link](https://phys.org/news/2024-03-analysis-framework-fairness-accounting.html)
+_Highlight:_ ... <b>fairness</b> as a basic accounting principle,&quot; explained Tae Wan Kim ... <b>AI</b> model trained with images can recognize visual indicators of gentrification.
+
+- **5. JobAi: <b>AI</b> and Blockchain Redefining Job Market Transparency and Launching on Gate io&#39;s ...** [link](https://www.digitaljournal.com/pr/news/globe-pr-wire/jobai-ai-blockchain-redefining-job-1413139191.html)
+_Highlight:_ ... <b>fairness</b> and reliability. To address these critical issues, JobAI integrates the latest advances in <b>artificial intelligence</b> and blockchain technology.
+
+- **6. AIGC Technology Market Share, Size, Financial Summaries Analysis from 2024 to 2030** [link](https://www.whatech.com/og/markets-research/it/787880-aigc-technology-market-share-size-financial-summaries-analysis-from-2024-to-2030)
+_Highlight:_ ... <b>AI</b> governance frameworks, ensuring transparency, accountability, and <b>fairness</b> in <b>AI</b> systems. ... <b>artificial intelligence</b> (<b>AI</b>) and genetic computing&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
