@@ -1,0 +1,40 @@
+---
+layout: post
+title: 2024-03-10 One-Minute Post
+date: 2024-03-10 18:02:10 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Microsoft is blocking terms causing its AI to create inappropriate images. AI models show language bias, recommending Black defendants be "sentenced to death". Sandra Watcher, a leading female AI expert, is working on AI systems to combat disinformation and promote fairness. Governance frameworks are being developed to tackle ethical AI challenges and ensure privacy. Former Prasar Bharati CEO emphasizes the critical significance of data privacy and ethical considerations in the face of increasing AI influence. AI is being used for campaign tools, showing clear racial bias. AI is also being used to generate content, raising privacy concerns.
+
+## Articles we found interesting:
+
+- **1. How governance frameworks can tackle ethical <b>AI</b> challenges — Ifeoluwa Oladele** [link](https://tribuneonlineng.com/how-governance-frameworks-can-tackle-ethical-ai-challenges-ifeoluwa-oladele/)
+_Highlight:_ The use of such technology without proper ethical considerations and safeguards has led to wrongful arrests and invasions of <b>privacy</b>, raising&nbsp;...
+
+- **2. Former Prasar Bharati CEO addresses trust challenges in the era of <b>AI</b> and Deepfake technology** [link](https://www.afaqs.com/companies/former-prasar-bharati-ceo-addresses-trust-challenges-in-the-era-of-ai-and-deepfake-technology)
+_Highlight:_ He emphasised the critical significance of data <b>privacy</b> and ethical considerations in the face of the increasing influence of <b>AI</b> &amp; deepfake tech.
+
+- **3. We asked <b>AI</b> &#39;what is there to do in Ocala&#39;** [link](https://www.ocala-news.com/2024/03/10/we-asked-ai-what-is-there-to-do-in-ocala/)
+_Highlight:_ <b>Privacy</b> Policy &middot; Terms of Service and <b>Privacy</b> Policy &middot; Advertising &middot; Home ... Everything you just read after “20 years of age” was written by an <b>AI</b>.
+
+- **4. Microsoft Blocks Terms That Caused Its <b>AI</b> to Create Inappropriate Images** [link](https://me.pcmag.com/en/ai/22533/microsoft-starts-blocking-some-terms-that-caused-its-ai-to-create-inappropriate-images)
+_Highlight:_ Microsoft is now blocking terms that caused its <b>AI</b> tool, Microsoft Copilot Designer, to create violent and sexual images. ... <b>bias</b>, underage drinking,&nbsp;...
+
+- **5. Jason Palmer credits <b>AI</b> for his surprise win over Joe Biden in American Samoa - Mashable** [link](https://mashable.com/article/candidate-uses-ai-credits-it-for-american-samoa-win)
+_Highlight:_ Having tried Palmer&#39;s <b>AI</b> campaign tool ourselves, this claim is eyebrow-raising to say the least. SEE ALSO: <b>AI</b> shows clear racial <b>bias</b> when used for&nbsp;...
+
+- **6. <b>AI</b> models found to show language <b>bias</b> by recommending Black defendents be &#39;sentenced to death&#39;** [link](https://www.euronews.com/next/2024/03/09/ai-models-found-to-show-language-bias-by-recommending-black-defendents-be-sentenced-to-dea)
+_Highlight:_ Large language models (LLMs) are more likely to criminalise users that use African American English, the results of a new Cornell University study&nbsp;...
+
+- **7. Sandra Watcher: Leading Female <b>AI</b> Expert in Data Ethics at Oxford - Global Village Space** [link](https://www.globalvillagespace.com/tech/sandra-watcher-leading-female-ai-expert-in-data-ethics-at-oxford/)
+_Highlight:_ ... <b>AI</b> systems to combat disinformation and promote <b>fairness</b>. According to Watcher, her interest in <b>AI</b> stems from a belief in the potential of&nbsp;...
+
+- **8. Women in <b>AI</b>: Sandra Watcher, professor of data ethics at Oxford | TechCrunch** [link](https://techcrunch.com/2024/03/09/women-in-ai-sandra-watcher-professor-of-data-ethics-at-oxford/)
+_Highlight:_ She also looked at ways to audit <b>AI</b> to tackle disinformation and promote <b>fairness</b>. Q&amp;A. Briefly, how did you get your start in <b>AI</b>? What attracted&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
