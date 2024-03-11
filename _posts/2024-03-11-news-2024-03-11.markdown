@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-03-11 One-Minute Post
+date: 2024-03-11 17:57:23 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+European Parliament releases final AI Act text, while US House committee approves bill to limit data brokers' foreign data transfers. Italy's Privacy Regulator asks OpenAI about users' data usage. Academics tackle gender bias in healthcare AI, and Google's Gemini AI raises concerns about bias-free technology. AOL highlights the ethical issues of biased AI outputs.
+
+## Articles we found interesting:
+
+- **1. European Parliament publishes final <b>AI</b> Act text** [link](https://iapp.org/news/a/european-parliament-publishes-final-ai-act-text/)
+_Highlight:_ On 13 March, IBM Vice President, Chief <b>Privacy</b> and Trust Officer Christina Montgomery and OpenAI Associate General Counsel, <b>Privacy</b> and Data&nbsp;...
+
+- **2. US House committee approves bill to limit data brokers&#39; foreign data transfers** [link](https://iapp.org/news/a/us-house-committee-approves-bill-to-limit-data-brokers-foreign-data-transfers/)
+_Highlight:_ Editor&#39;s note: Explore the IAPP <b>AI</b> Governance Center and subscribe to the <b>AI</b> G... ... Australia&#39;s new <b>privacy</b> commissioner discusses <b>privacy</b> background,&nbsp;...
+
+- **3. Italy&#39;s <b>Privacy</b> Regulator Asks OpenAI About Users&#39; Data Usage - MediaNama** [link](https://www.medianama.com/2024/03/223-italys-privacy-regulator-asks-openai-to-furnish-details-on-users-data-usage-to-create-sora/)
+_Highlight:_ On February 16, OpenAI introduced Sora, a generative <b>AI</b> tool that can generate minute-long videos based on user prompts. The company had informed that&nbsp;...
+
+- **4. Academics tackle gender <b>bias</b> in healthcare <b>AI</b> - PublicTechnology** [link](https://www.publictechnology.net/2024/03/11/health-and-social-care/academics-tackle-gender-bias-in-healthcare-ai/)
+_Highlight:_ A Scottish university is to explore how to prevent gender <b>bias</b> from skewing outcomes in healthcare <b>artificial intelligence</b>. Over the next 18 months,&nbsp;...
+
+- **5. Beware: Gemini&#39;s insanity is actually what &#39;<b>bias</b>-free&#39; <b>AI</b> is all about - New York Post** [link](https://nypost.com/2024/03/10/opinion/beware-geminis-insanity-is-actually-what-bias-free-ai-is-all-about/)
+_Highlight:_ Google&#39;s Gemini <b>AI</b> provide a grim look into the future of &quot;<b>bias</b>-free&quot;, woke tech.
+
+- **6. <b>AI</b> is not ready for primetime - AOL.com** [link](https://www.aol.com/ai-not-ready-primetime-130037538.html)
+_Highlight:_ Asking AI about AI. When CNN asked ChatGPT if ... Gemini also nodded to ethical issues: “Bias in training data can lead to <b>biased AI</b> outputs,” it wrote.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
