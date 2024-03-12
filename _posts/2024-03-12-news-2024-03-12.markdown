@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-12 One-Minute Post
+date: 2024-03-12 17:54:58 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Microsoft is fighting back against AI scaremongering lawsuits. Google's Gemini AI is vulnerable to content manipulation. Tim Berners-Lee predicts AI and data privacy trends. Racial bias in UK medical devices needs immediate action. AI in pediatric care poses potential bias risks. UK report reveals bias in medical tools and devices. AI-related cryptos gain value as Bitcoin soars. Harvard Ph.D. student named Apple Scholar in AI/ML for fairness research. Women in AI are making a difference, particularly in AI fairness.
+
+## Articles we found interesting:
+
+- **1. Microsoft says <b>AI</b> data <b>privacy</b> lawsuit &#39;devotes 198 pages to doomsday hyperbole about <b>AI</b> ...** [link](https://www.pcgamer.com/software/ai/microsoft-says-ai-data-privacy-lawsuit-devotes-198-pages-to-doomsday-hyperbole-about-ai-as-a-threat-to-civilization/)
+_Highlight:_ Doubling down on its accusations of <b>AI</b> scaremongering, Microsoft is hitting back at two concurrent lawsuits over its own involvement in <b>AI</b> and&nbsp;...
+
+- **2. Google&#39;s Gemini <b>AI</b> Vulnerable to Content Manipulation - Dark Reading** [link](https://www.darkreading.com/cyber-risk/google-gemini-vulnerable-to-content-manipulation-researchers-say)
+_Highlight:_ ... <b>AI</b> models. ... He was most recently a Senior Editor at Computerworld, where he covered information security and data <b>privacy</b> issues for the publication.
+
+- **3. From <b>AI</b>, data <b>privacy</b> to breaking up a Big Tech company: Three predictions by World Wide ...** [link](https://timesofindia.indiatimes.com/technology/tech-news/from-ai-data-privacy-to-breaking-up-a-big-tech-company-three-predictions-by-world-wide-web-inventor/articleshow/108438728.cms)
+_Highlight:_ On the occasion of the investigation, Berners-Lee made three predictions on <b>artificial intelligence</b> (<b>AI</b>), data <b>privacy</b>, and most importantly, about&nbsp;...
+
+- **4. &#39;Immediate Action&#39; Needed On Racially <b>Biased</b> Medical Devices In U.K. - Forbes** [link](https://www.forbes.com/sites/katherinehignett/2024/03/11/immediate-action-needed-on-racially-biased-medical-devices-in-uk/)
+_Highlight:_ Medical devices like pulse oximeters and <b>AI</b> tools risk exacerbating existing health inequalities, says a report commissioned by the U.K.&nbsp;...
+
+- **5. Paper details benefits, possible risks of <b>AI</b> in pediatric care - Healio** [link](https://www.healio.com/news/pediatrics/20240311/paper-details-benefits-possible-risks-of-ai-in-pediatric-care)
+_Highlight:_ <b>Artificial intelligence</b>, or <b>AI</b> ... The authors warned that algorithms have the potential to perpetuate <b>bias</b> and must be trained with large volumes of&nbsp;...
+
+- **6. UK report reveals <b>bias</b> within medical tools and devices | Health - The Guardian** [link](https://www.theguardian.com/society/2024/mar/11/medical-tools-devices-healthcare-bias-uk)
+_Highlight:_ Among other findings, the Equity in Medical Devices: Independent Review has raised concerns over devices that use <b>artificial intelligence</b> (<b>AI</b>), as&nbsp;...
+
+- **7. As Bitcoin soars, <b>AI</b>-related cryptos are quickly gaining value - Fast Company** [link](https://www.fastcompany.com/91055087/bitcoin-ai-cryptos-gaining-value-cryptocurrency)
+_Highlight:_ ... <b>fairness</b>, <b>AI</b> cryptos are much more volatile than shares of that company. All totaled, there are 88 various cryptos in the AI space. But just as&nbsp;...
+
+- **8. Ph.D. student Monteiro Paes named Apple Scholar in <b>AI</b>/ML** [link](https://seas.harvard.edu/news/2024/03/phd-student-monteiro-paes-named-apple-scholar-aiml)
+_Highlight:_ Monteiro Paes studies <b>fairness</b> and arbitrariness in machine learning models &middot; “I&#39;m very interested in the ethics of <b>artificial intelligence</b>,” Monteiro&nbsp;...
+
+- **9. The women in <b>AI</b> making a difference - TechCrunch** [link](https://techcrunch.com/2024/03/10/the-women-in-ai-making-a-difference/)
+_Highlight:_ ... <b>AI</b> and generative <b>AI</b> systems we have today. ... Harvard professor Cynthia Dwork made waves decades ago in the fields of <b>AI fairness</b>, differential&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
