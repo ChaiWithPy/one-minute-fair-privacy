@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-13 One-Minute Post
+date: 2024-03-13 17:52:12 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Japan and Europe implement new AI guidelines for privacy. European Parliament approves the AI Act. US Rep. Bonamici targets AI-based hiring discrimination with the No Robot Bosses Act. Concerns rise over AI bias in courts and medical devices. Ethical considerations in AI training and the advancement of AI present opportunities and risks.
+
+## Articles we found interesting:
+
+- **1. Japan&#39;s New Draft Guidelines on <b>AI</b> and Copyright: Is It Really OK to Train <b>AI</b> Using Pirated ...** [link](https://www.lexology.com/library/detail.aspx%3Fg%3Dc2579f2b-b32b-46e5-b35d-6d0f54e03896)
+_Highlight:_ ... <b>AI</b> capabilities, Japan implemented a flexible <b>AI</b> approach. ... Accordingly, when the <b>AI</b> user requests the <b>AI</b> ... More from Consumer <b>Privacy</b> World &middot; In&nbsp;...
+
+- **2. European Parliament Approves the <b>AI</b> Act | <b>Privacy</b> &amp; Information Security Law Blog** [link](https://www.huntonprivacyblog.com/2024/03/13/european-parliament-approves-the-ai-act/)
+_Highlight:_ On March 13, 2024, the European Parliament adopted the <b>AI</b> Act by a majority of 523 votes in favor, 461 votes against, and 49 abstentions.
+
+- **3. Europe Passes World&#39;s First Law Regulating <b>AI</b> - The Hollywood Reporter** [link](https://www.hollywoodreporter.com/business/digital/europe-first-ai-law-european-union-1235851238/)
+_Highlight:_ // This site is protected by reCAPTCHA Enterprise and the Google <b>Privacy</b> Policy and Terms of Service apply. Have a Tip? Send us a tip using our&nbsp;...
+
+- **4. Rep. Bonamici targets <b>AI</b>-based hiring discrimination with No Robot Bosses Act** [link](https://www.newsnationnow.com/us-news/west/rep-bonamici-targets-ai-based-hiring-discrimination-with-no-robot-bosses-act/)
+_Highlight:_ “<b>Artificial intelligence</b> has great potential, but we must address the potential for <b>bias</b> in its algorithms,” said Congresswoman Suzanne Bonamici. “&nbsp;...
+
+- **5. <b>AI</b> in the Courts: How Worried Should We Be? | EDRM - JD Supra** [link](https://www.jdsupra.com/legalnews/ai-in-the-courts-how-worried-should-we-3433019/)
+_Highlight:_ We are most concerned about the ills we can already see, such as <b>biased</b> data and algorithms leading to discriminatory outcomes and greater inequality;&nbsp;...
+
+- **6. Addressing ethnic <b>bias</b> in medical devices - National Health Executive** [link](https://www.nationalhealthexecutive.com/articles/addressing-ethnic-bias-medical-devices)
+_Highlight:_ <b>AI</b>-enabled medical devices; Polygenic risk scores in genomics. The government has “fully accepted the report&#39;s conclusions”&nbsp;...
+
+- **7. Ethical Considerations in <b>Artificial Intelligence</b> Training: Ensuring Fair and Responsible <b>AI</b>** [link](https://techbullion.com/ethical-considerations-in-artificial-intelligence-training-ensuring-fair-and-responsible-ai/)
+_Highlight:_ Data Bias and <b>Fairness</b>: One of the primary challenges in ethical <b>AI</b> training is the presence of biases in training data. If training datasets are not&nbsp;...
+
+- **8. When Good Intentions Go Awry Webinar | Anton Ovchinnikov - YouTube** [link](https://www.youtube.com/watch%3Fv%3DRq1imW-q53I)
+_Highlight:_ ... <b>AI</b> is fast changing the landscape of financial decision ... <b>fairness</b> and regulatory impacts. - Explore the counterintuitive outcomes of anti-bias&nbsp;...
+
+- **9. Advancement of <b>AI</b> presents opportunities and risks - CIO News** [link](https://cionews.co.in/advancement-of-ai-presents-opportunities-and-risks/)
+_Highlight:_ Address and mitigate biases in <b>AI</b> algorithms to ensure <b>fairness</b> and avoid discrimination. Regularly audit and evaluate <b>AI</b> systems for potential biases&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
