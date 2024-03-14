@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-14 One-Minute Post
+date: 2024-03-14 17:43:07 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+NSF report highlights US-China AI rivalry, emphasizing the importance of AI privacy. MEPs approve world's first comprehensive AI law, addressing bias and privacy concerns. Google restricts AI chatbot from answering election questions due to bias concerns. ELaw speaks at ACM Symposium on using AI to enhance fairness in recruitment. Surge in Russian Dark Web posts about US election interference in 2024, raising concerns about AI-generated disinformation and fairness. AI in Law faces challenges in balancing efficiency with fairness and confidentiality. Google Chrome introduces enhanced privacy features for safer browsing. Modern AI scam calls prompt awareness for privacy protection. Time for an International Treaty on Artificial Intelligence to address AI bias and unfair outcomes.
+
+## Articles we found interesting:
+
+- **1. NSF Report shows US-China <b>AI</b> rivalry sharpening - Nextgov/FCW** [link](https://www.nextgov.com/emerging-tech/2024/03/nsf-report-shows-us-china-ai-rivalry-sharpening/394916/)
+_Highlight:_ ... <b>AI</b> patents, and U.S. leadership says workforce i ... Your <b>Privacy</b> Choices; Exercise Your <b>Privacy</b> ... <b>AI</b> capabilities developed via published <b>AI</b> research,”&nbsp;...
+
+- **2. Google says Chrome can now protect you better while preserving your <b>privacy</b> - The Verge** [link](https://www.theverge.com/2024/3/14/24099937/google-chrome-safe-browsing-cybersecurity)
+_Highlight:_ By Sheena Vasani, a writer covering commerce, e-readers, and tech news. She previously wrote about everything from web development to <b>AI</b> at Inside.
+
+- **3. What to look out for in modern <b>AI</b> scam calls - ABC7 New York** [link](https://abc7ny.com/videoClip/scam-phone-calls-ai-7-on-your-side/14524004/)
+_Highlight:_ Nina Pineda has tips to help you look out for <b>AI</b> phone scams ... What to look out for in modern <b>AI</b> scam calls ... <b>Privacy</b> PolicyDo Not Sell My Personal&nbsp;...
+
+- **4. MEPs approve world&#39;s first comprehensive <b>AI</b> law - BBC** [link](https://www.bbc.com/news/technology-68546450)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). The sector has ... <b>bias</b>, privacy and even the future of humanity. ... &quot;The adoption of the <b>AI</b> Act marks the beginning of a&nbsp;...
+
+- **5. Time for An International Treaty on <b>Artificial Intelligence</b> | TechPolicy.Press** [link](https://techpolicy.press/time-for-an-international-treaty-on-artificial-intelligence)
+_Highlight:_ ... <b>AI</b> systems replicate <b>bias</b> and produce unfair outcomes. For example, <b>AI</b>-powered surveillance systems in the private sector, from workplaces to&nbsp;...
+
+- **6. Google restricts <b>AI</b> chatbot from answering election questions - Yahoo Finance** [link](https://finance.yahoo.com/news/google-restricts-ai-chatbot-answering-110225277.html)
+_Highlight:_ ... <b>bias</b>”. ADVERTISEMENT. Advertisement. There have been growing concerns about the reliability of <b>AI</b> chatbots because they can struggle to discern the&nbsp;...
+
+- **7. ELaw Speaks at 2024 ACM Computer Science and Law Symposium - Mirage News** [link](https://www.miragenews.com/elaw-speaks-at-2024-acm-computer-science-and-1194950/)
+_Highlight:_ ... <b>AI</b> in recruitment and ... This approach aims to support human decision-making, enhance <b>fairness</b>, and ensure transparency in <b>AI</b>-based hiring processes.
+
+- **8. Surge in Russian Dark Web Posts About US Election Interference in 2024 - Newsweek** [link](https://www.newsweek.com/surge-russian-dark-web-us-election-interference-2024-1878905)
+_Highlight:_ ... (<b>AI</b>) generated content could make disinformation easier to produce and more convincing. ... <b>fairness</b> meter. Newsweek is committed to ... To read how&nbsp;...
+
+- **9. <b>AI</b> in Law: Opportunities, Challenges, and Ethical Considerations for Lawyers - Auto-GPT** [link](https://autogpt.net/ai-in-law-opportunities-challenges-and-ethical-considerations-for-lawyers/)
+_Highlight:_ They must balance <b>AI&#39;s</b> efficiency with <b>fairness</b> and confidentiality. Here&#39;s a quick checklist for ethical <b>AI</b> use in legal practice: Verify <b>AI</b> sources&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
