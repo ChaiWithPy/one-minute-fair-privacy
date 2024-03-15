@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-15 One-Minute Post
+date: 2024-03-15 17:48:19 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Businesses are focusing on customer-centric data privacy strategies as AI advances. OpenAI is addressing issues of misinformation and harmful bias before releasing its text-to-video AI model. At the University of Michigan, researchers are working to address biases in AI. World Consumer Rights Day highlights the need for fair and responsible AI that prioritizes consumer safety and privacy. Senator Tuberville and Sage Steele advocate for fairness in athletics, while also raising ethical questions about AI-generated chatbots. As AI continues to evolve, it's crucial for organizations to prioritize transparency, fairness, and ethical guidelines in their AI initiatives.
+
+## Articles we found interesting:
+
+- **1. 4 Customer-Centric Strategies for Improving Data <b>Privacy</b> - CMS Wire** [link](https://www.cmswire.com/digital-experience/4-customer-centric-strategies-for-improving-data-privacy/)
+_Highlight:_ As technology advances with further developments in <b>AI</b>, businesses need to refocus their efforts on customer-centric approaches to data <b>privacy</b> and&nbsp;...
+
+- **2. [Webinar] A Practical Approach to Adapting Your E-Discovery Skills for <b>AI</b>, <b>Privacy</b>, and Cybersecurity** [link](https://www.jdsupra.com/legalnews/webinar-a-practical-approach-to-7376168/)
+_Highlight:_ While the focus of <b>artificial intelligence</b> is on e-discovery, those managing <b>privacy</b> and cybersecurity initiatives must also adapt their practices&nbsp;...
+
+- **3. It&#39;s up to business leaders to close the <b>AI</b> trust gap with employees and consumers | Fortune** [link](https://fortune.com/2024/03/15/ai-trust-gap-pwc-2024-trust-survey/)
+_Highlight:_ When it comes to <b>AI</b>, both workers and customers want more transparency around data <b>privacy</b> and governance, a new survey shows.
+
+- **4. Sora: OpenAI says it will release text-to-video <b>AI</b> model in a few months - Business Standard** [link](https://www.business-standard.com/technology/tech-news/sora-openai-says-it-will-release-text-to-video-ai-model-in-a-few-months-124031400615_1.html)
+_Highlight:_ OpenAI Sora: OpenAI said it is currently considering &quot;the issues of misinformation and harmful <b>bias</b>&quot; before the public release, which is likely in&nbsp;...
+
+- **5. Meet the woman doing groundbreaking <b>AI</b> research at U-M - WXYZ** [link](https://www.wxyz.com/news/meet-the-woman-doing-groundbreaking-ai-research-at-u-m)
+_Highlight:_ To the team of male and female <b>AI</b> researchers at Michigan, it&#39;s imperative that women, and people of all backgrounds, work in <b>AI</b> as many <b>biases</b> can be&nbsp;...
+
+- **6. Meet the woman doing groundbreaking <b>AI</b> research at the University of Michigan - YouTube** [link](https://www.youtube.com/watch%3Fv%3Dq-JBdzb5dbM)
+_Highlight:_ 7:01 &middot; Go to channel &middot; <b>Artificial intelligence</b> technologies today perpetuating gender <b>bias</b>, says expert. CNA New 1.1K views &middot; 19:41 &middot; Go to channel&nbsp;...
+
+- **7. Fair and Responsible <b>AI</b> for Consumers -The Case for Automation and Engineering - LankaWeb** [link](https://www.lankaweb.com/news/items/2024/03/14/world-consumer-day-2024-fair-and-responsible-ai-for-consumers-the-case-for-automation-and-engineering/)
+_Highlight:_ To address these challenges, it is essential to develop and enforce ethical <b>AI</b> guidelines that prioritize consumer safety, privacy, and <b>fairness</b>.
+
+- **8. World Consumer Rights Day Spotlights <b>Artificial Intelligence</b> - Mirage News** [link](https://www.miragenews.com/world-consumer-rights-day-spotlights-artificial-1195446/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>), like chatbots, also brings a real threat to consumer safety and digital <b>fairness</b>. NSW consumers already face serious&nbsp;...
+
+- **9. Sen. Tuberville, Sage Steele vow &#39;women&#39;s sports are going to survive&#39; in their push for ...** [link](https://siouxcountyradio.com/fox-news-latest/sen-tuberville-sage-steele-vow-womens-sports-are-going-to-survive-in-their-push-for-fairness-in-athletics/)
+_Highlight:_ ... <b>fairness</b> in athletics. March 14, 2024. Alabama Sen. Tommy Tuberville ... <b>AI</b> generated Marilyn Monroe chatbot raises ethical questions on using dead&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
