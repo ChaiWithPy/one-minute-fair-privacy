@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-16 One-Minute Post
+date: 2024-03-16 17:38:30 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Alberta is working on its first regulations for artificial intelligence to protect privacy. Reddit is under FTC inquiry for AI-related deals. India drops plan to require approval for AI model launches to prevent bias. Emotional intelligence will amplify AI's power while Howso partners with Microsoft to deliver explainable AI to tackle bias. Lagos marks World Consumer Rights Day, emphasizing responsible AI usage. Additionally, there's a focus on fairness in AI-driven decision-making and the need to address fairness in AI applications for industrial IoT.
+
+## Articles we found interesting:
+
+- **1. Alberta working on its first regulations governing <b>artificial intelligence</b> | CBC News** [link](https://www.cbc.ca/news/canada/calgary/albert-province-artificial-intelligence-regulations-1.7145925)
+_Highlight:_ <b>Privacy</b> commissioner says <b>AI</b> laws needed to protect people from harm. Acton Clarkin · CBC News · Posted: Mar 16, 2024 4:00 AM PDT | Last Updated: 6&nbsp;...
+
+- **2. UPDATE 2-Reddit receives FTC inquiry on <b>AI</b>-related deals ahead of IPO - Yahoo Finance** [link](https://finance.yahoo.com/news/1-reddit-receives-ftc-inquiry-203213953.html)
+_Highlight:_ Terms/<b>Privacy</b> Policy &middot; Your <b>Privacy</b> Choices Your <b>Privacy</b> Choices &middot; CA <b>Privacy</b> Notice &middot; About Our Ads. Advertisement. Recommended Stories. Motley Fool&nbsp;...
+
+- **3. Why one doctor turned to <b>AI</b> to &#39;dysolve&#39; dyslexia - TheStreet** [link](https://www.thestreet.com/technology/dyslexia-neurological-learning-disorders-psychology-linguistics-idea-disability-artificial-intelligence)
+_Highlight:_ ... <b>privacy</b>, security, bias, misinformation, inequality and copyright infringement, to name just a few, the technology does exist in other forms far&nbsp;...
+
+- **4. India drops plan to require approval for <b>AI</b> model launches | TechCrunch** [link](https://techcrunch.com/2024/03/15/india-drops-plan-to-require-approval-for-ai-model-launches/)
+_Highlight:_ The advisory emphasizes that <b>AI</b> models should not be used to share unlawful content under Indian law and should not permit <b>bias</b>, discrimination, or&nbsp;...
+
+- **5. How emotional intelligence (EQ) will amplify <b>AI&#39;s</b> power - Fast Company** [link](https://www.fastcompany.com/91056919/how-emotional-intelligence-eq-will-amplify-ais-power)
+_Highlight:_ Fears persist about <b>AI</b> replacing humans, and while those fears may be exaggerated, <b>AI bias</b> presents real risks. There is a strong need for leading&nbsp;...
+
+- **6. Howso partners with Microsoft to deliver explainable <b>AI</b> to the Azure Marketplace** [link](https://wraltechwire.com/2024/03/15/howso-partners-with-microsoft-to-deliver-explainable-ai-to-the-azure-marketplace/)
+_Highlight:_ ... <b>AI</b> models return responses. Their efforts aim to ensure that businesses can tackle issues like <b>bias</b> and anomalies, enabling users to trace <b>AI</b>&nbsp;...
+
+- **7. Lagos Marks World Consumer Rights Day, Harps On Responsible <b>AI</b> Usage** [link](https://von.gov.ng/lagos-marks-world-consumer-rights-day-harps-on-responsible-ai-usage/)
+_Highlight:_ ... <b>fairness</b>, transparency, and responsibility. The Commissioner who reiterated the commitment of the administration of Babajide Sanwo-Olu to ensure that&nbsp;...
+
+- **8. Reimagining the collaborative potential of generative <b>AI</b> - The Financial Express** [link](https://www.financialexpress.com/business/digital-transformation-reimagining-the-collaborative-potential-of-generative-ai-3426755/)
+_Highlight:_ With the increasing prevalence of these technologies, it is crucial to uphold transparency, accountability, and <b>fairness</b> in <b>AI</b>-driven decision-making&nbsp;...
+
+- **9. Comment | Dual perspectives: Two sides of <b>AI</b> in Industrial IoT - Digit.fyi** [link](https://www.digit.fyi/comment-dual-perspectives-two-sides-of-ai-in-industrial-iot/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) in industrial Internet of Things (IoT). ... <b>fairness</b> in <b>AI</b> applications. This includes addressing data protection&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
