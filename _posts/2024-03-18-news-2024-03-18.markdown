@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-18 One-Minute Post
+date: 2024-03-18 17:29:54 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google pauses AI image-generator Gemini due to privacy concerns. Department of Homeland Security aims to leverage AI responsibly while protecting privacy. YouTube introduces AI-generated content labeling tool for transparency. FDA outlines approach to AI regulation, focusing on bias mitigation. Meity revises AI advisory to prevent bias and electoral interference. AI policies and governance guide emphasizes fairness, bias, and discrimination. AI-based system developed to ensure fairness in sports betting. Debate over fairness and bias sparked by AI use in predictive policing and sentencing algorithms.
+
+## Articles we found interesting:
+
+- **1. Google races to find a solution after <b>AI</b> generator Gemini misses the mark - WQCS** [link](https://www.wqcs.org/2024-03-18/google-races-to-find-a-solution-after-ai-generator-gemini-misses-the-mark)
+_Highlight:_ Google paused its <b>AI</b> image-generator after ... Google paused its <b>AI</b> image-generator after Gemini ... <b>Privacy</b> Policy &middot; Public File &middot; Facebook &middot; Twitter.
+
+- **2. Department of Homeland Security Unveils <b>Artificial Intelligence</b> Roadmap, Announces Pilot ...** [link](https://www.dhs.gov/news/2024/03/18/department-homeland-security-unveils-artificial-intelligence-roadmap-announces)
+_Highlight:_ Responsibly leverage <b>AI</b> to advance Homeland Security missions while protecting individuals&#39; <b>privacy</b>, civil rights, and civil liberties – DHS is&nbsp;...
+
+- **3. YouTube adds new <b>AI</b>-generated content labeling tool - The Verge** [link](https://www.theverge.com/2024/3/18/24104743/youtube-ai-generated-content-disclosure-label)
+_Highlight:_ The platform previously said it would require creators to disclose <b>AI</b> ... <b>privacy</b> request form that the company would review. ... <b>AI</b>-generated content,&nbsp;...
+
+- **4. FDA Outlines its Approach to <b>Artificial Intelligence</b> Regulation** [link](https://medtechintelligence.com/news_article/fda-outlines-its-approach-to-artificial-intelligence-regulation/)
+_Highlight:_ Supporting regulatory science efforts to develop methodology for evaluating <b>AI</b> algorithms, identifying and mitigating <b>bias</b>, and ensuring the&nbsp;...
+
+- **5. Meity revises <b>AI</b> advisory after push back from industry - The Hindu BusinessLine** [link](https://www.thehindubusinessline.com/info-tech/meity-revises-ai-advisory-after-push-back-from-industry/article67961693.ece)
+_Highlight:_ Tech platforms have to ensure that their respective <b>AI</b> platforms do not exhibit <b>bias</b> and refrain from interfering with electoral processes.
+
+- **6. Revised <b>AI</b> Advisory: How <b>AI</b> Regulation Can Impact India - INDIAai** [link](https://indiaai.gov.in/article/revised-ai-advisory-how-ai-regulation-can-impact-india)
+_Highlight:_ Electoral Integrity: <b>AI</b> transparency and <b>bias</b> prevention measures safeguard the integrity of the electoral process, combating misinformation and&nbsp;...
+
+- **7. <b>AI</b> policies and governance: A guide for in-house lawyers – Part 1 - Businessday NG** [link](https://businessday.ng/news/legal-business/article/ai-policies-and-governance-a-guide-for-in-house-lawyers-part-1/)
+_Highlight:_ <b>Fairness</b> interacts with bias and discrimination, two key societal concerns associated with the use of <b>AI</b>. These are ethical considerations that all&nbsp;...
+
+- **8. <b>AI</b>-based betting anomaly detection system to ensure <b>fairness</b> in sports and prevent illegal gambling** [link](https://www.nature.com/articles/s41598-024-57195-8)
+_Highlight:_ This study develops a solution to sports match-fixing using various machine-learning models to detect match-fixing anomalies, based on betting&nbsp;...
+
+- **9. The Digital Tightrope Walk for Business and Human Rights - Polity.org** [link](https://www.polity.org.za/article/the-digital-tightrope-walk-for-business-and-human-rights-2024-03-18)
+_Highlight:_ In the United States, the use of <b>AI</b> in predictive policing and sentencing algorithms has sparked debate over <b>fairness</b> and bias. Studies, such as&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
