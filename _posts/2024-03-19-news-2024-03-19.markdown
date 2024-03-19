@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-03-19 One-Minute Post
+date: 2024-03-19 17:34:59 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Privacy concerns are at the forefront as the EU plans to scrutinize US-based social media apps for data privacy and safeguards against AI. Meanwhile, Info-Tech Research Group emphasizes the importance of privacy impact assessments for AI technologies. On the other hand, Microsoft's health VP is taking on responsible AI, addressing potential biases in AI models. India has revised its approval stance on AI model launches, emphasizing the need to ensure content is free of bias and discrimination. The conversation around building fairness into AI continues, highlighting the crucial and challenging nature of this task, with a focus on the influence of privacy on AI fairness.
+
+## Articles we found interesting:
+
+- **1. Building fairness into <b>AI</b> is crucial – and hard to get right - The Conversation** [link](https://theconversation.com/building-fairness-into-ai-is-crucial-and-hard-to-get-right-220271)
+_Highlight:_ ... <b>privacy</b> can significantly influence the fairness of <b>AI</b> systems. For ... <b>Artificial intelligence</b> (<b>AI</b>) &middot; Technology &middot; Fairness &middot; Algorithmic bias&nbsp;...
+
+- **2. <b>Privacy</b> in the Age of <b>AI</b>: Insights on Implementing Ethical Practices Published by Info-Tech ...** [link](https://www.prnewswire.com/news-releases/privacy-in-the-age-of-ai-insights-on-implementing-ethical-practices-published-by-info-tech-research-group-302093379.html)
+_Highlight:_ Info-Tech Research Group&#39;s latest research highlights the critical importance of performing <b>privacy</b> impact assessments (PIAs) for <b>AI</b> technologies&nbsp;...
+
+- **3. After TikTok, EU to scrutinise US-based social media apps for data <b>privacy</b>, safeguards against <b>AI</b>** [link](https://www.firstpost.com/tech/after-tiktok-eu-to-scrutinise-us-based-social-media-apps-for-data-privacy-safeguards-against-ai-13750602.html)
+_Highlight:_ With the US on the verge of either banning TikTok or forcing ByteDance to sell its stake, EU may start investigating American social media&nbsp;...
+
+- **4. Microsoft&#39;s health VP takes on responsible <b>AI</b> - Healthcare Dive** [link](https://www.healthcaredive.com/news/microsoft-artificial-intelligence-health-david-rhew/710482/)
+_Highlight:_ ... <b>AI</b> amid thorny questions about the models&#39; potential for mistakes and <b>bias</b>. Last week Microsoft — along with 16 health systems and two healthcare&nbsp;...
+
+- **5. India revises approval stance on <b>AI</b> model launches - ReadWrite** [link](https://readwrite.com/india-revises-approval-stance-on-ai-model-launches/)
+_Highlight:_ The letter outlined the need to adhere to existing Indian law and the imperative for the generated content to be free of <b>bias</b>, discrimination and any&nbsp;...
+
+- **6. The need for responsible <b>AI</b> - ASPI The Strategist** [link](https://www.aspistrategist.org.au/the-need-for-responsible-ai/)
+_Highlight:_ And first up is <b>bias</b> mitigation: <b>AI</b> models should be designed with care to avoid unfair or discriminatory outcomes. Transparency and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
