@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-20 One-Minute Post
+date: 2024-03-20 17:33:24 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OECD and AI leaders collaborate on privacy guidelines. Further acquires Pandata for privacy-first AI solutions. Educators address AI bias and ethical issues. Technology must tackle bias in medical devices. PDRI to lead research program on fairness in AI. Former Google employee reveals shortcuts taken in Gemini AI launch, compromising fairness. Building fairness into AI is crucial but challenging.
+
+## Articles we found interesting:
+
+- **1. OECD <b>privacy</b>, <b>AI</b> leaders come together to bridge gaps** [link](https://iapp.org/news/a/oecd-privacy-ai-leaders-come-together-to-bridge-gaps/)
+_Highlight:_ IAPP Staff Writer Caitlin Andrews writes about the new OECD working group&#39;s aim to show <b>privacy</b> and <b>AI</b> communities where their work overlaps.
+
+- **2. Further Acquires Pandata to Deliver <b>Privacy</b>-First <b>AI</b> Solutions - AccessWire** [link](https://www.accesswire.com/844962/further-acquires-pandata-to-deliver-privacy-first-ai-solutions)
+_Highlight:_ ... <b>privacy</b>-first <b>AI</b> solutions that address growing concerns around data security. The partnership will enable Further to extend its suite of <b>AI</b>&nbsp;...
+
+- **3. Nvidia&#39;s lesser-known plan to stay dominant in the <b>AI</b> chip business - Fast Company** [link](https://www.fastcompany.com/91065684/this-is-nvidias-lesser-known-plan-to-stay-dominant-in-the-ai-chip-business)
+_Highlight:_ Apple&#39;s big opportunity is offering <b>privacy</b>-protecting personal <b>AI</b> apps powered by models that run mostly or completely on-device. InflectionAI wasn&#39;t&nbsp;...
+
+- **4. Educators grapple with double-edged sword: <b>AI</b> and ethics - Miami Today** [link](https://www.miamitodaynews.com/2024/03/19/educators-grapple-with-double-edged-sword-ai-and-ethics/)
+_Highlight:_ Additionally, he said, a section of the machine learning course discusses “<b>AI bias</b> and ethical issues in general with <b>AI</b> security issues, privacy&nbsp;...
+
+- **5. <b>AI</b> will also create new ethical and social issues around privacy, <b>bias</b>, accountability, and trust** [link](https://ciosea.economictimes.indiatimes.com/news/strategy-and-management/ai-will-also-create-new-ethical-and-social-issues-around-privacy-bias-accountability-and-trust-anndy-lian/108603661)
+_Highlight:_ As part of our rapid fire interview series, Anndy Lian, an Intergovernmental Blockchain Expert shares his quick take on the <b>AI</b> evolution,&nbsp;...
+
+- **6. Technology must tackle <b>bias</b> in medical devices | Health - The Guardian** [link](https://www.theguardian.com/society/2024/mar/19/technology-must-tackle-bias-in-medical-devices)
+_Highlight:_ ... The Y2K bug should teach us to be wary of <b>AI</b>. 8 Jun 2023. The danger of blindly embracing the rise of <b>AI</b>. 3 Apr 2023. <b>AI</b> expert Meredith Broussard&nbsp;...
+
+- **7. PDRI by Pearson to Lead New Research Program to Investigate Applications for ... - Yahoo Finance** [link](https://finance.yahoo.com/news/pdri-pearson-lead-research-program-130300000.html)
+_Highlight:_ ... <b>AI</b> in the development and use of assessments. PDRI will ... &quot;Generative <b>AI</b> shows great promise to improve assessment development, quality and <b>fairness</b>&nbsp;...
+
+- **8. How a &#39;code red&#39; meeting and ChatGPT led execs to take &#39;shortcuts&#39; in Gemini <b>AI</b> launch** [link](https://www.foxbusiness.com/media/former-google-employee-code-red-meeting-chatgpt-execs-take-shortcuts-gemini-ai-launch)
+_Highlight:_ The former employee said Google&#39;s <b>AI</b> was pushed up to leadership despite warnings and execs abandoned &#39;<b>fairness</b>&#39; to launch the product.
+
+- **9. Building <b>fairness</b> into <b>AI</b> is crucial – and hard to get right - EconoTimes** [link](https://www.econotimes.com/Building-fairness-into-AI-is-crucial--and-hard-to-get-right-1673858)
+_Highlight:_ <b>Fairness</b> in <b>AI</b> has emerged as a critical area of focus for researchers, developers and policymakers. It transcends technical achievement, touching on&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
