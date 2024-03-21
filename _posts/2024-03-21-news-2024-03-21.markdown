@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-21 One-Minute Post
+date: 2024-03-21 17:31:09 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Washington State is launching an AI task force to regulate generative AI systems for privacy protection. The UN General Assembly is focusing on AI systems to safeguard privacy and prevent bias and discrimination. YouTube is introducing disclosure labels for AI-driven content manipulation. The Luxembourg Institute of Science and Technology has unveiled an AI bias leaderboard. Transparency and fairness in AI decision-making are being emphasized for cybersecurity. Earnix has launched the Fairness Lab to shape the future of ethical AI and ML equity in the financial sector.
+
+## Articles we found interesting:
+
+- **1. Washington State Poised to Launch <b>Artificial Intelligence</b> Task Force** [link](https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/washington-state-poised-to-launch-artificial-intelligence-task-force)
+_Highlight:_ Making recommendations to the legislature regarding standards for the use and regulation of generative <b>AI</b> systems to protect the safety, <b>privacy</b>, and&nbsp;...
+
+- **2. Statement from Vice President Harris on the UN General Assembly Resolution on <b>Artificial</b> ...** [link](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/21/statement-from-vice-president-harris-on-the-un-general-assembly-resolution-on-artificial-intelligence/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). President Biden ... <b>privacy</b>, and human rights of their citizens. ... <b>AI</b> systems. As this technology continues to evolve&nbsp;...
+
+- **3. Statement from National Security Advisor Jake Sullivan on the United Nations General ...** [link](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/21/statement-from-national-security-advisor-jake-sullivan-on-the-united-nations-general-assembly-resolution-on-artificial-intelligence-for-sustainable-development/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). This resolution, proposed ... <b>AI</b>, protect <b>privacy</b>, guarding against misuse, prevent exacerbated bias and discrimination.
+
+- **4. LIST pioneers <b>AI</b> regulatory sandboxes and launches ethical <b>bias</b> leaderboard - EurekAlert!** [link](https://www.eurekalert.org/news-releases/1038466)
+_Highlight:_ Example of <b>AI bias</b>. image: Example of <b>AI bias</b>. view more. Credit: LIST. The Luxembourg Institute of Science and Technology (LIST) has unveiled its&nbsp;...
+
+- **5. YouTube to roll out disclosure labels for videos created using GenAI - Business Standard** [link](https://www.business-standard.com/companies/news/youtube-to-ask-creators-to-disclose-altered-videos-to-combat-manipulation-124032000978_1.html)
+_Highlight:_ ... <b>Artificial Intelligence</b> (<b>AI</b>)-driven content manipulation. The platform has ... <b>AI bias</b>. Giants including Google and Meta have undertaken India&nbsp;...
+
+- **6. The Crunch: cherry tree blooms, the cost of booze and <b>AI bias</b> | | The Guardian** [link](https://www.theguardian.com/news/2024/mar/21/the-crunch-cherry-trees-booze-and-ai-bias)
+_Highlight:_ Four charts from the week &middot; 1. A deep dive into preventive policing &middot; 2. Ever earlier cherry tree blooms &middot; 3. Another example of <b>AI bias</b> &middot; 4. Why the cost&nbsp;...
+
+- **7. <b>AI</b> Transparency: Why Explainable <b>AI</b> Is Essential for Modern Cybersecurity | Tripwire** [link](https://www.tripwire.com/state-of-security/ai-transparency-why-explainable-ai-essential-modern-cybersecurity)
+_Highlight:_ The widespread use of ML models often overlooks the importance of ensuring accuracy, reliability, and <b>fairness</b> in decision-making. As <b>AI</b>-generated&nbsp;...
+
+- **8. <b>AI</b> in Entertainment: An Actual &quot;Game&quot; Changer - Passive Income MD** [link](https://passiveincomemd.com/ai-in-entertainment-an-actual-game-changer/)
+_Highlight:_ Bias and <b>Fairness</b>: How can we ensure <b>AI</b> is built on unbiased data and avoids perpetuating societal inequalities? Transparency and Explainability&nbsp;...
+
+- **9. Earnix&#39;s <b>Fairness</b> Lab: Shaping the future of ethical <b>AI</b> and ML equity - FinTech Global** [link](https://fintech.global/2024/03/21/earnixs-fairness-lab-shaping-the-future-of-ethical-ai-and-ml-equity/)
+_Highlight:_ Earnix is at the forefront of addressing this imperative. The real-time <b>AI</b>-powered enterprise rating platform has launched the <b>Fairness</b> Lab.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
