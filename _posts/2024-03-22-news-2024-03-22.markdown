@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-22 One-Minute Post
+date: 2024-03-22 17:33:34 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+UF Office of Public Policy Events hosts a panel on balancing medical AI advances with privacy concerns. Department of Homeland Security unveils an AI roadmap emphasizing privacy protection. Maiven launches a self-service AI video testing platform to eliminate bias. Ethical AI training is crucial for shaping an inclusive government workforce. SAP emphasizes fairness, explainability, privacy, and security in AI. Concerns arise about bias and fairness in AI tools for hiring. AI's impact on workplace wellbeing raises questions about fairness and efficacy.
+
+## Articles we found interesting:
+
+- **1. UF Office of Public Policy Events holds panel discussion on <b>privacy</b> in <b>AI</b> medical software tools** [link](https://news.ufl.edu/2024/03/public-policy-events/)
+_Highlight:_ UF&#39;s Office of Public Policy Events will host a panel discussion about how to balance advances in medical <b>AI</b> with concerns about data <b>privacy</b> on&nbsp;...
+
+- **2. The tech tightrope: safeguarding <b>privacy</b> in an <b>AI</b>-powered world - TechRadar** [link](https://www.techradar.com/pro/the-tech-tightrope-safeguarding-privacy-in-an-ai-powered-world)
+_Highlight:_ Post-quantum solution can address <b>privacy</b> in <b>AI</b> platforms.
+
+- **3. Department of Homeland Security unveils new <b>Artificial Intelligence</b> Roadmap** [link](https://www.naco.org/news/department-homeland-security-unveils-new-artificial-intelligence-roadmap)
+_Highlight:_ The roadmap underscores DHS&#39;s commitment to responsible utilization, emphasizing the protection of <b>privacy</b>, civil rights and civil liberties while&nbsp;...
+
+- **4. Ethical <b>AI</b> in Training to Shape an Inclusive Government Workforce | ATD** [link](https://www.td.org/atd-blog/ethical-ai-in-training-to-shape-an-inclusive-government-workforce)
+_Highlight:_ <b>AI</b> systems have already been shown to increase workplace disparities when trained with <b>biased</b> or low-quality data. In addition to taking this moment&nbsp;...
+
+- **5. MAIVEN ANNOUNCES THE FIRST SELF-SERVICE <b>AI</b> POWERED VIDEO TESTING PLATFORM** [link](http://www.streetinsider.com/Press%2BReleases/MAIVEN%2BANNOUNCES%2BTHE%2BFIRST%2BSELF-SERVICE%2BAI%2BPOWERED%2BVIDEO%2BTESTING%2BPLATFORM/22961347.html)
+_Highlight:_ &quot;Traditional focus groups are slow, costly, and often skewed with unwanted <b>bias</b>. Maiven strips all of that away and reveals how viewers feel about&nbsp;...
+
+- **6. Strategic <b>AI</b> Adoption in Talent Acquisition Today: Overcoming Barriers and Unveiling Future ...** [link](https://www.brianheger.com/strategic-ai-adoption-in-talent-acquisition-today-overcoming-barriers-and-unveiling-future-possibilities-mercer-and-st-johns-university/)
+_Highlight:_ The authors share various ways that TA can benefit from using <b>AI</b> in recruiting and hiring, such as using <b>AI</b> to mitigate unconscious <b>bias</b> that&nbsp;...
+
+- **7. How Women Shape <b>AI</b> at SAP** [link](https://news.sap.com/2024/03/how-women-shape-ai-at-sap/)
+_Highlight:_ ... <b>AI</b>, namely <b>fairness</b>, explainability, privacy, and security.” Photo courtesy of Khawla Mallat. Prior to joining SAP two years ago, Mallat was&nbsp;...
+
+- **8. The Impact of <b>AI</b> in Modern Recruitment Practices - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/03/22/the-impact-of-ai-in-modern-recruitment-practices/)
+_Highlight:_ However, the use of <b>AI</b> tools in the hiring process has raised concerns about bias and <b>fairness</b>. In a recent survey conducted by Greenhouse Software,&nbsp;...
+
+- **9. How Serious is <b>AI</b> Bias in Recruitment for Workplace Wellbeing? - Cryptopolitan** [link](https://www.cryptopolitan.com/how-serious-is-ai-bias-in-recruitment/)
+_Highlight:_ ... <b>fairness</b> and efficacy of these <b>AI</b>-driven systems. From screening CVs to analyzing candidates&#39; responses, the role of <b>AI</b> in shaping workplace&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
