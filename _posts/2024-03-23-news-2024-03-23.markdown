@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-23 One-Minute Post
+date: 2024-03-23 17:33:31 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Utah enacts first AI law with potential impact on healthcare, while the LDS Church outlines AI guidelines focusing on privacy and security. The UN resolution recognizes AI risks, and California releases guidance to vet AI for bias. A study shows AI could mitigate bias in lending, and a professor co-authors a book on trustworthy AI. Additionally, there are discussions on ensuring responsible AI in financial services and practical steps for the Pregnant Workers Fairness Act.
+
+## Articles we found interesting:
+
+- **1. Utah Enacts First <b>AI</b> Law – A Potential Blueprint for Other States, Significant Impact on Health Care** [link](https://www.jdsupra.com/legalnews/utah-enacts-first-ai-law-a-potential-7421259/)
+_Highlight:_ The Utah <b>AI</b> Policy Act is the natural successor to some state <b>privacy</b> and chatbot laws; however, it goes further than <b>privacy</b> laws governing&nbsp;...
+
+- **2. LDS Church spells out guidelines for <b>A.I.</b> use for employees - The Salt Lake Tribune** [link](https://www.sltrib.com/religion/2024/03/23/we-can-use-ai-good-lds-church-says/)
+_Highlight:_ ... <b>A.I.</b>: spiritual connection; transparency; <b>privacy</b> and security; and accountability.
+
+- **3. UN resolution on <b>AI</b> encourages measures against malicious use | SC Media** [link](https://www.scmagazine.com/news/un-resolution-on-ai-encourages-measures-against-malicious-use)
+_Highlight:_ UN <b>AI</b> resolution recognizes cybercrime, deepfake, <b>privacy</b> risks. The resolution makes recommendations covering a range of <b>AI</b> challenges and&nbsp;...
+
+- **4. California&#39;s plan to get the <b>bias</b> out of <b>AI</b> - POLITICO** [link](https://www.politico.com/newsletters/future-pulse/2024/03/22/california-only-wants-unbiased-ai-00148512)
+_Highlight:_ California state agencies that plan to buy <b>artificial intelligence</b> products will need to vet them for <b>bias</b> under new guidance released at Democratic&nbsp;...
+
+- **5. UN grapples with itself over <b>artificial intelligence</b> and equality - Tech 24 - France 24** [link](https://www.france24.com/en/tv-shows/tech-24/20240322-un-grapples-with-itself-over-artificial-intelligence-and-equality)
+_Highlight:_ <b>artificial intelligence</b> &middot; UNESCO &middot; UN. Related content. #The 51%. How <b>artificial intelligence</b> reinforces gender <b>bias</b> &middot; EU parliament approves landmark&nbsp;...
+
+- **6. Study of car lenders shows <b>AI</b> could mitigate <b>bias</b> and open lending to marginalized customers** [link](https://phys.org/news/2024-03-car-lenders-ai-mitigate-bias.html)
+_Highlight:_ ... <b>AI bias</b>, which is a well-reported phenomenon. However, I would argue that using <b>AI</b> that is based on well understood and transparent machine&nbsp;...
+
+- **7. Batten College Professor Co-Authors Book on Trustworthy <b>AI</b> | Old Dominion University** [link](https://www.odu.edu/engineering/article/batten-college-professor-co-authors-book-trustworthy-ai)
+_Highlight:_ Tailored for <b>artificial intelligence</b> (<b>AI</b>) developers, researchers ... <b>AI</b> systems in terms of reliability, <b>fairness</b>, transparency, privacy and security.
+
+- **8. Five Key Questions For Ensuring Responsible <b>AI</b> In Financial Services - FA Mag** [link](https://www.fa-mag.com/news/five-key-questions-for-ensuring-responsible-ai-in-financial-services-77405.html)
+_Highlight:_ What Are Your Data And Algorithm Audit Procedures? Critical to ensuring the integrity and <b>fairness</b> of <b>AI</b> systems is the establishment of rigorous data&nbsp;...
+
+- **9. The Burr Morning Show: Pregnant Workers <b>Fairness</b> Act | Burr &amp; Forman - JDSupra** [link](https://www.jdsupra.com/legalnews/the-burr-morning-show-pregnant-workers-03248/)
+_Highlight:_ Amy Jordan Wilkes and Gabriell Jeffreys discuss practical steps organizations can take to prepare for the Pregnant Workers <b>Fairness</b> Act and the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
