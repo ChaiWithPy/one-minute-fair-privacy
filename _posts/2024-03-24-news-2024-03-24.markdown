@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-24 One-Minute Post
+date: 2024-03-24 17:28:58 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple is facing privacy issues in the generative AI world. Big tech and human ingenuity merge in AI advancements, necessitating additional training for HR professionals and understanding of technology's limitations. The FTC hosts an annual PrivacyCon event focusing on Privacy Enhancing Technologies and Artificial Intelligence. Bitcoin bearish bias remains strong, while the debate on whether accents matter in bias continues. AI skills in high demand for the next decade include addressing bias, privacy, and fairness. AI will influence hiring in 2024, ensuring fairness, engagement, and time efficiency. Navigating the ethical dilemmas of AI in journalism and the challenges of AI fairness are crucial for fostering trust and responsible technological advancement.
+
+## Articles we found interesting:
+
+- **1. Justice Department Risks Picking the Wrong Fight With Apple - Bloomberg** [link](https://www.bloomberg.com/news/newsletters/2024-03-24/how-strong-is-the-justice-department-case-against-apple-it-could-be-stronger-lu5ii64n)
+_Highlight:_ There are tons of ethical and <b>privacy</b> issues in the generative <b>AI</b> world. ... Apple also is still figuring out how to handle <b>privacy</b> with <b>AI</b> features&nbsp;...
+
+- **2. Unleashing The Potential: How Big Tech And Human Ingenuity Merge In <b>AI</b> Advancements** [link](https://inc42.com/resources/unleashing-the-potential-how-big-tech-and-human-ingenuity-merge-in-ai-advancements/)
+_Highlight:_ This necessitates additional training for HR professionals and a clear understanding of the technology&#39;s limitations. Data <b>privacy</b> and security: As <b>AI</b>&nbsp;...
+
+- **3. FTC Hosts Annual PrivacyCon Event on March 6, 2024 - The National Law Review** [link](https://www.natlawreview.com/article/ftc-hosts-annual-privacycon-event-march-6-2024)
+_Highlight:_ ... <b>Privacy</b> Enhancing Technologies,” “<b>Artificial Intelligence</b>,” and “Deepfakes.” Videos and transcripts from this year&#39;s conference can be found on&nbsp;...
+
+- **4. Sell-off alert: Bitcoin bearish <b>bias</b> remains strong - Finbold** [link](https://finbold.com/sell-off-alert-bitcoin-bearish-bias-remains-strong/)
+_Highlight:_ ... <b>bias</b> remains strong. With Bitcoin struggling ... Claude Opus <b>AI</b> predicts SHIB price for the end of 2024 8 hours ago ... Any trading below $65,000 and the&nbsp;...
+
+- **5. Do Accents Matter? | The Business - RTÉ Radio 1 - RTE** [link](https://www.rte.ie/radio/radio1/clips/22374906/)
+_Highlight:_ Cathal Friel&#39;s comments stirred controversy, suggesting people from outside South Dublin make for better employees. Is this <b>bias</b> worse than <b>AI</b>&nbsp;...
+
+- **6. Future-proof your career: Top 12 <b>AI</b> skills in high demand for the next decade** [link](https://www.newindianexpress.com/lifestyle/tech/2024/Mar/23/dd%257D%257D-24)
+_Highlight:_ ... <b>bias</b>, privacy, and fairness. 4. Quantum ... <b>AI</b>-Assisted Genetic Engineering: <b>AI</b> ... <b>AI</b>-Powered Cybersecurity Defense: Autonomous <b>AI</b> systems bolster&nbsp;...
+
+- **7. 5 Ways <b>AI</b> Will Influence Hiring In 2024 - Free Press Journal** [link](https://www.freepressjournal.in/weekend/5-ways-ai-will-influence-hiring-in-2024)
+_Highlight:_ In the dynamic landscape of recruitment, <b>Artificial Intelligence</b> (<b>AI</b>) ... Concurrently, <b>AI</b>-powered assessments ensure <b>fairness</b>, engagement, and time&nbsp;...
+
+- **8. <b>AI Fairness</b>: Navigating Challenges for Equitable Technology - Cryptopolitan** [link](https://www.cryptopolitan.com/ai-fairness-navigating-equitable-technology/)
+_Highlight:_ <b>Fairness</b> in <b>AI</b> is not merely a moral imperative but a foundational element for fostering trust, inclusivity, and responsible technological advancement&nbsp;...
+
+- **9. Navigating the Ethical Dilemmas of <b>AI</b> in Journalism - Cryptopolitan** [link](https://www.cryptopolitan.com/ethical-dilemmas-of-ai-in-journalism/)
+_Highlight:_ <b>AI Fairness</b> &middot; #Trending News. 2 mins read. <b>AI Fairness</b>: Navigating Challenges for Equitable Technology &middot; <b>AI</b> Surveillance.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
