@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-26 One-Minute Post
+date: 2024-03-26 17:17:27 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+EU Artificial Intelligence Act has passed, focusing on privacy. Biden aims to regulate AI to address bias. BIAS project showcased at Lausanne Machine Learning Event, emphasizing fairness in AI. Meanwhile, hackers breached AI servers, raising concerns about privacy. AI in healthcare is revolutionizing, but ethical challenges around data privacy persist. Educators are urged to understand AI's biases. David Griffiths emphasizes the need for fairness in AI governance. Trustworthiness in AI deployment is crucial, encompassing fairness and transparency.
+
+## Articles we found interesting:
+
+- **1. EU <b>Artificial Intelligence</b> Act Passes in European Parliament - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3Dbe7d36f2-eec9-4d04-ae4f-718200c543d9)
+_Highlight:_ EU <b>Artificial Intelligence</b> Act Passes in European Parliament Blog Workplace <b>Privacy</b>, Data Management &amp; Security Report ... On Wednesday, March 13, 2024,&nbsp;...
+
+- **2. GenAI in Healthcare: Addressing Data <b>Privacy</b>, Security and Ethical Challenges - AiThority** [link](https://aithority.com/machine-learning/genai-in-healthcare-addressing-data-privacy-security-and-ethical-challenges/)
+_Highlight:_ Arnab Basu, Advisory Leader at PwC India, states, &#39;Generative <b>AI</b> is revolutionizing the healthcare sector, offering unparalleled opportunities for&nbsp;...
+
+- **3. Hackers Breached Hundreds Of Companies&#39; <b>AI</b> Servers, Researchers Say - Forbes** [link](https://www.forbes.com/sites/thomasbrewster/2024/03/26/hackers-breach-hundreds-of-ai-compute-servers-researchers-say/)
+_Highlight:_ Senior writer at Forbes covering cybercrime, <b>privacy</b> and surveillance. Following Follow.
+
+- **4. Biden Wants to Put <b>AI</b> on a Leash - WSJ** [link](https://www.wsj.com/articles/biden-wants-to-put-artificial-intelligence-on-a-leash-progressive-regulation-45275102)
+_Highlight:_ ... <b>AI</b> to protect against “<b>bias</b> and stereotyping through technology.” The Commerce Department has appointed a “senior adviser for algorithmic justice&nbsp;...
+
+- **5. Navigating the Future: Medicare Advantage Plan Rules on the Use of <b>Artificial Intelligence</b>** [link](https://www.jdsupra.com/legalnews/navigating-the-future-medicare-1015746/)
+_Highlight:_ ... <b>bias</b> in <b>AI</b> algorithms. Compliance with CMS regulations governing the use of <b>AI</b> in healthcare, including billing, reimbursement, and quality&nbsp;...
+
+- **6. Why educators must understand <b>AI</b> (even if they don&#39;t use it) - The Flagler College Gargoyle** [link](https://gargoyle.flagler.edu/2024/03/why-educators-must-understand-ai-even-if-they-dont-use-it/)
+_Highlight:_ Now, you can apply that same analytical lens to the language models underlying <b>AI</b> tools like GPT-3. You can examine the <b>biases</b> and assumptions encoded&nbsp;...
+
+- **7. BIAS Project Showcased at Lausanne Machine Learning Event - Mirage News** [link](https://www.miragenews.com/bias-project-showcased-at-lausanne-machine-1203244/)
+_Highlight:_ In this year&#39;s edition, members of the BIAS project organized a track around the topic <b>Fairness</b> and Bias in <b>AI</b> Applications for the Labor Market in&nbsp;...
+
+- **8. Harnessing <b>AI&#39;s</b> Power: David Griffiths of Ideas on Unlocking Human Potential Through ...** [link](https://gritdaily.com/david-griffiths-on-unlocking-human-potential/)
+_Highlight:_ Countries must collaborate in creating governance frameworks for <b>AI</b> to ensure <b>fairness</b> and minimize any negative impacts. We need to guide our&nbsp;...
+
+- **9. The Pitfalls and Promises of <b>AI</b>: Ensuring Trustworthiness in an Era of Automation** [link](https://www.webpronews.com/the-pitfalls-and-promises-of-ai-ensuring-trustworthiness-in-an-era-of-automation/)
+_Highlight:_ ... <b>AI</b> to establish a framework for responsible <b>AI</b> deployment. These principles encompass explainability, <b>fairness</b>, transparency, robustness, and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
