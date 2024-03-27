@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-27 One-Minute Post
+date: 2024-03-27 17:09:23 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The CDC's data office is applying AI to public health with a focus on privacy and bias considerations. The EU has released groundbreaking AI regulations to address bias in AI logic and processes. Meanwhile, Hana Financial has introduced an AI ethics code emphasizing inclusiveness, fairness, and privacy protection. The IRS is working on deploying AI in auditing while addressing bias issues. Additionally, there is a growing focus on AI systems that respect individual rights and promote fairness, with a paradigm shift to include more women in the AI landscape. The future of AI in healthcare is uncertain due to concerns about algorithm accuracy and patient privacy. The need for ethical AI development is highlighted, with a focus on programming AI with values such as empathy and fairness for customer service robots.
+
+## Articles we found interesting:
+
+- **1. How CDC&#39;s data office is applying <b>AI</b> to public health - Federal News Network** [link](https://federalnewsnetwork.com/artificial-intelligence/2024/03/how-cdcs-data-office-is-applying-ai-to-public-health/)
+_Highlight:_ Data <b>privacy</b> and ethical and bias considerations are especially important when working with public health data. One major concern around <b>AI</b> tools&nbsp;...
+
+- **2. SXSW Insights: The future of <b>AI</b> in healthcare** [link](https://www.fiercehealthcare.com/ai-and-machine-learning/sxsw-insights-future-ai-healthcare)
+_Highlight:_ From clinician trust to algorithm accuracy and patient <b>privacy</b>, there&#39;s significant uncertainty about <b>AI&#39;s</b> potential and impact in the healthcare&nbsp;...
+
+- **3. Is there hope for <b>privacy</b> legislation in this Congress? - Brookings Institution** [link](https://www.brookings.edu/articles/is-there-hope-for-privacy-legislation-in-this-congress/)
+_Highlight:_ Instead, congressional attention has turned to <b>artificial intelligence</b> (<b>AI</b>) and data protection for children. After the explosion of public attention&nbsp;...
+
+- **4. <b>AI</b> Gets Rules: A Look at the Groundbreaking EU <b>AI</b> Act | NAVEX - JDSupra** [link](https://www.jdsupra.com/legalnews/ai-gets-rules-a-look-at-the-6114686/)
+_Highlight:_ High-risk <b>AI</b> development and deployment requirements &middot; Explainability – Prevents &quot;black box&quot; decisions and roots out <b>bias</b> in <b>AI</b> logic and processes.
+
+- **5. Can <b>AI</b> Help You Do Your Taxes? | TIME** [link](https://time.com/6960420/ai-tools-tax-help/)
+_Highlight:_ “But they&#39;re still working on it,” he adds. The IRS also intends to deploy <b>artificial intelligence</b> in auditing. The IRS has long grappled with <b>bias</b> in&nbsp;...
+
+- **6. Library Lecture Explores <b>Artificial Intelligence</b> in DEI - SBU News - Stony Brook University** [link](https://news.stonybrook.edu/university/library-lecture-explores-artificial-intelligence-in-dei/)
+_Highlight:_ In a Stony Brook University Libraries talk, “<b>AI</b> in DEI: Thinking Beyond <b>Bias</b>,” Matthew Salzano explored the concepts of technochauvinism and&nbsp;...
+
+- **7. Why are women being sidelined in the <b>AI</b> race? - Fast Company** [link](https://www.fastcompany.com/91070027/why-are-women-being-sidelined-in-the-ai-race)
+_Highlight:_ ... <b>AI</b> systems that respect individual rights and promote <b>fairness</b>. The <b>AI</b> landscape is ripe for a paradigm shift, one where women are not just&nbsp;...
+
+- **8. Hana Financial introduces <b>AI</b> ethics code - The Korea Times** [link](https://www.koreatimes.co.kr/www/biz/2024/03/602_371540.html)
+_Highlight:_ They are inclusiveness and <b>fairness</b>, security and responsibility, transparency, data management and privacy protection. The code comes as <b>AI</b> is&nbsp;...
+
+- **9. Why Customer Service Robots Need Ethical Decision-Making: Trust and Benefits for Businesses** [link](https://www.roboticstomorrow.com/story/2024/03/why-customer-service-robots-need-ethical-decision-making-trust-and-benefits-for-businesses/22310/)
+_Highlight:_ The challenge of programming <b>AI</b> with values such as empathy and <b>fairness</b> lies at the heart of ethical <b>AI</b> development. These values are complex and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
