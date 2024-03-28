@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-28 One-Minute Post
+date: 2024-03-28 17:01:25 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The White House orders federal agencies to appoint chief AI officers to protect Americans' security and privacy. Meanwhile, the European Union's AI Act emphasizes governing AI under privacy laws. Half of consumers experience AI bias, emphasizing the need for transparency in AI systems. Ethical AI will promote fairness and transparency, while evaluating AI systems' reliability, fairness, and security remains a challenge.
+
+## Articles we found interesting:
+
+- **1. White House orders federal agencies to name chief <b>AI</b> officers - CBS News** [link](https://www.cbsnews.com/news/white-house-chief-ai-officers-federal-agencies-artificial-intelligence/)
+_Highlight:_ The Biden administration is ordering agencies to put safeguards in place to protect Americans&#39; security and <b>privacy</b>.
+
+- **2. Building Your Company&#39;s <b>AI</b> Governance Framework - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3Dc91ee2e6-2765-482f-868e-a4246a58f6f8)
+_Highlight:_ In the European Union, the <b>Artificial Intelligence</b> Act (<b>AI</b> Act) ... <b>AI</b> under laws such as <b>privacy</b> laws. For example, <b>privacy</b> laws in the US&nbsp;...
+
+- **3. To Govern <b>AI</b>, We Must Govern Compute - Lawfare** [link](https://www.lawfaremedia.org/article/to-govern-ai-we-must-govern-compute)
+_Highlight:_ At the same time, designing effective compute governance measures is a challenging task. The risks of <b>privacy</b> violations and power concentration must&nbsp;...
+
+- **4. Half of consumers experience <b>AI bias</b> | BetaNews** [link](https://betanews.com/2024/03/27/half-of-consumers-experience-ai-bias/)
+_Highlight:_ Half of consumers experience <b>AI bias</b>. March 27, 2024 • By Ian Barker. Although 75 percent of people think chatbots are getting better at managing&nbsp;...
+
+- **5. How to drive <b>bias</b> out of <b>AI</b> without making mistakes of Google Gemini - CNBC** [link](https://www.cnbc.com/2024/03/27/how-to-drive-bias-out-of-ai-without-making-mistakes-of-google-gemini.html)
+_Highlight:_ Ensuring transparency in how generative <b>AI</b> systems operate and make decisions is crucial for building trust and addressing <b>bias</b> concerns. INDIA - 2024&nbsp;...
+
+- **6. How to drive <b>bias</b> out of <b>AI</b> without making mistakes of Google Gemini - OODA Loop** [link](https://www.oodaloop.com/briefs/2024/03/27/how-to-drive-bias-out-of-ai-without-making-mistakes-of-google-gemini/)
+_Highlight:_ “Companies need to overcome <b>bias</b> if they wish to maximize the true potential of this powerful technology,” said Siva Ganesan, head of the <b>AI</b> Cloud&nbsp;...
+
+- **7. How To Balance Innovation With Ethics When Adopting <b>AI</b> - Forbes** [link](https://www.forbes.com/sites/forbestechcouncil/2024/03/28/how-to-balance-innovation-with-ethics-when-adopting-ai/)
+_Highlight:_ Ethical <b>AI</b>, in particular, will play a crucial role in promoting <b>fairness</b> and transparency for <b>AI</b> use. Defining <b>AI</b> Use Cases. While <b>AI</b> has been in&nbsp;...
+
+- **8. Evaluating LLM Compression: Balancing Efficiency, Trustworthiness, and Ethics in <b>AI</b> ...** [link](https://www.marktechpost.com/2024/03/28/evaluating-llm-compression-balancing-efficiency-trustworthiness-and-ethics-in-ai-language-model-development/)
+_Highlight:_ Moderate bit-range quantization can enhance certain trust dimensions like ethics and <b>fairness</b>, while extreme quantization to very low bit levels poses&nbsp;...
+
+- **9. For Government Use of <b>AI</b>, What Gets Measured Gets Managed | Lawfare** [link](https://www.lawfaremedia.org/article/for-government-use-of-ai-what-gets-measured-gets-managed)
+_Highlight:_ Tools to evaluate <b>AI</b> systems&#39; reliability, <b>fairness</b>, and security are currently lacking—not just within the federal government, but everywhere.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
