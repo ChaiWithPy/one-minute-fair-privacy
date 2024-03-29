@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-29 One-Minute Post
+date: 2024-03-29 17:07:10 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California proposed amendments to automated decisionmaking, risk assessment, and privacy regulations. White House issues AI policies to safeguard American interests. Microsoft designs AI chatbots with safety features. Former Google employee warns of terrifying patterns in company's AI algorithms. AI set to transform debt collection in the US, bias worries remain. Using AI to drive DE&I initiatives is crucial for fair and unbiased decisions. 5 essential principles for creating trustworthy AI models, including operating without bias. Embracing AI in insurance raises concerns about fairness and transparency. The disruptive potential of AI in stock market trading raises questions about market fairness.
+
+## Articles we found interesting:
+
+- **1. California proposed amendments to automated decisionmaking, risk assessment, and ... - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D5931b10f-921c-49a4-bc0a-6d084aff28f9)
+_Highlight:_ ... <b>privacy</b> regulations. The CPPA did not initiate ... <b>Privacy</b> Act (CCPA) considerations. ... Automated Decisionmaking, Profiling, and <b>Artificial Intelligence</b>&nbsp;...
+
+- **2. White House Issues <b>AI</b> Policies Intended to Safeguard American Interests | Husch Blackwell** [link](https://www.huschblackwell.com/newsandinsights/white-house-issues-ai-policies-intended-to-safeguard-american-interests)
+_Highlight:_ ... <b>privacy</b>, rights, and safety of the American people. Other than federal contractors developing <b>AI</b> systems for agencies, these policies are not&nbsp;...
+
+- **3. Microsoft knows you love tricking its <b>AI</b> chatbots into doing weird stuff and it&#39;s designing ...** [link](https://fortune.com/2024/03/29/microsoft-openai-chatbots-prompt-shields-safety-features-user-tricks/)
+_Highlight:_ ... <b>Privacy</b> Policy. If you do not agree to the ... Sarah Bird, principal program manager and responsible <b>AI</b> lead for Azure <b>AI</b> ... Subscribe to the Eye on <b>AI</b>&nbsp;...
+
+- **4. Gemini fallout: Former Google employee warns of &#39;terrifying patterns&#39; in company&#39;s <b>AI</b> algorithms** [link](https://www.foxbusiness.com/media/gemini-fallout-former-google-employee-warns-terrifying-patterns-companys-ai-algorithms)
+_Highlight:_ A former high-level Google employee said &quot;terrifying patterns&quot; were found in Google&#39;s algorithms and suggested what went wrong with the Gemini&nbsp;...
+
+- **5. <b>AI</b> set to transform debt collection in US, <b>bias</b> worries remain - Moneyweb** [link](https://www.moneyweb.co.za/news/ai/ai-set-to-transform-debt-collection-in-us-bias-worries-remain/)
+_Highlight:_ The sector is seeing an &#39;explosion of technology&#39;. By The Thomson Reuters Foundation 29 Mar 2024 04:00.
+
+- **6. Using <b>Artificial Intelligence</b> to Drive DE&amp;I Initiatives - Hunt Scanlon Media** [link](https://huntscanlon.com/using-artificial-intelligence-to-drive-dei-initiatives/)
+_Highlight:_ A new report from Signium explains how the relationship between <b>AI</b> and DE&amp;I is crucial for today&#39;s leaders in helping make fair and unbiased decisions&nbsp;...
+
+- **7. 5 Essential principals for creating trustworthy <b>AI</b> models - Geeky Gadgets** [link](https://www.geeky-gadgets.com/principles-to-consider-when-building-ai/)
+_Highlight:_ <b>AI</b> must operate without bias. It should be developed using diverse datasets to avoid prejudices that could result in discrimination. <b>Fairness</b> in <b>AI</b>&nbsp;...
+
+- **8. Insurer&#39;s Embrace of Technology Under the Microscope: Addressing Prejudice and Bias in ...** [link](https://usaherald.com/insurers-embrace-of-technology-under-the-microscope-addressing-prejudice-and-bias-in-claim-handling-procedures/)
+_Highlight:_ However, this hasty embrace of <b>AI</b> is raising concerns about <b>fairness</b>, transparency, and bad-faith in the claims handling process. As Samuel Lopez&nbsp;...
+
+- **9. The Disruptive Potential of <b>AI</b> in Stock Market Trading: Rohan Menon&#39;s Perspective** [link](https://www.freepressjournal.in/business/the-disruptive-potential-of-ai-in-stock-market-trading-rohan-menons-perspective)
+_Highlight:_ The use of <b>AI</b> might raise questions regarding market <b>fairness</b>, as some traders may have access to superior <b>AI</b> algorithms and resources, potentially&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
