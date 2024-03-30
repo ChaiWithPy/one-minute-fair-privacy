@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-30 One-Minute Post
+date: 2024-03-30 16:58:20 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OpenAI holds back voice cloning tech due to privacy concerns. Meta faces FTC review over privacy terms. Insurance industry grapples with fairness and privacy issues in AI models. AMA president raises questions about bias and patient privacy in AI tools. New Hampshire moves forward with AI election regulations for fairness. Expert urges ethical AI adoption for economic stability. Google executives accused of abandoning fairness in AI project launch.
+
+## Articles we found interesting:
+
+- **1. OpenAI holds back public release of tech that can clone someone&#39;s voice in 15 seconds due ...** [link](https://fortune.com/2024/03/29/openai-tech-clone-someones-voice-safety-concerns/)
+_Highlight:_ The <b>AI</b> firm will preview the tool with early testers but won&#39;t release it widely because of the potential for misuse ahead of the election.
+
+- **2. Meta can&#39;t delay FTC review of <b>privacy</b> terms: Court - Fortune** [link](https://fortune.com/2024/03/30/meta-facebook-social-media-privacy-appeals-court/)
+_Highlight:_ ... <b>Privacy</b> Policy. If you do not agree to the ... <b>privacy</b> terms after $5 billion penalty ... Subscribe to the Eye on <b>AI</b> newsletter to stay abreast of how <b>AI</b>&nbsp;...
+
+- **3. 3 ways <b>AI</b> could transform your insurance policy | Fox 59** [link](https://fox59.com/news/national-world/3-ways-ai-could-transform-your-insurance-policy/)
+_Highlight:_ As insurers face questions about fairness and <b>privacy</b>, some people may find it&#39;s harder to get coverage. ... As <b>AI</b> models improve, more carriers offer&nbsp;...
+
+- **4. AMA president on the future of <b>AI</b> tools in clinical settings - Fierce Healthcare** [link](https://www.fiercehealthcare.com/ai-and-machine-learning/ama-president-jesse-ehrenfeld-future-ai-tools-clinical-settings)
+_Highlight:_ Are algorithms accurate and free from <b>bias</b>? What guardrails are there to protect patient privacy? At the 2024 SXSW conference, the technology garnered&nbsp;...
+
+- **5. When <b>AI</b> hurts patients, who pays? - POLITICO** [link](https://www.politico.com/newsletters/future-pulse/2024/03/29/when-ai-hurts-patients-who-pays-00149699)
+_Highlight:_ When <b>AI</b> hurts patients, who pays? By ... Even so: Because the <b>AI</b> is trained on a more narrow dataset, this form of <b>AI</b> has the potential for <b>bias</b>.
+
+- **6. New to The Street&#39;s Leadership Show, Sponsored by Smile Design Manhattan, with Host ...** [link](https://www.streetinsider.com/Globe%2BNewswire/New%2Bto%2BThe%2BStreets%2BLeadership%2BShow%252C%2BSponsored%2Bby%2BSmile%2BDesign%2BManhattan%252C%2Bwith%2BHost%2BLee%2BGause%252C%2BFeaturing%2BThree%2BCorporate%2BGuest%2BInterviews%252C%2BAiring%2Bon%2BBloomberg%2BTV%2Bas%2BSponsored%2BProgramming%252C%2BSaturda/22999497.html)
+_Highlight:_ ... <b>biased</b> diversity of its <b>AI</b> platform. If a system has a <b>bias</b> of non-diversified inputs, that <b>bias</b> becomes more apparent over time as the system&nbsp;...
+
+- **7. New Hampshire Moves Forward with <b>AI</b> Election Regulations Amid Deepfake Incident** [link](https://elblog.pl/2024/03/29/new-hampshire-moves-forward-with-ai-election-regulations-amid-deepfake-incident/)
+_Highlight:_ These regulations aim to protect the integrity and <b>fairness</b> of democratic processes in the face of emerging technologies. Advocacy groups, such as&nbsp;...
+
+- **8. Expert Urges <b>AI</b> Adoption to Stabilise Economy - THISDAYLIVE** [link](https://www.thisdaylive.com/index.php/2024/03/30/expert-urges-ai-adoption-to-stabilise-economy)
+_Highlight:_ ... <b>fairness</b> to mitigate potential risks and ensure ethical deployment. “<b>AI</b> would be part of our life and would impact every industry. Any business&nbsp;...
+
+- **9. Google execs abandoned &#39;<b>fairness</b>&#39; to launch Gemini: Ex employee tells all - MSN** [link](https://www.msn.com/en-us/news/technology/google-execs-abandoned-fairness-to-launch-gemini-ex-employee-tells-all/ar-BB1krWC3%3Focid%3DUCPNC2)
+_Highlight:_ Google&#39;s RESIN team, which reviewed projects for <b>AI</b> principles compliance, had found Gemini unsafe but their director pushed for release anyway. “They&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
