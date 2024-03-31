@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-03-31 One-Minute Post
+date: 2024-03-31 16:48:55 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI is striving for transparency and fairness, with a focus on privacy. Startups are releasing new AI models, while companies are addressing bias issues in AI decision-making. Ethical challenges in AI are being discussed, emphasizing the importance of fairness and responsible AI development.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> can see clearly now: Why transparency leads to ethical and fair <b>AI</b> systems** [link](https://siliconangle.com/2024/03/31/ai-can-see-clearly-now-transparency-leads-ethical-fair-ai-systems/)
+_Highlight:_ ... <b>privacy</b>, which is in the best interest of us all. Challenges with achieving transparency in <b>AI</b>. Developing more explainable <b>AI</b> models is the core&nbsp;...
+
+- **2. Women in <b>AI</b>: Brandie Nonnecke of UC Berkeley says investors should insist on responsible ...** [link](https://techcrunch.com/2024/03/31/women-in-ai-brandie-nonnecke-of-uc-berkeley-says-investors-should-insist-on-responsible-ai-practices/)
+_Highlight:_ <b>AI</b> users should be aware of issues related to data <b>privacy</b> and security, the potential for bias in <b>AI</b> decision-making and the importance of&nbsp;...
+
+- **3. The future of data science: Where are we headed? - Digital Transformation News** [link](https://www.financialexpress.com/business/digital-transformation-the-future-of-data-science-where-are-we-headed-3441828/)
+_Highlight:_ Multimodal <b>AI</b>: Multimodal <b>AI</b> surpasses ... <b>privacy</b> regulations. Faster data analysis ... <b>AI</b> risks. Ensuring data accuracy, <b>privacy</b>, and responsible&nbsp;...
+
+- **4. This Week in <b>AI</b>: Let us not forget the humble data annotator | TechCrunch** [link](https://techcrunch.com/2024/03/30/this-week-in-ai-let-us-not-forget-the-humble-data-annotator/)
+_Highlight:_ A new model architecture: <b>AI</b> startup AI21 Labs has released a generative <b>AI</b> ... <b>AI bias</b> shows that justice under the UK&#39;s <b>AI</b> regulations is hard won.
+
+- **5. America&#39;s &#39;deskless&#39; hourly wage workers will reveal the most about how <b>AI</b> changes jobs** [link](https://www.cnbc.com/2024/03/30/why-hourly-wage-workers-will-reveal-the-most-about-how-ai-changes-jobs.html)
+_Highlight:_ More In Technology Executive Council &middot; How to drive <b>bias</b> out of <b>AI</b> without making mistakes of Google Gemini.
+
+- **6. Is this real? <b>AI</b> ramps up risk of April Fools&#39; Day foul-ups for corporate brands - Toronto Star** [link](https://www.thestar.com/business/is-this-real-ai-ramps-up-risk-of-april-fools-day-foul-ups-for-corporate/article_4b26172f-c17e-5f93-94d7-99597b3b3cd8.html)
+_Highlight:_ Navneet Alang: Companies are now recruiting <b>artificial intelligence</b> to help with hiring — but <b>bias</b> issues still exist. Article was updated 12 hrs&nbsp;...
+
+- **7. Tech Ethics: Navigating the Moral Landscape of <b>AI</b> | by Intelligent Tricks - Medium** [link](https://medium.com/horizon-hub/tech-ethics-navigating-the-moral-landscape-of-ai-0a90bfb7af47%3FresponsesOpen%3Dtrue%26sortBy%3DREVERSE_CHRON)
+_Highlight:_ Key Ethical Challenges in AI: &middot; Bias and <b>Fairness</b>: <b>AI</b> algorithms can exhibit biases based on the data they are trained on, leading to unfair outcomes&nbsp;...
+
+- **8. Ethical and Legal Considerations of <b>AI</b>-Generated Voices and Text | Globe Echo** [link](https://globeecho.com/ethical-and-legal-considerations-of-ai-generated-voices-and-text/)
+_Highlight:_ ... <b>fairness</b> when it comes to utilizing <b>AI</b> technology. Responsible <b>AI</b> development involves understanding the machine learning process and being able&nbsp;...
+
+- **9. PhilDec 2.0: Experts discuss digital rights and democracy, advocate for <b>AI</b> use and literacy** [link](https://www.rappler.com/technology/phildec-2-experts-discuss-digital-rights-democracy-ai-use-literacy/)
+_Highlight:_ <b>artificial intelligence</b>. Tech Features &middot; Building <b>fairness</b> into <b>AI</b> is crucial – and hard to get right &middot; Facebook Twitter Share article. Copy URL.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
