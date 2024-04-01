@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-01 One-Minute Post
+date: 2024-04-01 16:39:44 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+US Congress bans governmental use of Microsoft AI Copilot over security concerns, while AI is filtering out women who have taken maternity leave in job searches. FairPlay partners with Oscilar to offer AI fairness tools to its customers, and South Korea contends with AI and electoral integrity by prohibiting AI-generated deepfake content in political campaigning. Meanwhile, AI is already proliferating within federal agencies, raising fresh worries about privacy and surveillance, and generative AI in marketing requires clear accountability and transparency to ensure privacy. Nigerian government is urged to embrace AI with robust data collection and analysis practices to ensure fairness and inclusivity, and AI may turn the economy into a disaster movie due to data-driven bias on steroids.
+
+## Articles we found interesting:
+
+- **1. This model <b>AI</b> legislation would regulate government instead of the private sector** [link](https://cei.org/blog/this-model-ai-legislation-would-regulate-government-instead-of-the-private-sector/)
+_Highlight:_ <b>AI</b> already proliferating within federal agencies raises fresh worries about <b>privacy</b> and surveillance, censorship, remote regulation via the Internet-&nbsp;...
+
+- **2. US Congress Bans Governmental Use of Microsoft <b>AI</b> Copilot Over Security Concerns** [link](https://www.medianama.com/2024/04/223-us-congress-bans-governmental-use-microsoft-ai-copilot-over-security-concerns/)
+_Highlight:_ The US Congress has banned the use of the commercial version of Microsoft <b>AI</b> Copilot as it can reveal data to non-house entities ... <b>Privacy</b>, Free Reads&nbsp;...
+
+- **3. Generative <b>AI</b> in Marketing: Boost or Bust for Your Department? - CMS Wire** [link](https://www.cmswire.com/digital-marketing/generative-ai-in-marketing-boost-or-bust-for-your-department/)
+_Highlight:_ In line with data <b>privacy</b> measures, clear accountability and transparency are essential components of generative <b>AI</b> governance. Marketing teams should&nbsp;...
+
+- **4. <b>AI</b> filtering out women who have taken maternity leave in job searches: Nuix - The Australian** [link](https://www.theaustralian.com.au/business/technology/ai-filtering-out-women-who-have-taken-maternity-leave-in-job-searches-nuix/news-story/446ea0e1f5bd02868fca242b38d7efba)
+_Highlight:_ <b>AI</b> is displaying <b>bias</b> beyond so-called trivial ChatGPT entries as more ... <b>biases</b> in <b>AI</b> resume scanning tools. In the study, researchers assessed&nbsp;...
+
+- **5. <b>AI</b> May Turn the Economy Into a Disaster Movie - Bloomberg** [link](https://www.bloomberg.com/opinion/articles/2024-03-31/ai-may-turn-the-economy-into-a-disaster-movie-lufgz9kg)
+_Highlight:_ Equally obvious if more forgettable is <b>A.I. Artificial Intelligence</b>, a hot ... In a worst-case scenario, <b>AI</b> could mean data-driven <b>bias</b> on steroids.
+
+- **6. 10 <b>AI</b> Stocks with Tremendous Growth Potential - elblog.pl** [link](https://elblog.pl/2024/03/31/10-ai-stocks-with-tremendous-growth-potential/)
+_Highlight:_ These sources can provide more in-depth analysis of the mentioned companies and the <b>AI</b> industry as a whole. Categories$$$, <b>Bias</b> in <b>AI</b>, Data&nbsp;...
+
+- **7. Nigerian Government Must Embrace <b>Artificial Intelligence</b> Now - THEWILL NEWS** [link](https://thewillnews.com/nigerian-government-must-embrace-artificial-intelligence-now/)
+_Highlight:_ We must develop robust data collection and analysis practices to ensure <b>fairness</b> and inclusivity. <b>AI</b> applications could raise concerns about data&nbsp;...
+
+- **8. FairPlay Partners With Oscilar to Offer <b>AI Fairness</b> Tools to Its Customers - PR Newswire** [link](https://www.prnewswire.com/news-releases/fairplay-partners-with-oscilar-to-offer-ai-fairness-tools-to-its-customers-302103600.html)
+_Highlight:_ The partnership will enable Oscilar clients to access FairPlay&#39;s <b>fairness</b> analytics tools, from assessing bias in <b>AI</b> credit models to monitoring the&nbsp;...
+
+- **9. South Korea contends with <b>AI</b> and electoral integrity - East Asia Forum** [link](https://eastasiaforum.org/2024/04/01/south-korea-contends-with-ai-and-electoral-integrity/)
+_Highlight:_ To counter misinformation and uphold democratic <b>fairness</b>, the National Assembly has prohibited <b>AI</b>-generated deepfake content in political campaigning&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
