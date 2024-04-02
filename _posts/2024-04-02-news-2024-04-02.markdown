@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-04-02 One-Minute Post
+date: 2024-04-02 16:47:16 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The IAPP releases the seventh edition of 'Privacy Law Fundamentals' while the UK and US partner on AI safety. California's Privacy Protection Agency issues an enforcement advisory on data minimization. In Congress, three AI bills are proposed to regulate workplace surveillance. Meanwhile, a Brooklyn firm faces a job bias trial over a lawyer's civil war talk. Surveyed oncologists express concerns about protecting patients from biased AI in cancer care. Healthcare AI models are scrutinized for potential biases stemming from historical inequalities and systemic discriminations in the data.
+
+## Articles we found interesting:
+
+- **1. IAPP publishes seventh edition of &#39;<b>Privacy</b> Law Fundamentals&#39;** [link](https://iapp.org/news/a/iapp-publishes-seventh-edition-of-privacy-law-fundamentals/)
+_Highlight:_ The U.K. and U.S. <b>AI</b> Safety Institutes signed a memorandum of understanding to work together on <b>artificial intelligence</b> safety research, evaluations&nbsp;...
+
+- **2. UK, US to partner on <b>AI</b> safety** [link](https://iapp.org/news/a/us-uk-to-partner-on-ai-safety/)
+_Highlight:_ The California <b>Privacy</b> Protection Agency released an enforcement advisory focused specifically on California Consumer <b>Privacy</b> Act data minimization&nbsp;...
+
+- **3. 3 <b>AI</b> Bills in Congress for Employers to Track: Proposed Laws Target Automated Systems ...** [link](https://www.fisherphillips.com/en/news-insights/3-ai-bills-in-congress-for-employers.html)
+_Highlight:_ establish a new <b>Privacy</b> and Technology division at the Department of Labor to enforce and regulate workplace surveillance. Algorithmic Accountability&nbsp;...
+
+- **4. Brooklyn Firm Faces Job <b>Bias</b> Trial Over Lawyer&#39;s Civil War Talk - Bloomberg Law News** [link](https://news.bloomberglaw.com/litigation/brooklyn-firm-faces-job-bias-trial-over-lawyers-civil-war-talk)
+_Highlight:_ A federal appeals court judge believes <b>artificial intelligence</b> could help courts decide cases through an originalist lens by researching how words or&nbsp;...
+
+- **5. Surveyed Oncologists&#39; Attitudes Toward Ethical Implications of <b>AI</b> in Cancer Care** [link](https://ascopost.com/news/april-2024/surveyed-oncologists-attitudes-toward-ethical-implications-of-ai-in-cancer-care/)
+_Highlight:_ Although 76% of respondents noted that oncologists should protect patients from <b>biased AI</b> ... AI models containing such bias. Conclusions. “The findings&nbsp;...
+
+- **6. &#39;Garbage In Is Garbage Out&#39;: Why Healthcare <b>AI</b> Models Can Only Be As Good As The Data ...** [link](https://medcitynews.com/2024/04/healthcare-ai-data/)
+_Highlight:_ <b>Bias</b> could also arise from historical inequalities or systemic discriminations present in the data. Additionally, there could be algorithmic <b>biases</b>.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
