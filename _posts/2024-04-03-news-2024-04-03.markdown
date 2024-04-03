@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-03 One-Minute Post
+date: 2024-04-03 16:36:06 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Mayer Brown partner Dominique Shelton Leipzig receives IAPP's Privacy Vanguard award. DHS announces Artificial Intelligence Pilot Program to modernize immigration processes. Billie Eilish, Sheryl Crow, and Jon Bon Jovi demand more protection in AI and music. Dr. Mike Yao explains how AI bias reflects human beliefs. White House unveils AI blueprint for US federal agencies. FairPlay and Oscilar partner for AI fairness in finance. Insurers to use synthetic data in AI for fairness and compliance.
+
+## Articles we found interesting:
+
+- **1. Mayer Brown partner Dominique Shelton Leipzig receives IAPP&#39;s “<b>Privacy</b> Vanguard” and ...** [link](https://www.mayerbrown.com/en/news/2024/04/mayer-brown-partner-dominique-shelton-leipzig-receives-iapps-privacy-vanguard-and-diversity-in-privacy-awards)
+_Highlight:_ ... privacy field.” One of the country&#39;s top <b>privacy</b>, <b>artificial intelligence</b> (AI) and data lawyers, Dominique leads Mayer Brown&#39;s Ad Tech Privacy&nbsp;...
+
+- **2. <b>AI</b> and music: Billie Eilish, Sheryl Crow and Jon Bon Jovi among list of artists demanding ...** [link](https://news.sky.com/story/ai-and-music-billie-eilish-sheryl-crow-and-jon-bon-jovi-among-list-of-artists-demanding-more-protection-13107032)
+_Highlight:_ An alliance of musicians said although <b>artificial intelligence</b> has &quot;enormous potential&quot;, there are mounting concerns about <b>privacy</b> and the use of&nbsp;...
+
+- **3. DHS Announces <b>Artificial Intelligence</b> Pilot Program to Modernize Immigration Processes** [link](https://ogletree.com/insights-resources/blog-posts/dhs-announces-artificial-intelligence-pilot-program-to-modernize-immigration-processes/)
+_Highlight:_ and <b>privacy</b> harms,” and ensuring <b>AI</b> “safety and security” nationally. USCIS&#39;s <b>AI</b> Initiative for Immigration Officers. USCIS&#39;s initiative to employ <b>AI</b>&nbsp;...
+
+- **4. Dr. Mike Yao explains how <b>AI bias</b> reflects back human beliefs | NPR Illinois** [link](https://www.nprillinois.org/economy-business/2024-04-02/dr-mike-yao-explains-how-ai-bias-reflects-back-human-beliefs)
+_Highlight:_ ... <b>AI Bias</b> via a Multidisciplinary Lens organized by the UIS <b>AI</b> Campus Learning Community. He explained to Community Voices how <b>AI bias</b> is generated&nbsp;...
+
+- **5. Can pharma overcome generative <b>AI&#39;s bias</b> problem? - Pharmaceutical Technology** [link](https://www.pharmaceutical-technology.com/features/can-pharma-overcome-generative-ais-bias-problem/)
+_Highlight:_ While the use of generative <b>AI</b> to optimise the practitioner-to-patient relationship grows, ethical questions over <b>bias</b> thwart pharma&#39;s reliance on&nbsp;...
+
+- **6. Incentives First: A Critique of Current <b>AI</b> Governance Models - Harvard Political Review** [link](https://harvardpolitics.com/incentives-first-critique-ai-governance-models/)
+_Highlight:_ ... <b>bias</b>, a phenomenon in which <b>AI</b> algorithms discriminate against minorities by drawing from training data that&#39;s <b>biased</b> against these communities.
+
+- **7. White House unveils <b>AI</b> blueprint for US federal agencies - CoinGeek** [link](https://coingeek.com/white-house-unveils-ai-blueprint-for-us-federal-agencies/)
+_Highlight:_ ... <b>fairness</b>, ongoing monitoring of <b>AI</b> systems, and regular evaluation to ensure <b>AI</b> applications do not undermine public trust or safety. Global <b>AI</b>&nbsp;...
+
+- **8. FairPlay And Oscilar Partner For <b>AI Fairness</b> In Finance - Morning Tick** [link](https://morningtick.com/post/fairplay-and-oscilar-partner-ai-fairness-finance/)
+_Highlight:_ Oscilar partners with FairPlay to add <b>fairness</b> analytics tools, enhancing <b>AI</b> credit decision-making for more equitable outcomes.
+
+- **9. Insurers to use synthetic data in <b>AI</b> for <b>fairness</b> and compliance - IT-Online** [link](https://it-online.co.za/2024/04/03/insurers-to-use-synthetic-data-in-ai-for-fairness-and-compliance/)
+_Highlight:_ Apr 3, 2024. By 2027, due to regulations surrounding <b>artificial intelligence</b>, 40% of <b>AI</b> algorithms utilised by insurers throughout the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
