@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-04-04 One-Minute Post
+date: 2024-04-04 16:31:33 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+FTC releases 2023 Privacy and Data Security Update, focusing on AI and health data. Meanwhile, concerns arise about AI bias in travel algorithms. Insight and Genesys collaborate on bias detection techniques in machine learning models. Regulatory guardrails are proposed to safeguard democratic elections in the age of AI. Digital Diagnostics appoints Kurt Blasena as Chief Commercial Officer to address bias in AI systems for medical diagnosis.
+
+## Articles we found interesting:
+
+- **1. What We Learned From … NAAG&#39;s Director of… | Kelley Drye &amp; Warren LLP** [link](https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/what-we-learned-from-naags-director-of-the-center-for-consumer-protection)
+_Highlight:_ Explore Topics &middot; <b>Artificial Intelligence</b> &middot; Automatic Renewals &middot; <b>Privacy</b> Practices &middot; Reviews &middot; State Attorneys General&nbsp;...
+
+- **2. FTC Releases 2023 <b>Privacy</b> and Data Security Update | Troutman Pepper** [link](https://www.troutman.com/insights/ftc-releases-2023-privacy-and-data-security-update.html)
+_Highlight:_ The FTC underscored its work on issues related to <b>artificial intelligence</b> (<b>AI</b>), health data, geolocation tracking, children and teens&#39; data, data&nbsp;...
+
+- **3. Safeguarding Democratic Elections in the Age of <b>AI</b> - Epic.org** [link](https://epic.org/safeguarding-democratic-elections-in-the-age-of-ai/)
+_Highlight:_ Moreover, these detectors represent potential <b>privacy</b> and equity risks as well. Regulatory guardrails such as <b>AI</b> watermarking legislation could serve&nbsp;...
+
+- **4. Op Ed: Matthew Newton On Removing Algorithmic <b>Bias</b> In Pursuit Of Equitable Travel** [link](https://www.thecompanydime.com/op-ed-matthew-newton-artificial-intelligence-alghorithmic-bias/)
+_Highlight:_ Having seen up close the dangers of alghorithmic <b>bias</b> in <b>artificial intelligence</b>, CWT&#39;s Matthew Newtown has some warnings about its risks.
+
+- **5. DIGITAL DIAGNOSTICS NAMES INDUSTRY VETERAN, KURT BLASENA, AS CHIEF ...** [link](https://www.healthcaredive.com/press-release/20240403-digital-diagnostics-names-industry-veteran-kurt-blasena-as-chief-commerci/)
+_Highlight:_ ... <b>AI</b> system for the diagnosis of diabetic retinopathy, announces ... <b>bias</b>. “I&#39;m excited to join Digital Diagnostics at this pivotal time of growth in the&nbsp;...
+
+- **6. Insight, Genesys take <b>AI</b> research into third phase - TechCentral.ie** [link](https://www.techcentral.ie/insight-genesys-take-ai-research-into-third-phase/)
+_Highlight:_ The collaboration centred around <b>bias</b> detection techniques in machine learning models began in 2021 and will now run untl 2025. The latest project,&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
