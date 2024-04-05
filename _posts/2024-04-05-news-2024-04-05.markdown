@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-05 One-Minute Post
+date: 2024-04-05 16:33:03 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple's iOS 18 raises ethical and privacy concerns in generative AI. FDA advocates for tailored risk-based regulatory framework to address bias in AI development. US-UK alliance pioneers AI safety tests to combat biases in facial recognition, employment, credit, and criminal justice. Microsoft's AI principles focus on fairness, rehabilitation, and safety. Embracing AI-driven, privacy-compliant marketing solutions to maintain personalization while respecting privacy.
+
+## Articles we found interesting:
+
+- **1. iOS 18 Launch—Apple&#39;s New Update Will Transform Your iPhone Forever - Forbes** [link](https://www.forbes.com/sites/kateoflahertyuk/2024/04/05/ios-18-launch-apples-new-update-will-transform-your-iphone-forever/)
+_Highlight:_ As Gurman puts it: “There are tons of ethical and <b>privacy</b> issues in the generative <b>AI</b> world. By handing that technology off to a third party&nbsp;...
+
+- **2. Crafting Personalized Marketing Experiences for the <b>Privacy</b>-Conscious Consumer - CMS Wire** [link](https://www.cmswire.com/customer-experience/crafting-personalized-marketing-experiences-for-the-privacy-conscious-consumer/)
+_Highlight:_ Embracing <b>AI</b>-driven, <b>privacy</b>-compliant marketing solutions can help maintain personalization while respecting <b>privacy</b>. In recent years, traditional&nbsp;...
+
+- **3. This $400 toothbrush is peak <b>AI</b> mania - The Washington Post** [link](https://www.washingtonpost.com/technology/2024/04/05/amazon-just-walk-out-ai-toothbrush/)
+_Highlight:_ ... <b>AI</b>. I&#39;ve seen a lot of tech ... <b>privacy</b>-invading ways of doing the same thing? ... Enjoy the weirdness of <b>AI</b>-generated recipes and <b>AI</b>-generated food&nbsp;...
+
+- **4. FDA <b>AI</b> &amp; Medical Products Paper advocates for a tailored risk-based regulatory framework** [link](https://www.jdsupra.com/legalnews/fda-ai-medical-products-paper-advocates-5290812/)
+_Highlight:_ Key cross-Center takeaways &middot; where <b>bias</b> can be introduced in the <b>AI</b> development life cycle and how it can be addressed, &middot; how health inequities are&nbsp;...
+
+- **5. US FDA to Develop Regulatory Scheme for <b>AI</b> in Medical Products, Foster International Cooperation** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D67ae966f-cade-4f57-a9fb-1f00d15d730f)
+_Highlight:_ ... <b>bias</b>, cybersecurity, and quality assurance. Moreover, to encourage information exchange, not simply solicitation from stakeholders, FDA also seeks&nbsp;...
+
+- **6. US-UK Alliance Pioneers <b>AI</b> Safety Tests, Earning Expert Praise - PYMNTS.com** [link](https://www.pymnts.com/artificial-intelligence-2/2024/us-uk-alliance-pioneers-ai-safety-tests-earning-expert-praise/)
+_Highlight:_ Pery said that <b>AI</b> is proven to amplify <b>biases</b> that span facial recognition, employment, credit and criminal justice, which profoundly impact and&nbsp;...
+
+- **7. The Global Landscape of <b>Artificial Intelligence</b> - EU Reporter** [link](https://www.eureporter.co/internet-2/artificial-intelligence/2024/04/05/the-global-landscape-of-artificial-intelligence/)
+_Highlight:_ Key ethical principles, such as transparency, <b>fairness</b>, accountability, and privacy, are central to ensuring that <b>AI</b> technologies benefit humanity&nbsp;...
+
+- **8. Microsoft says <b>AI</b> could contribute $1.2 trillion to Africa&#39;s economy by 2030 - Nairametrics** [link](https://nairametrics.com/2024/04/05/microsoft-says-ai-could-contribute-1-2-trillion-to-africas-economy-by-2030/)
+_Highlight:_ ... <b>AI</b> journey started in 2016. He said that the Microsoft <b>AI</b> journey was accompanied with its <b>AI</b> principles of <b>fairness</b>, rehabilitation and safety&nbsp;...
+
+- **9. Navigating the Complex Landscape of Bias in <b>AI</b> | by Julia Urban | Apr, 2024 | Medium** [link](https://medium.com/%40juliaurban/navigating-the-complex-landscape-of-bias-in-ai-1c124253f970%3FresponsesOpen%3Dtrue%26sortBy%3DREVERSE_CHRON)
+_Highlight:_ <b>AI Fairness</b> 360: An extensible toolkit for detecting and mitigating algorithmic bias. IBM Journal of Research and Development, 63(4/5), 4:1–4:15&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
