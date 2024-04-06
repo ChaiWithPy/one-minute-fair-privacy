@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-04-06 One-Minute Post
+date: 2024-04-06 16:43:02 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Larry Summers warns of AI's threat to US job growth. Tech giants like Google and Meta are skirting privacy laws to harvest data for AI. House and Senate leaders are close to a landmark online privacy bill. XLabs founder urges Long Island firms to embrace AI while addressing its perpetuation of bias. Princeton professor says AI's power needs are not as bad as feared. HR is not ready for generative AI, citing ethical and bias concerns.
+
+## Articles we found interesting:
+
+- **1. Larry Summers predicts <b>AI</b> threatens robust US job growth - Fox Business** [link](https://www.foxbusiness.com/economy/larry-summers-predicts-ai-threatens-robust-us-job-growth)
+_Highlight:_ The U.S. labor market is humming along, but former Treasury secretary and OpenAI board member Larry Summers says <b>artificial intelligence</b> could&nbsp;...
+
+- **2. How Tech Giants Cut Corners to Harvest Data for <b>A.I.</b> - The New York Times** [link](https://www.nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.html)
+_Highlight:_ Google and Meta, which have billions of users who produce search queries and social media posts every day, were largely limited by <b>privacy</b> laws and&nbsp;...
+
+- **3. House, Senate leaders nearing deal on landmark online <b>privacy</b> bill - The Washington Post** [link](https://www.washingtonpost.com/technology/2024/04/05/federal-privacy-internet-congress/)
+_Highlight:_ The <b>AI</b> deepfake apocalypse is here. These are the ideas for fighting it. 5. <b>AI</b> hustlers stole women&#39;s faces to put in ads. The law can&#39;t help them.
+
+- **4. XLabs founder Radhika Dirks tells Long Island firms to embrace <b>AI</b> or risk losing ... - Newsday** [link](https://www.newsday.com/business/artificial-intelligence-business-adoption-wr0kb2mz)
+_Highlight:_ She said the technology perpetuates falsehoods, <b>bias</b> and plagiarism. Still, <b>AI</b> has the potential to solve big problems, Dirks said, recounting how&nbsp;...
+
+- **5. <b>AI&#39;s</b> Power Needs Not as Bad as Feared, Princeton Professor Says** [link](https://www.datacenterknowledge.com/energy/ai-s-power-needs-not-bad-feared-princeton-professor-says)
+_Highlight:_ US, UK Form Historic Alliance on <b>AI</b> Safety, Testing. Apr 03, 2024. Featured. The DEI Illusion: Breaking Gender <b>Bias</b> in Data Centers. Mar 27, 2024.
+
+- **6. Is HR ready for generative <b>AI</b>? New data says there&#39;s a lot of work to do - ZDNet** [link](https://www.zdnet.com/article/is-hr-ready-for-generative-ai-new-data-says-theres-a-lot-of-work-to-do/)
+_Highlight:_ ... <b>AI</b>, and even fewer have a policy for ethically using <b>AI</b> ... HR leaders believe the main hurdles to <b>AI</b> adoption are a lack of <b>AI</b> ... <b>bias</b> in <b>AI</b> delivering&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
