@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-07 One-Minute Post
+date: 2024-04-07 16:28:27 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI companies are working on reducing bias in their models. The U.S. Department of Labor has joined the Department of Justice's Artificial Intelligence Fairness Pledge. Meanwhile, leveraging AI to combat vaccine hesitancy among minorities is gaining attention. Additionally, there are concerns about AI chatbots treating users differently based on their names. On the privacy front, there is a focus on transparency about AI's role and limitations in public health communication to mitigate fears of manipulation or privacy breaches. San Jose has initiated a pilot program harnessing AI to detect homeless encampments, emphasizing the need to prioritize privacy protection as AI technology becomes more prevalent. Lastly, a UN resolution co-sponsored by Kenya spells hope for Africa in addressing bias and discrimination in AI systems.
+
+## Articles we found interesting:
+
+- **1. Leveraging <b>AI</b> to combat vaccine hesitancy among minorities** [link](https://thebftonline.com/2024/04/07/leveraging-ai-to-combat-vaccine-hesitancy-among-minorities/)
+_Highlight:_ Furthermore, transparency about <b>AI&#39;s</b> role and limitations in public health communication helps mitigate fears of manipulation or <b>privacy</b> breaches. By&nbsp;...
+
+- **2. Industry Representatives and Regulators Grapple with <b>Privacy</b>, Child Online Safety ...** [link](https://techpolicy.press/industry-representatives-and-regulators-grapple-with-privacy-child-online-safety-legislation-at-iapp-global-privacy-summit)
+_Highlight:_ ... <b>privacy</b> field is colliding with policy domains like <b>AI</b> governance. One panelist, Australian <b>Privacy</b> Commissioner Carly Kind, gave an overview of&nbsp;...
+
+- **3. San Jose&#39;s Innovative Pilot Program Harnesses <b>AI</b> to Detect Homeless Encampments** [link](https://elblog.pl/2024/04/07/san-joses-innovative-pilot-program-harnesses-ai-to-detect-homeless-encampments/)
+_Highlight:_ Citing instances of <b>AI</b> misuse and security breaches, Pendyala emphasizes the need to prioritize <b>privacy</b> protection as <b>AI</b> technology becomes more&nbsp;...
+
+- **4. UN resolution on <b>AI</b> co-sponsored by Kenya spells hope for Africa - The East African** [link](https://www.theeastafrican.co.ke/tea/science-health/un-resolution-on-ai-co-sponsored-by-kenya-spells-hope-4580832)
+_Highlight:_ ... <b>bias</b> and discrimination in <b>AI</b> systems”. The resolution comes days after the European Union parliament passed the <b>Artificial Intelligence</b> Act&nbsp;...
+
+- **5. <b>AI</b> chatbots may treat users differently based on names, study shows** [link](https://www.thenews.com.pk/latest/1176444-ai-chatbots-may-treat-users-differently-based-on-names)
+_Highlight:_ <b>AI</b> companies are working on reducing <b>bias</b> in their models. It is important to note that some argue chatbots might tailor advice based on race or&nbsp;...
+
+- **6. Meta implements new policies to combat deepfakes, China may misuse <b>AI</b>, more - HT Tech** [link](https://tech.hindustantimes.com/tech/news/5-things-about-ai-you-may-have-missed-today-meta-implements-new-policies-to-combat-deepfakes-china-may-misuse-ai-more-71712396309868.html)
+_Highlight:_ Study Reveals Racial <b>Bias</b> in <b>AI</b> Chatbots. <b>AI</b> chatbots exhibit racial <b>biases</b>, favouring white-sounding names over Black ones, warns a Stanford Law&nbsp;...
+
+- **7. DOL Joins DOJ&#39;s <b>Artificial Intelligence Fairness</b> Pledge - Law360 Employment Authority** [link](https://www.law360.com/employment-authority/wage-hour/articles/1822327/dol-joins-doj-s-artificial-intelligence-fairness-pledge-)
+_Highlight:_ DOL Joins DOJ&#39;s <b>Artificial Intelligence Fairness</b> Pledge. By Benjamin Morse. Law360 (April 5, 2024, 5:06 PM EDT) -- The U.S. Department of Labor&nbsp;...
+
+- **8. The Impacts of <b>AI</b> in the American Legal System: Ensuring Transparency and <b>Fairness</b>** [link](https://elblog.pl/2024/04/07/the-impacts-of-ai-in-the-american-legal-system-ensuring-transparency-and-fairness/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) has revolutionized criminal investigations in the American legal system, bringing significant advancements in the way&nbsp;...
+
+- **9. Pinkerton: If You Liked the <b>Fairness</b> Doctrine, You&#39;ll Love Net Neutrality - Breitbart** [link](https://www.breitbart.com/politics/2024/04/06/pinkerton-if-you-liked-the-fairness-doctrine-youll-love-net-neutrality/)
+_Highlight:_ Indeed, looking ahead to <b>artificial intelligence</b> (<b>AI</b>), the Tech Lords want to ensure that <b>AI</b>, that hoggiest of all data hogs, gets a favored low rate.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
