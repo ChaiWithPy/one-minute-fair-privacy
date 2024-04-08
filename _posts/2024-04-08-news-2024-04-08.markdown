@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-08 One-Minute Post
+date: 2024-04-08 16:27:13 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google wins order trimming classes in privacy on/off switch suit. Microsoft's Copilot image tool generates ugly Jewish stereotypes, anti-Semitic tropes. Effector, a Python-based ML library, addresses the need for explainable AI techniques to combat bias. Musicians fight for fairness in the age of GenAI. FSI & AI Hong Kong Summit 2024 focuses on fairness and privacy challenges in AI. The Indian AI paradox: managing innovation and regulation in AI governance. Emotion AI raises significant ethical and privacy concerns. The U.S. may finally get a federal privacy law to rival Europe's GDPR. Math Solver AI's bias can lead to unfair or discriminatory outcomes.
+
+## Articles we found interesting:
+
+- **1. Too Sensitive? Emotion <b>AI</b> and the Next Frontier in Digital Innovation | HaystackID - JDSupra** [link](https://www.jdsupra.com/legalnews/too-sensitive-emotion-ai-and-the-next-9020303/)
+_Highlight:_ However, the development and deployment of Emotion <b>AI</b> also raise significant ethical and <b>privacy</b> concerns. The ability to detect and analyze human&nbsp;...
+
+- **2. The U.S. may finally get a federal <b>privacy</b> law to rival Europe&#39;s GDPR - Fortune** [link](https://fortune.com/2024/04/08/apra-us-federal-privacy-law-rodgers-cantwell-gdpr-ai/)
+_Highlight:_ More news below. David Meyer. Want to send thoughts or suggestions to Data Sheet? Drop a line here. NEWSWORTHY. Meta&#39;s <b>AI</b> labeling. <b>AI</b>&nbsp;...
+
+- **3. Google Wins Order Trimming Classes in <b>Privacy</b> On/Off Switch Suit - Bloomberg Law News** [link](https://news.bloomberglaw.com/ip-law/google-wins-order-trimming-classes-in-privacy-on-off-switch-suit)
+_Highlight:_ Attorneys who use <b>artificial intelligence</b> should be careful about sharing information and data that could accidentally breach client <b>confidentiality</b>,&nbsp;...
+
+- **4. Microsoft&#39;s Copilot image tool generates ugly Jewish stereotypes, anti-Semitic tropes** [link](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsofts-copilot-image-tool-generates-ugly-jewish-stereotypes)
+_Highlight:_ But when documenting <b>AI bias</b>, we need to show evidence. Copilot outputs Jewish stereotypes. Microsoft Copilot Designer, formerly known as Bing Chat,&nbsp;...
+
+- **5. Math Solver <b>AI</b> The Evolution of <b>AI</b> Assistants - Programming Insider** [link](https://programminginsider.com/math-solver-ai-the-evolution-of-ai-assistants/)
+_Highlight:_ ... <b>bias</b>, and can lead to unfair or discriminatory outcomes. The problem of algorithmic <b>bias</b> arises when <b>AI</b> systems learn patterns from <b>biased</b> data&nbsp;...
+
+- **6. Effector: A Python-based Machine Learning Library Dedicated to Regional Feature Effects** [link](https://www.marktechpost.com/2024/04/07/effector-a-python-based-machine-learning-library-dedicated-to-regional-feature-effects/)
+_Highlight:_ ... <b>bias</b> and potentially misleading interpretations. ... A team of researchers has introduced Effector to address the need for explainable <b>AI</b> techniques in&nbsp;...
+
+- **7. Musicians and the fight for <b>fairness</b> in the age of GenAI | TechTarget** [link](https://www.techtarget.com/searchenterpriseai/podcast/Musicians-and-the-fight-for-fairness-in-the-age-of-GenAI)
+_Highlight:_ Artists say generative <b>AI</b> systems are threatening their livelihoods. Jenn Anderson-Miller, CEO of music licensing firm Audiosocket, has ideas about&nbsp;...
+
+- **8. FSI &amp; <b>AI</b> Hong Kong Summit 2024 | CDOTrends** [link](https://www.cdotrends.com/event/fsi-%26-ai-hongkong-summit/2024/)
+_Highlight:_ Nonetheless, trust, ethics, compliance, governance, and scaling at speed remain challenging to <b>AI</b> and Data leaders in FSI. With <b>fairness</b> and privacy&nbsp;...
+
+- **9. The Indian <b>AI</b> paradox: Managing innovation and regulation in <b>AI</b> Governance** [link](https://timesofindia.indiatimes.com/blogs/voices/the-indian-ai-paradox-managing-innovation-and-regulation-in-ai-governance/)
+_Highlight:_ ... <b>AI</b> Act. In ... <b>Artificial Intelligence</b> (<b>AI</b>). Ad. The &#39;Digital ... It&#39;s hard to imagine government intervention in the reliability and <b>fairness</b> controls.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
