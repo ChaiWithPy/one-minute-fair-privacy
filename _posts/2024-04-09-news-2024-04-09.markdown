@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-09 One-Minute Post
+date: 2024-04-09 16:20:58 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The proposed U.S. AI Bill of Rights aims to protect privacy, ensure AI system transparency, and prevent algorithmic bias. Europe's flagship privacy principles are under attack as AI accelerates. Generative AI can exhibit harmful biases that are difficult to control. Tony Blair's son is using AI for bias-free hiring. The Department of Labor and federal government are calling for fairness in AI use. Ethical AI development is crucial for ensuring safety, fairness, and transparency in technology.
+
+## Articles we found interesting:
+
+- **1. Reality Check On The $340 Billion Generative <b>AI</b> Opportunity In Finance - Forbes** [link](https://www.forbes.com/sites/sap/2024/04/09/reality-check-on-the-340b-generative-ai-opportunity-in-finance/)
+_Highlight:_ The proposed U.S. <b>AI</b> Bill of Rights is designed to protect people&#39;s <b>privacy</b>, ensure <b>AI</b> system transparency, and prevent algorithmic bias and&nbsp;...
+
+- **2. As <b>AI</b> accelerates, Europe&#39;s flagship <b>privacy</b> principles are under attack, warns EDPS** [link](https://techcrunch.com/2024/04/09/edps-gdpr-principles-attacks/)
+_Highlight:_ Binary code. <b>AI</b> (<b>Artificial Intelligence</b>). Image Credits: metamorworks / Getty Images. The European Data Protection Supervisor (EDPS)&nbsp;...
+
+- **3. Cyber Risks When Job Hunters Become the Hunted - InformationWeek** [link](https://www.informationweek.com/cyber-resilience/cyber-risks-when-job-hunters-become-the-hunted)
+_Highlight:_ Deepfake and <b>AI artificial intelligence</b> video editing technology. ... Online <b>Privacy</b> Security Threat Abstract Background Art ... Machine Learning &amp; <b>AI</b>.
+
+- **4. Can generative <b>AI</b> provide trusted financial advice? - MIT Sloan** [link](https://mitsloan.mit.edu/ideas-made-to-matter/can-generative-ai-provide-trusted-financial-advice)
+_Highlight:_ When trained on this data, LLMs can exhibit harmful <b>biases</b> that are difficult to preemptively identify and control, such as &#39;parroting&#39; historical&nbsp;...
+
+- **5. Tony Blair&#39;s son is using <b>AI</b> to match employers with their dream hire | Fortune Europe** [link](https://fortune.com/europe/2024/04/08/tony-blairs-son-euan-blair-ai-employers-dream-hire-50-million-losses-education-unicorn-multiverse/)
+_Highlight:_ <b>Bias</b>-free hiring. Searchlight, founded by twins Anna Wang and Kerry Wang in 2018, is an “Ethical <b>AI</b>” platform that tries to match prospective hires to&nbsp;...
+
+- **6. Overcoming Fear of <b>AI</b> to Lead More Effectively - Harvard Business Review** [link](https://hbr.org/2024/04/to-succeed-with-ai-adopt-a-beginners-mindset)
+_Highlight:_ ... <b>biases</b> propagated. Underneath these <b>AI</b>-related anxieties are more universal fears, ones that often accompany periods of technology advancement&nbsp;...
+
+- **7. Department of Labor Joins Other Agencies to Call for <b>Fairness</b> in Use of <b>AI</b>** [link](https://cmmonline.com/news/department-of-labor-joins-other-agencies-to-call-for-fairness-in-use-of-ai)
+_Highlight:_ A year after other federal departments and agencies issued a statement on <b>artificial intelligence</b> (<b>AI</b>) ... <b>fairness</b>, equality, justice and compliance as&nbsp;...
+
+- **8. Federal Government Ramps Up Commitment to <b>Fairness</b>, Equity in Use of <b>AI</b> - SHRM** [link](https://www.shrm.org/topics-tools/news/inclusion-equity-diversity/federal-government-commits-to-ai-fairness)
+_Highlight:_ A new federal report underscores importance of federal employers&#39; responsibilities as <b>AI</b> and other automated technologies advance.
+
+- **9. The Trust Factor: <b>AI&#39;s</b> Role in Customer Engagement - CMS Wire** [link](https://www.cmswire.com/customer-experience/trust-in-ai-combining-ai-the-human-experience/)
+_Highlight:_ Ethical <b>AI</b> is essential. Responsible <b>AI</b> development is crucial for ensuring safety, <b>fairness</b> and transparency in technology. Guardrails guide <b>AI</b>.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
