@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-10 One-Minute Post
+date: 2024-04-10 16:19:47 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI is tackling privacy issues with Proton's acquisition of Standard Notes and the proposed American Privacy Rights Act. Meanwhile, bias in AI is under scrutiny with concerns about generative AI chatbots producing biased text and the impact of AI on the trans community. On the fairness front, Amazon is investing in a 10-year research collaboration to advance AI, and a new US bill may require developers to disclose their use of copyrighted music to train generative AI models. Additionally, generative models are being used to improve the fairness of medical classifiers under distribution shifts.
+
+## Articles we found interesting:
+
+- **1. Humans Forget. <b>AI</b> Assistants Will Remember Everything | WIRED** [link](https://www.wired.com/story/humans-forget-ai-assistants-remember-everything/)
+_Highlight:_ “If you think about it for a half second, the most important hard problem isn&#39;t recording or transcribing, it&#39;s solving the <b>privacy</b> problem,” Gruber&nbsp;...
+
+- **2. Proton picks up Standard Notes to deepen its pro-<b>privacy</b> portfolio - Yahoo Finance** [link](https://finance.yahoo.com/news/proton-picks-standard-notes-deepen-100039775.html)
+_Highlight:_ Generative <b>AI</b> Software Spending Could Soar 6,260%: 1 <b>AI</b> Growth Stock to Buy Now and Hold Long-Term. 7h ago. TechCrunch. Nvidia&#39;s next-gen Blackwell&nbsp;...
+
+- **3. Big Workplace <b>AI</b> Implications Buried in Groundbreaking Data <b>Privacy</b> Proposal** [link](https://www.fisherphillips.com/en/news-insights/big-workplace-ai-implications-data-privacy-proposal.html)
+_Highlight:_ If the American <b>Privacy</b> Rights Act is passed by Congress as currently proposed, employers would be required to notify applicants and workers when <b>AI</b>&nbsp;...
+
+- **4. The <b>AI</b> Bandwagon &amp; Biden&#39;s Executive Order - Mind Matters** [link](https://mindmatters.ai/2024/04/the-ai-bandwagon-bidens-executive-order/)
+_Highlight:_ Eliminating <b>bias</b> entirely from <b>AI</b> is a fantasy. <b>AI</b> void of <b>bias</b> is like water without wet. Takeaways. The Biden <b>AI</b> edict throws <b>AI</b> at everything.
+
+- **5. Students Are Likely Writing Millions of Papers With <b>AI</b> - WIRED** [link](https://www.wired.com/story/student-papers-generative-ai-turnitin/)
+_Highlight:_ Generative <b>AI</b> chatbots have also been caught spitting out <b>biased</b> text on gender and race. Despite those flaws, students have used chatbots for&nbsp;...
+
+- **6. <b>AI</b> Boom Poses Threat to Trans Community, Experts Warn - NYCity News Service** [link](https://www.nycitynewsservice.com/2024/04/09/ai-threat-transgender-nonbinary-people/)
+_Highlight:_ “They are created by people with <b>biases</b>, and those <b>biases</b> translate into code that then affects entire communities, especially the trans community,&nbsp;...
+
+- **7. Amazon invests $25 million in a 10-year research collaboration to advance <b>AI</b>** [link](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-invests-25-million-in-a-10-year-research-collaboration-to-advance-ai)
+_Highlight:_ In 2019, Amazon launched the Program on <b>Fairness</b> in <b>AI</b> together with the U.S. National Science Foundation. This $21 million initiative has so far&nbsp;...
+
+- **8. New US bill could make developers disclose their use of copyrighted music to train ...** [link](https://www.musicbusinessworldwide.com/new-us-bill-could-make-developers-disclose-their-use-of-copyrighted-music-to-train-generative-ai-models/)
+_Highlight:_ ... <b>AI</b> training datasets. This is about respecting creativity in the age of <b>AI</b> and marrying technological progress with <b>fairness</b>.” “<b>AI</b> has the&nbsp;...
+
+- **9. Generative models improve <b>fairness</b> of medical classifiers under distribution shifts - Nature** [link](https://www.nature.com/articles/s41591-024-02838-6)
+_Highlight:_ The advent of machine learning (ML) in healthcare promises advances in care in a wide range of applications. <b>Artificial intelligence</b> (<b>AI</b>)&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
