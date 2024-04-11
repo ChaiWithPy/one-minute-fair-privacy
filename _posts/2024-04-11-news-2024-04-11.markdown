@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-11 One-Minute Post
+date: 2024-04-11 16:14:21 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+PA House passes AI disclosure bill for privacy protection. TSA's biometric screenings raise concerns about privacy. Google Cloud and Bayer collaborate to address AI bias in radiology. Meta introduces new AI chip to drive bias out of AI. Sama launches Red Team service to enhance AI model fairness and reliability. Ethical considerations in AI development highlighted by Harvard Gazette. AI's impact on hiring processes and job market raises concerns about fairness and bias.
+
+## Articles we found interesting:
+
+- **1. &#39;We are now entering a brave new world&#39;: PA House passes <b>AI</b> disclosure bill** [link](https://www.cityandstatepa.com/policy/2024/04/we-are-now-entering-brave-new-world-pa-house-passes-ai-disclosure-bill/395636/)
+_Highlight:_ ... <b>AI</b> will have a negative impact on personal <b>privacy</b>. Pielli framed the bill as a consumer protection bill and stressed that the legislation won&#39;t&nbsp;...
+
+- **2. How TSA&#39;s opt-outs for biometric screenings informed White House <b>AI</b> policy - Nextgov/FCW** [link](https://www.nextgov.com/emerging-tech/2024/04/how-tsas-opt-outs-biometric-screenings-informed-white-house-ai-policy/395626/)
+_Highlight:_ Some lawmakers and <b>privacy</b> advocates, however, have voiced concerns about TSA&#39;s expanding use of facial recognition, including how the agency handles&nbsp;...
+
+- **3. Two lawmakers on new data <b>privacy</b> legislation - YouTube** [link](https://www.youtube.com/watch%3Fv%3DALGdNWUYTuc)
+_Highlight:_ 9:08 &middot; Go to channel &middot; The <b>AI</b> dark horse: Why Apple could win the next evolution of the <b>AI</b> arms race. CNBC Television•782K views &middot; 13:17 &middot; Go to&nbsp;...
+
+- **4. Google Cloud and Bayer team up to bring <b>AI</b> to radiologists - Silicon Republic** [link](https://www.siliconrepublic.com/machines/google-cloud-bayer-ai-radiologists-healthcare)
+_Highlight:_ Why <b>AI bias</b> is a systemic rather than a technological problem &middot; Machines &middot; Why <b>AI bias</b> is a systemic rather than a technological problem. 29 Mar 2024.
+
+- **5. Meta debuts new generation of <b>AI</b> chip - CNBC** [link](https://www.cnbc.com/2024/04/10/meta-debuts-new-generation-of-ai-chip.html)
+_Highlight:_ ... <b>AI</b> products in Facebook, Instagram and WhatsApp. ... Read more CNBC reporting on <b>AI</b>. How to drive <b>bias</b> out of <b>AI</b> without making mistakes of Google&nbsp;...
+
+- **6. The Dawn of <b>AI</b> in Manufacturing: Understanding Its Wide Reaching Impact on Industry** [link](https://www.jdsupra.com/legalnews/the-dawn-of-ai-in-manufacturing-2183513/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) into various processes. As factories ... <b>artificial intelligence</b> (<b>AI</b>) ... Moreover, ethical considerations, such as <b>bias</b>&nbsp;...
+
+- **7. Sama launches Red Team service to enhance <b>AI</b> model safety and reliability** [link](https://siliconangle.com/2024/04/10/sama-launches-red-team-service-enhance-ai-model-safety-reliability/)
+_Highlight:_ ... <b>AI</b> interaction designers to evaluate a model&#39;s <b>fairness</b> and safeguards, check compliance with laws and safely expose and rectify issues across&nbsp;...
+
+- **8. How to develop ethical <b>artificial intelligence</b> - Harvard Gazette** [link](https://news.harvard.edu/gazette/story/2024/04/how-to-develop-ethical-artificial-intelligence-ai-harvard-thinking-podcast/)
+_Highlight:_ Why <b>AI fairness</b> conversations must include disabled people. Tech offers promise to help yet too often perpetuates ableism, say researchers. It&nbsp;...
+
+- **9. How <b>AI</b> has changed hiring processes and the job market: Hiring expert&#39;s tips - MSN** [link](https://www.msn.com/en-in/money/news/how-ai-has-changed-hiring-processes-and-the-job-market-hiring-expert-s-tips/ar-BB1lrQrM%3Focid%3Dfinance-verthp-feeds)
+_Highlight:_ TACKLING <b>AI</b> BIAS AND ENSURING <b>FAIRNESS</b>. &quot;<b>AI</b> bias is a deep concern because <b>AI</b> is powered by data, data comes from humans, and humans are flawed. <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
