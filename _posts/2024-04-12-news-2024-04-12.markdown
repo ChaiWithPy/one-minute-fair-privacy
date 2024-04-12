@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-12 One-Minute Post
+date: 2024-04-12 16:21:53 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google is dropping its VPN service, while enhancing Gmail security with AI. The US lags behind Europe in AI privacy regulations. The Canadian government uses AI to reduce bias in hiring. The ETA's Jodie Kelley addresses AI biases in the payments industry. Microsoft's AI Stories project aims to manage AI bias. President Biden issues an executive order to address AI safety, security, bias, and fairness. A proposed Generative AI Disclosure Act seeks transparency and fairness in AI training datasets. Forbes emphasizes building AI on strong ethics to protect privacy and ensure fairness.
+
+## Articles we found interesting:
+
+- **1. Google is ditching a major <b>privacy</b> tool as it goes all-in on <b>AI</b> - Quartz** [link](https://qz.com/google-is-ditching-a-major-privacy-tool-as-it-goes-all-1851406388)
+_Highlight:_ Google is dropping its VPN (or virtual private network) from Google One, the company&#39;s paid cloud storage service. The tech giant ditched its&nbsp;...
+
+- **2. Google Confirms Major Gmail <b>AI</b> Security Update For 3 Billion Users - Forbes** [link](https://www.forbes.com/sites/daveywinder/2024/04/12/google-confirms-major-gmail-ai-security-update-for-3-billion-users/)
+_Highlight:_ ... <b>AI</b> large language models to protect Gmail users from harm. ... My colleague, Zak Doffman, is a highly-respected matters of <b>privacy</b> contributor at Forbes&nbsp;...
+
+- **3. Why the U.S. is Falling Behind Europe in <b>AI Privacy</b> Violations: Experts - Techopedia** [link](https://www.techopedia.com/why-the-us-falls-behind-europe-in-ai-privacy-violations)
+_Highlight:_ U.S. Lags Europe&#39;s Common <b>AI</b> and <b>Privacy</b> Regulation. While the EU has the GDPR to safeguard data <b>privacy</b>, and now the <b>AI</b> Act specifically focuses on&nbsp;...
+
+- **4. Federal government use of <b>AI</b> in hundreds of initiatives revealed by new research database** [link](https://www.cbc.ca/news/politics/federal-government-used-ai-1.7170307)
+_Highlight:_ That&#39;s something the Department of National Defence experimented with when it used <b>AI</b> to reduce <b>bias</b> in hiring decisions, in a program that ended in&nbsp;...
+
+- **5. Busting <b>AI</b> myths with the ETA&#39;s Jodie Kelley - American Banker** [link](https://www.americanbanker.com/leaders/busting-ai-myths-in-the-payments-industry-with-the-etas-jodie-kelley)
+_Highlight:_ At its heart, the issue is whether <b>AI</b> is making decisions that humans should be making — and in doing so, introducing <b>biases</b> that humans are likelier&nbsp;...
+
+- **6. <b>AI</b> STORIES: A New Vision for <b>AI</b> and Narratives - Neuroscience News** [link](https://neurosciencenews.com/ai-stories-llms-25904/)
+_Highlight:_ To manage <b>AI bias</b>, we need to consider the underlying narratives in the training data and not just proximity of words and images. When Microsoft&#39;s <b>AI</b>&nbsp;...
+
+- **7. Biden Issues Executive Order on <b>AI</b> Safety and Security - The National Law Review** [link](https://natlawreview.com/article/president-biden-issues-executive-order-addressing-artificial-intelligence-safety%3Famp)
+_Highlight:_ ... <b>artificial intelligence</b> innovation with safety and security, introduces <b>AI</b> ... <b>artificial intelligence</b> (<b>AI</b>). This ambitious ... Address Bias and <b>Fairness</b>:&nbsp;...
+
+- **8. Proposed Generative <b>AI</b> Disclosure Act Seeks Transparency and <b>Fairness</b> in <b>AI</b> Training Datasets** [link](https://circleid.com/posts/20240412-proposed-generative-ai-disclosure-act-seeks-transparency-and-fairness-in-ai-training-datasets)
+_Highlight:_ In response to ongoing controversies over the use of copyrighted content in training <b>artificial intelligence</b>, U.S. Representative Adam Schiff has&nbsp;...
+
+- **9. How To Ensure A Safe, Secure And Trustworthy <b>AI</b> - Forbes** [link](https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/04/12/how-to-ensure-a-safe-secure-and-trustworthy-ai/)
+_Highlight:_ Building <b>AI</b> upon a bedrock of strong ethics is paramount ... <b>AI</b> development lifecycle to protect privacy, ensure <b>fairness</b> and maintain accountability.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
