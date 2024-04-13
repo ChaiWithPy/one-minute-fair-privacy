@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-13 One-Minute Post
+date: 2024-04-13 16:16:49 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Kara Swisher emphasizes the need for AI guardrails and privacy laws. Utah is using responsible AI while ensuring privacy. The FDA is addressing bias in AI used in medical products. AI's evolution raises concerns about bias. Oncologists voice ethical concerns over biased AI in cancer care. Chief Justice of India advocates for ethical AI integration in legal research, emphasizing fairness. Clear guidelines are needed for synthetic data to ensure transparency, accountability, and fairness in AI.
+
+## Articles we found interesting:
+
+- **1. Kara Swisher calls out urgent need for <b>AI</b> guardrails - Yahoo Finance** [link](https://finance.yahoo.com/news/kara-swisher-calls-urgent-ai-150000973.html)
+_Highlight:_ That said, what&#39;s really dangerous that is that our Congress can&#39;t pass laws around antitrust or <b>privacy</b> or guidelines around <b>AI</b>. We have to do&nbsp;...
+
+- **2. This senator wants a <b>privacy</b> law. She&#39;s been one of its biggest obstacles. - Washington Post** [link](https://www.washingtonpost.com/technology/2024/04/13/congress-maria-cantwell-online-privacy/)
+_Highlight:_ ... <b>privacy</b>, content moderation, even <b>artificial intelligence</b>, few have advanced. “That&#39;s where a lot of the tech legislation goes to die is that&nbsp;...
+
+- **3. Opinion: How Utah is using responsible <b>AI</b> to solve environmental and health crises** [link](https://www.sltrib.com/opinion/commentary/2024/04/13/opinion-utah-were-using/)
+_Highlight:_ We want to apply the transformational potential of <b>A.I.</b> to problems of regional and global significance while also protecting <b>privacy</b>, civil rights&nbsp;...
+
+- **4. FDA&#39;s Approach to <b>AI</b> in Medical Products - The National Law Review** [link](https://natlawreview.com/article/fda-charts-course-regulating-ai-used-medical-products)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) use in the medical product life ... The Centers highlighted projects that identify introduction points for <b>bias</b> in the <b>AI</b>&nbsp;...
+
+- **5. The evolution of <b>AI</b> and what it means for humanity | WFLA** [link](https://www.wfla.com/bloom-tampa-bay/the-evolution-of-ai-and-what-it-means-for-humanity/)
+_Highlight:_ This is an example of <b>bias</b> in <b>AI</b>, and it&#39;s a big problem because <b>AI</b> systems learn from data created by humans, and humans aren&#39;t perfect. We want <b>AI</b>&nbsp;...
+
+- **6. Oncologists Voice Ethical Concerns Over <b>AI</b> in Cancer Care - Medscape** [link](https://www.medscape.com/viewarticle/oncologists-voice-ethical-concerns-over-ai-cancer-care-2024a100071i)
+_Highlight:_ Most oncologists also felt responsible for protecting patients from <b>biased AI</b>, but few were confident that they could do so. ... bias, error, or misuse&nbsp;...
+
+- **7. Chief Justice of India DY Chandrachud advocates for ethical <b>AI</b> integration in legal research** [link](https://timesofindia.indiatimes.com/technology/tech-news/chief-justice-of-india-dy-chandrachud-advocates-for-ethical-ai-integration-in-legal-research/articleshow/109265942.cms)
+_Highlight:_ He noted the importance of transparency, accountability, and <b>fairness</b> in <b>AI</b> utilisation, highlighting concerns about potential errors and biases&nbsp;...
+
+- **8. Clear guidelines needed for synthetic data to ensure transparency, accountability and ...** [link](https://techxplore.com/news/2024-04-guidelines-synthetic-transparency-accountability-fairness.html)
+_Highlight:_ They should prioritize transparency, accountability and <b>fairness</b>. Having such guidelines is especially important as generative <b>AI</b> and advanced&nbsp;...
+
+- **9. <b>AI</b> in legal research is &quot;game-changer&quot;; offers unmatched efficiency, accuracy: CJI** [link](https://www.businesstoday.in/technology/news/story/cji-chandrachud-advocates-for-ethical-ai-integration-in-legal-research-425407-2024-04-13)
+_Highlight:_ Justice Chandrachud noted the importance of transparency, accountability, and <b>fairness</b> in <b>AI</b> utilisation, highlighting concerns about potential&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
