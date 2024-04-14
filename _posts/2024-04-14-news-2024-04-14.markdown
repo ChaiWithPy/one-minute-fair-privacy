@@ -1,0 +1,40 @@
+---
+layout: post
+title: 2024-04-14 One-Minute Post
+date: 2024-04-14 16:12:20 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI is pushing for more data but privacy concerns are rising. Apple introduces pfl-research for federated learning. Meanwhile, AI-generated fashion models raise privacy issues. On the other hand, there's a growing focus on bias in AI, with discussions on algorithmic bias and fairness in AI development. The entertainment industry is backing a new bill for fairness in AI development.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> Wants Your Data, But Can You Trust It? - CDOTrends** [link](https://www.cdotrends.com/story/3928/ai-wants-your-data-can-you-trust-it)
+_Highlight:_ The Twilio report reveals a transparency gap and explains why Hong Kong brands may need to step up their <b>privacy</b> game.
+
+- **2. Researchers at Apple Introduce &#39;pfl-research&#39;: A Fast, Modular, and Easy-to-Use Python ...** [link](https://www.marktechpost.com/2024/04/14/researchers-at-apple-introduce-pfl-research-a-fast-modular-and-easy-to-use-python-framework-for-simulating-federated-learning/)
+_Highlight:_ Join the Fastest Growing <b>AI</b> Research Newsletter ... (<b>AI</b>) Courses on Coursera &middot; Vibhanshu Patidar ... <b>Privacy</b> &amp; TC &middot; Cookie Policy &middot; Partnership and&nbsp;...
+
+- **3. <b>AI</b>-generated fashion models could bring more diversity to the industry - or leave it with less** [link](https://www.michigansthumb.com/entertainment/article/ai-generated-fashion-models-could-bring-more-19402191.php)
+_Highlight:_ <b>Privacy</b> Notice &middot; Terms of Use &middot; Advertise &middot; Puzzles &middot; Huron Daily Tribune Logo Subscribe &middot; Entertainment. <b>AI</b>-generated fashion models could bring more&nbsp;...
+
+- **4. Weekly Roundup – April 13, 2024 | Healthcare IT Today** [link](https://www.healthcareittoday.com/2024/04/13/weekly-roundup-april-13-2024/)
+_Highlight:_ ... <b>AI</b>, including algorithmic <b>bias</b>, generative <b>AI</b>, and ambient clinical voice. ... <b>artificial intelligence</b> (<b>AI</b>) language models in diverse health care&nbsp;...
+
+- **5. PH <b>AI</b> readiness &#39;a mixed-bag&#39; amid interest but hindered by digital divide | ANC - YouTube** [link](https://www.youtube.com/watch%3Fv%3Dzn4Guf9ewVY)
+_Highlight:_ ... <b>AI</b> revolution, and its impact on the workforce. Join ... PH competition watchdog: Companies should watch out for algorithmic <b>bias</b> when using <b>AI</b> | ANC.
+
+- **6. Annual Bioethics Symposium addresses intersectionality between <b>AI</b>, ethics, health care** [link](https://badgerherald.com/news/2024/04/13/annual-bioethics-symposium-addresses-intersectionality-between-ai-ethics-health-care/)
+_Highlight:_ ... <b>bias</b> in <b>AI</b>, how to identify the implications of <b>AI</b> use, how to explore and engage in real-life case studies to approach <b>biases</b> in data and how to&nbsp;...
+
+- **7. Elon Musk Anticipates <b>AI</b> to Eclipse Human Capacity in Five Years - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/04/14/elon-musk-anticipates-ai-to-eclipse-human-capacity-in-five-years/)
+_Highlight:_ Ensuring <b>fairness</b> in <b>AI</b> systems involves addressing biases in training data and ensuring diversity in the teams developing <b>AI</b> technologies. 3. How&nbsp;...
+
+- **8. Entertainment Industry Backs New Bill for <b>Fairness</b> in <b>AI</b> Development** [link](https://elblog.pl/2024/04/14/entertainment-industry-backs-new-bill-for-fairness-in-ai-development/)
+_Highlight:_ In an era where <b>artificial intelligence</b> (<b>AI</b>) is rapidly advancing, a new bill has been presented in the U.S. Congress designed to regulate how <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
