@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-15 One-Minute Post
+date: 2024-04-15 15:56:48 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple's iOS 18 makes a bold move for AI privacy, while a congressional bill aims to rein in data brokers. Generative AI systems are found to be biased, and a study reveals racial bias in hiring. On the fairness front, a survey highlights biases in generative AI, and a project in Donegal receives funding to ensure fairness and transparency in AI. Amazon's CTO emphasizes the importance of quality data for AI development and the need for publicly available datasets to ensure fairness.
+
+## Articles we found interesting:
+
+- **1. iOS 18—Apple Issues New Blow To Google With Bold <b>AI Privacy</b> Decision - Forbes** [link](https://www.forbes.com/sites/kateoflahertyuk/2024/04/15/ios-18-apple-issues-new-blow-to-google-with-bold-ai-privacy-decision/)
+_Highlight:_ If <b>AI</b> the next <b>privacy</b> battlefield, Apple&#39;s latest iOS 18 decision is pitting itself to win against its biggest smartphone rival Google.
+
+- **2. Congressional <b>privacy</b> bill looks to rein in data brokers - CyberScoop** [link](https://cyberscoop.com/congressional-privacy-bill-looks-to-rein-in-data-brokers/)
+_Highlight:_ Chinese hackers turn to <b>AI</b> to meddle in elections &middot; Cyber review board blames cascading Microsoft failures for Chinese hack &middot; Chinese hackers target&nbsp;...
+
+- **3. VoC and <b>AI</b>: Revolutionizing Customer Insights - CMSWire.com** [link](https://www.cmswire.com/customer-experience/unlocking-the-voice-of-customer-with-ai/)
+_Highlight:_ Ensuring the responsible use of <b>AI</b> in VoC involves navigating a complex combination of data <b>privacy</b>, interpretation accuracy and the ethical&nbsp;...
+
+- **4. Will <b>AI</b> help or hinder trust in science? :: Jon Whittle &amp; Stefan Harrer - Setopati** [link](https://en.setopati.com/International/162909)
+_Highlight:_ Generative <b>AI</b> systems are susceptible to &quot;hallucinations&quot; where they make up facts. Or they can be <b>biased</b>. Google&#39;s Gemini depicting America&#39;s&nbsp;...
+
+- **5. The Ease of <b>AI</b> Making Decisions for Us Risks Losing the Skills to Do that Ourselves** [link](https://favs.news/the-ease-of-ai-making-decisions-for-us-risks-losing-the-skills-to-do-that-ourselves/)
+_Highlight:_ Add <b>AI</b> to the mix and the result is a dangerous feedback loop: The data that <b>AI</b> is mining to fuel its algorithms is made up of people&#39;s <b>biased</b>&nbsp;...
+
+- **6. Emily or Lakisha? Guess which one hiring managers chose. - Business Insider** [link](https://www.businessinsider.com/companies-display-race-gender-bias-when-hiring-resumes-names-jobs-2024-4)
+_Highlight:_ Researchers studied racial <b>bias</b> in hiring by sending over 83,000 fake résumés to big US companies. ... <b>AI</b> could remove identifiers like gender — or&nbsp;...
+
+- **7. Better Together Announces Results of Communications Agency-Led Survey on Generative <b>AI</b> Biases** [link](https://www.prnewswire.com/news-releases/better-together-announces-results-of-communications-agency-led-survey-on-generative-ai-biases-302116488.html)
+_Highlight:_ ... <b>AI</b> systems that reflect and promote diversity and <b>fairness</b>.&quot; Key Findings ... <b>fairness</b> in <b>AI</b> technologies. The survey revealed racism (221 mentions)&nbsp;...
+
+- **8. €493250 fund for Donegal-based <b>AI</b> project** [link](https://www.donegaldaily.com/2024/04/15/e493250-fund-for-donegal-based-ai-project/)
+_Highlight:_ ... <b>fairness</b>, transparency, and safety, thereby empowering the public sector to become early adopters of <b>AI</b> technologies. This week group of over 35&nbsp;...
+
+- **9. Amazon CTO Dr Werner Vogels on how <b>AI</b> can be used for good - Gulf Business** [link](https://gulfbusiness.com/ai-can-serve-good-says-dr-werner-vogels-of-amazon/)
+_Highlight:_ Furthermore, I underscored the significance of quality data in <b>AI</b> development and the need for publicly available datasets to ensure <b>fairness</b> and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
