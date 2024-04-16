@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-16 One-Minute Post
+date: 2024-04-16 16:02:41 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Wolters Kluwer emphasizes the importance of privacy and security in leveraging AI for tax research. Five Eyes agencies issue guidance on securing AI to improve confidentiality and integrity. Clearview AI improves SOC 2 certification, certifying privacy controls. Australian media need generative AI policies to address algorithmic bias. Causal AI is revolutionizing decision-making and addressing bias. Acting Comptroller Hsu highlights OCC's efforts in elevating financial fairness through AI. The global AI market forecast report emphasizes the need for fairness in AI systems and ethical AI development. Deepfake detection improves with algorithms that prioritize fairness and accuracy in AI technology.
+
+## Articles we found interesting:
+
+- **1. How <b>AI</b> Can Transform the Way Accountants Leverage Tax Research | Wolters Kluwer** [link](https://www.wolterskluwer.com/en/expert-insights/how-ai-can-transform-the-way-accountants-leverage-tax-research)
+_Highlight:_ ... <b>privacy</b>, and security of <b>AI</b>-generated results. To leverage <b>AI</b> safely and effectively, look for software that references a closed <b>AI</b> system, which&nbsp;...
+
+- **2. Five Eyes agencies issue guidance on securing <b>AI</b> - Nextgov/FCW** [link](https://www.nextgov.com/artificial-intelligence/2024/04/five-eyes-agencies-issue-guidance-securing-ai/395758/)
+_Highlight:_ The guidance sets three core goals: improving the <b>confidentiality</b> and integrity of <b>AI</b> systems; assuring known cybersecurity vulnerabilities are&nbsp;...
+
+- **3. Clearview <b>AI</b> Improves SOC 2 Certification, Certifying <b>Privacy</b> Controls Alongside Security ...** [link](https://www.bakersfield.com/ap/news/clearview-ai-improves-soc-2-certification-certifying-privacy-controls-alongside-security-controls/article_3b574b84-aec1-56ba-a240-009fda032247.html)
+_Highlight:_ ... <b>privacy</b> Trust Services Criteria, certifying the company maintains effective <b>privacy</b> controls. This builds upon Clearview <b>AI&#39;s</b> previous SOC 2&nbsp;...
+
+- **4. Australian media need generative <b>AI</b> policies - EurekAlert!** [link](https://www.eurekalert.org/news-releases/1041336)
+_Highlight:_ ... <b>AI</b>.” Algorithmic <b>bias</b> affecting trust. The study found journalists were concerned about how algorithmic <b>bias</b> could perpetuate stereotypes around&nbsp;...
+
+- **5. <b>AI</b> now beats humans at basic tasks — new benchmarks are needed, says major report** [link](https://www.nature.com/articles/d41586-024-01087-4)
+_Highlight:_ Although benchmarks are emerging that can score metrics such as an <b>AI</b> tool&#39;s truthfulness, <b>bias</b> and even likability, not everyone is using the same&nbsp;...
+
+- **6. Causal <b>AI</b>: the revolution uncovering the &#39;why&#39; of decision-making - The European Sting** [link](https://europeansting.com/2024/04/15/causal-ai-the-revolution-uncovering-the-why-of-decision-making/)
+_Highlight:_ Causal <b>AI</b> can also help address the issue of <b>bias</b> in <b>AI</b>. By explicitly modelling the causal relationships between variables, causal <b>AI</b> can&nbsp;...
+
+- **7. Acting Comptroller Hsu Highlights Latest Efforts of OCC in Elevating Financial <b>Fairness</b>** [link](https://www.consumerfinancemonitor.com/2024/04/15/acting-comptroller-hsu-highlights-latest-efforts-of-occ-in-elevating-financial-fairness/)
+_Highlight:_ He advised that <b>artificial intelligence</b> has the potential to reduce bias and enable fair access to credit and banking services, but also has the same&nbsp;...
+
+- **8. Global <b>Artificial Intelligence</b> (<b>AI</b>) Market Forecast Report to 2030 - Yahoo Finance** [link](https://uk.finance.yahoo.com/news/global-artificial-intelligence-ai-market-112100264.html)
+_Highlight:_ ... <b>fairness</b> in <b>AI</b> systems, and ethical <b>AI</b> development and deployment. Regulatory frameworks continue to evolve to address the challenges and&nbsp;...
+
+- **9. Deepfake detection improves when using algorithms that are more aware of ... - Beaumont Enterprise** [link](https://www.beaumontenterprise.com/news/article/deepfake-detection-improves-when-using-algorithms-19405443.php)
+_Highlight:_ We believe <b>fairness</b> and accuracy are crucial if the public is to accept <b>artificial intelligence</b> technology. When large language models like&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
