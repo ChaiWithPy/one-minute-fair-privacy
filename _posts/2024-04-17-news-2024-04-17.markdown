@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-04-17 One-Minute Post
+date: 2024-04-17 15:50:49 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Massachusetts officials warn AI systems to comply with privacy and anti-discrimination laws. Meanwhile, Meta's fee for avoiding tracking is rejected by EU privacy regulators. On the other hand, Bugcrowd introduces AI Bias Assessments, addressing concerns about bias in AI systems.
+
+## Articles we found interesting:
+
+- **1. Mass. officials warns emerging <b>AI</b> systems to be subjected to consumer protection, anti-bias laws** [link](https://www.wbur.org/news/2024/04/17/massachusetts-andrea-campbell-ai-antidiscrimination-law)
+_Highlight:_ ... <b>artificial intelligence</b> that they must comply with state laws governing data <b>privacy</b> as well as consumer and anti-discrimination protections.
+
+- **2. &#39;Meta is out of options&#39;: EU <b>privacy</b> regulators reject fee for avoiding tracking | Fortune** [link](https://fortune.com/2024/04/17/meta-pay-for-privacy-rejected-edpb-eu-gdpr-schrems/)
+_Highlight:_ More news below. David Meyer. Want to send thoughts or suggestions to Data Sheet? Drop a line here. NEWSWORTHY. AMD&#39;s latest <b>AI</b> play.
+
+- **3. How <b>AI</b>-powered IAM can bolster security | SC Media** [link](https://www.scmagazine.com/perspective/how-ai-powered-iam-can-bolster-security)
+_Highlight:_ <b>Privacy</b> concerns: <b>AI</b>-powered IAM systems rely heavily on data collection and analysis, raising concerns about data <b>privacy</b> and security. Organizations&nbsp;...
+
+- **4. <b>Artificial Intelligence</b> must comply with consumer protection laws, Mass. AG says - Boston Herald** [link](https://www.bostonherald.com/2024/04/16/artificial-intelligence-must-comply-with-consumer-protection-laws-mass-ag-says/)
+_Highlight:_ ... Mass Attorney General Andrea Campbell has issued a new legal advisory on the use of <b>AI</b> ... <b>bias</b> and lack of transparency within <b>AI</b> systems, can cause&nbsp;...
+
+- **5. Let <b>AI</b> bring the jobs to you - Fast Company** [link](https://www.fastcompany.com/91107408/let-ai-bring-the-jobs-to-you)
+_Highlight:_ <b>AI bias</b> is a serious concern because <b>AI</b> is powered by data, data comes from humans, and humans are flawed. The information <b>AI</b> is built upon is not&nbsp;...
+
+- **6. Bugcrowd&#39;s New LLM Applications Offerings - Australian Cyber Security Magazine** [link](https://australiancybersecuritymagazine.com.au/bugcrowds-new-llm-applications-offerings/)
+_Highlight:_ Bugcrowd has expanded its <b>AI</b> Safety and Security Solutions by introducing <b>AI Bias</b> Assessments on its platform. This new service leverages the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
