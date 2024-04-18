@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-18 One-Minute Post
+date: 2024-04-18 15:49:20 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+IRS Chief emphasizes privacy in AI deployments. Cisco introduces AI-focused security system. AB 2930 bill to eliminate bias in AI decision-making passes privacy committee. New publication on fairness and AI in recruitment. NAIRDC center obtains ISO 23053:2022 certificate for fairness in AI.
+
+## Articles we found interesting:
+
+- **1. IRS Chief Tracking Cautious Route on <b>AI</b> Deployments - MeriTalk** [link](https://www.meritalk.com/articles/irs-chief-tracking-cautious-route-on-ai-deployments/)
+_Highlight:_ “Those rights include things like the right to <b>privacy</b>, and the right that we will not do any unnecessary intrusion into that <b>privacy</b>.” “Therefore&nbsp;...
+
+- **2. The Secrets to Cookieless Audience Targeting - CMS Wire** [link](https://www.cmswire.com/digital-marketing/3-emerging-tactics-for-successful-cookieless-audience-targeting/)
+_Highlight:_ Friedman agrees, adding that merging precise location data with <b>privacy</b>-forward targeting options like contextual advertising and layering in <b>AI</b> isn&#39;t&nbsp;...
+
+- **3. Cisco debuts new <b>AI</b>-focused security system after $28 billion deal to buy Splunk - CNBC** [link](https://www.cnbc.com/2024/04/18/cisco-debuts-new-ai-focused-cybersecurity-system-after-splunk-deal.html)
+_Highlight:_ ... <b>AI</b> products in a <b>privacy</b>-secure way. How it works. HyperShield serves as a “shield for security,” Patel said, explaining that it takes security&nbsp;...
+
+- **4. AB 2930: Bill to Eliminate <b>Bias</b> in <b>AI</b> Decision-making Passes Privacy Committee** [link](https://contracosta.news/2024/04/17/ab-2930-bill-to-eliminate-bias-in-ai-decision-making-passes-privacy-committee/)
+_Highlight:_ AB 2930 requires developers and users of <b>AI</b> tools to mitigate <b>bias</b> in automated decision tools (ADTs) that make consequential decisions. “<b>Bias</b> is&nbsp;...
+
+- **5. The Unseen Ethical Considerations in <b>AI</b> Practices: A Guide for the CEO - Wire19** [link](https://wire19.com/the-unseen-ethical-considerations-in-ai-practices-a-guide-for-the-ceo/)
+_Highlight:_ <b>Bias</b> refers to systematic errors in judgment or decision-making, often stemming from ingrained prejudices or flawed data. However, an ethical <b>AI</b>&nbsp;...
+
+- **6. <b>AI</b> will change journalism, but not always for the worst - The Baylor Lariat** [link](https://baylorlariat.com/2024/04/17/ai-will-change-journalism-but-not-always-for-the-worst/)
+_Highlight:_ ... <b>bias</b> and <b>artificial intelligence</b>. Discussing news <b>bias</b> has become commonplace in the interactions I have with people about journalism, which comes&nbsp;...
+
+- **7. New Publication On <b>Fairness</b>, <b>AI</b> And Recruitment | Mirage News** [link](https://www.miragenews.com/new-publication-on-fairness-ai-and-recruitment-1217681/)
+_Highlight:_ ... <b>fairness</b> and <b>AI</b> in the labor market as part of the BIAS project. The ever-increasing adoption of <b>AI</b> technologies in the hiring landscape to&nbsp;...
+
+- **8. 6 Innovative Uses of <b>AI</b>: From 1800s Visualisation to Wedding Design | Mirage News** [link](https://www.miragenews.com/6-innovative-uses-of-ai-from-1800s-1217473/)
+_Highlight:_ New Publication On <b>Fairness</b>, <b>AI</b> And Recruitment. 18 Apr 2024 9:34 pm AEST. Surge in Tundra&#39;s CO2 Emissions Stuns Scientists. 18 Apr 2024 9:32 pm AEST&nbsp;...
+
+- **9. NAIRDC centre obtains ISO 23053:2022 certificate** [link](https://www.bna.bh/en/NAIRDCcentreobtainsISO230532022certificate.aspx%3Fcms%3Dq8FmFJgiscL2fwIzON1%252BDgP7vmbu5OK5SqGgE1KRuMA%253D)
+_Highlight:_ This ensures accountability for the actions of <b>AI</b> creations and fosters <b>fairness</b> by mitigating bias and preventing discrimination. Data privacy&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
