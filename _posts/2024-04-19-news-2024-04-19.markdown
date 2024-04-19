@@ -1,0 +1,31 @@
+---
+layout: post
+title: 2024-04-19 One-Minute Post
+date: 2024-04-19 15:47:45 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+US may regulate AI with federal privacy law. Olympic AI use raises privacy concerns. First state AI regulations have loopholes. New guidelines for fairness in AI recruitment. Promoting fairness in AI for mental health.
+
+## Articles we found interesting:
+
+- **1. Can the US regulate <b>AI</b> effectively without a federal <b>privacy</b> framework? - Lexology Pro** [link](https://www.lexology.com/pro/content/can-the-us-regulate-ai-effectively-without-federal-privacy-framework)
+_Highlight:_ Could the renewed push to regulate data <b>privacy</b> at a federal level in the US pave the way for a federal <b>AI</b> law?
+
+- **2. Olympic Organizers Unveil Strategy for Using <b>Artificial Intelligence</b> in Sports - USNews.com** [link](https://www.usnews.com/news/sports/articles/2024-04-19/olympic-organizers-unveil-strategy-for-using-artificial-intelligence-in-sports)
+_Highlight:_ Digital watchdog groups fear that a proposal to legalize smart surveillance systems, even if only temporarily, will infringe on <b>privacy</b>, though the&nbsp;...
+
+- **3. First state attempts to regulate <b>AI</b> have mile-wide self-reporting loopholes - Fortune** [link](https://fortune.com/2024/04/19/how-will-ai-be-regulated-self-disclosure-companies/)
+_Highlight:_ ... <b>Privacy</b>, Technology, and the Law hearing on &quot;<b>Artificial Intelligence</b> and The Future Of Journalism&quot; at the U.S. Capitol on January 10, 2024 in&nbsp;...
+
+- **4. <b>Fairness</b>, <b>AI</b> &amp; recruitment - ScienceDirect.com** [link](https://www.sciencedirect.com/science/article/abs/pii/S0267364924000335)
+_Highlight:_ We conclude the article with some brief recommendations to guide and shape future research and action on the <b>fairness</b> of <b>AI</b> applications in the hiring&nbsp;...
+
+- **5. The Compassion Code, Promoting <b>Fairness</b> in <b>AI</b> for Mental Health - AMS Healthcare** [link](https://www.ams-inc.on.ca/resource/the-compassion-code-promoting-fairness-in-ai-for-mental-health/)
+_Highlight:_ The Compassion Code, Promoting <b>Fairness</b> in <b>AI</b> for Mental Health. Podcast. In this conversation, Laura Sikstrom, a Medical Anthropologist and Project&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
