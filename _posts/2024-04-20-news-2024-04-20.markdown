@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-20 One-Minute Post
+date: 2024-04-20 15:57:07 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google's Pixel 9 Pro to feature advanced AI tools with a focus on privacy. Proposed federal AI oversight plan faces hurdles due to potential bias and privacy issues. Rihanna's 'Fenty effect' highlights the need for inclusivity and fighting bias in AI technology. A study shows pro-western cultural bias in AI decision explanations. Olympic organizers outline strategy for using AI to strengthen fairness in sports. Pregnant workers gain new rights under federal regulations for enforcing the Pregnant Workers Fairness Act. AI's relentless rise presents tough choices for journalists in terms of privacy.
+
+## Articles we found interesting:
+
+- **1. San Jose&#39;s Tech Interactive holds &#39;<b>AI</b> Literacy Day&#39; - NBC Bay Area** [link](https://www.nbcbayarea.com/news/local/san-joses-tech-interactive-holds-ai-literacy-day/3515799/)
+_Highlight:_ <b>Privacy</b> Policy; Your <b>Privacy</b> Choices; Advertise with us &middot; CA Notice &middot; Ad Choices. Copyright © 2024 NBCUniversal Media, LLC. All rights reserved. Close&nbsp;...
+
+- **2. Google Code Confirms Pixel 9 Pro&#39;s Advanced <b>AI</b> Features - Forbes** [link](https://www.forbes.com/sites/ewanspence/2024/04/20/google-pixel-9-pro-ai-core-gemini-nano-android-core-leak-new-pixel-9/)
+_Highlight:_ ... <b>AI</b> tools focused both on performance and <b>privacy</b>. Crucially, the Pixel 9&#39;s implementation of many modern <b>AI</b> tools will be processed on the Pixel&nbsp;...
+
+- **3. <b>AI&#39;s</b> relentless rise gives journalists tough choices - France 24** [link](https://www.france24.com/en/live-news/20240420-ai-s-relentless-rise-gives-journalists-tough-choices)
+_Highlight:_ <b>AI&#39;s</b> relentless rise gives journalists tough choices ... <b>AI&#39;s</b> role in assisting newsrooms or ... <b>Privacy</b> &middot; Cookies &middot; Manage news alerts &middot; Facebook &middot; X&nbsp;...
+
+- **4. Proposed Federal <b>AI</b> Oversight Plan Faces Hurdles, Experts Say - PYMNTS.com** [link](https://www.pymnts.com/artificial-intelligence-2/2024/proposed-federal-ai-oversight-plan-faces-hurdles-experts-say/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) ... However, they warned that <b>AI</b> could lead to issues like disinformation, fraud, <b>bias</b> and privacy problems, and impact&nbsp;...
+
+- **5. Rihanna&#39;s &#39;Fenty effect&#39; could teach <b>AI</b> developers about inclusivity and fighting <b>bias</b>** [link](https://fortune.com/2024/04/19/ai-technology-bias-skin-tone-rihanna-fenti-inclusivity/)
+_Highlight:_ Hidden skin tone <b>bias</b> in <b>AI</b>. As an <b>AI</b> ethics research scientist, when I first began auditing computer vision models for <b>bias</b>, I found myself back in&nbsp;...
+
+- **6. Understanding <b>AI</b> outputs: study shows pro-western cultural <b>bias</b> in the way <b>AI</b> decisions are ...** [link](https://theconversation.com/understanding-ai-outputs-study-shows-pro-western-cultural-bias-in-the-way-ai-decisions-are-explained-227262)
+_Highlight:_ Many existing explainable <b>artificial intelligence</b> systems produce explanations that are tailored to individualist, typically western, populations.
+
+- **7. Morning sickness? Prenatal check-ups? What to know about new rights for pregnant workers - Quartz** [link](https://qz.com/morning-sickness-prenatal-check-ups-what-to-know-abou-1851424252)
+_Highlight:_ Pregnant workers have the right to a wide range of accommodations under new federal regulations for enforcing the Pregnant Workers <b>Fairness</b> Act.
+
+- **8. Olympic organizers outlines strategy for using <b>AI</b> in sports - SHINE News - Shanghai Daily** [link](https://www.shine.cn/sport/2404203309/)
+_Highlight:_ &quot;Beyond sporting performance, <b>AI</b> can revolutionize judging and refereeing, thereby strengthening <b>fairness</b> in sport. <b>AI</b> can improve safeguarding in&nbsp;...
+
+- **9. How to navigate the ethical landscape of <b>artificial intelligence</b> - Arab News** [link](https://www.arabnews.com/node/2495406/amp)
+_Highlight:_ ... <b>AI</b> development and deployment. One pressing ethical concern revolves around the issue of <b>fairness</b> and equity in <b>AI</b> systems. As algorithms wield&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
