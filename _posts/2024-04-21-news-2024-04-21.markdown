@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-04-21 One-Minute Post
+date: 2024-04-21 15:43:12 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+iOS 18's AI features prioritize on-device processing for privacy. MeitY plans to implement DPDP rules for data privacy and AI regulation. Meanwhile, efforts are underway to address racial bias in AI systems, with the DoD being urged to do more to combat AI bias.
+
+## Articles we found interesting:
+
+- **1. iOS 18 <b>AI</b> features could run entirely on-device - Cult of Mac** [link](https://www.cultofmac.com/853891/ios-18-ai-features-could-run-entirely-on-device/)
+_Highlight:_ iOS 18&#39;s <b>AI</b> features might value <b>privacy</b> and experience. Android phones with generative <b>AI</b> features offload all the processing and heavy lifting to&nbsp;...
+
+- **2. Gurman: iOS 18 <b>AI</b> features to be powered by &#39;entirely on-device&#39; LLM, offering <b>privacy</b> ... - 9to5Mac** [link](https://9to5mac.com/2024/04/21/gurman-ios-18-ai-features-on-device/)
+_Highlight:_ Gurman: iOS 18 <b>AI</b> features to be powered by &#39;entirely on-device&#39; LLM, offering <b>privacy</b> and speed benefits ... As indicated by much of the research&nbsp;...
+
+- **3. DPDP rules, IT rules amendment on MeitY&#39;s 100-day agenda after LS polls | News** [link](https://www.business-standard.com/industry/news/dpdp-rules-it-rules-amendment-on-meity-s-100-day-agenda-after-elections-124042100232_1.html)
+_Highlight:_ While the rules for DPDPA are long overdue and will provide enforcement for the eight-month-old data <b>privacy</b> ... <b>AI</b>, particularly deep fakes. &quot;The&nbsp;...
+
+- **4. Scientists Are Looking For Ways to Make <b>AI</b> Less Racist - InsideHook** [link](https://www.insidehook.com/internet/scientists-ai-machine-learning-racist)
+_Highlight:_ — deeply racist. In an article for Business Insider, Monica Melton chronicled several ways in which <b>AI</b> systems exhibited racial <b>bias</b> in multiple&nbsp;...
+
+- **5. DoD&#39;s Efforts To Combat <b>AI Bias</b> Don&#39;t Go Far Enough - RealClearDefense** [link](https://www.realcleardefense.com/2024/04/20/dods_efforts_to_combat_ai_bias_dont_go_far_enough_1026381.html)
+_Highlight:_ DoD&#39;s Efforts To Combat <b>AI Bias</b> Don&#39;t Go Far Enough ... You must be logged in to comment. RCD Account: Login Register&nbsp;...
+
+- **6. Defense Department&#39;s Efforts To Combat <b>AI Bias</b> Don&#39;t Go Far Enough | RealClearDefense** [link](https://www.realcleardefense.com/articles/2024/04/20/defense_departments_efforts_to_combat_ai_bias_dont_go_far_enough_1026380.html)
+_Highlight:_ <b>Biased AI</b> systems are ultimately dangerous. They make mistakes or generate inaccurate assessments leading to poor decision making or even system&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
