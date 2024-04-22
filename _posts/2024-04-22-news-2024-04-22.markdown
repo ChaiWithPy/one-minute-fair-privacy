@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-22 One-Minute Post
+date: 2024-04-22 15:35:02 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+UT Austin president aims to expand AI projects and research, while new AI road cameras in Stoke-on-Trent face privacy concerns. Tax audits with AI are touted to be unbiased, but Foodstuffs apologizes after AI misidentifies a Maori customer. AI's potential in planetary health is acknowledged, but challenges with data and algorithm bias persist. Federal ministers emphasize budget investments for fairness, as Kevin McCarthy's call for election fairness receives pushback. Meanwhile, a Finnish coffee roastery surprises with an AI-generated blend.
+
+## Articles we found interesting:
+
+- **1. University of Texas at Austin president looks to expand <b>AI</b> projects, research | kvue.com** [link](https://www.kvue.com/video/news/local/ut-austin-ai-president-research-jay-hartzell-congress-support-projects/269-9eb29c0b-19ce-4d11-8347-7c18a3d6f795)
+_Highlight:_ ... <b>AI</b>. Author: kvue.com. Published: 6:04 AM CDT April 22, 2024. Updated: 6:04 AM CDT April 22, 2024. KVUE-TV. Jobs &middot; Terms of Service &middot; <b>Privacy</b> Policy.
+
+- **2. US House passes bill to force sale of TikTok - International Association of <b>Privacy</b> Professionals** [link](https://iapp.org/news/a/us-house-passes-bill-to-compel-sale-of-tiktok/)
+_Highlight:_ Stay on top of the latest <b>AI</b> governance news and developments of the profession. The <b>Privacy</b> Advisor. Original reporting and feature articles on the&nbsp;...
+
+- **3. New <b>AI</b> road cameras in Stoke-on-Trent slammed for &#39;invading <b>privacy</b>&#39; - Yahoo News UK** [link](https://uk.news.yahoo.com/ai-road-cameras-stoke-trent-131318019.html)
+_Highlight:_ Drivers have raised concerns that new <b>artificial intelligence</b> cameras are not suitable for UK roads as they &#39;invade <b>privacy</b>&#39;. The <b>AI</b> cameras were&nbsp;...
+
+- **4. Tax with <b>AI</b> - Newspaper - DAWN.COM** [link](https://www.dawn.com/news/1828929/tax-with-ai)
+_Highlight:_ Unlike human auditors, <b>AI</b> operates without <b>bias</b> or influence.
+
+- **5. Foodstuffs Sorry After <b>AI</b> Misidentifies Maori Customer As Shoplifter - Indian Weekender** [link](https://www.indianweekender.co.nz/news/foodstuffs-sorry-after-ai-misidentifies-maori-customer-as-shoplifter)
+_Highlight:_ The Privacy Commission has previously raised concerns about <b>bias</b> within the technology, which can misidentify women and, particularly, women of colour&nbsp;...
+
+- **6. <b>Artificial intelligence</b> can help with planetary health, says expert - The Edge Malaysia** [link](https://theedgemalaysia.com/node/708765)
+_Highlight:_ However, one of the main challenges with using <b>AI</b> and Big Data, especially in the healthcare setting, is data <b>bias</b> and algorithm <b>bias</b>, which can&nbsp;...
+
+- **7. /R E P E A T -- Federal ministers to highlight Budget 2024: <b>Fairness</b> for Every Generation ...** [link](https://finance.yahoo.com/news/r-e-p-e-t-120000807.html)
+_Highlight:_ ... <b>Artificial Intelligence</b> (<b>AI</b>) Stock Billionaires Have Been Eager to Sell. Motley Fool• 3h ago. 2 Cheap Dividend Stocks Paying 6% or More That Could&nbsp;...
+
+- **8. Kevin McCarthy&#39;s Call For Election &#39;<b>Fairness</b>&#39; Gets Swift Pushback From Fox News Host** [link](https://www.linklr.net/trends/kevin-mccarthys-call-for-election-fairness-gets-swift-pushback-from-fox-news-host)
+_Highlight:_ <b>AI</b> Characters: Revolutionizing Storytelling and Entertainment &middot; <b>AI</b> Characters: Revolutionizing Storytelling and Enterta... Mar 25, 2024. Celebrating&nbsp;...
+
+- **9. UPDATE - Federal Ministers To Highlight Budget 2024 Investments: <b>Fairness</b> For ... - Barchart.com** [link](https://www.barchart.com/story/news/25621062/update-federal-ministers-to-highlight-budget-2024-investments-fairness-for-every-generation-through-investments-supporting-young-entrepreneurs)
+_Highlight:_ A coffee roastery in Finland has launched an <b>AI</b>-generated blend. The results were surprising. Jari Tanner - AP - 25 minutes ago&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
