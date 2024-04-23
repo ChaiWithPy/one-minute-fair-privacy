@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-23 One-Minute Post
+date: 2024-04-23 15:33:45 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI can predict political orientation from blank faces, posing serious privacy challenges. Microsoft hires former Meta exec to bolster AI supercomputing team. Congress takes on TikTok, privacy, and AI. Intel announces Hala Point – World's Largest Neuromorphic System for Sustainable AI, focusing on bias mitigation. Elon Musk's AI-generated news faces accuracy issues. Measuring algorithmic bias to analyze the reliability of AI tools that predict depression risk. Evolution, application, and auditing of Artificial Intelligence emphasize fairness in insurance underwriting. Navigating AI in HR requires ethical and bias-mitigation strategies for fairness. The ethical crossroads of AI-generated design highlights the importance of mitigating bias for fairness.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> can predict political orientation from blank faces — posing &#39;threatening&#39; <b>privacy</b> challenges** [link](https://nypost.com/2024/04/23/tech/ai-can-predict-political-orientations-from-blank-faces-as-researchers-fear-serious-privacy-challenges/)
+_Highlight:_ Researchers are warning that facial recognition technologies are &quot;more threatening than previously thought&quot; and pose &quot;serious challenges to <b>privacy</b>&nbsp;...
+
+- **2. Microsoft hires former Meta exec to bolster <b>AI</b> supercomputing team - The Verge** [link](https://www.theverge.com/2024/4/22/24137391/microsoft-hires-meta-ai-supercomputing-jason-taylor)
+_Highlight:_ He handled <b>AI</b>, data, and <b>privacy</b> infrastructure, as well as managing the company&#39;s server budgets, according to his LinkedIn profile. Taylor was&nbsp;...
+
+- **3. Congress takes on TikTok, <b>privacy</b>, and <b>AI</b> | The Vergecast - YouTube** [link](https://www.youtube.com/watch%3Fv%3DDRe2TCx-fao)
+_Highlight:_ Today on the flagship podcast of forced app divestiture: The Verge&#39;s David Pierce and Lauren Fiener discuss the latest tech policy bills floating&nbsp;...
+
+- **4. Intel Announces Hala Point – World&#39;s Largest Neuromorphic System for Sustainable <b>AI</b>** [link](https://www.hpcwire.com/2024/04/22/intel-announces-hala-point-worlds-largest-neuromorphic-system-for-sustainable-ai/)
+_Highlight:_ It has the potential to enhance the capabilities of <b>AI</b> models in terms of energy efficiency, <b>bias</b> mitigation, interpretability, and adaptability.
+
+- **5. Elon Musk has <b>AI</b>-generated news now and it&#39;s already led to plenty of blunders** [link](https://qz.com/elon-musk-grok-ai-news-blunders-1851426098)
+_Highlight:_ Accuracy seems to be a larger issue than <b>bias</b> in this case. Here are the strangest mistakes Grok has made at interpreting the news so far.
+
+- **6. Measuring algorithmic <b>bias</b> to analyze the reliability of <b>AI</b> tools that predict depression risk ...** [link](https://www.nature.com/articles/s44184-024-00057-y)
+_Highlight:_ We first identified subgroups where a developed <b>AI</b> tool underperformed by measuring algorithmic <b>bias</b>, where subgroups with depression were incorrectly&nbsp;...
+
+- **7. Evolution, Application And Auditing Of <b>Artificial Intelligence</b> - Forbes** [link](https://www.forbes.com/sites/forbestechcouncil/2024/04/23/evolution-application-and-auditing-of-artificial-intelligence/)
+_Highlight:_ Insurance Underwriting: Regulatory oversight ensures <b>fairness</b> in <b>AI</b> applications within the insurance industry, with state-specific regulations&nbsp;...
+
+- **8. Navigating <b>AI</b> in HR: 5 questions every HR leader must ask - HR Executive** [link](https://hrexecutive.com/navigating-ai-in-hr-5-questions-every-hr-leader-must-ask/)
+_Highlight:_ What ethical and bias-mitigation strategies are in place to ensure <b>fairness</b>? <b>AI</b> algorithms are only as unbiased as the data on which they are trained.
+
+- **9. The Ethical Crossroads of <b>AI</b>-Generated Design: A Must-Read for Graphic Designers** [link](https://roozrang.com/the-ethical-crossroads-of-ai-generated-design-a-must-read-for-graphic-designers/)
+_Highlight:_ Mitigating Bias: Designing for <b>Fairness</b>. <b>AI</b> algorithms learn from data. If the training data is biased or reflects societal prejudices, these biases&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
