@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-04-24 One-Minute Post
+date: 2024-04-24 15:23:31 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Glance focuses on AI-powered experiences and user privacy for US expansion. Cisco, Microsoft, and IBM pledge to ensure ethical AI use. Legislation addressing AI bias faces industry pushback. A new mitigation framework reduces bias in classification outcomes. The need for unbiased AI is emphasized for fair decision-making.
+
+## Articles we found interesting:
+
+- **1. Glance eyes full US expansion with telco partnerships - Telecoms Tech News** [link](https://www.telecomstechnews.com/news/2024/apr/24/glance-eyes-full-us-expansion-telco-partnerships/)
+_Highlight:_ With a focus on user <b>privacy</b>, <b>AI</b>-powered experiences, and partnerships with top brands, the company has the potential to carve out a unique place&nbsp;...
+
+- **2. Day One 2025 Idea Open Call: Emerging Technologies and <b>Artificial Intelligence</b>** [link](https://fas.org/day-one-project/emerging-tech/)
+_Highlight:_ ... <b>AI</b> development and deployment, and ensuring ... <b>AI</b> risk management framework or DHS <b>AI</b> Roadmap? ... Advancing <b>privacy</b> and online safety in an era&nbsp;...
+
+- **3. Cisco Systems joins Microsoft, IBM in Vatican pledge to ensure ethical use and development of <b>AI</b>** [link](https://abcnews.go.com/International/wireStory/cisco-systems-joins-microsoft-ibm-vatican-pledge-ensure-109570313)
+_Highlight:_ But the technology has also raised fears about the risks the rapidly developing technology poses to jobs, <b>privacy</b> and copyright protection and even&nbsp;...
+
+- **4. <b>AI bias</b> legislation faces industry pushback | Business | miamitimesonline.com** [link](https://www.miamitimesonline.com/business/ai-bias-legislation-faces-industry-pushback/article_14aa1894-018e-11ef-8a61-4b0d6710dd91.html)
+_Highlight:_ Lawmakers have proposed bills meant to address <b>AI bias</b> in decision making, facing resistance from the industry amid concerns over accountability and&nbsp;...
+
+- **5. New mitigation framework reduces <b>bias</b> in classification outcomes - Tech Xplore** [link](https://techxplore.com/news/2024-04-mitigation-framework-bias-classification-outcomes.html)
+_Highlight:_ Women may pay a &#39;mom penalty&#39; when <b>AI</b> is used in hiring, research suggests. Dec 13, 2023. Diversifying data to beat <b>bias</b>. Feb 23, 2024. Researchers&nbsp;...
+
+- **6. The need of an unbiased <b>AI</b> - Mobile World Capital** [link](https://barcelona.mobileworldcapital.com/en/trends/the-need-of-an-unbiased-ai/)
+_Highlight:_ As a McKinsey study entitled What <b>artificial intelligence</b> can do and what it can&#39;t (yet) do for your business explains, “eliminating <b>bias</b> [in <b>AI</b>] is&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
