@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-27 One-Minute Post
+date: 2024-04-27 15:15:02 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI is making strides in detecting political orientation from images, raising privacy concerns. Apple's new iPhone software upgrade emphasizes AI privacy. Connecticut Senate passes a bill to curb bias in AI. Gender bias in AI is evident in depicting financiers and CEOs as men. Washington AG prevails in a Consumer Review Fairness Act lawsuit. Revolutionizing Industries with specialized chatbots for seamless business integration, emphasizing fairness.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> detects individual&#39;s political orientation accurately, a threat? - Interesting Engineering** [link](https://interestingengineering.com/culture/ai-detects-individuals-political-orientation-accurately-a-threat)
+_Highlight:_ “The predictability of political orientation from standardized images has critical implications for <b>privacy</b>, the regulation of facial recognition&nbsp;...
+
+- **2. Apple&#39;s iPhone <b>AI</b> Plans Confirmed With New Software Upgrade - Forbes** [link](https://www.forbes.com/sites/ewanspence/2024/04/26/apple-iphone-16-pro-ai-llm-openelm-open-source-software-new-iphone-16/)
+_Highlight:_ As the public becomes more aware of the concerns around <b>AI privacy</b>, this will become a key marketing point. Daily Life In&nbsp;...
+
+- **3. Meta&#39;s Ray-Ban Smart Shades Get a Fresh Blast of <b>AI</b> | WIRED** [link](https://www.wired.com/story/meta-ray-ban-smart-glasses-ai-update/)
+_Highlight:_ Press Center &middot; Condé Nast Store &middot; User Agreement &middot; <b>Privacy</b> Policy &amp; Cookie Statement &middot; Your California <b>Privacy</b> Rights. Select international site.
+
+- **4. Connecticut Senate passes <b>AI</b> bill curbing <b>bias</b>, deep fakes - CoinGeek** [link](https://coingeek.com/connecticut-senate-passes-ai-bill-curbing-bias-deep-fakes/)
+_Highlight:_ The Connecticut Senate has passed a bill that seeks to curb <b>bias</b> and discrimination in <b>artificial intelligence</b> (<b>AI</b>) despite lobbying by hundreds&nbsp;...
+
+- **5. Generative <b>AI&#39;s</b> Role in Job Satisfaction - Unite.<b>AI</b>** [link](https://www.unite.ai/generative-ais-role-in-job-satisfaction/)
+_Highlight:_ Yet, discussion persists about GenAI&#39;s role within the workplace, given fears over job displacement, <b>bias</b>, decision-making transparency and more.
+
+- **6. ChatGPT overwhelmingly depicts financiers, CEOs as men — and women as secretaries: study** [link](https://nypost.com/2024/04/26/tech/chatgpt-overwhelmingly-depicts-financiers-ceos-as-men-and-women-as-secretaries-study/)
+_Highlight:_ This is not the first run in which <b>AI</b> has encountered a gender <b>bias</b>, though. In 2018, Amazon implemented a recruiting tool that taught itself to&nbsp;...
+
+- **7. Washington AG Prevails in Consumer Review <b>Fairness</b> Act Lawsuit | Regulatory Oversight** [link](https://www.regulatoryoversight.com/2024/04/washington-ag-prevails-in-consumer-review-fairness-act-lawsuit/)
+_Highlight:_ Washington AG Prevails in Consumer Review <b>Fairness</b> Act Lawsuit ... <b>Fairness</b> Act (CRFA), based upon the company&#39;s ... <b>Artificial Intelligence</b> (<b>AI</b>)&nbsp;...
+
+- **8. Pregnant Workers <b>Fairness</b> Act&#39;s final regulations to protect mothers, but accommodate abortion** [link](http://www.thebostonpilot.com/article.php%3FID%3D197280)
+_Highlight:_ Catholic chat bot: Putting <b>AI</b> at the service of the church. VATICAN CITY (CNS) -- Before converting to Catholicism, Michael Baggot took his&nbsp;...
+
+- **9. Revolutionizing Industries: Mr. Konnected&#39;s Specialized Chatbots for Seamless Business Integration** [link](https://www.wicz.com/story/50719176/revolutionizing-industries-mr-konnecteds-specialized-chatbots-for-seamless-business-integration)
+_Highlight:_ Harnessing <b>AI</b> Capabilities: Mr. Konnected&#39;s ... <b>fairness</b>. Mr. Konnected also provides ... <b>AI</b> can analyze interactions and decision-making patterns&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
