@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-04-28 One-Minute Post
+date: 2024-04-28 15:14:54 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Biden's executive order sets AI privacy standards, while California Assemblymember authors bill to protect children's data. Ethical considerations around AI adoption and algorithmic bias are being discussed. PM Modi's AI mission aims to combat bias against India in global business indexes. AI's application in education is being explored to address bias and promote diverse ideas.
+
+## Articles we found interesting:
+
+- **1. Regulate <b>AI</b>? How US, EU and China are going about It - The Business Times** [link](https://www.businesstimes.com.sg/startups-tech/technology/regulate-ai-how-us-eu-and-china-are-going-about-it1)
+_Highlight:_ Biden&#39;s executive order on <b>AI</b> sets standards on security and <b>privacy</b> protections and builds on voluntary commitments adopted by more than a dozen&nbsp;...
+
+- **2. Democratic challengers take McBath to task for not showing up to debate | - Capitol Beat** [link](https://capitol-beat.org/2024/04/democratic-challengers-take-mcbath-to-task-for-not-showing-up-to-debate/)
+_Highlight:_ ... <b>AI</b> technology. “There needs to be an overarching <b>AI privacy</b> act on the federal level,” Thomas said. “There are some serious repercussions to how&nbsp;...
+
+- **3. California Assemblymember Bauer-Kahan Authors Bill to Protect Children&#39;s Data from <b>AI</b>** [link](https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/56055-california-assemblymember-bauer-kahan-authors-bill-to-protect-children-s-data-from-ai)
+_Highlight:_ ... <b>AI</b> as the chair of the <b>Privacy</b> committee. The bill now heads to the Assembly Appropriations committee for a vote. Source: Assemblymember Rebecca&nbsp;...
+
+- **4. Leveraging Associate Websites for Knowledge-Based Enterprises through the Integration of ...** [link](https://techeconomy.ng/leveraging-associate-websites-for-knowledge-based-enterprises-through-the-integration-of-ai-and-cybersecurity/)
+_Highlight:_ Ethical considerations surrounding <b>AI</b> adoption, such as algorithmic <b>bias</b>&nbsp;...
+
+- **5. PM Modi&#39;s <b>AI</b> Mission is a right step for making India a global hub for <b>Artificial Intelligence</b> ...** [link](https://www.prnewswire.com/in/news-releases/pm-modis-ai-mission-is-a-right-step-for-making-india-a-global-hub-for-artificial-intelligence-says-us-business-leaders-in-stanford-university-302129291.html)
+_Highlight:_ It ccondemned India&#39;s agenda-based rating by Western agencies and lambasted <b>bias</b> against the fastest growing economy in global business indexes.
+
+- **6. Students, Experts Explore <b>Ai&#39;s</b> Application In Education | - Times of India** [link](https://timesofindia.indiatimes.com/city/chennai/students-experts-explore-ais-application-in-education/articleshow/109658057.cms)
+_Highlight:_ ... <b>bias</b>, and express their own ideas,” he said. While <b>AI</b> offers exciting possibilities in classrooms, industry experts like Mercy Gabriel, a human&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
