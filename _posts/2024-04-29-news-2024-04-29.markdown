@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-29 One-Minute Post
+date: 2024-04-29 15:06:19 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OpenAI faces privacy complaint over ChatGPT's false data. FTC updates HIPAA Health Breach Notification Rule. Connecticut proposes AI regulation to address bias. Research shows gaps in AI accountability within industries. Human-AI combination to boost productivity and innovation.
+
+## Articles we found interesting:
+
+- **1. OpenAI hit with another <b>privacy</b> complaint over ChatGPT&#39;s love of making stuff up** [link](https://au.finance.yahoo.com/news/openai-hit-with-another-privacy-complaint-over-chatgpts-love-of-making-stuff-up-162250335.html)
+_Highlight:_ OpenAI has been hit with a <b>privacy</b> complaint in Europe due to ChatGPT&#39;s tendency to hallucinate incorrect data. This information was about a&nbsp;...
+
+- **2. Meta archnemesis turns his attention to OpenAI&#39;s &#39;hallucinations&#39; - Fortune** [link](https://fortune.com/2024/04/29/meta-archnemesis-turns-his-attention-to-openai-hallucinations/)
+_Highlight:_ Activist-lawyer Schrems claims OpenAI is breaking the GDPR by generating false information about people and being unable to correct it.
+
+- **3. FTC updates HIPAA Health Breach Notification Rule** [link](https://iapp.org/news/a/ftc-updates-hipaa-health-breach-notification-rule/)
+_Highlight:_ The U.S. Federal Trade Commission updated the Health Insurance Portability and Accountability Act&#39;s Health Breach Notification Rule.
+
+- **4. <b>AI</b> Regulation Connecticut | Nation/World | bdtonline.com** [link](https://www.bdtonline.com/news/nation_world/ai-regulation-connecticut/image_75582075-97da-51e1-8b06-fb2001e63084.html)
+_Highlight:_ The bill marks one of the first major legislative proposals in the country to reign in <b>bias</b> in <b>AI</b> decision-making and protect people from harm.
+
+- **5. The Algorithm by Hilke Schellmann — why <b>AI</b> really is coming for your job - Financial Times** [link](https://www.ft.com/content/e27ee51f-ea02-4489-b223-51fed88fd6a8)
+_Highlight:_ She talks to experts who have audited CV screening tools for potential <b>bias</b> — and found them liable to filter out candidates from certain postcodes, a&nbsp;...
+
+- **6. ALERT: &#39;American Privacy Rights Act of 2024&#39; Sneaks In Quotas - Legal Insurrection** [link](https://legalinsurrection.com/2024/04/apra-is-a-quota-bill/)
+_Highlight:_ He is the author of Stealth Quotas – The Dangerous Cure for &#39;<b>AI Bias</b>&#39;. He was a panelist at Legal Insurrection Foundation&#39;s online event&nbsp;...
+
+- **7. Applications and implications of <b>AI</b> in professional and financial services in 2024 | Blogs** [link](https://www.insidermedia.com/blogs/midlands/applications-and-implications-of-ai-in-professional-and-financial-services-in-2024)
+_Highlight:_ It&#39;s a transformative force, enhancing efficiency, security, and <b>fairness</b> in financial operations. What <b>AI</b> Will Look Like When Implemented. The&nbsp;...
+
+- **8. Research Shows Gaps in <b>AI</b> Accountability Within Industries - IT News Africa** [link](https://www.itnewsafrica.com/2024/04/research-shows-gaps-in-ai-accountability-within-industries/)
+_Highlight:_ In light of the ESG Research findings, Qlik acknowledges the imperative of aligning <b>AI</b> technologies with responsible <b>AI</b> principles. ... <b>fairness</b> in <b>AI</b>&nbsp;...
+
+- **9. Human-<b>AI</b> combination will boost productivity, innovation – Danjuma Audu** [link](https://sunnewsonline.com/human-ai-combination-will-boost-productivity-innovation-danjuma-audu/)
+_Highlight:_ ... <b>AI</b> (<b>Artificial Intelligence</b>) with human effort will boost productivity and ... <b>fairness</b> to mitigate potential risks and ensure ethical <b>AI</b> deployment.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
