@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-04-30 One-Minute Post
+date: 2024-04-30 15:08:01 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI Summit explores potential for defense while navigating privacy challenges. Teachers undergo AI training to address deepfake and privacy concerns. New cyber security obligations under the EU's AI Act. Hidden psychological risk of AI bias. Self-supervised foundation models mitigate bias in histopathology AI. AI blood test purports to diagnose postpartum depression, raising concerns about bias. NIST launches a new platform to assess generative AI for fairness. AI music revolution sets stage for 'dataset ethics' to ensure fairness. IAS receives Responsible AI Certification from TrustArc for accountability, fairness, and transparency in AI governance.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> Summit: Fortifying Cyber Defense Amid <b>Privacy</b> Challenges - BankInfoSecurity** [link](https://www.bankinfosecurity.com/ai-summit-fortifying-cyber-defense-amid-privacy-challenges-a-24948)
+_Highlight:_ Security leaders convened at the Cybersecurity Implications of <b>AI</b> Summit to explore <b>AI&#39;s</b> potential for defense while navigating <b>privacy</b>,&nbsp;...
+
+- **2. <b>AI</b> training to familiarise teachers with deepfake, <b>privacy</b> concerns - The Hindu** [link](https://www.thehindu.com/news/national/kerala/ai-training-to-familiarise-teachers-with-deepfake-privacy-concerns/article68125449.ece)
+_Highlight:_ An <b>artificial intelligence</b> (<b>AI</b>) training programme for teachers is getting under way in the State. Likely to be the first such comprehensive&nbsp;...
+
+- **3. Attacking Your <b>AI</b>: New Cyber Security Obligations Under the EU&#39;s <b>AI</b> Act - Lewis Silkin** [link](https://www.lewissilkin.com/en/insights/attacking-your-ai-new-cyber-security-obligations-under-the-eus-ai-act)
+_Highlight:_ <b>confidentiality</b> attacks; and; model flaws. Broadly speaking, these are all vulnerabilities of adversarial machine learning (i.e. malicious attacks&nbsp;...
+
+- **4. The hidden psychological risk of outsourcing decisions to <b>AI</b> - PsyPost** [link](https://www.psypost.org/the-hidden-psychological-risk-of-outsourcing-decisions-to-ai/)
+_Highlight:_ ... <b>AI&#39;s</b> hood are programmed by humans, it is just as <b>biased</b> and discriminatory as many of us. Throw in the lack of transparency about how <b>AI</b> is&nbsp;...
+
+- **5. Self-supervised foundation models mitigate <b>bias</b> in histopathology <b>AI</b> - HealthITAnalytics** [link](https://healthitanalytics.com/news/self-supervised-foundation-models-mitigate-bias-in-histopathology-ai)
+_Highlight:_ The researchers indicated that while <b>artificial intelligence</b> (<b>AI</b>) tools have shown significant potential to advance pathology, the effective use of&nbsp;...
+
+- **6. An <b>AI</b> blood test purports to diagnose postpartum depression - Washington Post** [link](https://www.washingtonpost.com/technology/2024/04/29/ai-healthcare-postpartum-depression-screening/)
+_Highlight:_ ... <b>bias</b>, <b>AI</b> experts say. Since machine learning systems are trained to recognize patterns, it&#39;s easy for them to regurgitate any biases that show up&nbsp;...
+
+- **7. NIST launches a new platform to assess generative <b>AI</b> - TechCrunch** [link](https://techcrunch.com/2024/04/29/nist-launches-a-new-platform-to-assess-generative-ai/)
+_Highlight:_ ... <b>AI</b>-written. To ensure <b>fairness</b>, NIST GenAI will provide the data necessary to test the generators. Systems trained on publicly available data and&nbsp;...
+
+- **8. <b>AI</b> music revolution sets stage for &#39;dataset ethics&#39; - Fortune** [link](https://fortune.com/2024/04/29/ai-music-revolution-sets-stage-for-dataset-ethics/)
+_Highlight:_ ... <b>AI</b> models. The recordings, compositions, and metadata that comprise these datasets hold the key to unlocking <b>AI&#39;s</b> potential while ensuring <b>fairness</b>&nbsp;...
+
+- **9. IAS gets Responsible <b>AI</b> Certification from TrustArc - MediaNews4U** [link](https://www.medianews4u.com/ias-gets-responsible-ai-certification-from-trustarc/)
+_Highlight:_ IAS Certified by TrustArc for Accountability, <b>Fairness</b> and Transparency in <b>AI</b> Governance ... Integral Ad Science (NASDAQ: IAS) announced being among the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
