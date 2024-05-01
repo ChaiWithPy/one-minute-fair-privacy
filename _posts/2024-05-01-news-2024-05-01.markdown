@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-01 One-Minute Post
+date: 2024-05-01 15:02:31 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google's AI-powered commerce solutions prioritize privacy. Government IT investments focus on cybersecurity and AI, with privacy concerns. Insurers are adapting to the explosive use of AI and addressing bias concerns. AI's reliance does not eliminate bias, as highlighted by recent research. Organizations are exploring ways to build fairness and justice, while musicians navigate compensation rights in the age of AI innovation. The ethical use of video technology to support patients is being explored, with privacy at the forefront. AI is revolutionizing childhood, but concerns about fairness and bias persist.
+
+## Articles we found interesting:
+
+- **1. Achieve Control And Scale In A <b>Privacy</b>-Safe Way With Google&#39;s <b>AI</b>-Powered Commerce Solutions** [link](https://www.forbes.com/sites/think-with-google/2024/05/01/achieve-control-and-scale-in-a-privacy-safe-way-with-googles-ai-powered-commerce-solutions/)
+_Highlight:_ Today&#39;s consumer seemingly wants it all: Google <b>AI</b> was built to deliver scale across the full consumer journey – with products that each serve&nbsp;...
+
+- **2. Government IT investments center on cybersecurity, modernization, <b>AI</b>, survey finds** [link](https://statescoop.com/government-it-investments-2024-ai-cybersecurity/)
+_Highlight:_ ... <b>privacy</b> and keeping up on best practices continue to plague the public sector. Though support for <b>AI</b> ranked low on purchasing criteria for public&nbsp;...
+
+- **3. <b>AI</b> experts explore ethical use of video technology to support patients at risk of falls** [link](https://medicalxpress.com/news/2024-05-ai-experts-explore-ethical-video.html)
+_Highlight:_ However, with <b>privacy</b> concerns at the forefront of this new technology, academics at Northumbria University have carried out a cutting-edge study into&nbsp;...
+
+- **4. Insurers seek to keep pace with explosive use of <b>AI</b>** [link](https://www.businessinsurance.com/article/20240501/NEWS06/912364036/Insurers-seek-to-keep-pace-with-explosive-use-of-AI)
+_Highlight:_ ... <b>AI</b> coverage endorsement. ... “<b>Bias</b> is a concern. Language models trained on ... <b>AI</b> in claims management, and 45% opposed <b>AI&#39;s</b> use in underwriting policies&nbsp;...
+
+- **5. Reliance on <b>AI</b> does not get rid of <b>bias</b> - Sinar Daily** [link](https://www.sinardaily.my/article/217651/focus/national/reliance-on-ai-does-not-get-rid-of-bias)
+_Highlight:_ SHAH ALAM - Despite the vast amount of data that <b>Artificial Intelligence</b> (<b>AI</b>) possesses, its reliability is often compromised due to inherent&nbsp;...
+
+- **6. This <b>AI</b> Research from Cohere Discusses Model Evaluation Using a Panel of Large ...** [link](https://www.marktechpost.com/2024/04/30/this-ai-research-from-cohere-discusses-model-evaluation-using-a-panel-of-large-language-models-evaluators-poll/)
+_Highlight:_ Decreased Intra-Model <b>Bias</b>: By assembling several smaller models from several model families into a PoLL, the <b>bias</b> that arises from relying solely on&nbsp;...
+
+- **7. Three Ways Your Organization Can Build <b>Fairness</b> And Justice - CRN** [link](https://www.crn.com/columns/running-your-business/three-ways-your-organization-can-build-fairness-and-justice)
+_Highlight:_ She can be reached at ccooper@thechannelcompany.com. Advertisement. Trending Stories. Why AWS&#39; <b>AI</b> Chatbot Amazon Q Bests Google, Microsoft GenAI Tech:&nbsp;...
+
+- **8. Musicians balance compensation rights with GenAI innovation | TechTarget** [link](https://www.techtarget.com/searchenterpriseai/news/366583012/Musicians-balance-compensation-rights-with-GenAI-innovation)
+_Highlight:_ Dig Deeper on <b>AI</b> technologies &middot; Adobe working to offer GenAI tools from OpenAI and others &middot; Musicians and the fight for <b>fairness</b> in the age of GenAI.
+
+- **9. <b>Artificial Intelligence</b> revolutionising childhood - The New Indian Express** [link](https://www.newindianexpress.com/cities/hyderabad/2024/May/01/artificial-intelligence-revolutionising-childhood)
+_Highlight:_ One section of mankind that is significantly vulnerable to the <b>AI</b> world are the children. ... <b>Fairness</b> and Bias in <b>Artificial Intelligence</b>&#39;. When young&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
