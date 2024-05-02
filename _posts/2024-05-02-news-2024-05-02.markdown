@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-02 One-Minute Post
+date: 2024-05-02 15:00:44 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+CARU issues warning on AI privacy guidelines for kid-targeted advertising. US introduces new AI governance laws. Bugcrowd launches AI penetration testing for bias assessment. OFCCP releases AI guidance to prevent bias in federal agencies. OpenAI and Microsoft face copyright infringement accusations. Biden administration emphasizes equity and bias-free AI. Kenya discusses climate justice and fairness. AI industry focuses on privacy, bias, and fairness regulations.
+
+## Articles we found interesting:
+
+- **1. Children&#39;s advertising watchdog CARU takes aim at <b>AI</b> - Kidscreen** [link](https://kidscreen.com/2024/05/02/childrens-advertising-watchdog-caru-takes-aim-at-ai/)
+_Highlight:_ ... <b>privacy</b> guidelines apply to the use of <b>artificial intelligence</b> in kid-targeted advertising and personal data collection. The warning has been&nbsp;...
+
+- **2. Overview of global <b>AI</b> governance law and policy — Part 3: US** [link](https://iapp.org/news/a/overview-of-global-ai-governance-law-and-policy-part-3-us/)
+_Highlight:_ BBB National Programs&#39; Children&#39;s Advertising Review Unit issued a compliance warning for applying its Advertising and <b>Privacy</b> Guidelines in the&nbsp;...
+
+- **3. &#39;Splintered&#39; <b>AI</b> regulations could harm pursuit of advancements, understanding of where the ...** [link](https://fortune.com/2024/05/02/splintered-ai-regulations-could-harm-pursuit-of-advancements-understanding-of-where-the-guardrails-lie/)
+_Highlight:_ “There&#39;s a lot of commonalities when I think about the way we approach data use more generally,” says Elise Houlik, chief <b>privacy</b> officer at TurboTax&nbsp;...
+
+- **4. OFCCP Releases New <b>Artificial Intelligence</b> Guidance | Jackson Lewis P.C. - JDSupra** [link](https://www.jdsupra.com/legalnews/ofccp-releases-new-artificial-8356921/)
+_Highlight:_ This new guidance comes just weeks after OFCCP signed onto a joint statement with other Federal Agencies to protect the public from unlawful <b>bias</b> in&nbsp;...
+
+- **5. Meet the Woman Who Showed President Biden ChatGPT—and Helped Set the Course for <b>AI</b>** [link](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/)
+_Highlight:_ The order calls for <b>AI</b> technology to embody equity and not include <b>biases</b>. A ... <b>AI</b> tools it&#39;s not embedding <b>bias</b>. That&#39;s the strategy? You won&#39;t&nbsp;...
+
+- **6. Bugcrowd Introduces <b>AI</b> Penetration Testing to Improve Customers&#39; Confidence in <b>AI</b> Adoption** [link](https://www.prnewswire.com/news-releases/bugcrowd-introduces-ai-penetration-testing-to-improve-customers-confidence-in-ai-adoption-302132736.html)
+_Highlight:_ <b>AI</b> Pen Testing is now part of Bugcrowd&#39;s <b>AI</b> Safety and Security Solutions portfolio, in addition to the recently announced <b>AI Bias</b> Assessment offering&nbsp;...
+
+- **7. OpenAI and Microsoft Accused of Copyright Infringement - The Dales Report** [link](https://thedalesreport.com/ai-technology/openai-and-microsoft-accused-of-copyright-infringement/)
+_Highlight:_ Legal integrity and <b>fairness</b> in <b>AI</b> development are spotlighted. OpenAI and Microsoft are at the center of a significant legal and ethical debate&nbsp;...
+
+- **8. The Principles of RAI.. Building Responsible <b>AI</b>. | by My Brandt | May, 2024 | Medium** [link](https://medium.com/%40mybrandt/the-principles-of-rai-7d39286d4841)
+_Highlight:_ <b>Fairness</b>. An <b>AI</b> system should not perpetuate or exacerbate existing biases or discrimination and should be designed to treat all individuals and&nbsp;...
+
+- **9. OPINION: Why Climate Justice matters in Kenya: Unpacking the <b>fairness</b> of the climate crisis** [link](https://www.citizen.digital/opinion-blogs/opinion-why-climate-justice-matters-in-kenya-unpacking-the-fairness-of-the-climate-crisis-n341437)
+_Highlight:_ also read. OPINION: Is your job safe? The impact of <b>AI</b> on the future of the workforce &middot; OPINION: How to rise above the pain of Kenya&#39;s floods.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
