@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-05-03 One-Minute Post
+date: 2024-05-03 15:02:30 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The Transportation Department is seeking AI solutions for transit infrastructure, while the retail industry is focusing on operationalizing data privacy. Connecticut's Senate has passed a major AI bill to address bias in AI decision-making. Meanwhile, Google's Med-Gemini healthcare AI model surpasses industry standards, highlighting the importance of addressing bias in AI models. Additionally, a bipartisan Senate bill aims to bolster voluntary cyber reporting processes for AI security, emphasizing the need to address bias in AI models across agencies.
+
+## Articles we found interesting:
+
+- **1. Transportation Department seeks <b>AI</b> solutions for transit infrastructure - Nextgov/FCW** [link](https://www.nextgov.com/artificial-intelligence/2024/05/transportation-department-seeks-ai-solutions-transit-infrastructure/396284/)
+_Highlight:_ Your <b>Privacy</b> Choices; Exercise Your <b>Privacy</b> Rights &middot; The 2024 Federal 100 &middot; NIST delivers draft <b>AI</b> guidance, generative <b>AI</b> pilot program &middot; Rep. Mike&nbsp;...
+
+- **2. Operationalizing Data <b>Privacy</b>: The Key to Customer Trust - Spiceworks** [link](https://www.spiceworks.com/it-security/data-security/guest-article/operational-data-privacy-transformation/)
+_Highlight:_ According to the IAPP report mentioned above, 57% of respondents stated that using <b>artificial intelligence</b> (<b>AI</b>) in collecting and processing personal&nbsp;...
+
+- **3. Key Issues in Commercial Contract Negotiations in the Retail Industry - Morgan Lewis** [link](https://www.morganlewis.com/pubs/2024/05/key-issues-in-commercial-contract-negotiations-in-the-retail-industry)
+_Highlight:_ <b>Artificial Intelligence</b>: <b>AI</b> technologies are revolutionizing ... <b>AI</b> algorithms to ensure compliance with regulations and safeguard consumer <b>privacy</b>.
+
+- **4. Connecticut&#39;s major <b>AI</b> bill passes Senate, has little time to pass House** [link](https://www.repairerdrivennews.com/2024/05/02/connecticuts-major-ai-bill-passes-senate-has-little-time-to-pass-house/)
+_Highlight:_ Connecticut&#39;s Senate recently passed what the Associate Press is calling “one of the first major legislative proposals to rein in <b>bias</b>” in <b>AI</b> decision&nbsp;...
+
+- **5. The race for healthcare <b>AI</b> models heats up as Google boasts Med-Gemini surpasses GPT-4** [link](https://www.fiercehealthcare.com/ai-and-machine-learning/googles-med-gemini-surpasses-industry-standards-ai)
+_Highlight:_ While large language models “demonstrate suboptimal clinical reasoning under uncertainty” and struggle with hallucinations and <b>bias</b>, Med-Gemini&nbsp;...
+
+- **6. Bipartisan Senate bill on <b>AI</b> security would bolster voluntary cyber reporting processes** [link](https://fedscoop.com/senate-bill-on-ai-security-bolster-voluntary-cyber-reporting/)
+_Highlight:_ <b>Artificial Intelligence</b> (<b>AI</b>) &middot; Cybersecurity and Infrastructure ... CISA&#39;s chief data officer: <b>Bias</b> in <b>AI</b> models won&#39;t be the same for every agency&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
