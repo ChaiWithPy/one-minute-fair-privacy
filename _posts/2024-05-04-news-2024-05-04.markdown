@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-04 One-Minute Post
+date: 2024-05-04 14:59:38 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Thune and state lawmakers discuss data privacy with industry leaders. Microsoft bans police use of its facial recognition tech due to privacy concerns. Watchdog files GDPR privacy complaint over ChatGPT's operations. Decision-making bias and AI in marketing are being addressed. Ensuring ethical AI through diversity and inclusion is crucial.
+
+## Articles we found interesting:
+
+- **1. Thune, state lawmakers meet with industry leaders to talk data <b>privacy</b> - SDPB Radio** [link](https://listen.sdpb.org/business-economics/2024-05-03/thune-state-lawmakers-meet-with-industry-leaders-to-talk-data-privacy)
+_Highlight:_ ... <b>AI</b>, data <b>privacy</b>, and security. Thune says the balancing act is in creating legislation that protects the user but does not hinder innovation. “I&nbsp;...
+
+- **2. Microsoft&#39;s Facial-Recognition Ban Points to <b>Privacy</b> Qualms - PYMNTS.com** [link](https://www.pymnts.com/news/biometrics/2024/microsofts-facial-recognition-ban-points-to-growing-qualms-over-privacy/)
+_Highlight:_ Microsoft&#39;s ban on police use of its Azure OpenAI facial recognition tech highlights challenges in balancing <b>AI&#39;s</b> benefits and risks.
+
+- **3. Watchdog Files GDPR <b>Privacy</b> Complaint Over ChatGPT&#39;s Hallucinations - JD Supra** [link](https://www.jdsupra.com/legalnews/watchdog-files-gdpr-privacy-complaint-8650527/)
+_Highlight:_ ... <b>privacy</b> advocates, and regulators to establish clear guidelines for <b>AI</b> operations. Crucially, how should <b>AI</b> handle personal data in its model? Is&nbsp;...
+
+- **4. Stay Ahead: Embrace Generative <b>AI</b> in Marketing Now - CMS Wire** [link](https://www.cmswire.com/digital-marketing/stay-ahead-embrace-generative-ai-in-marketing-now/)
+_Highlight:_ Decision-Making <b>Bias</b> &amp; <b>AI</b>: Does Data Dependency Dull You? In this ... <b>artificial intelligence</b> in marketinggenerative <b>ai</b>artificial inteligencedigital&nbsp;...
+
+- **5. 4 Tips for Spotting – and Avoiding – <b>AI</b> Washing - ASI** [link](https://members.asicentral.com/news/strategy/may-2024/4-tips-for-spotting-and-avoiding-ai-washing/)
+_Highlight:_ <b>AI</b> washing is when companies exaggerate how much <b>AI</b> or machine learning ... <b>bias</b> and <b>AI</b> hallucinations in their products. 3. Assess the real-world&nbsp;...
+
+- **6. ChatGPT can be helpful for Black women&#39;s self-education about HIV, PrEP - Newswise** [link](https://www.newswise.com/articles/chatgpt-can-be-helpful-for-black-women-s-self-education-about-hiv-prep)
+_Highlight:_ The <b>artificial intelligence</b> (<b>AI</b>) chatbot ... <b>bias</b>, or discrimination.&quot; Testing whether ... <b>bias</b>.&quot; Read Article [ “What Did You Say, ChatGPT?” The&nbsp;...
+
+- **7. Building <b>Fairness</b> Into <b>AI</b> Is Crucial – And Hard To Get Right - The Good Men Project** [link](https://goodmenproject.com/featured-content/building-fairness-into-ai-is-crucial-and-hard-to-get-right/)
+_Highlight:_ In the context of <b>AI</b>, researchers, developers and policymakers often translate <b>fairness</b> to the idea that algorithms should not perpetuate or&nbsp;...
+
+- **8. A deep dive into the FCA&#39;s approach to the regulation of <b>AI</b> within financial services | BCLP** [link](https://www.jdsupra.com/legalnews/a-deep-dive-into-the-fca-s-approach-to-6965246/)
+_Highlight:_ Safety, security, and robustness; Appropriate transparency and explainability; <b>Fairness</b>; Accountability and governance; Contestability and redress. On&nbsp;...
+
+- **9. Ensuring Ethical <b>AI</b>: 10 Essential Steps for Developers and Practitioners | by Rajiv Mohan** [link](https://medium.com/%40rajivmohan_88004/ensuring-ethical-ai-10-essential-steps-for-developers-and-practitioners-651369e00b84%3FresponsesOpen%3Dtrue%26sortBy%3DREVERSE_CHRON)
+_Highlight:_ Diversity and inclusion are essential for building <b>AI</b> systems that are <b>fair</b> ... Additionally, developers should rigorously test <b>AI</b> systems for <b>fairness</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
