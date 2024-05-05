@@ -1,0 +1,40 @@
+---
+layout: post
+title: 2024-05-05 One-Minute Post
+date: 2024-05-05 14:59:43 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI continues to evolve, raising concerns about privacy and ethics. Apple plans to enhance iOS 18 with AI features for better privacy. OpenAI faces a privacy complaint for its ChatGPT. Kerala aims to train teachers on responsible AI use and bias recognition. The medical sector grapples with AI's algorithmic bias and risks. Ethical issues in AI, including bias and fairness, are a growing concern. Mitigating trademark infringement in image recognition requires fairness in AI. Coforge launches a responsible AI solution focusing on ethical standards, fairness, and transparency.
+
+## Articles we found interesting:
+
+- **1. The Evolution of <b>AI</b> in User <b>Privacy</b> and Ethical Use - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/05/05/the-evolution-of-ai-in-user-privacy-and-ethical-use/)
+_Highlight:_ The continuing evolution of <b>artificial intelligence</b> (<b>AI</b>) fosters various advancements and simultaneously raises concerns regarding <b>privacy</b> and ethics.
+
+- **2. Your iPhone may soon summarise texts, search smarter and more with this <b>AI</b> model** [link](https://timesofindia.indiatimes.com/technology/tech-news/your-iphone-might-soon-be-able-to-summarise-texts-for-you-search-smarter-and-more-all-powered-by-this-language-model/articleshow/109845762.cms)
+_Highlight:_ TECH NEWS : Apple to roll out <b>AI</b> features in iOS 18, enhancing apps like Siri and Safari with Ajax LLM for better <b>privacy</b> and faster responses.
+
+- **3. ChatGPT maker OpenAI faces <b>privacy</b> complaint for its &#39;hallucination problem&#39;** [link](https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-maker-openai-faces-privacy-complaint-in-eu-for-its-hallucination-problem/articleshow/109788186.cms)
+_Highlight:_ According to a complaint filed by <b>privacy</b> rights nonprofit noyb with the Austrian DPA (spotted by TechCrunch) has accused that the <b>AI</b> chatbot ChatGPT&nbsp;...
+
+- **4. Kerala to become first State where all teachers will get <b>AI</b> training: Minister - The Hindu** [link](https://www.thehindu.com/news/national/kerala/kerala-to-become-first-state-where-all-teachers-will-get-ai-training-minister/article68139927.ece)
+_Highlight:_ Responsible use of <b>AI</b>, recognising deepfake, algorithmic <b>bias</b>, and privacy concerns will also be dealt with during the training. The teachers are&nbsp;...
+
+- **5. The role and risks of <b>AI</b> in medical decision-making - The Business &amp; Financial Times** [link](https://thebftonline.com/2024/05/04/the-role-and-risks-of-ai-in-medical-decision-making/)
+_Highlight:_ Moreover, <b>AI</b> systems are not immune to errors, particularly those stemming from <b>biased</b> or incomplete data. The risk of algorithmic <b>bias</b>, where <b>AI</b>&nbsp;...
+
+- **6. Things About <b>AI</b> that Experts Won&#39;t Tell You! - Analytics Insight** [link](https://www.analyticsinsight.net/things-about-ai-that-experts-wont-tell-you/)
+_Highlight:_ Ethical considerations: <b>AI</b> triggers a stream of ethical issues, which begin with concerns of <b>bias</b> and fairness and end with a problem of <b>AI</b> in weapon&nbsp;...
+
+- **7. Mitigating Trademark Infringement in Image Recognition: <b>AI</b>-Based Approach for Accurate Results** [link](https://www.legalserviceindia.com/legal/article-16105-mitigating-trademark-infringement-in-image-recognition-ai-based-approach-for-accurate-results.html)
+_Highlight:_ Furthermore, ethical considerations surrounding privacy, data protection, and <b>fairness</b> in <b>AI</b>-based trademark infringement detection require careful&nbsp;...
+
+- **8. Coforge Launches Responsible <b>AI</b> Solution - BW Businessworld** [link](https://businessworld.in/article/coforge-launches-responsible-ai-solution-501746)
+_Highlight:_ The company said its solution guarantees the utilisation of <b>AI</b> and adheres to ethical standards, <b>fairness</b>, transparency and regulatory compliance when&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
