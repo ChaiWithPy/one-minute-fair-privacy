@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-05-06 One-Minute Post
+date: 2024-05-06 14:54:52 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OECD updates guidance on responsible AI, emphasizing non-discrimination and privacy. The American Privacy Rights Act's definition of covered data is under discussion, while the US Senate subcommittee focuses on personal data security. In the realm of bias, concerns are raised about the potential threat of AI, and Facebook's AI assistant's impact is questioned. Additionally, Absolut vodka's attempt to fix AI bias is generating attention.
+
+## Articles we found interesting:
+
+- **1. OECD Updates Guidance on Responsible <b>AI</b> | Sheppard Mullin Richter &amp; Hampton LLP** [link](https://www.jdsupra.com/legalnews/oecd-updates-guidance-on-responsible-ai-2968489/)
+_Highlight:_ ... <b>AI</b> system lifecycle. These include non-discrimination and equality, freedom, dignity, autonomy of individuals, <b>privacy</b> and data protection&nbsp;...
+
+- **2. The American <b>Privacy</b> Rights Act&#39;s definition of covered data** [link](https://iapp.org/news/a/the-american-privacy-rights-acts-definition-of-covered-data/)
+_Highlight:_ Proponents of federal <b>AI</b> legislation have called for <b>privacy</b> legislation as precursor to <b>AI</b> regulation, so frameworks contained in the APRA may&nbsp;...
+
+- **3. US Senate subcommittee hearing to focus on personal data security** [link](https://iapp.org/news/a/u-s-senate-data-protection-subcommittee-to-hold-hearing/)
+_Highlight:_ Australian <b>Privacy</b> Commissioner Carly Kind is urging technology companies to implement safeguards before deploying <b>artificial intelligence</b> technology,&nbsp;...
+
+- **4. The Rise of <b>AI</b>: A Challenge for Support Specialists, Administrators, and Copywriters** [link](https://elblog.pl/2024/05/05/the-rise-of-ai-a-challenge-for-support-specialists-administrators-and-copywriters/)
+_Highlight:_ Anton Nemkin, a member of the Russian Duma&#39;s Committee on Information Policy, highlighted the potential threat <b>artificial intelligence</b> (<b>AI</b>) poses&nbsp;...
+
+- **5. Who is Facebook&#39;s <b>AI</b> assistant really helping? - NZ Herald** [link](https://www.nzherald.co.nz/the-listener/business/who-is-facebooks-ai-assistant-really-helping/AI3XE3VRNRGCHLYRYI7ENNEBWM/)
+_Highlight:_ The demise of Facebook has long been predicted, but just like NewstalkZB, it actually gets more entrenched as its audience ages.
+
+- **6. Absolut vodka&#39;s attempt to fix <b>AI</b> is kind of weird - Creative Bloq** [link](https://www.creativebloq.com/news/absolut-ai-campaign)
+_Highlight:_ Absolut says the campaign has the potential to &quot;engage a global audience, thereby increasing and expanding the <b>AI</b> algorithms&#39; learning of diversity&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
