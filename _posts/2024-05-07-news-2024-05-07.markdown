@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-07 One-Minute Post
+date: 2024-05-07 14:55:42 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta and Ray-Ban's AI-powered smart glasses raise privacy concerns. Microsoft deploys air-gapped AI for classified defense, intelligence customers. OFCCP publishes AI guidance to address bias in AI systems. AI-enabled medical devices in India face challenges with biased AI models. ECI issues social media guidelines for fair election campaigns, cautioning against the misuse of AI tools. Navigating the global AI landscape requires balancing regulation and innovation to ensure fairness and accountability. AI is increasingly used in recruitment, raising concerns about fairness and efficiency.
+
+## Articles we found interesting:
+
+- **1. IBA says Meta and Ray-Ban&#39;s <b>AI</b>-powered smart glasses spark <b>privacy</b> and legal concerns** [link](https://www.canadianlawyermag.com/news/international/iba-says-meta-and-ray-bans-ai-powered-smart-glasses-spark-privacy-and-legal-concerns/385972)
+_Highlight:_ Meta and Ray-Ban&#39;s <b>AI</b>-powered smart glasses, launching in late 2023, will allow users to ask an <b>artificial intelligence</b> interface real-time&nbsp;...
+
+- **2. 10 Ways to Improve Your Marketing With <b>AI</b> - Entrepreneur** [link](https://www.entrepreneur.com/growing-a-business/10-ways-to-improve-your-marketing-with-ai/473272)
+_Highlight:_ 10 Ways to Use <b>AI</b> for Hyper-Personalized Marketing The future of marketing is not just about <b>privacy</b> and personalization.
+
+- **3. Microsoft deploys air-gapped <b>AI</b> for classified defense, intelligence customers** [link](https://www.nextgov.com/artificial-intelligence/2024/05/microsoft-deploys-air-gapped-ai-classified-cloud/396354/)
+_Highlight:_ Your <b>Privacy</b> Choices; Exercise Your <b>Privacy</b> ... The news that Azure OpenAI Service is being added to the top secret cloud will be announced this&nbsp;...
+
+- **4. OFCCP publishes <b>AI</b> guidance for contractors | Constangy, Brooks, Smith &amp; Prophete, LLP** [link](https://www.jdsupra.com/legalnews/ofccp-publishes-ai-guidance-for-4221084/)
+_Highlight:_ ... <b>AI</b> systems also has the potential to perpetuate unlawful <b>bias</b> and automate unlawful discrimination, among other harmful outcomes.” The OFCCP&#39;s&nbsp;...
+
+- **5. Can <b>AI</b> Be Applied To Revolutionize Healthcare And Medical Outcomes? - Forbes** [link](https://www.forbes.com/sites/randybean/2024/05/06/can-ai-be-applied-to-revolutionize-healthcare-and-medical-outcomes/)
+_Highlight:_ Can <b>AI</b> Be Applied To Revolutionize ... The report noted “The emergence of <b>artificial intelligence</b> (<b>AI</b>) ... <b>bias</b> captured within the records.” Payne&nbsp;...
+
+- **6. <b>AI</b>-enabled Medical Devices In India Opportunities And Challenges** [link](https://www.meddeviceonline.com/doc/ai-enabled-medical-devices-in-india-opportunities-and-challenges-0001)
+_Highlight:_ ... <b>biased AI</b> models as seen in the recent Gemini AI bias case. Are Regulations Enough For Digital Health Access? There is increasing emphasis on&nbsp;...
+
+- **7. ECI issues social media guidelines for <b>fair</b> election campaigns - greaterkashmir** [link](https://www.greaterkashmir.com/front-page-2/eci-issues-social-media-guidelines-for-fair-election-campaigns/)
+_Highlight:_ Emphasising the importance of ethical conduct, the ECI cautioned against the misuse of <b>Artificial Intelligence</b> (<b>AI</b>) tools to create deep fakes&nbsp;...
+
+- **8. Navigating the Global <b>AI</b> Landscape: Balancing Regulation and Innovation | IBTimes UK** [link](https://www.ibtimes.co.uk/navigating-global-ai-landscape-balancing-regulation-innovation-1724175)
+_Highlight:_ Standards for transparency, <b>fairness</b>, and accountability, regulations can help mitigate risks with biased algorithms and data privacy breaches of&nbsp;...
+
+- **9. Looking to get hired? You may have to fight it out with <b>AI</b> first | The Daily Star** [link](https://www.thedailystar.net/tech-startup/news/looking-get-hired-you-may-have-fight-it-out-ai-first-3603916)
+_Highlight:_ ... <b>fairness</b>, efficiency, and the future of work. <b>AI</b> in recruitment: A double-edged sword. Recent technological advancements have significantly changed&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
