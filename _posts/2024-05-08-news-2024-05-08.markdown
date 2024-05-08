@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-08 One-Minute Post
+date: 2024-05-08 14:45:45 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Mintz adds leading data privacy and cybersecurity litigators in Boston, while Colorado General Assembly approves children's privacy bill. Massachusetts Attorney General releases Artificial Intelligence guidance, and Microsoft doesn't want police forces using Azure AI for facial recognition due to bias concerns. Silicon Valley center publishes AI guidelines to reduce bias in arbitral decision-making, and King's joins project to boost AI safety for users and regulators, focusing on fairness. Additionally, ensuring ethics in AI and mitigating bias is a critical aspect of AI development, as highlighted in the Open Source For You article.
+
+## Articles we found interesting:
+
+- **1. Mintz Adds Leading Data <b>Privacy</b> and Cybersecurity Litigators in Boston** [link](https://www.mintz.com/insights-center/news-press/mintz-adds-leading-data-privacy-and-cybersecurity-litigators-boston)
+_Highlight:_ ... <b>privacy</b>, and <b>artificial intelligence</b> (<b>AI</b>) matters. He regularly serves as go-to counsel for significant disputes, corporate crises, and&nbsp;...
+
+- **2. Colorado General Assembly approves children&#39;s <b>privacy</b> bill** [link](https://iapp.org/news/a/colorado-legislature-weighs-amending-state-privacy-act-to-add-heightened-protections-for-minors/)
+_Highlight:_ ... <b>privacy</b> amendments to the Colorado <b>Privacy</b> Act ... <b>AI</b> governance, accountability, the EU <b>AI</b> Act and more. ... <b>privacy</b> amendments to the Colorado <b>Privacy</b>&nbsp;...
+
+- **3. Revolutionizing <b>AI</b> Training With Synthetic Data - Forbes** [link](https://www.forbes.com/sites/forbestechcouncil/2024/05/08/revolutionizing-ai-training-with-synthetic-data/)
+_Highlight:_ Lower Costs, Enhanced <b>Privacy</b>. One of the main benefits of synthetic data generation is how it can lower data acquisition costs and speed up model&nbsp;...
+
+- **4. Massachusetts Attorney General <b>Artificial Intelligence</b> Guidance: What Healthcare Providers ...** [link](https://www.jdsupra.com/legalnews/massachusetts-attorney-general-4137145/)
+_Highlight:_ ... <b>AI</b> producing incorrect and <b>biased</b> information have highlighted the urgency of regulatory intervention. Particularly alarming are cases where <b>AI</b> is&nbsp;...
+
+- **5. Microsoft doesn&#39;t want police forces using Azure <b>AI</b> for facial recognition - TechRadar** [link](https://www.techradar.com/pro/microsoft-doesnt-want-police-forces-using-azure-ai-for-facial-recognition)
+_Highlight:_ For example, <b>artificial intelligence</b> has been proven to show <b>bias</b> in some circumstances. Microsoft&#39;s own policy says that Azure OpenAI Service&nbsp;...
+
+- **6. Silicon Valley centre publishes <b>AI</b> guidelines - Global Arbitration Review** [link](https://globalarbitrationreview.com/article/silicon-valley-centre-publishes-ai-guidelines)
+_Highlight:_ Embrace <b>AI</b> to reduce <b>bias</b> in arbitral decision-making, says Astigarraga &middot; Get more from GAR Sign up to our daily email alert. Sign up. Most read&nbsp;...
+
+- **7. King&#39;s Joins Project to Boost <b>AI</b> Safety for Users, Regulators | Mirage News** [link](https://www.miragenews.com/kings-joins-project-to-boost-ai-safety-for-1230184/)
+_Highlight:_ This includes analysing data sets for predicting hospital readmissions, assessing child attachment for potential bias, and examining <b>fairness</b> in&nbsp;...
+
+- **8. Ensuring Ethics in <b>AI</b> and Mitigating Bias - Open Source For You** [link](https://www.opensourceforu.com/2024/05/ensuring-ethics-in-ai-and-mitigating-bias/)
+_Highlight:_ <b>Fairness</b> and accountability are two critical pillars of ethical and responsible <b>AI</b> development. They work hand-in-hand to ensure that <b>AI</b> algorithms&nbsp;...
+
+- **9. <b>AI</b>-powered Storytelling and the Fight Against Poverty - BORGEN Magazine** [link](https://www.borgenmagazine.com/ai-powered-storytelling/)
+_Highlight:_ ... <b>AI</b> algorithms. Ensuring <b>fairness</b> and transparency is equally important to prevent <b>AI</b> from exacerbating existing inequalities. Privacy concerns are&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
