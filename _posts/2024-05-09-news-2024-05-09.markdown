@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-09 One-Minute Post
+date: 2024-05-09 14:41:16 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Sullivan & Cromwell launches AI practice group. Human-sounding AI raises privacy concerns. KPMG reports AI's impact on financial reporting. CT lawmakers fail to pass AI regulations. Generative AI in state government raises bias concerns. Stirling's AI experts join fairness project. AI revolutionizes live casino experience. Tripartite Guidelines protect fairness in hiring practices.
+
+## Articles we found interesting:
+
+- **1. Sullivan &amp; Cromwell Announces <b>Artificial Intelligence</b> Practice Group** [link](https://www.sullcrom.com/About/Rankings/2024/May/Sullivan-Cromwell-Announces-Artificial-Intelligence-Practice-Group)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) ... <b>artificial intelligence</b> (<b>AI</b>). “Our lawyers have been ... <b>Privacy</b>, Products Liability &amp; Mass Torts&nbsp;...
+
+- **2. Human-sounding <b>AI</b> can plan, help book your travel. But can you trust it? - USA Today** [link](https://www.usatoday.com/story/travel/2024/05/09/ai-travel-planning-privacy-future/73555603007/)
+_Highlight:_ “Data <b>privacy</b> is definitely one of our biggest concerns, and we ensure that none of the personal identifiable information ever reaches basically the&nbsp;...
+
+- **3. <b>AI</b> transforming financial reporting globally - KPMG International** [link](https://kpmg.com/xx/en/home/media/press-releases/2024/05/ai-transforming-financial-reporting-globally-with-near-universal-adoption-expected-in-the-next-three-years.html)
+_Highlight:_ Businesses are very cognizant of the risks of <b>AI</b>, with data security, <b>privacy</b> and ethical issues the top concerns. In general, there are currently&nbsp;...
+
+- **4. CT lawmakers winding down session without passing <b>AI</b> regulations, other big bills** [link](https://www.nbcconnecticut.com/news/politics/lawmakers-winding-down-session-without-ai-regulations-other-big-bills/3286040/)
+_Highlight:_ Connecticut lawmakers began the 2024 legislative session with hopes of passing one of the first major bills in the U.S. to rein in <b>bias</b> in&nbsp;...
+
+- **5. Connecticut Lawmakers Winding Down Session Without Passing <b>AI</b> Regulations, Other Big Bills** [link](https://www.usnews.com/news/best-states/connecticut/articles/2024-05-08/connecticut-lawmakers-winding-down-session-without-passing-ai-regulations-other-big-bills)
+_Highlight:_ ... the first major bills in the U.S. to rein in <b>bias</b> in <b>artificial intelligence</b> and protect citizens from harm.
+
+- **6. Generative <b>AI</b> is maturing in state government, officials say - StateScoop** [link](https://statescoop.com/generative-ai-state-government-2024/)
+_Highlight:_ Today, people make <b>biased</b> decisions all the time,” he said. “One individual, that&#39;s hard for them to do that at scale. With <b>AI</b>, we have the ability to&nbsp;...
+
+- **7. Stirling&#39;s <b>AI</b> experts to join multi-million pound project** [link](https://www.stir.ac.uk/news/2024/may-2024-news/stirlings-ai-experts-to-join-multi-million-pound-project/)
+_Highlight:_ ... <b>fairness</b>, and our expertise in explainable <b>AI</b> systems, mean we can contribute to PHAWM&#39;s efforts to ensure <b>AI</b> is used for the benefit of people.
+
+- **8. How <b>AI</b> is Revolutionizing the Live Casino Experience - Analytics Insight** [link](https://www.analyticsinsight.net/artificial-intelligence/how-ai-is-revolutionizing-the-live-casino-experience)
+_Highlight:_ Improving gaming integrity and <b>fairness</b>. An immense advantage that <b>AI</b> brings to online casinos is in ensuring <b>fairness</b> and integrity. Through&nbsp;...
+
+- **9. 0508 Written Answer to PQ on Using <b>AI</b> in hiring practices - Ministry of Manpower** [link](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2024/0508-written-answer-to-pq-on-using-ai-in-hiring-practices)
+_Highlight:_ Answer: 1.The Tripartite Guidelines on <b>Fair</b> Employment Practices and the upcoming Workplace <b>Fairness</b> Legislation protect employees against workplace&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
