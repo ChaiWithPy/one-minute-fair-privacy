@@ -1,0 +1,40 @@
+---
+layout: post
+title: 2024-05-10 One-Minute Post
+date: 2024-05-10 15:16:12 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple is focusing on AI privacy features. Grindr CEO discusses data privacy. Erik Voorhees launches privacy-focused AI platform. Connecticut lawmakers aim to address bias in AI. Fairgen raises funds to tackle AI bias. Philanthropy leaders recommend responsible AI investments. Bank of England emphasizes fairness in AI. Cybersecurity professionals have a duty to secure AI with privacy and fairness in mind.
+
+## Articles we found interesting:
+
+- **1. Apple might bring <b>AI</b> transcription to Voice Memos and Notes - The Verge** [link](https://www.theverge.com/2024/5/10/24153618/apple-ai-transcription-notes-voice-memos)
+_Highlight:_ During an earnings call earlier this month, Apple CEO Tim Cook emphasized that the company&#39;s <b>AI</b> features will have an “unwavering focus on <b>privacy</b>.”&nbsp;...
+
+- **2. Grindr CEO on <b>AI</b> and Dating, Data <b>Privacy</b> - YouTube** [link](https://www.youtube.com/watch%3Fv%3D2r2d7Oq-g2Y)
+_Highlight:_ Grindr CEO George Arison sits down with Caroline Hyde to discuss the company&#39;s first quarter results and the controversy surrounding data <b>privacy</b>&nbsp;...
+
+- **3. Erik Voorhees founds <b>privacy</b>-focused <b>AI</b> platform Venice | The Block** [link](https://www.theblock.co/post/293593/erik-voorhees-founds-generative-ai-platform-venice)
+_Highlight:_ ShapeShift founder and prominent crypto figure Erik Voorhees launched Venice, a <b>privacy</b>-focused <b>artificial intelligence</b> platform. The platform&nbsp;...
+
+- **4. State lawmakers fail to pass <b>AI</b> regs, tighten absentee ballot voting | News | bristolpress.com** [link](https://www.bristolpress.com/news/state-lawmakers-fail-to-pass-ai-regs-tighten-absentee-ballot-voting/article_f55bb412-0e34-11ef-b859-d35120056c2b.html)
+_Highlight:_ HARTFORD — Connecticut lawmakers began the 2024 legislative session with hopes of passing one of the first major bills in the U.S. to rein in <b>bias</b>&nbsp;...
+
+- **5. Fairgen raises $8 million Seed round for accurate <b>AI</b>-generated survey responses | Ctech** [link](https://www.calcalistech.com/ctechnews/article/sjqmcc5gr)
+_Highlight:_ These boosts generally take weeks to collect and can be prohibitively expensive. Related articles: Fairgen: Tackling the algorithmic <b>bias</b> of <b>AI</b>&nbsp;...
+
+- **6. Philanthropy Leaders Recommend Investments in Responsible <b>A.I.</b> | Observer** [link](https://observer.com/2024/05/philanthropy-leaders-recommend-investments-in-anthropic-responsible-ai/)
+_Highlight:_ Rampant <b>bias</b> and disinformation threaten democracy; Big Tech&#39;s dominance, if further consolidated, has the potential to crush innovation. Workers are&nbsp;...
+
+- **7. Financial services - the strategic approach to <b>Artificial Intelligence</b> from the Bank of England ...** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D8dc70835-c9d6-48e0-b977-a4ac392e38d0)
+_Highlight:_ <b>Fairness</b>: <b>AI</b> and ML should not undermine legal rights, discriminate, or produce unfair outcomes. Accountability and governance: Good governance&nbsp;...
+
+- **8. RSAC: Why Cybersecurity Professionals Have a Duty to Secure <b>AI</b> - Infosecurity Magazine** [link](https://www.infosecurity-magazine.com/news/why-cybersecurity-professionals/)
+_Highlight:_ This has to be done with concepts like privacy and <b>fairness</b> in mind. “We have a responsibility to create a safe and secure space for exploration&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
