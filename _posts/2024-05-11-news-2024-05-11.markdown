@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-11 One-Minute Post
+date: 2024-05-11 14:42:15 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Erik Voorhees unveils privacy-focused AI platform 'Venice'. Generative AI is everywhere, but policy is still missing. AI's impact on businesses worldwide includes bias against female candidates. Ethical AI is tackling bias and ensuring fairness in machine learning algorithms.
+
+## Articles we found interesting:
+
+- **1. Erik Voorhees, ShapeShift Founder, Unveils <b>Privacy</b>-Focused <b>AI</b> Platform &#39;Venice&#39;** [link](https://cryptonews.com/news/erik-voorhees-shapeshift-founder-unveils-privacy-focused-ai-platform-venice.htm)
+_Highlight:_ The new platform introduces a <b>privacy</b>-focused generative <b>AI</b> chatbot, addressing the growing concerns surrounding <b>privacy</b> in both the cryptocurrency&nbsp;...
+
+- **2. <b>AI</b> Roundup: How to Implement <b>AI</b> — Responsibly; A Literature Review of User <b>Privacy</b> ...** [link](https://www.infodocket.com/2024/05/11/ai-roundup-how-to-implement-ai-responsibly-a-literature-review-of-user-privacy-concerns-in-conversational-chatbots-more-reports-and-articles/)
+_Highlight:_ <b>AI</b> Roundup: How to Implement <b>AI</b> — Responsibly; A Literature Review of User <b>Privacy</b> Concerns in Conversational Chatbots; &amp; More Reports and Articles.
+
+- **3. Tech trailblazer brought NYC out of the &#39;pay phone age&#39; and experimented with <b>AI</b> ... - NBC New York** [link](https://www.nbcnewyork.com/news/tech-trailblazer-brought-nyc-out-of-the-pay-phone-age-and-experimented-with-ai-before-it-was-trendy/5403114/)
+_Highlight:_ <b>Privacy</b> Policy; Your <b>Privacy</b> Choices; Send Feedback to WNBC &middot; CA Notice &middot; Ad Choices &middot; Advertise with us. Copyright © 2024 NBCUniversal Media, LLC.
+
+- **4. Generative <b>AI</b> is everywhere – but policy is still missing | Computer Weekly** [link](https://www.computerweekly.com/news/366583998/Generative-AI-is-everywhere-but-policy-is-still-missing)
+_Highlight:_ ... <b>AI</b>, such as data privacy and the risk of <b>bias</b>. A significant majority (89%) identified misinformation and disinformation as the biggest risks of <b>AI</b>&nbsp;...
+
+- **5. The Global Transformation: <b>AI&#39;s</b> Impact on Businesses Worldwide - The Week** [link](https://www.theweek.in/focus/economy/2024/05/10/the-global-transformation-ais-impact-on-businesses-worldwide.html)
+_Highlight:_ A New Era of Technological Innovation <b>Artificial Intelligence</b> (<b>AI</b>) ... <b>Artificial Intelligence</b> (<b>AI</b>) has transcended ... <b>bias</b> against female candidates or&nbsp;...
+
+- **6. Madhumita Murgia on the good, bad and wonder of <b>artificial intelligence</b> | Mint** [link](https://www.livemint.com/mint-lounge/business-of-life/madhumita-murgia-code-dependent-artificial-intelligence-ai-books-11715343847691.html)
+_Highlight:_ The rise of <b>artificial intelligence</b> (<b>AI</b>) has ... <b>AI</b> and <b>AI</b> systems. These stories from across ... There are so many types of <b>bias</b> and discrimination.
+
+- **7. How <b>Fair</b> representation learning works part4(Machine Learning) | by Monodeep Mukherjee** [link](https://medium.com/%40monocosmo77/how-fair-representation-learning-works-part4-machine-learning-e0f8e5df19b8)
+_Highlight:_ Writes about Computer Science, <b>AI</b>, Physics, Neuroscience and Technology,Front End and Backend Development. Follow. More from Monodeep Mukherjee. 3&nbsp;...
+
+- **8. <b>AI</b> in Background Checks: A Friend or Foe | Mitratech Holdings, Inc - JDSupra** [link](https://www.jdsupra.com/legalnews/ai-in-background-checks-a-friend-or-foe-8442474/)
+_Highlight:_ Ethical considerations also play a significant role in the debate over <b>AI</b> background checks. Questions arise about privacy, consent, and <b>fairness</b>.
+
+- **9. Ethical <b>AI</b>: Tackling Bias And Ensuring <b>Fairness</b> In Machine Learning Algorithms** [link](https://dataconomy.com/2024/05/10/ethical-ai-tackling-bias-and-ensuring-fairness-in-machine-learning-algorithms/)
+_Highlight:_ The ethical imperative for <b>fair AI</b>. The reason to create artificial intelligence systems that are fair is justice. In critical fields such as health&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
