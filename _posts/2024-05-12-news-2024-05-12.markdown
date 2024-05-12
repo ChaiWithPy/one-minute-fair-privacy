@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-12 One-Minute Post
+date: 2024-05-12 14:37:12 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Windows 11 leaks new toggle for AI privacy and security. AI's impact on libraries and research raises privacy concerns. New AI platform promises privacy and unfiltered free speech. Teaching English to AI could backfire due to bias issues. CEOs need to address bias in AI algorithms for business success. AI judge raises concerns about bias in legal adjudication. Exploring solutions for gender bias in AI to ensure fairness. Humanizing AI with empathy and fairness for a better future. The concept of fairness naturally appears in the context of AI and user equality.
+
+## Articles we found interesting:
+
+- **1. Windows 11 Build 26212 leaks a new toggle for <b>AI</b> features <b>privacy</b> and security** [link](https://www.windowslatest.com/2024/05/12/windows-11-build-26212-leaks-a-new-toggle-for-ai-features-privacy-and-security/)
+_Highlight:_ Windows 11 24H2 is set to begin rolling out with new ARM PCs in June, but it won&#39;t ship with the highly anticipated “<b>AI</b> Explorer”, also referred&nbsp;...
+
+- **2. A new intermediary: How <b>AI</b> may impact libraries, research &amp; information retrieval - Tucson Sentinel** [link](https://www.tucsonsentinel.com/nationworld/report/051224_ai_libraries/a-new-intermediary-how-ai-may-impact-libraries-research-information-retrieval/)
+_Highlight:_ <b>Artificial intelligence</b> could fundamentally change the way librarians do their jobs, but also affects areas such as patron <b>privacy</b> and information&nbsp;...
+
+- **3. Kiyosaki&#39;s Crash Survival Rules, Snowden Warns Bitcoin Devs, and More — Week in Review** [link](https://news.bitcoin.com/kiyosakis-crash-survival-rules-snowden-warns-bitcoin-devs-and-more-week-in-review/)
+_Highlight:_ NEWS | 1 day agoErik Voorhees Unveils New <b>AI</b> Platform Promising <b>Privacy</b> and Unfiltered Free Speech; LEGAL | 1 day agoCrackdown on Crypto Investment&nbsp;...
+
+- **4. <b>Ai</b>: How we teach English to <b>AI</b> could backfire - Deseret News** [link](https://www.deseret.com/opinion/2024/05/11/ai-voice-machine-language-writing/)
+_Highlight:_ These <b>bias</b> issues, now seemingly being repeated in the sources for language models, speak directly to the persistent problem of Silicon Valley itself,&nbsp;...
+
+- **5. A CEO&#39;s Guide to Thriving with <b>AI</b> in Business - PC-Tablet India** [link](https://pc-tablet.co.in/a-ceos-guide-to-thriving-with-ai-in-business/20939/)
+_Highlight:_ This includes addressing issues of data privacy, <b>bias</b> in <b>AI</b> algorithms, and the broader ethical implications of <b>AI</b> decisions​​. Fostering&nbsp;...
+
+- **6. <b>AI</b> Judge vs. Trump: Courtroom Rebooted - Irish Tech News** [link](https://irishtechnews.ie/ai-judge-vs-trump-courtroom-rebooted/)
+_Highlight:_ One of the main concerns with using <b>AI</b> in legal adjudication is the risk of <b>bias</b> in <b>AI</b> algorithms. ... For instance, <b>AI</b> algorithms trained on <b>biased</b>&nbsp;...
+
+- **7. Exploring Solutions for Gender Bias in <b>Artificial Intelligence</b> - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/05/12/exploring-solutions-for-gender-bias-in-artificial-intelligence/)
+_Highlight:_ ... <b>AI</b> and ensure <b>fairness</b> is complex, as <b>AI</b> systems are rapidly evolving. Controversies: 1. Privacy vs. <b>Fairness</b>: Collecting more detailed&nbsp;...
+
+- **8. The Human Touch: Humanizing <b>AI</b> for a Better Future - Market Business News** [link](https://marketbusinessnews.com/the-human-touch-humanizing-ai-for-a-better-future/380589/)
+_Highlight:_ ... <b>AI</b> technology has raised valid apprehensions about its societal impact. However, by infusing <b>AI</b> with human values such as empathy, <b>fairness</b>, and&nbsp;...
+
+- **9. - YouTube** [link](https://www.youtube.com/post/UgkxuoRDQvHIN2KMQ93Y1vkIbKQMVKwI_jfT)
+_Highlight:_ The artifact is that user and <b>AI</b> are equals, and a quantity called <b>fairness</b> naturally appears in this context. So actually I am deciding if such&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
