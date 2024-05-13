@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-05-13 One-Minute Post
+date: 2024-05-13 14:49:38 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The US is regulating AI through existing laws, focusing on privacy. Understanding generative AI's impact on data privacy is crucial for businesses. Ontario is strengthening cyber security and digital trust, emphasizing privacy breach notifications. Platform X launches "AI Audience" feature, raising concerns about AI reinforcing bias and stereotypes. Singapore's GenAI paradox prompts calls for transparent and responsible AI development. VentureBeat offers insights on addressing bias, performance, and ethical compliance in AI models across diverse organizations.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> Watch: Global regulatory tracker - United States | White &amp; Case LLP** [link](https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-united-states)
+_Highlight:_ Other laws affecting <b>AI</b>. Existing legislation has been the primary way in which the US regulates <b>AI</b> as established law, including <b>privacy</b> and&nbsp;...
+
+- **2. Understanding How Generative <b>AI</b> Can Affect Your Business&#39; Data <b>Privacy</b> And Ownership Is Crucial** [link](https://www.jdsupra.com/legalnews/understanding-how-generative-ai-can-4229401/)
+_Highlight:_ In assessing a generative <b>AI</b> product, it is critical to understand issues of data ownership and <b>privacy</b>. This cumbersome task is necessary to&nbsp;...
+
+- **3. Strengthening Cyber Security and Building Digital Trust - Ontario Newsroom** [link](https://news.ontario.ca/en/backgrounder/1004581/strengthening-cyber-security-and-building-digital-trust)
+_Highlight:_ ... <b>privacy</b> breaches and ... <b>privacy</b> breach notifications and mandatory <b>privacy</b> ... As we embrace transformational and powerful <b>artificial intelligence</b> (<b>AI</b>)&nbsp;...
+
+- **4. Platform X Launches &quot;<b>AI</b> Audience&quot; Feature For Ads Supported By <b>Artificial Intelligence</b> - VOI** [link](https://voi.id/en/technology/380442)
+_Highlight:_ However, other users are concerned about <b>AI</b> strengthening and etching <b>bias</b> and stereotypes. Another user questioned what X really sold and &quot;to&nbsp;...
+
+- **5. Singapore&#39;s GenAI Paradox: Business Boom vs. Public Skepticism | CDOTrends** [link](https://www.cdotrends.com/story/3987/singapores-genai-paradox-business-boom-vs-public-skepticism)
+_Highlight:_ Experts call for transparency, education, and Responsible <b>AI</b> development.
+
+- **6. Are you behind when it comes to generative <b>AI</b>? - VentureBeat** [link](https://venturebeat.com/ai/are-you-behind-when-it-comes-to-generative-ai/)
+_Highlight:_ ... <b>AI</b> models regarding <b>bias</b>, performance, and ethical compliance across diverse organizations. Find out how you can attend here. The <b>AI</b> landscape is&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
