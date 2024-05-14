@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-14 One-Minute Post
+date: 2024-05-14 15:26:26 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OpenAI unveils ChatGPT-4o with human-like voice, raising concerns about bias. Dallas Police prepares to purchase Clearview AI, sparking privacy concerns. Utah updates Consumer Privacy and Protection Acts with AI-focused provisions. Groups argue against new FDA regulatory framework for AI devices. Gemini AI criticized for political bias. Legal implications of AI in healthcare raise concerns about fairness. Regular audits and assessments recommended for AI systems to ensure fairness and transparency.
+
+## Articles we found interesting:
+
+- **1. Groups tell Congress FDA does not need a new regulatory framework for <b>AI</b> devices - RAPS** [link](https://www.raps.org/news-and-articles/news-articles/2024/5/groups-tell-congress-fda-does-not-need-a-new-regul)
+_Highlight:_ ... <b>AI</b>. Groups had until 6 May to respond. The White House also wants Congress to develop <b>AI privacy</b> standards, as stipulated in a October 2023&nbsp;...
+
+- **2. Utah Updates Consumer <b>Privacy</b> And Protection Acts With <b>AI</b>-Focused Provisions - Mondaq** [link](https://www.mondaq.com/unitedstates/privacy-protection/1465014/utah-updates-consumer-privacy-and-protection-acts-with-ai-focused-provisions)
+_Highlight:_ Effective May 1, 2024, companies must face new <b>artificial intelligence</b> (<b>AI</b>) disclosure requirements in Utah... United States <b>Privacy</b>.
+
+- **3. Dallas Police prepares for &#39;game changing&#39; facial recognition tool, but <b>privacy</b> advocates ...** [link](https://www.wfaa.com/article/news/local/dallas-county/dallas-police-prepares-for-facial-recognition-tool-but-privacy-advocates-raise-concerns/287-27fda4cc-e6f9-49ab-b44f-218a7c869f89)
+_Highlight:_ The City Council&#39;s Public Safety Committee gave a unanimous green light for the department to purchase Clearview <b>AI</b> technology. Author: Cole&nbsp;...
+
+- **4. OpenAI unveils new <b>AI</b> model ChatGPT-4o with eerily human voice assistant | Euronews** [link](https://www.euronews.com/next/2024/05/13/openai-unveils-new-ai-model-chatgpt-4o-with-eerily-human-voice-assistant)
+_Highlight:_ Generative <b>AI</b> has come into the spotlight for <b>bias</b> and <b>AI</b> hallucinations (incorrect and misleading responses). The company did not mention how or&nbsp;...
+
+- **5. <b>AI</b>, ghosting and race <b>bias</b>: Surprising stats from Greenhouse hiring survey** [link](https://www.siliconrepublic.com/careers/hiring-jobseekers-workforce-ai-survey-greenhouse)
+_Highlight:_ Nearly 30pc of respondents have concerns about the inherent <b>bias</b> of <b>AI</b> programming, and about one-third believe the tech has eliminated jobs. The DACH&nbsp;...
+
+- **6. Testing the Political <b>Bias</b> of Google&#39;s Gemini <b>AI</b>: It&#39;s Worse Than You Think! - WebProNews** [link](https://www.webpronews.com/testing-the-political-bias-of-googles-gemini-ai-its-worse-than-you-think/)
+_Highlight:_ Gemini <b>AI</b>, a prominent <b>artificial intelligence</b> system, has been criticized for allegedly generating politically <b>biased</b> content.
+
+- **7. How an M.L.S. Prepares You for the Legal Implications of <b>AI</b> in Healthcare** [link](https://news.miami.edu/law/stories/2024/05/how-an-mls-prepares-you-for-the-legal-implications-of-ai-in-healthcare.html)
+_Highlight:_ As more healthcare practices begin to adopt <b>AI</b> technology, one notable ethical issue is that of equity and <b>fairness</b>—especially when it comes to the&nbsp;...
+
+- **8. <b>Fairness</b> Sensitivity Linked to Gut Microbiome - Mirage News** [link](https://www.miragenews.com/fairness-sensitivity-linked-to-gut-microbiome-1234544/)
+_Highlight:_ <b>AI</b> Enhances Speed, Quality of Plasma Physics in Fusion. 14 May 2024 10:02 pm AEST. Review Examines Pork&#39;s Role in Sustainable Global Diets. 14 May&nbsp;...
+
+- **9. Adopting <b>AI</b> for Business: Where to Begin - Social Media Examiner** [link](https://www.socialmediaexaminer.com/adopting-ai-for-business-where-to-begin/)
+_Highlight:_ Conduct Regular Audits and Assessments: Regularly assess your <b>AI</b> systems for bias, <b>fairness</b>, transparency, and other ethical considerations and take&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
