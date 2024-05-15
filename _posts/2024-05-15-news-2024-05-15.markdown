@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-15 One-Minute Post
+date: 2024-05-15 14:37:06 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Senate AI roadmap calls for $32 billion for AI programs, emphasizing privacy and liability. Google's call-scanning AI raises privacy concerns. AI's potential in addressing behavioral health crisis is hindered by bias. Wharton launches program on accountable AI to address bias risks. JISC report highlights student concerns about bias and accessibility in AI. Global regulatory tracker emphasizes fairness in AI systems. Congress working on nationwide standards for AI safety and fairness. Forbes discusses the importance of responsible AI development to address bias and ensure fairness.
+
+## Articles we found interesting:
+
+- **1. Senate Working Group&#39;s <b>AI</b> Policy Roadmap Calls for $32B Funding Boost - MeriTalk** [link](https://meritalk.com/articles/senate-working-groups-ai-policy-roadmap-calls-for-32b-funding-boost/)
+_Highlight:_ The “<b>privacy</b> and liability” priority area calls for a strong comprehensive Federal data <b>privacy</b> law to protect personal information. “The legislation&nbsp;...
+
+- **2. Google&#39;s call-scanning <b>AI</b> could dial up censorship by default, <b>privacy</b> experts warn** [link](https://techcrunch.com/2024/05/15/googles-call-scanning-ai-could-dial-up-censorship-by-default-privacy-experts-warn/)
+_Highlight:_ A feature Google demoed at its I/O confab yesterday, using its generative <b>AI</b> technology to scan voice calls in real-time for conversational&nbsp;...
+
+- **3. Senate <b>AI</b> roadmap calls for $32 billion for <b>AI</b> programs - Nextgov/FCW** [link](https://www.nextgov.com/artificial-intelligence/2024/05/senate-ai-roadmap-calls-32-billion-year-ai-programs/396589/)
+_Highlight:_ ... <b>AI</b>; <b>AI</b> and the workforce; high impact uses of <b>AI</b>; elections and democracy; <b>privacy</b> and liability; transparency, explainability, intellectual&nbsp;...
+
+- **4. Will <b>AI</b> Help Address Our Behavioral Health Crisis? | AHA - American Hospital Association** [link](https://www.aha.org/aha-center-health-innovation-market-scan/2024-05-14-will-ai-help-address-our-behavioral-health-crisis)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) is assisting some ... <b>AI</b> health care applications process data and insufficient evaluation of the risks around <b>bias</b>.
+
+- **5. Wharton Launches Executive Online Education Program Strategies for Accountable <b>AI</b>** [link](https://almanac.upenn.edu/articles/wharton-launches-executive-online-education-program-strategies-for-accountable-ai)
+_Highlight:_ Yet with so many organizations rapidly adopting <b>AI</b> technologies, risks are growing as well, including well-known concerns such as <b>bias</b>, hallucinations&nbsp;...
+
+- **6. New Report From JISC: Student Perceptions of Generative <b>AI</b> (May 2024) - INFOdocket** [link](https://www.infodocket.com/2024/05/14/new-report-from-jisc-student-perceptions-of-generative-ai-may-2024/)
+_Highlight:_ ... <b>bias</b>, and accessibility issues related to <b>AI</b>, advocating for measures that address these challenges to ensure a safe, inclusive, and responsive&nbsp;...
+
+- **7. <b>AI</b> Watch: Global regulatory tracker - Australia | White &amp; Case LLP - JDSupra** [link](https://www.jdsupra.com/legalnews/ai-watch-global-regulatory-tracker-3233450/)
+_Highlight:_ Laws/Regulations directly regulating AI (the “AI ... <b>Fairness</b>: <b>AI</b> systems should be inclusive and accessible, and should not&nbsp;...
+
+- **8. Inside Congress Live, May 15, 2024 - Live Updates - POLITICO** [link](https://www.politico.com/live-updates/2024/05/15/congress)
+_Highlight:_ ... <b>AI</b> that Congress could take up this term. The bipartisan working group ... Tackling nationwide standards for <b>AI</b> safety and <b>fairness</b>; Using <b>AI</b> to&nbsp;...
+
+- **9. From Bias To <b>Fairness</b>: Trustworthy <b>AI</b> Through Responsible Development - Forbes** [link](https://www.forbes.com/sites/forbestechcouncil/2024/05/15/from-bias-to-fairness-trustworthy-ai-through-responsible-development/)
+_Highlight:_ As <b>artificial intelligence</b> (<b>AI</b>) rapidly integrates into the fabric of our lives, the conversation around its ethical implications becomes increasingly&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
