@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-16 One-Minute Post
+date: 2024-05-16 14:26:29 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Schumer's slow-walk on AI regulation is a boon for Big Tech, while a bipartisan group of senators unveils a $32 billion roadmap for regulating AI. On the other hand, a new AI program aims to break barriers for female students, and there's a report on navigating demographic measurement for fairness and equity in AI. Additionally, the UK is regulating AI in the education sector to ensure fairness, and a startup is racing ahead with privacy, cybersecurity, and AI heats for the life insurance industry.
+
+## Articles we found interesting:
+
+- **1. Schumer&#39;s slow-walk on <b>AI</b> &#39;regulation&#39; is a nothing but a boon for Big Tech | The Hill** [link](https://thehill.com/opinion/technology/4665781-schumers-slow-walk-on-ai-regulation-is-a-nothing-but-a-boon-for-big-tech/)
+_Highlight:_ ... <b>AI</b>. (AP Photo/Jacquelyn Martin, File). <b>Artificial intelligence</b> poses serious risks to <b>privacy</b> and safety, and we urgently need protective federal&nbsp;...
+
+- **2. Young, others seek to combat China&#39;s influence in <b>AI</b> policy roadmap** [link](https://indianacapitalchronicle.com/2024/05/16/young-others-seek-to-combat-chinas-influence-in-ai-policy-roadmap/)
+_Highlight:_ Todd Young, R-I.N. Sen. Mike Rounds of South Dakota said U.S. involvement would ensure that the technology would incorporate U.S. values, like <b>privacy</b>&nbsp;...
+
+- **3. Racing Ahead: <b>Privacy</b>, Cybersecurity, and <b>AI</b> Heats for the Life Insurance Industry** [link](https://www.jdsupra.com/legalnews/racing-ahead-privacy-cybersecurity-and-6167848/)
+_Highlight:_ Drivers, start your engines. It has been months of high speed for <b>privacy</b>, cybersecurity, and <b>artificial intelligence</b>.
+
+- **4. Senate unveils $32 billion roadmap for regulating <b>AI</b> - The Verge** [link](https://www.theverge.com/2024/5/15/24157188/ai-regulation-senate-plan-roadmap)
+_Highlight:_ Those include: AI workforce training; addressing AI-generated content in ... <b>bias AI</b> poses.” Divyansh Kaushik, vice president at national security&nbsp;...
+
+- **5. A bipartisan group of senators unveils a plan to tackle <b>artificial intelligence</b> - NPR** [link](https://www.npr.org/2024/05/15/1251562511/bipartisan-group-of-senators-unveil-plan-to-tackle-artificial-intelligence)
+_Highlight:_ — Ensuring enforcement of existing <b>AI</b> laws and to address any unintended <b>bias</b>. — Considering the impact <b>AI</b> will have on the U.S. workforce&nbsp;...
+
+- **6. <b>AI</b> Program Aims to Break Barriers for Female Students - The New York Times** [link](https://www.nytimes.com/2024/05/15/technology/ai-internships-female-students-cornell-mit-ucla.html)
+_Highlight:_ The program also teaches students about the potential for <b>A.I. bias</b> — like faulty facial recognition systems that have led to the false arrests of&nbsp;...
+
+- **7. A Bipartisan group of Senators Finally unveil Legislation “Roadmap” for Navigating <b>AI</b>** [link](https://mix93.com/vip-inside-story/%3Fid%3D131073%26category%3Dtech-made-simple)
+_Highlight:_ Boosting funding for <b>AI</b> innovation; Tackling nationwide standards for <b>AI</b> safety and <b>fairness</b>; Using <b>AI</b> to strengthen U.S. national security&nbsp;...
+
+- **8. Regulating <b>AI</b> in the UK&#39;s Education Sector - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D70ff71e1-5be4-4870-afd1-6cda9459e67d)
+_Highlight:_ <b>Fairness</b>. Both Ofsted and education providers are expected to use <b>AI</b> solutions that are ethically appropriate, consider any bias relating to small&nbsp;...
+
+- **9. Report: Navigating Demographic Measurement for <b>Fairness</b> and Equity** [link](https://cdt.org/insights/report-navigating-demographic-measurement-for-fairness-and-equity/)
+_Highlight:_ Governments and policymakers increasingly expect practitioners developing and using <b>AI</b> systems in both consumer and public sector settings to&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
