@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-17 One-Minute Post
+date: 2024-05-17 15:49:14 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI technologies are facing data privacy risks, leading to the need for reduced data leakage. The rise of AI brings legal and privacy considerations, prompting the Colorado State Legislature to pass a bill for potential broad regulation. Employers are urged to involve workers in AI plans to address bias and discrimination. Inclusive metadata in AI and heritage requires more than erasing stereotyping terms to combat biases. Challenges in AI implementation include risk aversion, lack of transparency, and fairness concerns. The AI regulatory landscape emphasizes fairness, explainability, and accountability. Efforts are being made to ensure fairness and address potential implicit bias in AI-based activities.
+
+## Articles we found interesting:
+
+- **1. How to Reduce Data Leakage Risks of ChatGPT and Copilot <b>AI</b> - CPO Magazine** [link](https://www.cpomagazine.com/cyber-security/how-to-reduce-data-leakage-risks-of-chatgpt-and-copilot-ai/)
+_Highlight:_ ... <b>AI</b> technologies, businesses can leverage the benefits of <b>AI</b> while ensuring the security and <b>privacy</b> of their corporate data. - Advertisement -.
+
+- **2. The &#39;<b>AI</b> Revolution&#39; Comes with Data <b>Privacy</b> Risks: What Consumers Should Know | New ...** [link](https://www.law.com/newyorklawjournal/2024/05/17/the-ai-revolution-comes-with-data-privacy-risks-what-consumers-should-know/)
+_Highlight:_ This article covers the legal and <b>privacy</b> considerations related to the rise of <b>artificial intelligence</b>. The authors discuss what <b>AI</b> is and how&nbsp;...
+
+- **3. Colorado State Legislature Passes <b>AI</b> Bill With the Potential to Broadly Regulate <b>AI</b>** [link](https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20240517-colorado-state-legislature-passes-ai-bill-with-the-potential-to-broadly-regulate-ai)
+_Highlight:_ For more updates and analyses of current developments in <b>AI</b>, data <b>privacy</b> and cybersecurity, please subscribe to the WilmerHale <b>Privacy</b> and&nbsp;...
+
+- **4. Employers should include workers in <b>AI</b> plans, DOL says | HR Dive** [link](https://www.hrdive.com/news/employers-should-include-workers-in-ai-plans-labor-department/716387/)
+_Highlight:_ In 2022, the Biden administration published a blueprint for addressing <b>bias</b> and discrimination by automated technologies including <b>AI</b>. STORYLINE // <b>AI</b>&nbsp;...
+
+- **5. Learnings from &#39;<b>AI</b> and heritage&#39;: inclusive metadata requires more than erasing stereotyping terms** [link](https://pro.europeana.eu/post/learnings-from-ai-and-heritage-inclusive-metadata-requires-more-than-erasing-stereotyping-terms)
+_Highlight:_ One of the biggest problems researchers and cultural heritage practitioners highlight is how LOD reflects <b>biases</b> in the data it is based on, and can&nbsp;...
+
+- **6. Unified API Recall pulls conversational data from Zoom and Google Meet to power <b>AI</b> bots** [link](https://venturebeat.com/ai/unified-api-recall-pulls-conversational-data-from-zoom-and-google-meet-to-power-ai-bots/)
+_Highlight:_ ... <b>AI</b> models regarding <b>bias</b>, performance, and ethical compliance across diverse organizations. Find out how you can attend here. Enterprises bullish on&nbsp;...
+
+- **7. <b>AI</b> Revolution: Overcoming Challenges in Regulated Industries - Spiceworks** [link](https://www.spiceworks.com/tech/artificial-intelligence/guest-article/ai-revolution-overcoming-challenges-in-regulated-industries/)
+_Highlight:_ The 5 Challenges of <b>AI</b> Implementation &middot; 1. Risk aversion &middot; 2. Lack of transparency &middot; 3. Bias and <b>fairness</b> concerns &middot; 4. Regulatory compliance &middot; 5.
+
+- **8. <b>AI</b> regulation in APAC: tips on risk and control mechanisms for businesses - Lexology Pro** [link](https://www.lexology.com/pro/content/ai-regulation-in-apac-tips-risk-and-control-mechanisms-businesses)
+_Highlight:_ The <b>AI</b> regulatory landscape showcases a set of common <b>AI</b> principles deriving from hard and soft <b>AI</b> laws – <b>fairness</b>, explainability, accountability,&nbsp;...
+
+- **9. Ensuring <b>fairness</b> and addressing potential implicit bias in <b>AI</b> based supervisor - YouTube** [link](https://www.youtube.com/watch%3Fv%3DWAl8zfGLHiw)
+_Highlight:_ Ensuring <b>fairness</b> and addressing potential implicit bias in <b>AI</b>-based supervisory activities Speakers: Melissa Koide, CEO, FinRegLab Lukasz Kubicki&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
