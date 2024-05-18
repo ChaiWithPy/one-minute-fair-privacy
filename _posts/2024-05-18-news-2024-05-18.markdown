@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-18 One-Minute Post
+date: 2024-05-18 14:38:11 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Slack faces backlash over AI data usage, promises policy update for privacy concerns. Colorado AI bill signed to prevent bias. Wolfpack Digital wins Webby Award for EqualityAI, tackling biases in healthcare AI. Tyson Fury vs. Oleksandr Usyk to use AI for fair boxing stats. Gut bacteria found to influence fairness perception. AI's impact on students' fairness and inclusivity in educational environments.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> Accessing Messages: Slack in Hot Water, Vows Policy Update to Quell Concerns** [link](https://www.techtimes.com/articles/304770/20240517/slack-faces-backlash-ai-data-usage-promises-policy-update-amid-user-concerns.htm)
+_Highlight:_ However, users discovered that opting out of this data usage requires emailing the company, a detail buried in an outdated and confusing <b>privacy</b>&nbsp;...
+
+- **2. The best <b>AI</b> search engines of 2024: Google, Perplexity, and more - ZDNet** [link](https://www.zdnet.com/article/the-best-ai-search-engines-of-2024-google-perplexity-and-more/)
+_Highlight:_ Brave Search&#39;s appeal as a search engine comes from the increased <b>privacy</b> and security it offers users while browsing online. Some of Brave&#39;s standout&nbsp;...
+
+- **3. Slack users horrified to discover messages used for <b>AI</b> training - Ars Technica** [link](https://arstechnica.com/tech-policy/2024/05/slack-defends-default-opt-in-for-ai-training-on-chats-amid-user-outrage/)
+_Highlight:_ Slack&#39;s <b>privacy</b> principles specifically say that &quot;Machine Learning (ML) and <b>Artificial Intelligence</b> (<b>AI</b>) are useful tools that we use in limited&nbsp;...
+
+- **4. Sweeping Colorado <b>AI</b> Bill Signed by Governor as He Urges Changes** [link](https://news.bloomberglaw.com/us-law-week/sweeping-colorado-ai-bill-signed-by-governor-as-he-urges-changes)
+_Highlight:_ Businesses face rules under bill aimed at preventing <b>AI bias</b> &middot; Tech industry had urged Gov. Jared Polis (D) to veto measure.
+
+- **5. A leader for the <b>AI</b> skeptics - Politico** [link](https://www.politico.com/newsletters/future-pulse/2024/05/17/a-leader-for-the-ai-skeptics-00158592)
+_Highlight:_ ... <b>AI</b> legislation, even though the plan is vague about the need for new regulation. Booker has sponsored two bills on <b>AI</b>, one to safeguard against <b>bias</b>&nbsp;...
+
+- **6. Wolfpack Digital Clinches Webby Award for Responsible <b>AI</b> With &#39;EqualityAI&#39; at Stellar Gala Event** [link](https://www.streetinsider.com/Accesswire/Wolfpack%2BDigital%2BClinches%2BWebby%2BAward%2Bfor%2BResponsible%2BAI%2BWith%2BEqualityAI%2Bat%2BStellar%2BGala%2BEvent/23244030.html)
+_Highlight:_ ... <b>AI</b>-a project aimed at mitigating <b>biases</b> in healthcare <b>AI</b> applications. ... <b>bias</b> in automated healthcare systems. This innovative web platform&nbsp;...
+
+- **7. Gut Bacteria Influence <b>Fairness</b> Perception - Neuroscience News** [link](https://neurosciencenews.com/gut-bacteria-risk-fairness-26128/)
+_Highlight:_ <b>AI</b> Tool Speeds Up Brain Tumor Classification &middot; This shows a woman eating whole watching TV. Distracted Eating Fuels Later Indulgence &middot; This shows a&nbsp;...
+
+- **8. First in History, Tyson Fury vs. Oleksandr Usyk Will Use <b>AI</b> to Generate Boxing&#39;s Most Debated Stats** [link](https://www.essentiallysports.com/boxing-news-first-in-history-tyson-fury-vs-oleksandr-usyk-will-use-ai-to-generate-boxing-s-most-debated-stats/)
+_Highlight:_ ... <b>fairness</b> reigns supreme. How? Well, with <b>AI</b>, of course! After taking over every major industry, <b>AI</b> has finally made its way into boxing, whether&nbsp;...
+
+- **9. Impact of <b>Artificial Intelligence</b> on Students | by Vavek Bharwani | May, 2024 | Medium** [link](https://medium.com/%40vavekbharwani/impact-of-artificial-intelligence-on-students-7109022f17eb%3FresponsesOpen%3Dtrue%26sortBy%3DREVERSE_CHRON)
+_Highlight:_ ... <b>fairness</b>, and inclusivity in <b>AI</b>-driven educational environments. The goal is to develop reliable <b>AI</b> reception systems that prioritize student&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
