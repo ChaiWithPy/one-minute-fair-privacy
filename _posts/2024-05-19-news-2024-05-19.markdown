@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-05-19 One-Minute Post
+date: 2024-05-19 14:19:07 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google is urging Android users to update their phones to avoid potential security breaches. Rishi Sunak emphasizes the profound responsibility of managing AI risks. Hoggo's AI-driven platform grades companies on their data protection policies. Concerns about bias in AI continue to grow, with a focus on mitigating bias in AI ethics. The trajectory of AI risks remains uncertain, with a report highlighting the potential harm caused by bias in AI. Forbes discusses the increasing importance of AI ethics and bias mitigation.
+
+## Articles we found interesting:
+
+- **1. Google warns Android owners to &#39;update phones&#39; or have thieves access it** [link](https://uk.news.yahoo.com/google-warns-android-owners-phones-152207285.html)
+_Highlight:_ Google says its <b>Artificial Intelligence</b> (<b>AI</b>) ... Look out for more security and <b>privacy</b> features and updates from Android,&quot; Google said in a blog post.
+
+- **2. Managing <b>AI</b> risks is &#39;profound responsibility&#39;, Sunak will tell world leaders** [link](https://www.standard.co.uk/news/politics/rishi-sunak-seoul-prime-minister-bletchley-park-michelle-donelan-b1158706.html)
+_Highlight:_ Read our <b>privacy</b> notice. Managing the risks posed by <b>artificial intelligence</b> is “one of the most profound responsibilities” faced by world leaders&nbsp;...
+
+- **3. <b>Privacy</b> &#39;passports&#39; grade companies on data protection policies - NoCamels** [link](https://nocamels.com/2024/05/privacy-passports-grade-companies-on-their-data-protection-policies/)
+_Highlight:_ Hoggo has created an <b>AI</b>-driven platform that combs through and assesses a company&#39;s publicly available policies on consumer protection.
+
+- **4. Can We Rid <b>Artificial Intelligence</b> Of <b>Bias</b>? | Barron&#39;s** [link](https://www.barrons.com/articles/can-we-rid-artificial-intelligence-of-bias-4192c002)
+_Highlight:_ <b>Artificial intelligence</b> built on mountains of potentially <b>biased</b> information has created a real risk of automating discrimination,&nbsp;...
+
+- **5. No expert consensus on <b>AI</b> risks, trajectory &#39;remarkably uncertain&#39;: U.K. report - Nelson Star** [link](https://www.nelsonstar.com/national-news/no-expert-consensus-on-ai-risks-trajectory-remarkably-uncertain-uk-report-7361895)
+_Highlight:_ ... <b>AI</b> will help or harm us. The report, chaired by Canada&#39;s Yoshua Bengio ... It also flags the risks <b>bias</b> in <b>AI</b> can cause, particularly in “high&nbsp;...
+
+- **6. Checkin&#39; In On <b>A.I.</b> – What&#39;s Been Changing - Forbes** [link](https://www.forbes.com/sites/eliamdur/2024/05/18/checkin-in-on-ai--whats-been-changing/)
+_Highlight:_ <b>A.I.</b> Ethics and <b>Bias</b> Mitigation. As <b>A.I.</b> made its splash, this was one of the first big areas of concern. It&#39;s only gotten bigger. Algorithm&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
