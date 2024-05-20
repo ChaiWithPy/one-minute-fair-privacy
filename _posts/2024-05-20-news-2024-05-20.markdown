@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-20 One-Minute Post
+date: 2024-05-20 14:45:40 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI is increasingly being regulated for privacy and data protection. Ethical concerns are raised due to privacy breaches and perpetuating biases. Bias in AI systems can have significant consequences in the humanitarian sector. Malfunctioning AI systems could spread bias in areas like healthcare and job recruitment. AI is making significant strides in cancer treatment, but there are concerns about bias in AI models. The Japanese government is drafting basic AI regulation policies, considering legally requiring major AI developers to disclose certain information. The significant impact of AI on elections is evident in the electoral Supercycle year of 2024. A new book navigates the legal landscape of AI governance, providing a comparative panorama of global trends and legal approaches towards AI fairness.
+
+## Articles we found interesting:
+
+- **1. How contractual measures can help with <b>AI</b> risks in surveillance software - Pinsent Masons** [link](https://www.pinsentmasons.com/out-law/analysis/contractual-measures-ai-risks-surveillance-software)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) is increasingly ... <b>Artificial intelligence</b> (<b>AI</b>) is increasingly being ... <b>privacy</b> and data protection laws. But there&nbsp;...
+
+- **2. Protecting <b>privacy</b> in the age of data proliferation - Full Circle** [link](https://fullcircle.asu.edu/research/protecting-privacy-in-the-age-of-data-proliferation/)
+_Highlight:_ ASU researcher Oliver Kosut is leading an investigation of methods to protect personal information in aggregate datasets used to train <b>AI</b>&nbsp;...
+
+- **3. How <b>AI</b> in Marketing Safeguards Your Influencer Campaigns - CMSWire.com** [link](https://www.cmswire.com/digital-marketing/how-ai-in-marketing-safeguards-your-influencer-campaigns/)
+_Highlight:_ Ethical Concerns: The reliance on <b>AI</b> raises ethical issues, including <b>privacy</b> breaches and perpetuating existing biases, which could lead to unethical&nbsp;...
+
+- **4. Can <b>AI</b> in the Humanitarian sector save lives? – MIR - The McGill International Review** [link](https://www.mironline.ca/can-ai-in-the-humanitarian-sector-save-lives/)
+_Highlight:_ Bias in AI systems may exacerbate structural and historical ... The consequences of deploying <b>biased AI</b> systems can be significant in the humanitarian&nbsp;...
+
+- **5. Things to know about an <b>AI</b> safety summit in Seoul - ABC News** [link](https://abcnews.go.com/Business/wireStory/things-ai-safety-summit-seoul-110385743)
+_Highlight:_ Malfunctioning <b>AI</b> systems could spread <b>bias</b> in areas like healthcare, job recruitment and financial lending, while the technology&#39;s potential to&nbsp;...
+
+- **6. How <b>AI</b> is boosting cancer treatment - India Tribune - Chicago** [link](https://indiatribune.com/how-ai-is-boosting-cancer-treatment/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) is making significant strides in cancer treatment ... He also pointed out the <b>bias</b> in <b>AI</b> models, which is based on the&nbsp;...
+
+- **7. Japanese government drafts basic <b>AI</b> regulation policies - Asia News Network** [link](https://asianews.network/japanese-government-drafts-basic-ai-regulation-policies/)
+_Highlight:_ TOKYO – The government will consider legally requiring major <b>artificial intelligence</b> developers to disclose certain information, according to a&nbsp;...
+
+- **8. Smart Election: is <b>AI</b> the Next Wave in Electoral Management? | International IDEA** [link](https://www.idea.int/news/smart-election-ai-next-wave-electoral-management)
+_Highlight:_ The electoral Supercycle year of 2024 is giving evidence to the already significant impact of <b>artificial intelligence</b> (<b>AI</b>) on elections.
+
+- **9. &quot;<b>AI</b> For Good: India And Beyond&quot; - A Book Navigating The Legal Landscape Of <b>AI</b>** [link](https://www.livelaw.in/book-reviews/ai-intellectual-property-rights-rmlnlu-eu-ai-act-258379)
+_Highlight:_ Analysing global trends and legal approaches towards <b>AI</b> governance, the authors provide a comparative panorama spanning the latest EU <b>AI</b> Act (2024) to&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
