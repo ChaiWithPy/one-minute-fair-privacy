@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-05-21 One-Minute Post
+date: 2024-05-21 14:55:12 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI companies pledge safety commitments at summit, while UK watchdog ends privacy probe of Snap's GenAI chatbot. New Windows AI feature raises privacy concerns. Colorado's governor approves AI bias bill, and a new AI interviewer aims to make tech hiring more fair and efficient.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> companies pledge to develop technology safely at <b>AI</b> summit, countries agree on safety institutes** [link](https://www.newscentermaine.com/article/news/nation-world/seoul-ai-summit-tech-companies-pledge-safety-commitments/507-7e202956-9ae2-4afd-b0dc-fb5bcbcb422a)
+_Highlight:_ ... <b>privacy</b>. There are concerns that advances in <b>AI</b> could eliminate jobs, spread disinformation or be used to create new bioweapons. This week&#39;s&nbsp;...
+
+- **2. UK data protection watchdog ends <b>privacy</b> probe of Snap&#39;s GenAI chatbot, but warns industry** [link](https://techcrunch.com/2024/05/21/uk-data-protection-watchdog-ends-privacy-probe-of-snaps-genai-chatbot-but-warns-industry/)
+_Highlight:_ The UK&#39;s data protection watchdog has closed an almost year-long investigation of Snap&#39;s <b>AI</b> chatbot, My <b>AI</b> -- saying it&#39;s satisfied the social&nbsp;...
+
+- **3. New Windows <b>AI</b> feature records everything you&#39;ve done on your PC - Ars Technica** [link](https://arstechnica.com/gadgets/2024/05/microsofts-new-recall-feature-will-record-everything-you-do-on-your-pc/)
+_Highlight:_ Despite encryption and local storage, the new feature raises <b>privacy</b> concerns for certain Windows users. &quot;Recall uses Copilot+ PC advanced&nbsp;...
+
+- **4. Colo. Gov. Voices &#39;Reservations&#39; In Signing <b>AI Bias</b> Bill - Law360** [link](https://www.law360.com/banking/articles/1839076/colo-gov-voices-reservations-in-signing-ai-bias-bill)
+_Highlight:_ Gov. Voices &#39;Reservations&#39; In Signing <b>AI Bias</b> Bill. By Allison Grande. Law360 (May 20, 2024, 9:41 PM EDT) -- Colorado&#39;s governor has approved the&nbsp;...
+
+- **5. Colorado&#39;s Historic SB 24-205 Concerning Consumer Protections in Interactions with <b>AI</b> ...** [link](https://www.workforcebulletin.com/colorados-historic-sb-24-205-concerning-consumer-protections-in-interactions-with-ai-signed-into-law-after-passing-state-senate-and-house)
+_Highlight:_ That law requires covered employers to provide notice to candidates of the use of automated employment decision tools, and to conduct annual <b>bias</b>&nbsp;...
+
+- **6. How micro1&#39;s <b>AI</b> interviewer could make tech hiring more efficient and fair | VentureBeat** [link](https://venturebeat.com/ai/how-micro1s-ai-interviewer-could-make-tech-hiring-more-efficient-and-fair/)
+_Highlight:_ Micro1 reports that this screening has increased the pass rate for human interviews to around 50%, compared to a typical 10-15%. Addressing <b>AI bias</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
