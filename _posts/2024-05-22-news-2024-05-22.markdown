@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-22 One-Minute Post
+date: 2024-05-22 14:34:13 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Newark Public Schools to install over 7K AI-powered cameras to address safety and privacy concerns. OpenAI's chatbot shows racial bias in advising home buyers and renters, reflecting generations of US housing discrimination. SolarWinds AI launches to transform IT service management, ensuring accountability and fairness without compromising data privacy. FairPlay partners with Chime to embed fairness into algorithmic decisions, serving financial institutions and insurance carriers. ISO/IEC 42001 plays a role in ethical AI frameworks, promoting fairness and preventing discrimination. Researchers discover millions of features inside AI systems, including bias, fraudulent activity, toxic speech, and manipulative behavior. DHS implements new AI technologies while respecting individuals' privacy, civil rights, and civil liberties. Lawmakers consider AI and privacy rules, potentially impacting small businesses the most.
+
+## Articles we found interesting:
+
+- **1. Column: <b>AI</b> and <b>privacy</b> rules meant for Big Tech could hurt small businesses most | Opinion** [link](https://www.meadvilletribune.com/opinion/column-ai-and-privacy-rules-meant-for-big-tech-could-hurt-small-businesses-most/article_94aca364-1786-11ef-8cf9-330ce48322a9.html)
+_Highlight:_ As lawmakers and regulators in the United States consider policy born of their Big Tech concerns such as data <b>privacy</b> and <b>artificial intelligence</b>,&nbsp;...
+
+- **2. As DHS Implements New <b>AI</b> Technologies, It Must Overcome Old Shortcomings** [link](https://www.brennancenter.org/our-work/analysis-opinion/dhs-implements-new-ai-technologies-it-must-overcome-old-shortcomings)
+_Highlight:_ Throughout, Secretary Mayorkas has insisted the Department will respect “individuals&#39; <b>privacy</b>, civil rights, and civil liberties” and placed the&nbsp;...
+
+- **3. Newark Public Schools to Install Over 7K <b>AI</b>-Powered Cameras - Government Technology** [link](https://www.govtech.com/education/k-12/newark-public-schools-to-install-over-7k-ai-powered-cameras)
+_Highlight:_ The school board did not specify exactly where the cameras will be placed, but addressed some safety and <b>privacy</b> concerns. While the district has a&nbsp;...
+
+- **4. No One Truly Knows How <b>AI</b> Systems Work. A New Discovery Could Change That - Time** [link](https://time.com/6980210/anthropic-interpretability-ai-safety-research/)
+_Highlight:_ The researchers found millions of features inside Claude, including some representing <b>bias</b>, fraudulent activity, toxic speech, and manipulative&nbsp;...
+
+- **5. The Key to <b>AI</b> Success: Centralized CX Platforms - CMS Wire** [link](https://www.cmswire.com/customer-experience/unlocking-ai-potential-with-a-centralized-cx-platform/)
+_Highlight:_ Decision-Making <b>Bias</b> &amp; <b>AI</b>: Does Data Dependency Dull You? Feature. Article. Customer Experience. Using Social Initiatives to Build Trusted Customer&nbsp;...
+
+- **6. OpenAI&#39;s chatbot shows racial <b>bias</b> in advising home buyers and renters - New Scientist** [link](https://www.newscientist.com/article/2431917-openais-chatbot-shows-racial-bias-in-advising-home-buyers-and-renters/)
+_Highlight:_ This may be a reflection of <b>bias</b> stemming from generations of US housing discrimination. “A lot of people think that generative <b>AI</b> and large language&nbsp;...
+
+- **7. Exploring the Role of ISO/IEC 42001 in Ethical <b>AI</b> Frameworks - Security Boulevard** [link](https://securityboulevard.com/2024/05/exploring-the-role-of-iso-iec-42001-in-ethical-ai-frameworks/)
+_Highlight:_ <b>Fairness</b>: <b>AI</b> systems should be designed and implemented in a manner that promotes fairness and prevents discrimination or bias against individuals&nbsp;...
+
+- **8. Chime Partners With FairPlay to Embed <b>Fairness</b> Into Its Algorithmic Decisions** [link](https://www.prnewswire.com/news-releases/chime-partners-with-fairplay-to-embed-fairness-into-its-algorithmic-decisions-302152346.html)
+_Highlight:_ Built by some of world&#39;s foreknown leaders in <b>AI</b>, FairPlay&#39;s technology serves financial institutions, lenders, insurance carriers, marketers, and&nbsp;...
+
+- **9. SolarWinds <b>AI</b> Launches to Transform IT Service Management - CXOToday.com** [link](https://cxotoday.com/press-release/solarwinds-ai-launches-to-transform-it-service-management/)
+_Highlight:_ ... <b>AI</b> improves based on usage patterns and organizational needs without compromising data privacy. Accountability and <b>Fairness</b>: SolarWinds <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
