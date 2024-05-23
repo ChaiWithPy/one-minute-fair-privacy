@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-23 One-Minute Post
+date: 2024-05-23 14:18:16 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Microsoft's AI Copilot+ feature faces privacy concerns in the UK. US regulations on AI and privacy could stifle SME growth. Colorado leads in AI regulation, addressing algorithmic bias. Global AI safety commitments echo EU's risk-based approach. AI bias inherited from human prejudice is a significant concern. AI's impact on free and fair elections is a challenge. The ICO publishes its strategic approach to regulating AI, focusing on fairness and bias. Malaysia aims for an ethical AI vision, addressing unintentional bias perpetuated by AI systems.
+
+## Articles we found interesting:
+
+- **1. Recall drawing regulatory scrutiny in the UK — Microsoft&#39;s <b>AI</b> Copilot+ feature a &#39;<b>privacy</b> nightmare&#39;** [link](https://www.tomshardware.com/software/windows/recall-drawing-regulatory-scrutiny-in-the-uk-microsofts-ai-copilot-feature-a-privacy-nightmare)
+_Highlight:_ The UK Information Commissioner&#39;s Office is concerned about the <b>privacy</b> risks of Microsoft&#39;s new &quot;Recall&quot; feature on Copilot+ PCs,&nbsp;...
+
+- **2. <b>Privacy</b> experts sound the alarm over Microsoft&#39;s latest <b>AI</b> tool - CNN** [link](https://www.cnn.com/2024/05/22/tech/microsoft-ai-tool-privacy-recall/index.html)
+_Highlight:_ Microsoft&#39;s buzziest new <b>AI</b> feature is raising concerns that it could be potentially misused in the wrong hands.
+
+- **3. <b>AI</b> and <b>privacy</b> regulations risk stifling SME growth - Direct Marketing News** [link](https://www.dmnews.com/ai-and-privacy-regulations-risk-stifling-sme-growth/)
+_Highlight:_ The United States&#39; legislative measures focusing on big tech companies&#39; impacts of <b>artificial intelligence</b> (<b>AI</b>) and <b>privacy</b> issues might&nbsp;...
+
+- **4. Colorado moves first on <b>AI</b> regulation - POLITICO** [link](https://www.politico.com/newsletters/future-pulse/2024/05/22/colorado-moves-first-on-ai-regulation-00159318)
+_Highlight:_ ... <b>AI</b>, and require developers and deployers to address algorithmic <b>bias</b> based on reproductive health, genetic information and other data. Developers&nbsp;...
+
+- **5. New global <b>AI</b> safety commitments echo EU&#39;s risk-based approach - TheNextWeb** [link](https://thenextweb.com/news/global-ai-safety-commitment-echo-eu-risk-approach)
+_Highlight:_ Mitigating <b>AI</b> risk of varying nature. Beyond extinction by algorithm, there are also more immediate threats from the proliferation of <b>AI</b>, such as <b>bias</b>&nbsp;...
+
+- **6. 10 things a GC thinks about <b>AI</b> and the law - Thomson Reuters Institute** [link](https://www.thomsonreuters.com/en-us/posts/legal/gc-ai-law/)
+_Highlight:_ <b>AI bias</b> can be inherited from ordinary human prejudice, and sometimes inadvertently trained into <b>AI</b> algorithms. Both of these issues are important to&nbsp;...
+
+- **7. Why are free and <b>fair</b> elections in 2024 a challenge? - Bar and Bench** [link](https://www.barandbench.com/law-firms/view-point/why-free-and-fair-elections-in-2024-a-challenge)
+_Highlight:_ The article sheds light on the malpractices facilitated through <b>artificial intelligence</b> and its effects on elections. S.S. Rana &amp; Co - Vikrant&nbsp;...
+
+- **8. ICO Publishes Its Strategic Approach to Regulating <b>AI</b> - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D627cdab5-273a-4ab1-adda-b2117a8e1581)
+_Highlight:_ ... <b>artificial intelligence</b> (“<b>AI</b> ... <b>fairness</b> and bias; transparency and ... Its work on <b>AI</b>: the Strategy also points out that <b>AI</b>&nbsp;...
+
+- **9. Navigating the Future: Malaysia&#39;s Ethical <b>AI</b> Vision - theSun** [link](https://thesun.my/business/navigating-the-future-malaysia-s-ethical-ai-vision-IP12485793)
+_Highlight:_ But what happens when <b>AI</b> systems, designed to be <b>fair</b>, inadvertently perpetuate bias? How do we rectify such unintended consequences, and who is held&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
