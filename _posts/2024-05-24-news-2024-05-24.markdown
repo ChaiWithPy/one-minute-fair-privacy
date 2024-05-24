@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-05-24 One-Minute Post
+date: 2024-05-24 14:47:35 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Employers are focusing on cybersecurity, data privacy laws, and risk mitigation, while marketers are navigating the ethical landscape of AI, considering privacy and confidentiality risks. California and the EU are collaborating to regulate artificial intelligence, with GDPR leading the way in privacy protection. In the US, attempts to regulate AI's impact on people's lives are facing challenges. Colorado has enacted the nation's first comprehensive legislation to protect consumers from biased artificial intelligence systems, while librarians are being cautioned about AI's potential for bias and copyright issues when working with students.
+
+## Articles we found interesting:
+
+- **1. Cybersecurity and <b>Privacy</b> in Employment Key Issues - The National Law Review** [link](https://natlawreview.com/article/workplace-strategies-watercooler-2024-cybersecurity-and-data-privacy-download)
+_Highlight:_ Ben Perry discusses cybersecurity, data <b>privacy</b> laws, and risk mitigation for employers, covering data breaches, CCPA, biometrics, and <b>AI</b> in the&nbsp;...
+
+- **2. A Marketer&#39;s Guide To Navigating The Ethical Landscape Of <b>AI</b> - Forbes** [link](https://www.forbes.com/sites/forbesbusinesscouncil/2024/05/24/a-marketers-guide-to-navigating-the-ethical-landscape-of-ai/)
+_Highlight:_ For instance, while open-source tools are typically a more cost-effective option, they may also pose <b>privacy</b> and <b>confidentiality</b> risks, as sharing&nbsp;...
+
+- **3. How California and the EU work together to regulate <b>artificial intelligence</b> - CalMatters** [link](https://calmatters.org/economy/technology/2024/05/ca-eu-ai-regulation/)
+_Highlight:_ The General Data Protection Regulation, better known as GDPR, is the European Union&#39;s best known legislation for <b>privacy</b> protection. It also led to&nbsp;...
+
+- **4. Attempts to regulate <b>AI&#39;s</b> hidden hand in Americans&#39; lives flounder in US statehouses** [link](https://tdn.com/ap/business/attempts-to-regulate-ai-s-hidden-hand-in-americans-lives-flounder-in-us-statehouses/article_a0f8cc3e-0583-514e-8841-ebab74a4fa41.html)
+_Highlight:_ ... <b>bias</b> in an <b>AI</b> algorithm. “You can understand and deal with a single person ... <b>Artificial Intelligence Bias</b> Discrimination Regulation <b>Ai</b> &middot; Business&nbsp;...
+
+- **5. Colo. <b>AI Bias</b> Law Brings Little Certainty For Insurance Sector - Law360** [link](https://www.law360.com/articles/1840440/colo-ai-bias-law-brings-little-certainty-for-insurance-sector)
+_Highlight:_ Colorado&#39;s governor signed into law the nation&#39;s first comprehensive legislation to protect consumers from <b>biased artificial intelligence</b> systems,&nbsp;...
+
+- **6. An <b>AI</b> Toolbox for Librarians | School Library Journal** [link](https://www.slj.com/story/an-ai-toolboxlfor-librarians-artificial-intelligence)
+_Highlight:_ In working with students, I would primarily caution them about hallucinations, copyright, and <b>bias</b>. <b>AI</b> engines are designed to give you the answer&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
