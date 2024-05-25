@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-25 One-Minute Post
+date: 2024-05-25 14:07:40 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Colorado is pioneering AI regulation to prevent bias, while Google's AI tool is producing misleading responses, raising concerns about bias and misinformation. Microsoft's new Recall AI tool is raising privacy concerns, and there's a campaign to address ethnic name bias in autocorrect. Additionally, a bipartisan Senate bill calls for boosting AI and quantum education, and there are discussions about the ethical and secure use of AI, focusing on fairness and bias.
+
+## Articles we found interesting:
+
+- **1. Colorado the first state to move forward with attempt to regulate <b>AI&#39;s</b> hidden role in American life** [link](https://www.kunc.org/news/2024-05-25/colorado-the-first-state-to-move-forward-with-attempt-to-regulate-ais-hidden-role-in-american-life)
+_Highlight:_ ... <b>ai</b>, referring to the field of <b>AI</b>. &quot;Having ... News <b>Artificial Intelligence</b> (<b>AI</b>)Jared Polis ... <b>Privacy</b> Policy &middot; Donor <b>Privacy</b> Policy &middot; Contact Us.
+
+- **2. Google&#39;s <b>AI</b> Overview catches heat for absurd, factual errors - CNBC** [link](https://www.cnbc.com/2024/05/24/google-criticized-as-ai-overview-makes-errors-like-saying-president-obama-is-muslim.html)
+_Highlight:_ Google criticized as <b>AI</b> Overview makes obvious ... <b>AI</b> feature — without any way to opt out. ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your&nbsp;...
+
+- **3. Microsoft&#39;s New Recall <b>AI</b> Tool May Be a &#39;<b>Privacy</b> Nightmare&#39; - WIRED** [link](https://www.wired.com/story/microsoft-recall-ai-privacy-nightmare-security-roundup/)
+_Highlight:_ Plus: US surveillance reportedly targets pro-Palestinian protesters, the FBI arrests a man for <b>AI</b>-generated CSAM, and stalkerware targets hotel&nbsp;...
+
+- **4. Google&#39;s <b>AI</b> tool producing misleading responses that have experts worried - VOA News** [link](https://www.voanews.com/a/google-s-ai-tool-producing-misleading-responses-that-have-experts-worried/7626590.html)
+_Highlight:_ ... <b>bias</b> and misinformation and endanger people looking for help in an emergency. When Melanie Mitchell, an <b>AI</b> researcher at the Santa Fe Institute in&nbsp;...
+
+- **5. Is autocorrect racist? The campaign to get tech giants to stamp out ethnic name <b>bias</b> on ...** [link](https://www.abc.net.au/news/2024-05-24/autocorrect-campaign-targets-racist-bias-on-phones-computers/103889902)
+_Highlight:_ &quot;It seems extraordinary that the algorithms and <b>artificial intelligence</b> that should technically be learning how to pronounce so many names is failing&nbsp;...
+
+- **6. Bipartisan Senate bill calls on NSF to boost <b>AI</b> and quantum education | FedScoop** [link](https://fedscoop.com/bipartisan-senate-bill-calls-on-nsf-to-boost-ai-and-quantum-education/)
+_Highlight:_ ... <b>AI</b> resources for K-12 students and upskilling workers. ... <b>Artificial Intelligence</b> (<b>AI</b>) &middot; Government IT ... <b>bias</b>,” creating new safety guidelines and&nbsp;...
+
+- **7. Image-Generative <b>AI</b>: Has Technology Evolved Beyond Modern-Day <b>Fair</b> Use? - New York ...** [link](https://nysba.org/image-generative-ai-has-technology-evolved-beyond-modern-day-fair-use/)
+_Highlight:_ ... <b>AI</b>. Groundwork: <b>AI</b> Inputs, <b>AI</b> Outputs, and <b>Fair</b> Use. In the first image-generative <b>AI</b> cases making their way through our court system, copyright&nbsp;...
+
+- **8. Colorado Pioneers <b>AI</b> Regulation to Prevent Bias - The Dales Report** [link](https://thedalesreport.com/ai-technology/colorado-pioneers-ai-regulation-to-prevent-bias/)
+_Highlight:_ ... <b>fairness</b>. Colorado&#39;s new <b>AI</b> law represents an advancement in regulating <b>artificial intelligence</b>. This legislation requires companies to disclose how&nbsp;...
+
+- **9. Ensuring ethical and secure <b>AI</b> - Pakistan Observer** [link](https://pakobserver.net/ensuring-ethical-and-secure-ai/)
+_Highlight:_ Another critical component of <b>AI</b> audits is <b>fairness</b>, ensuring that <b>AI</b> systems do not manifest biases or discrimination against specific individuals or&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
