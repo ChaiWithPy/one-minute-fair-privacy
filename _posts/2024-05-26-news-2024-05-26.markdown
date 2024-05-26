@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-26 One-Minute Post
+date: 2024-05-26 14:13:07 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Microsoft's AI feature sparks privacy concerns. AI PCs raise privacy issues. AI systems perpetuate biases against women. Organizations define standards for AI bias. France uses AI for fairness at 2024 Olympics. AI can make credit assessment more inclusive. GenAI prioritizes fairness and accountability.
+
+## Articles we found interesting:
+
+- **1. Total recall: Microsoft feature for computers sparks <b>privacy</b> debate - Business Standard** [link](https://www.business-standard.com/technology/tech-news/total-recall-microsoft-feature-for-computers-sparks-privacy-debate-124052600656_1.html)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) technologies that the world is excited about are “reliant on mass surveillance”, said Meredith Whittaker,&nbsp;...
+
+- **2. <b>Privacy</b> experts sound the alarm over Microsoft&#39;s latest <b>AI</b> tool - Toledo Blade** [link](https://www.toledoblade.com/business/technology/2024/05/26/privacy-experts-sound-the-alarm-over-microsoft-s-latest-ai-tool/stories/20240527021)
+_Highlight:_ Jen Golbeck — a professor of <b>AI</b> at the University of Maryland who focuses on <b>privacy</b> — said the recall feature could pose a potential “nightmare” if&nbsp;...
+
+- **3. Explained: What are <b>AI</b> PCs that HP, Dell, Lenovo and chip makers are betting big on** [link](https://timesofindia.indiatimes.com/technology/tech-tips/explained-what-are-ai-pcs-that-hp-dell-lenovo-and-other-pc-makers-are-betting-on/articleshow/110439998.cms)
+_Highlight:_ TECH TIPS News: <b>AI</b> PCs are the latest hardware trend of 2024, featuring specialized hardware like NPUs for <b>AI</b> tasks. Some models raise <b>privacy</b>&nbsp;...
+
+- **4. Empowering Women through <b>AI</b>: A Multidisciplinary Opportunity - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/05/25/empowering-women-through-ai-a-multidisciplinary-opportunity/)
+_Highlight:_ Since <b>AI</b> systems learn from historical data, they can perpetuate existing <b>biases</b> if the data reflects societal <b>biases</b> against women. It is critical to&nbsp;...
+
+- **5. The potential use of <b>artificial intelligence</b> for venous thromboembolism prophylaxis and management** [link](https://www.nature.com/articles/s41598-024-62535-9)
+_Highlight:_ ... <b>bias</b>, and how the system will fit into the clinical workflow. Organizations are working to define standards for how <b>AI</b>/ML studies report their&nbsp;...
+
+- **6. Health Equity and Access Weekly Roundup: May 25, 2024** [link](https://www.ajmc.com/view/health-equity-and-access-weekly-roundup-may-25-2024)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) in health care. The session also addressed the critical issue of <b>bias</b> in <b>AI</b> algorithms that could perpetuate disparities.
+
+- **7. <b>AI</b> company Blackbird to help France combat cybersecurity risks at 2024 Olympics** [link](https://www.theblaze.com/news/ai-company-blackbird-to-help-france-combat-cybersecurity-risks-at-2024-olympics)
+_Highlight:_ In April, the IOC made known its <b>AI</b> plan, which included identifying talent, personalizing training, and even improving judging <b>fairness</b>, per the&nbsp;...
+
+- **8. Algo-based MSME lending: How <b>AI</b> can make credit assessment more inclusive, accurate, efficient** [link](https://www.financialexpress.com/business/sme/algo-based-msme-lending-how-ai-can-make-credit-assessment-more-inclusive-accurate-efficient/3501851/)
+_Highlight:_ However, integrating <b>AI</b> into credit assessment processes poses challenges, including concerns about transparency, <b>fairness</b>, and the need to prevent&nbsp;...
+
+- **9. How GenAI can accelerate business transformations - BusinessWorld Online** [link](https://www.bworldonline.com/economy/2024/05/26/597462/how-genai-can-accelerate-business-transformations/)
+_Highlight:_ Ethical and responsible <b>AI</b> practices are paramount in today&#39;s data-driven world. Prioritize transparency, <b>fairness</b>, and accountability throughout the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
