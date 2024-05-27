@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-27 One-Minute Post
+date: 2024-05-27 14:26:34 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+EU's ChatGPT taskforce offers first look at detangling the AI chatbot's privacy compliance. Apple may label AI features in iOS 18 as 'beta' or 'preview' to balance privacy-first user experience. Federal government's voluntary AI code of conduct gets eight more signatories, focusing on screening data sets for potential biases. Women in AI advocate for responsible AI governance to reduce unconscious bias. AI systems can perpetuate biases present in their training data, leading to inequalities in drug development. US launches comprehensive framework for ethical AI use, inclusive of fairness and transparency. Zillow provides open-source tech to enable fair housing in AI-enhanced real estate conversations. The ethics of artificial intelligence and machine learning encapsulate principles valued by society, including fairness and privacy.
+
+## Articles we found interesting:
+
+- **1. EU&#39;s ChatGPT taskforce offers first look at detangling the <b>AI</b> chatbot&#39;s <b>privacy</b> compliance** [link](https://techcrunch.com/2024/05/27/eus-chatgpt-taskforce-offers-first-look-at-detangling-the-ai-chatbots-privacy-compliance/)
+_Highlight:_ This approach could force <b>AI</b> companies to take more care about how and what data they collect to limit <b>privacy</b> risks. “Furthermore, measures should be&nbsp;...
+
+- **2. Apple may label <b>AI</b> features in iOS 18 as &#39;beta&#39; or &#39;preview&#39;, here&#39;s why - Times of India** [link](https://timesofindia.indiatimes.com/technology/tech-news/apple-may-label-ai-features-in-ios-18-as-beta-or-preview-heres-why/articleshow/110469356.cms)
+_Highlight:_ As WWDC approaches, all eyes are on Apple to see how it will balance its <b>privacy</b>-first user experience with <b>AI</b>, even if it means tempering&nbsp;...
+
+- **3. Federal government&#39;s voluntary <b>AI</b> code of conduct gets eight more signatories - CP24** [link](https://www.cp24.com/news/federal-government-s-voluntary-ai-code-of-conduct-gets-eight-more-signatories-1.6902105)
+_Highlight:_ ... <b>AI</b>, including screening data sets for potential biases and monitoring systems for potential harms. While big <b>AI</b> ... Ontario&#39;s <b>privacy</b> commissioner says&nbsp;...
+
+- **4. Women in <b>AI</b>: Miriam Vogel stresses the need for responsible <b>AI</b> - TechCrunch** [link](https://techcrunch.com/2024/05/26/women-in-ai-miriam-vogel-stresses-the-need-for-responsible-ai/)
+_Highlight:_ Miriam Vogel is the CEO of EqualAI, a nonprofit created to reduce unconscious <b>bias</b> in <b>AI</b> and promote responsible <b>AI</b> governance. She also serves as&nbsp;...
+
+- **5. Revolutionizing Drug Development: <b>AI</b> to Speed up the Creation of Biopharmaceuticals** [link](https://elblog.pl/2024/05/26/revolutionizing-drug-development-ai-to-speed-up-the-creation-of-biopharmaceuticals/)
+_Highlight:_ – Algorithm <b>Bias</b>: <b>AI</b> systems can perpetuate biases present in their training data, leading to inequalities in drug development for different&nbsp;...
+
+- **6. GenAI Just Got a Little Less Opaque - CDOTrends** [link](https://www.cdotrends.com/story/4029/genai-just-got-little-less-opaque)
+_Highlight:_ Yesterday, the <b>AI</b> startup Anthropic published a paper detailing the successful interpretation of the inner workings of a large language model&nbsp;...
+
+- **7. US Launches Comprehensive Framework for Ethical <b>AI</b> Use - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/05/27/us-launches-comprehensive-framework-for-ethical-ai-use/)
+_Highlight:_ ... <b>AI</b> safety. The Significance of NIST&#39;s <b>AI</b> RMF Developed as part of a government drive for responsible <b>AI</b> usage—inclusive of <b>fairness</b>, transparency&nbsp;...
+
+- **8. <b>AI</b> Adoption: Zillow Is Providing Open-Source Tech To Enable &quot;<b>Fair</b>&quot; Housing In <b>Artificial</b> ...** [link](https://www.crowdfundinsider.com/2024/05/225493-ai-adoption-zillow-is-providing-open-source-tech-to-enable-fair-housing-in-artificial-intelligence-enhanced-real-estate-conversations/)
+_Highlight:_ The <b>Fair</b> Housing Classifier acts as “a protective measure, to encourage more equitable conversations with <b>AI</b> technology.” It detects questions that&nbsp;...
+
+- **9. The ethics of <b>artificial intelligence</b> and machine learning | Thaiger** [link](https://thethaiger.com/hot-news/technology/the-ethics-of-artificial-intelligence-and-machine-learning)
+_Highlight:_ These ethical dimensions encapsulate principles valued by society transparency, justice, <b>fairness</b>, non-maleficence, privacy, accountability, and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
