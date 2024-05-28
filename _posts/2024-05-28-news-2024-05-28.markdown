@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-28 One-Minute Post
+date: 2024-05-28 14:47:48 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OpenAI's Sam Altman pledges to donate most of his wealth. Internet browsers like Brave and DuckDuckGo promise privacy with AI tools. Cybersecurity stocks surge amid the AI boom. Patents and monopolies face residual bias issues. Elon Musk's xAI raises $6B to combat AI bias. Rise of AI moderators aims to enhance fairness in public discourse. Cangrade offers discounts for women and minority-owned businesses to bring equity and fairness to the hiring process. Guardrails play an essential role in building production-ready AI solutions, addressing ethical concerns and promoting fairness and transparency.
+
+## Articles we found interesting:
+
+- **1. Open <b>AI&#39;s</b> Sam Altman signs pledge to give away most of his wealth - The Hill** [link](https://thehill.com/policy/technology/4689460-open-ai-sam-altman-giving-pledge-donate-most-wealth-philanthropy/)
+_Highlight:_ Open <b>AI&#39;s</b> Sam Altman signs pledge to give away most of his wealth ... OpenAI CEO Sam Altman answers questions during a Senate Subcommittee on <b>Privacy</b>,&nbsp;...
+
+- **2. These Internet Browsers Promise <b>Privacy</b>. What Does That Actually Mean? - WSJ** [link](https://www.wsj.com/tech/cybersecurity/internet-browsing-privacy-99ee0be8)
+_Highlight:_ Brave, meanwhile, offers paid access to services such as a VPN, a <b>privacy</b>-preserving videoconferencing tool, <b>AI</b> applications and more. DuckDuckGo&nbsp;...
+
+- **3. This cybersecurity stock is breaking out as industry rides the <b>AI</b> boom, according to the charts - CNBC** [link](https://www.cnbc.com/2024/05/28/this-cybersecurity-stock-is-breaking-out-as-industry-rides-the-ai-boom-according-to-the-charts.html)
+_Highlight:_ Get this delivered to your inbox, and more info about our products and services. Advertise With Us. Please Contact Us &middot; <b>Privacy</b> Policy; California&nbsp;...
+
+- **4. Are Patents Monopolies or Not? Part II: Residual <b>Bias</b> and Misnomers - IP Watchdog** [link](https://ipwatchdog.com/2024/05/27/patents-monopolies-not-part-ii-residual-bias-misnomers/id%3D176900/)
+_Highlight:_ Part II: Residual <b>Bias</b> and Misnomers ... Beyond abandoning <b>bias</b>, antitrust authorities ... Other Barks &amp; Bites for Friday, May 24: ChatGPT Pulls <b>AI</b>&nbsp;...
+
+- **5. Unveiling the Future: The Convergence of <b>AI</b> and Strategic Intelligence Operations** [link](https://globalsecurityreview.com/unveiling-the-future-the-convergence-of-ai-and-strategic-intelligence-operations/)
+_Highlight:_ Algorithms can help identify and mitigate potential <b>biases</b> in human analysis, promoting more objective decision-making processes. <b>AI</b> tools can act as&nbsp;...
+
+- **6. Elon Musk&#39;s xAI raises $6B from Valor, a16z, and Sequoia | TechCrunch** [link](https://techcrunch.com/2024/05/26/elon-musks-xai-raises-6b-from-valor-a16z-and-sequoia/)
+_Highlight:_ He has also accused Google of coding <b>bias</b> into its <b>AI</b> products. After forming xAI year, Musk released its chatbot ChatGPT-rival Grok 1.0 model in&nbsp;...
+
+- **7. Rise of <b>AI</b> Moderators: Enhancing <b>Fairness</b>, Efficiency in Public Discourse - Newsweek** [link](https://www.newsweek.com/rise-ai-moderators-enhancing-fairness-efficiency-public-discourse-1905344)
+_Highlight:_ <b>Artificial Intelligence</b> &middot; <b>AI</b>. Rise of <b>AI</b> Moderators: Enhancing <b>Fairness</b>, Efficiency in Public Discourse. Published May 28, 2024 at 9:35 AM EDT Updated&nbsp;...
+
+- **8. Cangrade Announces Women- and Minority-Owned Business Discount, Bringing Equity ...** [link](https://www.newswire.com/news/cangrade-announces-women-and-minority-owned-business-discount-bringing-22338027)
+_Highlight:_ Cangrade Announces Women- and Minority-Owned Business Discount, Bringing Equity, <b>Fairness</b>, and Efficiency to the Hiring Process ... <b>AI</b>-powered hiring&nbsp;...
+
+- **9. Building Production-Ready <b>AI</b> Solutions: The Essential Role of Guardrails - MarkTechPost** [link](https://www.marktechpost.com/2024/05/27/building-production-ready-ai-solutions-the-essential-role-of-guardrails/)
+_Highlight:_ Ethical Considerations: Guardrails help address ethical concerns surrounding <b>AI</b>, promoting <b>fairness</b>, transparency, and accountability. Regulatory&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
