@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-29 One-Minute Post
+date: 2024-05-29 14:29:32 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California is advancing measures to target AI discrimination and deepfakes, while Apple is planning to protect user privacy with AI features. iOS 18's cloud-based AI features will have strong privacy protections. ONC Chief advocates for a new AI transparency rule to drive higher quality tools and more AI adoption. A UK study of real-world examples of bias in health AI has been conducted. Job seekers and hiring managers are depending on AI, raising concerns about truth and fairness. Additionally, the advantages of using AI-generated images of filler faces for creating fair lineups have been highlighted. Ethical AI standards are being emphasized, focusing on fairness and equity.
+
+## Articles we found interesting:
+
+- **1. California advances measures targeting <b>AI</b> discrimination and deepfakes - ABC News** [link](https://abcnews.go.com/Business/wireStory/california-advances-measures-targeting-ai-discrimination-deepfakes-110650502)
+_Highlight:_ ... <b>AI</b> companies — could pave the way for <b>AI</b> ... <b>AI</b> tools to ... <b>Privacy</b> Forum, a nonprofit that works with lawmakers on technology and <b>privacy</b> proposals.
+
+- **2. Apple&#39;s &#39;secret&#39; plan to protect user <b>privacy</b> with <b>AI</b> features - OODA Loop** [link](https://www.oodaloop.com/briefs/2024/05/29/apples-secret-plan-to-protect-user-privacy-with-ai-features/)
+_Highlight:_ Apple&#39;s &#39;secret&#39; plan to protect user <b>privacy</b> with <b>AI</b> features ... At WWDC, Apple will unveil its <b>AI</b> strategy as part of iOS 18 and its other operating&nbsp;...
+
+- **3. iOS 18&#39;s Cloud-Based <b>AI</b> Features Will Have Strong <b>Privacy</b> Protections, Report Says** [link](https://www.macrumors.com/2024/05/29/ios-18-cloud-ai-features-privacy-protections/)
+_Highlight:_ iOS 18 is widely expected to include new generative <b>AI</b> features for the iPhone, with a mix of on-device and cloud-based processing,&nbsp;...
+
+- **4. ONC Chief: New <b>AI</b> Transparency Rule Should Drive Higher Quality Tools &amp; More <b>AI</b> Adoption** [link](https://medcitynews.com/2024/05/onc-ai-transparency/)
+_Highlight:_ ... <b>bias</b>, how they validated the product, and which use cases the tool was designed for. The rule is not only for <b>AI</b> models that are explicitly&nbsp;...
+
+- **5. Health <b>AI</b>: UK study of real world examples of <b>bias</b> - Gilbert + Tobin** [link](https://www.gtlaw.com.au/knowledge/health-ai-uk-study-real-world-examples-bias)
+_Highlight:_ In early March 2024, the UK Government released a report by an independent expert panel into equity in medical devices.The inquiry was triggered&nbsp;...
+
+- **6. Op-Ed: <b>AI</b> Can&#39;t Anthropomorphize It&#39;s Way To Empathy - Columbia Journalism Review** [link](https://www.cjr.org/tow_center/op-ed-ai-cant-anthropomorphize-its-way-to-empathy.php)
+_Highlight:_ ... <b>AI</b> systems with human-like emotions, <b>AI</b> ... As I&#39;ve written before, the same conclusion about <b>AI</b> systems replicating the <b>bias</b> of their creators has been&nbsp;...
+
+- **7. Job seekers and hiring managers depend on <b>AI</b> — at what cost to truth and <b>fairness</b>?** [link](https://www.computerworld.com/article/2128296/job-seekers-and-hiring-managers-depend-on-ai-but-at-what-cost-to-truth-and-fairness.html)
+_Highlight:_ <b>AI</b> has come to the rescue for both employers seeking employee and workers seeking employment, automating many laborious tasks.
+
+- **8. On the advantages of using <b>AI</b>-generated images of filler faces for creating <b>fair</b> lineups** [link](https://www.nature.com/articles/s41598-024-63004-z)
+_Highlight:_ The results show that the lineups with <b>AI</b>-generated filler images were perfectly <b>fair</b> and, in fact, led to less biased suspect selection than the&nbsp;...
+
+- **9. Ethical <b>AI</b> - The Weather Network** [link](https://www.theweathernetwork.com/info/ai-code-of-ethics)
+_Highlight:_ Our Ethical Standards for use with <b>AI</b> Technologies &middot; Human Centred Design &middot; Transparency and Accountability &middot; <b>Fairness</b> and Equity &middot; Governance &middot; Compliance.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
