@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-30 One-Minute Post
+date: 2024-05-30 14:09:00 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Italy proposes new AI law focusing on privacy. Apple's iOS 18 prioritizes data privacy. AI's impact on HR raises concerns about fairness. Anthropic maps the mind of its language model to address bias. AI breakthroughs in sleep tech must address bias. The first AI law aims to ensure fairness. AI's role in HR raises concerns about fairness, bias, and privacy.
+
+## Articles we found interesting:
+
+- **1. Italy Proposes New <b>Artificial Intelligence</b> Law - Inside Privacy** [link](https://www.insideprivacy.com/artificial-intelligence/italy-proposes-new-artificial-intelligence-law/)
+_Highlight:_ On May 20, 2024, a proposal for a law on <b>artificial intelligence</b> (“<b>AI</b>”) was laid before the Italian Senate. The proposed law sets out (1) general.
+
+- **2. Harnessing <b>AI</b> for Enhanced Cybersecurity and Productivity - Spiceworks** [link](https://www.spiceworks.com/it-security/cyber-risk-management/guest-article/ai-boosts-cybersecurity-productivity/)
+_Highlight:_ The Role of <b>AI</b> in Cybersecurity. One of the top reasons for integrating <b>AI</b> into cybersecurity strategies is its impact on data <b>confidentiality</b>/<b>privacy</b>&nbsp;...
+
+- **3. iOS 18&#39;s killer <b>AI</b> feature might be data <b>privacy</b> unlike anyone else - BGR** [link](https://bgr.com/tech/ios-18s-killer-ai-feature-might-be-data-privacy-unlike-anyone-else/)
+_Highlight:_ Apple is building strong <b>privacy</b> protections in iOS 18 for processing cloud-based <b>AI</b> requests and Siri: Here comes confidential-computing.
+
+- **4. <b>AI</b> Is a False God | The Walrus** [link](https://thewalrus.ca/ai-hype/)
+_Highlight:_ ... <b>AI</b> usage in things like hiring is replicating <b>biases</b>. In both cases, pre-existing racial <b>bias</b> emerged in digital systems, and as such, it&#39;s often&nbsp;...
+
+- **5. Breaking Into <b>AI&#39;s</b> Black Box: Anthropic Maps the Mind of Its Claude Large Language Model** [link](https://singularityhub.com/2024/05/29/breaking-into-ais-black-box-anthropic-maps-the-mind-of-its-claude-large-language-model/)
+_Highlight:_ Researchers linked patterns of LLM activity to specific concepts and showed they could control the <b>AI</b> model&#39;s behavior by dialing this activity up&nbsp;...
+
+- **6. 5 <b>AI</b> Breakthroughs That Will Have a Major Impact on Sleep - Sleepopolis** [link](https://sleepopolis.com/news/ai-breakthroughs-for-sleep/)
+_Highlight:_ <b>Bias</b>: <b>AI</b> systems can reinforce and magnify existing biases if trained on datasets that do not include a wide range of people. Weeding out bias is&nbsp;...
+
+- **7. The First Steps of the First <b>AI</b> Law: What Happens Now? - Techopedia** [link](https://www.techopedia.com/the-first-steps-of-the-first-ai-law-what-happens-now)
+_Highlight:_ The Act is expected to be a model for other countries around the world and aims to ensure <b>fairness</b> as <b>AI</b> enters our lives at a pace that regulations&nbsp;...
+
+- **8. <b>AI&#39;s</b> impact on HR: Challenges, opportunities, and best practices - India Today** [link](https://www.indiatoday.in/education-today/featurephilia/story/ais-impact-on-hr-challenges-opportunities-and-best-practices-2545785-2024-05-30)
+_Highlight:_ In the dynamic HR landscape, <b>AI&#39;s</b> role in hiring offers efficiency but raises concerns about <b>fairness</b>. Ruchika Godha, COO of Advaiya,&nbsp;...
+
+- **9. <b>AI</b> in HR: Is <b>artificial intelligence</b> changing how we hire employees forever? - WeLiveSecurity** [link](https://www.welivesecurity.com/en/we-live-progress/ai-hr-artificial-intelligence-changing-hire-employees-forever/)
+_Highlight:_ While this shift towards <b>AI</b> brings numerous benefits, it also raises critical questions about <b>fairness</b>, bias, and privacy. We&#39;ve previously looked at&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
