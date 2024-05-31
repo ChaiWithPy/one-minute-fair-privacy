@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-05-31 One-Minute Post
+date: 2024-05-31 14:24:12 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Council of Europe adopts international treaty on AI, focusing on privacy. Utah passes new privacy laws and first major AI law. Zendata raises $2M for AI governance and data privacy. Ethical considerations and bias in AI algorithms are crucial for business transformations. Most Americans expect AI abuses to impact 2024 election. UK regulators publish strategic approaches to AI and fairness. White House's Executive Order on AI emphasizes fairness and accountability. AI governance promotes transparency, fairness, and preventing harm.
+
+## Articles we found interesting:
+
+- **1. Council of Europe Adopts International Treaty on <b>Artificial Intelligence</b> - Inside Privacy** [link](https://www.insideprivacy.com/artificial-intelligence/council-of-europe-adopts-international-treaty-on-artificial-intelligence/)
+_Highlight:_ On May 17, 2024, the Council of Europe adopted the Framework Convention on <b>Artificial Intelligence</b> and Human Rights, Democracy and the Rule of Law&nbsp;...
+
+- **2. What you should know about Utah&#39;s newest <b>privacy</b> laws - @theU** [link](https://attheu.utah.edu/facultystaff/what-you-should-know-about-utahs-newest-privacy-laws/)
+_Highlight:_ This year, the Utah Legislature passed multiple <b>privacy</b> laws and enacted the nation&#39;s first major <b>artificial intelligence</b> (<b>AI</b>) law — efforts that&nbsp;...
+
+- **3. Zendata raises $2M to redefine <b>AI</b> governance and data <b>privacy</b> with no-code platform** [link](https://venturebeat.com/ai/zendata-raises-2m-to-redefine-ai-governance-and-data-privacy-with-no-code-platform/)
+_Highlight:_ Zendata raises $2M seed funding to revolutionize <b>AI</b> governance and data <b>privacy</b> with its no-code platform, enabling businesses to manage data&nbsp;...
+
+- **4. Leveraging <b>AI</b> &amp; Data-Driven insights to drive strategic business transformations** [link](https://etinsights.et-edge.com/leveraging-ai-data-driven-insights-to-drive-strategic-business-transformations/)
+_Highlight:_ Ethical considerations are equally important, particularly regarding data privacy and <b>bias</b> in <b>AI</b> algorithms. ... <b>biases</b> is essential to ensure ethical&nbsp;...
+
+- **5. Most Americans expect <b>AI</b> abuses to impact 2024 election: survey | Fox Business** [link](https://www.foxbusiness.com/politics/most-americans-expect-ai-abuses-impact-2024-election-survey)
+_Highlight:_ Republican respondents were more likely to be skeptical of <b>bias</b> in <b>AI</b> ... Republicans were also more likely to think <b>AI</b> is <b>biased</b> against Democrats&nbsp;...
+
+- **6. The Long History of Discrimination in Job Hiring Assessments | ACLU** [link](https://www.aclu.org/news/racial-justice/the-long-history-of-discrimination-in-job-hiring-assessments)
+_Highlight:_ ... <b>bias</b>, determines our opportunities ... Automated decision-making tools, including those using <b>artificial intelligence</b>, or <b>AI</b>, and algorithms, have been&nbsp;...
+
+- **7. <b>Artificial intelligence</b> | UK Regulatory Outlook May 2024 - Osborne Clarke** [link](https://www.osborneclarke.com/insights/Regulatory-Outlook-May-2024-Artificial-intelligence)
+_Highlight:_ UK regulators publish their strategic approaches to <b>AI</b> | Launch of the <b>AI</b> and Digital Hub | DRCF&#39;s views on <b>fairness</b> in <b>AI</b>. Icon for <b>artificial</b>&nbsp;...
+
+- **8. How the White House&#39;s Executive Order on <b>AI</b> may impact the law - Fast Company** [link](https://www.fastcompany.com/91132994/how-the-white-houses-executive-order-on-ai-may-impact-the-law)
+_Highlight:_ Let&#39;s dig into the legal side of things. The White House EO talks about <b>fairness</b> and accountability. How does that impact <b>AI</b> law? There isn&#39;t federal&nbsp;...
+
+- **9. What is <b>AI</b> governance? Why Is It Important? - UseTheBitcoin** [link](https://usethebitcoin.com/what-is-ai-governance-why-is-it-important/)
+_Highlight:_ This includes promoting transparency in <b>AI</b> decision-making, ensuring <b>fairness</b>, and preventing harm. Additionally, <b>AI</b> governance is an ongoing process,&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
