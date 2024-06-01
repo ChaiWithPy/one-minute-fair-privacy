@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-01 One-Minute Post
+date: 2024-06-01 14:33:59 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta is using Facebook and Instagram data to train AI models, raising concerns about privacy. Colorado's AI bias law is inspiring other states to act, while insurance companies are working to mitigate bias in AI tools. KITE pioneers an AI engine to combat misinformation among students, emphasizing the need to eliminate algorithmic bias. Ethical guidelines are crucial for ensuring fairness, transparency, and societal benefit in AI development. Maintaining transparency and fairness in AI systems is crucial for the global economy, with initiatives addressing AI's impact on the labor force. Utilizing AI to enhance equity in real estate involves enforcing regulations to ensure fairness.
+
+## Articles we found interesting:
+
+- **1. Here&#39;s what a US surveillance law means for European data <b>privacy</b> - Euronews** [link](https://www.euronews.com/next/2024/06/01/heres-what-a-us-surveillance-law-means-for-european-data-privacy)
+_Highlight:_ Belgium&#39;s far-right spends big on Meta ahead of EU elections - expert &middot; Humanoid robot Sophia is pictured during the ITU&#39;s <b>AI</b> for Good Global Summit&nbsp;...
+
+- **2. Meta is using Facebook, Instagram data to train <b>AI</b> models: Read email sent to users** [link](https://timesofindia.indiatimes.com/technology/tech-news/meta-is-using-facebook-instagram-data-to-train-ai-models-read-email-sent-to-users/articleshow/110620869.cms)
+_Highlight:_ TECH NEWS : Meta is using data from Facebook and Instagram to train <b>AI</b> models. Notifications sent to UK and EU users. <b>Privacy</b> legislation mandates&nbsp;...
+
+- **3. May 2024 US Tech Policy Roundup | TechPolicy.Press** [link](https://techpolicy.press/may-2024-us-tech-policy-roundup)
+_Highlight:_ ... <b>AI</b>, data <b>privacy</b>, and kids online safety bills. In the Senate, the bipartisan Senate <b>AI</b> Working Group released its Senate <b>AI</b> policy roadmap, and&nbsp;...
+
+- **4. Colo. <b>AI Bias</b> Law Lays &#39;Foundation&#39; For New State Patchwork - Law360** [link](https://www.law360.com/articles/1842194/colo-ai-bias-law-lays-foundation-for-new-state-patchwork)
+_Highlight:_ Colorado&#39;s trailblazing legislation for regulating high-risk uses of <b>artificial intelligence</b> is likely to inspire other states to act,&nbsp;...
+
+- **5. Explore the evolving role of <b>AI</b> in the insurance industry - TechTarget** [link](https://www.techtarget.com/searchenterpriseai/feature/Explore-the-evolving-role-of-AI-in-the-insurance-industry)
+_Highlight:_ Insurance companies must tread carefully to mitigate, detect and manage hallucinations and <b>bias</b> as they implement <b>AI</b> tools. When issues like&nbsp;...
+
+- **6. KITE pioneers <b>AI</b> engine to combat misinformation among students** [link](https://www.newindianexpress.com/states/kerala/2024/Jun/01/kite-pioneers-ai-engine-to-combat-misinformation-among-students)
+_Highlight:_ “Failure to train it adequately would result in <b>biased</b> information dissemination. Thus, our aim with this project is to eliminate algorithmic <b>bias</b>,”&nbsp;...
+
+- **7. Expert harps on ethical use of <b>AI</b> - The Nation Newspaper** [link](https://thenationonlineng.net/expert-harps-on-ethical-use-of-ai/)
+_Highlight:_ ... <b>AI</b> development to ensure <b>fairness</b>, transparency, and societal benefit. “Ethical guidelines are crucial for ensuring that <b>AI</b> technologies are&nbsp;...
+
+- **8. The Transformative Impact of <b>AI</b> on the Global Economy - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/06/01/the-transformative-impact-of-ai-on-the-global-economy/)
+_Highlight:_ Maintaining transparency and <b>fairness</b> in <b>AI</b> systems is crucial. 4. Are there any global initiatives that address <b>AI&#39;s</b> impact on the labor force?
+
+- **9. Utilizing <b>AI</b> to Enhance Equity in Real Estate - Globe Echo** [link](https://globeecho.com/utilizing-ai-to-enhance-equity-in-real-estate/)
+_Highlight:_ Enforcing regulations such as the <b>Fair</b> Housing Act and the Real Estate Settlement Procedures Act to ensure transparency and <b>fairness</b> in real estate&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
