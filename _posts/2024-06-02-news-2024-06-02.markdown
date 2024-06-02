@@ -1,0 +1,40 @@
+---
+layout: post
+title: 2024-06-02 One-Minute Post
+date: 2024-06-02 13:59:32 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI smartphones surge despite privacy concerns. Acer Chromebook Plus Spin 714 addresses privacy worries with on-device AI. Apple's expensive iPhone Pro decision may involve AI capabilities with privacy implications. Malaysia's AI Nexus program marks move towards AI and addresses AI bias. Grab and OpenAI join forces to monitor AI systems for biases and ethical decision-making. Upcoming conference emphasizes the importance of fair and unbiased AI systems. Solana co-founder advocates for open source as key to fair finance.
+
+## Articles we found interesting:
+
+- **1. Canalys Report: <b>AI</b> Smartphones Surge Amid <b>Privacy</b> Concerns** [link](https://www.digitalinformationworld.com/2024/06/canalys-report-ai-smartphones-surge.html)
+_Highlight:_ <b>AI</b> smartphones to dominate market, but Canalys highlights user <b>privacy</b> worries and feature confusion.
+
+- **2. The Acer Chromebook Plus Spin 714 found the secret recipe for on-device <b>AI</b> | Laptop Mag** [link](https://www.laptopmag.com/laptops/chromebooks/the-acer-chromebook-plus-spin-714-found-the-secret-recipe-for-on-device-ai)
+_Highlight:_ The new Chromebook Plus laptops&#39; small-scale, on-device <b>AI</b> features also address a growing concern about <b>AI</b> tools: <b>privacy</b>. At its annual&nbsp;...
+
+- **3. Apple Insider Details An Expensive iPhone Pro Decision - Forbes** [link](https://www.forbes.com/sites/ewanspence/2024/06/01/apple-iphone-16-pro-generative-ai-llm-expensive-upgrade-new-iphone-16/)
+_Highlight:_ ... <b>AI</b> processes or offering <b>AI</b> capabilities to lower-spec hardware. If this is the case, expect Apple to lean heavily into the <b>privacy</b> implications&nbsp;...
+
+- **4. Malaysia <b>Artificial Intelligence</b> Nexus 2024 program marks country&#39;s move toward <b>AI</b>** [link](https://coingeek.com/malaysia-artificial-intelligence-nexus-2024-program-marks-country-move-toward-ai/)
+_Highlight:_ Governor Jared Polis has signed Senate Bill 24-205, making Colorado the first state to have a law that protects citizens from <b>AI bias</b> and&nbsp;...
+
+- **5. The Future of Communication: <b>AI</b> and Machine Learning Integration - Modern Diplomacy** [link](https://moderndiplomacy.eu/2024/06/01/the-future-of-communication-ai-and-machine-learning-integration/)
+_Highlight:_ <b>Bias</b> and Fairness: The <b>biases</b> inherent in the training datasets determine how <b>biased</b> or objective an <b>AI</b> algorithm can be. For example, language&nbsp;...
+
+- **6. Grab and OpenAI Join Forces to Elevate Southeast Asia&#39;s <b>AI</b> Landscape** [link](https://elblog.pl/2024/06/01/grab-and-openai-join-forces-to-elevate-southeast-asias-ai-landscape/)
+_Highlight:_ – <b>AI</b> ethics: The deployment of <b>AI</b> systems must be monitored to prevent <b>biases</b> and ensure ethical decision-making. ... <b>Bias</b> in <b>AI</b> (969), Big Data (1,452)&nbsp;...
+
+- **7. Upcoming Conference on <b>Artificial Intelligence</b>: Exploring Possibilities and Challenges** [link](https://elblog.pl/2024/06/02/upcoming-conference-on-artificial-intelligence-exploring-possibilities-and-challenges/)
+_Highlight:_ As <b>AI</b> systems increasingly make decisions traditionally made by humans, ensuring these systems operate in a <b>fair</b> and unbiased manner is imperative.
+
+- **8. Solana Co-Founder Touts Open Source as Key to <b>Fair</b> Finance - CoinGape** [link](https://coingape.com/solana-co-founder-touts-open-source-as-key-to-fair-finance/)
+_Highlight:_ Best Crypto <b>AI</b> Trading Bots For 2024: Updated List. Must Read &middot; ethereum price crypto news. Best Crypto Exchanges and Apps&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
