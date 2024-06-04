@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-04 One-Minute Post
+date: 2024-06-04 14:27:40 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OpenAI employees call for sweeping changes due to confidentiality agreements. Texas AG launches team to prosecute online privacy and security cases. AI black boxes to be replaced with explainable AI for bias mitigation. Council of Europe adopts first international treaty on AI and human rights, emphasizing fairness and public education. India leads in drafting global standards for responsible AI, focusing on fairness assessment. Legal frameworks and governance models for responsible and ethical AI use are being explored.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> employees warn of technology&#39;s dangers, call for sweeping company changes** [link](https://www.washingtonpost.com/technology/2024/06/04/openai-employees-ai-whistleblowers/)
+_Highlight:_ They noted that they are hamstrung by “broad <b>confidentiality</b> agreements” and that ordinary whistleblower protections are “insufficient” because they&nbsp;...
+
+- **2. Texas AG Ken Paxton launches new team to prosecute online <b>privacy</b> and security cases** [link](https://www.texastribune.org/2024/06/04/texas-ken-paxton-data-privacy-security/)
+_Highlight:_ Companies that collect and sell data in an unauthorized manner, harm consumers financially, or use <b>artificial intelligence</b> irresponsibly present risks&nbsp;...
+
+- **3. Is it safer to use an app or a website on your phone? - Washington Post** [link](https://www.washingtonpost.com/technology/2024/06/04/better-privacy-security-app-website/)
+_Highlight:_ For iPhones, you can go to the Settings app, pick <b>Privacy</b> &amp; Security and then App <b>Privacy</b> Report. ... Is this <b>AI</b>? See if you can spot the technology&nbsp;...
+
+- **4. From <b>AI</b> black boxes to consumer-friendly glass boxes: Why you need explainable <b>AI</b> - Fast Company** [link](https://www.fastcompany.com/91134282/from-ai-black-boxes-to-consumer-friendly-glass-boxes-why-you-need-explainable-ai)
+_Highlight:_ Known to have <b>biases</b>, <b>AI</b> training sets can result in recommendations that can have negative or unintended effects on your customers and/or prospects,&nbsp;...
+
+- **5. Chatbots show promise in simplifying pathology reports for patients - HealthITAnalytics** [link](https://healthitanalytics.com/news/chatbots-show-promise-in-simplifying-pathology-reports-for-patients)
+_Highlight:_ Dig Deeper. Self-supervised foundation models mitigate <b>bias</b> in histopathology <b>AI</b> &middot; <b>Artificial Intelligence</b> Method Enables Data Mining from Pathology&nbsp;...
+
+- **6. <b>AI</b> safety becomes a partisan battlefield - Axios** [link](https://www.axios.com/2024/06/03/ai-safety-risk-guardrails-woke-elon-musk)
+_Highlight:_ No one agrees which is more dangerous: Runaway AI, <b>biased AI</b> or &quot;woke&quot; AI.
+
+- **7. Council of Europe Adopts First International Treaty on <b>AI</b> and Human Rights - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D1a1165b5-5dbd-4403-a83c-f1b4b156418e)
+_Highlight:_ ... <b>fairness</b>, and educate the public about <b>AI</b> to encourage engagement in <b>AI</b> governance. The treaty also encourages collaboration to share best&nbsp;...
+
+- **8. India leading in drafting global standards for responsible, trustworthy <b>AI</b>: DoT official** [link](https://telecom.economictimes.indiatimes.com/news/policy/india-leading-in-drafting-global-standards-for-responsible-trustworthy-ai-dot-official/110694273)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>), with the Telecommunication Engineering Centre (TEC) having released a standard for assessing and rating <b>fairness</b> in&nbsp;...
+
+- **9. <b>AI</b> governance models: Legal frameworks for responsible <b>AI</b> use - London Loves Business** [link](https://londonlovesbusiness.com/ai-governance-models-legal-frameworks-for-responsible-ai-use/)
+_Highlight:_ Explore the legal frameworks and governance models for responsible and ethical <b>AI</b> use. Learn how transparency, <b>fairness</b>, and accountability are&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
