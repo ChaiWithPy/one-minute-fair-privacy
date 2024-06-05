@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-05 One-Minute Post
+date: 2024-06-05 14:23:27 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI privacy and fairness are making headlines. The Future of Privacy Forum launches a Center for AI Research, while employees at OpenAI and Google DeepMind raise concerns about hiding AI dangers. Additionally, PPG-based AI for detecting sleep apnea shows no bias based on skin color. Cambodia and ASEAN leaders explore human-centered AI strategies, emphasizing fairness and trust. It's crucial to balance AI benefits with privacy, fairness, and transparency, as it continues to impact various sectors.
+
+## Articles we found interesting:
+
+- **1. Is <b>AI</b> misinformation influencing elections in India? - Nature** [link](https://www.nature.com/articles/d41586-024-01588-2)
+_Highlight:_ Over the past year, we have collected data from app users in rural India through a <b>privacy</b>-preserving, opt-in method of data donation. WhatsApp is an&nbsp;...
+
+- **2. 6 ways Apple can leapfrog OpenAI, Microsoft, and Google at WWDC 2024 | ZDNET** [link](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-openai-microsoft-and-google-at-wwdc-2024/)
+_Highlight:_ 1. Develop a clear on-device strategy for generative <b>AI</b> and invest in <b>AI</b>-driven developer tools &middot; 2. Leverage ethical <b>AI</b> and <b>privacy</b> as a competitive&nbsp;...
+
+- **3. FPF Announces Center for <b>AI</b> Research - Broadband Breakfast** [link](https://broadbandbreakfast.com/fpf-announces-center-for-ai-research/)
+_Highlight:_ The Future of <b>Privacy</b> Forum, a nonprofit organization, collaborates with academics, civil society, government officials, and industry leaders to&nbsp;...
+
+- **4. Employees Say OpenAI and Google DeepMind Are Hiding Dangers from the Public - Time** [link](https://time.com/6985504/openai-google-deepmind-employees-letter/)
+_Highlight:_ A group of current and former employees at OpenAI and Google DeepMind published a letter warning against the dangers of advanced <b>AI</b>.
+
+- **5. PPG-Based <b>AI</b> to Detect Obstructive Sleep Apnea Shows No <b>Bias</b> Based on Skin Color** [link](https://www.medpagetoday.com/meetingcoverage/apss/110483)
+_Highlight:_ HOUSTON -- A photoplethysmography (PPG)-based <b>artificial intelligence</b> (<b>AI</b>) ... <b>bias</b> in performance based on skin color, according to a prospective trial.
+
+- **6. <b>AI</b>-powered surveillance in China and the U.S. - Kevin MD** [link](https://www.kevinmd.com/2024/06/ai-powered-surveillance-in-china.html)
+_Highlight:_ And unlike humans, who are imperfectly <b>biased</b>, it will be perfectly <b>biased</b>. Because of <b>biases</b> endemic in American policing, almost all black doctors&nbsp;...
+
+- **7. Balance <b>AI</b> benefits, privacy, <b>fairness</b> &amp; transparency - The Hans India** [link](https://www.thehansindia.com/hans/education-careers/balance-ai-benefits-privacy-fairness-transparency-882828)
+_Highlight:_ <b>Artificial Intelligence</b> (<b>AI</b>) and Machine Learning (ML) aren&#39;t just making waves in Silicon Valley; they&#39;re knocking on the doors of our classrooms&nbsp;...
+
+- **8. Cambodia hosts <b>AI</b> Adoption Side Event at ASEAN Meeting - Khmer Times** [link](https://www.khmertimeskh.com/501500237/cambodia-hosts-ai-adoption-side-event-at-asean-meeting/)
+_Highlight:_ ... <b>AI</b>, emphasising the critical factors of <b>fairness</b> and trust, and examining the global landscape of <b>AI</b> governance. Seingheng stressed the importance&nbsp;...
+
+- **9. ASEAN leaders explore human-centred <b>AI</b> strategies in Siem Reap - Phnom Penh Post** [link](https://www.phnompenhpost.com/national/asean-leaders-explore-human-centred-ai-strategies-in-siem-reap)
+_Highlight:_ The discussions covered <b>AI</b> technologies and challenges, policy and governance for responsible <b>AI</b>, <b>fairness</b> and trust, data privacy and global <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
