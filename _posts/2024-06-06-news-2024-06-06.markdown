@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-06 One-Minute Post
+date: 2024-06-06 14:05:03 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Utah's AI Policy Act is now in effect, while DuckDuckGo offers private access to AI chatbots. European privacy group NOYB files complaints against Meta's AI training practices. AI hiring and bias issues are highlighted, as well as the potential for AI to minimize bias in clinical trials. Gnani.ai addresses ethical concerns around AI in debt recovery, and CBSE warns schools after AI detects significant theory-practical marks variation. Zoho CEO criticizes the rush to deploy AI tools without ensuring fairness, transparency, and accountability.
+
+## Articles we found interesting:
+
+- **1. Utah&#39;s <b>AI</b> Policy Act Now Effective** [link](https://www.huntonak.com/privacy-and-information-security-law/utahs-ai-policy-act-now-effective)
+_Highlight:_ <b>Privacy</b> &amp; Information Security Law Blog ... On May 1, 2024, Utah&#39;s <b>Artificial Intelligence</b> Policy Act (“<b>AI</b> Policy Act”) entered into effect. Along with&nbsp;...
+
+- **2. DuckDuckGo Announces Free, Private Access to Some <b>AI</b> Chatbots - CNET** [link](https://www.cnet.com/tech/services-and-software/duckduckgo-announces-free-private-access-to-some-ai-chatbots/)
+_Highlight:_ On Thursday, DuckDuckGo, the company behind the <b>privacy</b>-focused search engine, announced DuckDuckGo <b>AI</b> Chat, a free, optional and anonymous way to&nbsp;...
+
+- **3. Meta&#39;s <b>AI</b> Training Plans Targeted by EU <b>Privacy</b> Group - PYMNTS.com** [link](https://www.pymnts.com/artificial-intelligence-2/2024/metas-ai-training-plans-targeted-by-eu-privacy-group/)
+_Highlight:_ European <b>privacy</b> group NOYB has filed complaints over Meta&#39;s use of user data in its <b>artificial intelligence</b> (<b>AI</b>) practices.
+
+- **4. To hire the right job candidate, humans and machines should clear up this simple miscommunication** [link](https://news.ufl.edu/2024/06/ai-hiring/)
+_Highlight:_ ... <b>AI</b> thinks it is picking someone to hire, but the hiring manager just ... <b>bias</b>. Selection versus <b>AI</b> resume screening. The problem Xu and Zhang identified&nbsp;...
+
+- **5. The Promise and Potential of <b>AI</b> in Life Sciences | Opinion - Newsweek** [link](https://www.newsweek.com/promise-potential-ai-life-sciences-opinion-1908812)
+_Highlight:_ In the life sciences, <b>AI</b> is changing the game for drug discovery, minimizing <b>bias</b> in clinical trials, and identifying diseases in earlier stages. In&nbsp;...
+
+- **6. Unleashing the Potential of <b>AI</b> in Talent Management: Balancing Efficiency and Inclusion** [link](https://i95business.com/articles/content/unleashing-the-potential-of-ai-in-talent-management-balancing-efficiency-and-inclusion-2257)
+_Highlight:_ If <b>AI</b> algorithms are trained on historical data that reflects societal <b>biases</b> or lacks a breadth of representation, they may perpetuate or even&nbsp;...
+
+- **7. How Gnani.<b>ai</b> Leverages Gen <b>AI</b> to Boost Financial Stability and Efficiency - Bisinfotech** [link](https://www.bisinfotech.com/how-gnani-ai-leverages-gen-ai-to-boost-financial-stability-and-efficiency/)
+_Highlight:_ How does Gnani.<b>ai</b> address the ethical concerns surrounding the use of <b>AI</b> in debt recovery, particularly regarding borrower privacy and <b>fair</b> treatment?
+
+- **8. CBSE warns schools after <b>AI</b> finds huge gap between theory and practical marks among 50 ...** [link](https://www.thehindu.com/news/national/cbse-warns-schools-after-ai-finds-huge-gap-between-theory-and-practical-marks-among-50-of-student-results/article68255269.ece)
+_Highlight:_ CBSE detects significant theory-practical marks variation, advises schools to review assessment procedures for <b>fair</b> and accurate results.
+
+- **9. Zoho CEO Sridhar Vembu raps mad rush to launch and deploy <b>AI</b> tools - The Indian Express** [link](https://indianexpress.com/article/technology/tech-news-technology/zoho-ceo-sridhar-vembu-raps-mad-rush-to-launch-and-deploy-ai-tools-9375088/)
+_Highlight:_ ... <b>AI</b> technology into their products without ensuring <b>fairness</b>, transparency, and accountability. “Nobody wants to fall behind in the <b>AI</b> arms race.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
