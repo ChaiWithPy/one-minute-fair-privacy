@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-06-07 One-Minute Post
+date: 2024-06-07 14:18:26 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Venice.ai prioritizes user privacy in AI systems. Adobe faces backlash over spyware-like terms of service update, raising concerns about privacy and data usage for AI training. DuckDuckGo integrates AI chatbots, promising private and anonymous interactions. Colorado passes the first statewide AI bias audit law, while the US Treasury highlights the potential for AI to establish or exacerbate bias. It's also significant to disclose whether AI tech was used in political campaigns, as gender bias in AI systems may reinforce stereotypes.
+
+## Articles we found interesting:
+
+- **1. How Venice.<b>ai</b> Differentiates Itself From ChatGPT Through <b>Privacy</b> | Video - CoinDesk** [link](https://www.coindesk.com/video/how-veniceai-differentiates-itself-from-chatgpt-through-privacy/)
+_Highlight:_ ... live at Consensus 2024 to discuss the significance of user <b>privacy</b>, non-censorship, and open-source models in <b>artificial intelligence</b> (<b>AI</b>) systems.
+
+- **2. Adobe Faces Backlash Over Spyware-Like Terms of Service Update - Spiceworks** [link](https://www.spiceworks.com/marketing/customer-data/news/adobe-faces-backlash-over-spyware-like-terms-of-service/)
+_Highlight:_ The update raises concerns about <b>privacy</b> and data usage for <b>AI</b> training. ... In both cases, the issues of user <b>privacy</b> in the <b>AI</b> era and the ethical&nbsp;...
+
+- **3. DuckDuckGo gives access to <b>AI</b> chatbots, pledging anonymity and <b>privacy</b> - ReadWrite** [link](https://readwrite.com/duckduckgo-ai-chatbots-anonymity-privacy/)
+_Highlight:_ DuckDuckGo integrates <b>AI</b> technology, promising private and anonymous interactions, without compromising user <b>privacy</b>.
+
+- **4. Colorado Passes First Statewide <b>AI Bias</b> Audit Law | DCI Consulting - JDSupra** [link](https://www.jdsupra.com/legalnews/colorado-passes-first-statewide-ai-bias-1142253/)
+_Highlight:_ On May 17, 2024, Colorado became the first US state to enact comprehensive legislation governing the development and use of <b>artificial</b>&nbsp;...
+
+- **5. US Treasury: <b>AI</b> brings huge opportunities, risks to financial stability - TradingView** [link](https://www.tradingview.com/news/cointelegraph:b0d1c6a21094b:0-us-treasury-ai-brings-huge-opportunities-risks-to-financial-stability/)
+_Highlight:_ She also mentioned the propensity for <b>AI</b> to establish or exacerbate <b>bias</b> due to the black box nature of many models. In related news, U.S.&nbsp;...
+
+- **6. Significant to disclose whether <b>AI</b> tech was used in political campaigns: Chair - CNA** [link](https://www.channelnewsasia.com/watch/significant-disclose-whether-ai-tech-was-used-political-campaigns-chair-4388811)
+_Highlight:_ Gender <b>bias</b> in <b>AI</b> systems may reinforce stereotypes: Analyst &middot; News Video Reports &middot; Gender <b>bias</b> in <b>AI</b> systems may reinforce stereotypes: Analyst. 43&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
