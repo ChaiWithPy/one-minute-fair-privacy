@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-08 One-Minute Post
+date: 2024-06-08 14:17:30 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple is focusing on privacy-first approach for AI. Microsoft turns off AI feature due to privacy concerns. AI tools may push disability bias in employment. Chinese cities use AI to ensure fairness in exams. UN and New York take steps to regulate AI for fairness.
+
+## Articles we found interesting:
+
+- **1. Apple needs to focus on making <b>AI</b> useful, not flashy - TechCrunch** [link](https://techcrunch.com/2024/06/08/apple-needs-to-focus-making-ai-useful-not-flashy/)
+_Highlight:_ Apple is likely to bolster its <b>privacy</b>-first approach, so it might not give Siri or <b>AI</b>-powered features free rein to take control of all apps.
+
+- **2. Prediction: This <b>Artificial Intelligence</b> (<b>AI</b>) Company Will Be Acquired by Next Year** [link](https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-company-213000833.html)
+_Highlight:_ Recommended Stories. Microsoft Turns Off Default &#39;Recall&#39; <b>AI</b> Feature Amid <b>Privacy</b> Backlash. The Information• 21h ago. Arm Holdings Takes Aim at Intel&nbsp;...
+
+- **3. Microsoft&#39;s controversial <b>AI</b> tool that takes screenshots on PCs will be turned off by default** [link](https://qz.com/microsoft-controversial-ai-tool-recall-off-by-default-1851526785)
+_Highlight:_ But after <b>privacy</b> and security concerns emerged, Microsoft said Friday that the feature will be off by default.
+
+- **4. Employment Authority: How <b>AI</b> Tools May Push Disability <b>Bias</b> - Law360** [link](https://www.law360.com/corporate/articles/1845473/employment-authority-how-ai-tools-may-push-disability-bias)
+_Highlight:_ Catch up this week with coverage on why worker advocates are concerned that hiring tools that use <b>artificial intelligence</b> are allowing disability <b>bias</b>&nbsp;...
+
+- **5. Microsoft explains how its DLSS competitor uses <b>AI</b> to improve any game - The Verge** [link](https://www.theverge.com/2024/6/7/24173474/microsoft-windows-auto-super-resolution-sr-dlss-gaming)
+_Highlight:_ “These approaches require games to alter their rendering, for example, by using jitter and MIP <b>bias</b> to add finer details. In contrast, Auto SR&nbsp;...
+
+- **6. Generative <b>AI</b> And Personalization At Scale: Crafting Customer Experiences - Forbes** [link](https://www.forbes.com/sites/forbesbusinesscouncil/2024/06/07/generative-ai-and-personalization-at-scale-crafting-customer-experiences/)
+_Highlight:_ ... <b>bias</b> and ensure broad representation in the <b>AI&#39;s</b> output. Perform regular updates and reviews of your content sources to prevent the <b>AI</b> from using&nbsp;...
+
+- **7. More Chinese cities use <b>AI</b> tech to inspect, monitor test violations during this year&#39;s gaokao** [link](https://www.globaltimes.cn/page/202406/1313802.shtml)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) technology to monitor exam violations for the first time, making every effort to ensure the <b>fairness</b> of the examination.
+
+- **8. The UN&#39;s <b>AI</b> Leadership - CircleID** [link](https://circleid.com/posts/20240607-the-uns-ai-leadership)
+_Highlight:_ Slow is Not <b>Fair</b>. First, “coordination” tends to regulation. The ITU can convoke treaty-making conferences and also knows how to use its coordinating&nbsp;...
+
+- **9. New York Leads the Way: First City to Regulate <b>AI</b> in Hiring - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/06/07/new-york-leads-the-way-first-city-to-regulate-ai-in-hiring/)
+_Highlight:_ – Increases <b>fairness</b> by attempting to control <b>AI</b> biases. – Improves transparency in hiring processes. – Empowers job applicants by giving them more&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
