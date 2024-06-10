@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-10 One-Minute Post
+date: 2024-06-10 14:07:12 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Microsoft makes Windows Recall 'opt-in' after privacy, security backlash. Apple is diving into AI with potential privacy concerns. Meta seeks to train AI model on European data amidst privacy concerns. Companies are considering financial limitations, data bias, and applicability of AI tools. California's proposed AI measures raise concerns about privacy and bias. Apple's WWDC may feature AI debut. ISACA provides audit and assurance guidance for NIST Cybersecurity Framework and AI fairness. KPMG report highlights the importance of transparency, accountability, and fairness in AI systems.
+
+## Articles we found interesting:
+
+- **1. Microsoft makes Windows Recall &#39;opt-in&#39; after <b>privacy</b>, security backlash - Computerworld** [link](https://www.computerworld.com/article/2140187/microsoft-makes-windows-recall-opt-in-after-privacy-security-backlash.html)
+_Highlight:_ Microsoft makes Windows Recall &#39;opt-in&#39; after <b>privacy</b>, security backlash. news. Jun 10, 20242 mins. Generative <b>AI</b>Microsoft&nbsp;...
+
+- **2. Apple is diving into <b>AI</b>. Here&#39;s what to expect at WWDC today - Washington Post** [link](https://www.washingtonpost.com/technology/2024/06/10/apple-wwdc-2024-updates-highlights-ios-ai/)
+_Highlight:_ And even though the company is generally proud to fly a pro-<b>privacy</b> flag, at least some of these features could require data to be ferried to remote&nbsp;...
+
+- **3. Facebook owner Meta seeks to train <b>AI</b> model on European data as it faces <b>privacy</b> concerns** [link](https://abcnews.go.com/Business/wireStory/facebook-owner-meta-seeks-train-ai-model-european-110989095)
+_Highlight:_ Meta said Monday it wants to use data from users in <b>privacy</b>-conscious Europe to train its <b>artificial intelligence</b> models.
+
+- **4. Opinion: GenAI Is Not a One-Size-Fits-All Solution for Regulatory Operations | BioSpace** [link](https://www.biospace.com/article/opinion-genai-is-not-a-one-size-fits-all-solution-for-regulatory-operations/)
+_Highlight:_ In some cases, companies may decide that financial limitations, risk of data <b>bias</b> or hallucinations and applicability of <b>AI</b> tools to their company&nbsp;...
+
+- **5. California&#39;s proposed <b>AI</b> measures will only add to a bloated bureaucracy - Orange County Register** [link](https://www.ocregister.com/2024/06/09/californias-proposed-ai-measures-will-only-add-to-a-bloated-bureaucracy/)
+_Highlight:_ <b>Artificial intelligence</b> has brought with it concerns about privacy, <b>bias</b>, nonconsensual pornography generation, and once we begin to integrate <b>AI</b> into&nbsp;...
+
+- **6. The Impact of <b>AI</b> on Representations of Medical Professionals - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/06/09/the-impact-of-ai-on-representations-of-medical-professionals/)
+_Highlight:_ – <b>Bias</b>: <b>AI</b> algorithms can inherit and even amplify biases present in their training data. This could lead to the reinforcement of stereotypes&nbsp;...
+
+- **7. AAPL: Apple Annual Developers Conference Kicks Off Today. Big <b>AI</b> Debut Coming?** [link](https://www.tradingview.com/news/tradingview:328fea6b1094b:0-aapl-apple-annual-developers-conference-kicks-off-today-big-ai-debut-coming/)
+_Highlight:_ ... <b>AI</b> bot that&#39;s been sweeping the technology world. In all <b>fairness</b>, Apple has been adding some <b>AI</b> features in its product suite, including the&nbsp;...
+
+- **8. New Resources from ISACA Provide Audit and Assurance Guidance for the NIST ... - CXOToday.com** [link](https://cxotoday.com/press-release/new-resources-from-isaca-provide-audit-and-assurance-guidance-for-the-nist-cybersecurity-framework-2-0-and-artificial-intelligence/)
+_Highlight:_ Additionally, it walks through the six dimensions of <b>AI</b> explainability—rationale, responsibility, data, <b>fairness</b>, safety, performance and impact—as&nbsp;...
+
+- **9. Divergence On <b>AI</b> One Of Biggest Risks To Growth For Organisations: KPMG Report** [link](https://www.ndtvprofit.com/amp/technology/divergence-on-ai-one-of-biggest-risks-to-growth-for-organisations-kpmg-report)
+_Highlight:_ Organisations should prioritise transparency, accountability and <b>fairness</b> in their <b>AI</b> systems to mitigate potential risks and ensure its responsible&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
