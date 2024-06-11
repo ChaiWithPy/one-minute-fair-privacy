@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-11 One-Minute Post
+date: 2024-06-11 14:22:03 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple's new "Apple Intelligence" integration raises privacy concerns. NVIDIA, IBM, and others face privacy obstacles in applying AI to boost utilities. Elon Musk criticizes Apple-OpenAI partnership as a privacy nightmare. Mitigating biases in generative AI is a focus, as well as addressing bias in job recruitment AI. Mortgage companies navigate fair lending rules with AI. Preparing for an AI-driven era in software development involves focusing on fairness metrics and addressing bias.
+
+## Articles we found interesting:
+
+- **1. Apple&#39;s <b>AI</b> Gamble: A Game-Changer or a Data <b>Privacy</b> Nightmare? | Investing.com** [link](https://www.investing.com/analysis/apples-ai-gamble-a-gamechanger-or-a-data-privacy-nightmare-200649131)
+_Highlight:_ Apple&#39;s new &quot;Apple Intelligence&quot; integration announced at WWDC 2024 marks its significant entry into the <b>AI</b> space. The company&#39;s partnership with&nbsp;...
+
+- **2. As NVIDIA, IBM and others apply <b>AI</b> to boost utilities, regulatory and data <b>privacy</b> obstacles abound** [link](https://www.utilitydive.com/news/nvidia-ibm-schneider-utilidata-ai-utility-regulation-grid-distribution/716538/)
+_Highlight:_ <b>AI Artificial Intelligence</b> and conversational chatbots businesses digital technology interact with applications, including customer service. Utilities&nbsp;...
+
+- **3. X Fact Checks Elon Musk After He Blasts Apple-OpenAI Partnership As &#39;Creepy&#39; <b>Privacy</b> Nightmare** [link](https://www.forbes.com/sites/roberthart/2024/06/11/x-fact-checks-elon-musk-after-he-blasts-apple-openai-partnership-as-creepy-privacy-nightmare/)
+_Highlight:_ ... <b>AI</b>,” would be capable of ensuring OpenAI protected the security and <b>privacy</b> of its devices, adding that the tech giant “has no clue what&#39;s&nbsp;...
+
+- **4. Latent Directions: A Simple Pathway to <b>Bias</b> Mitigation in Generative <b>AI</b> - arXiv** [link](https://arxiv.org/html/2406.06352v1)
+_Highlight:_ Mitigating <b>biases</b> in generative <b>AI</b> and, particularly in text-to-image ... Chuang et al. [7] propose a method to mitigate <b>bias</b> by maximizing the&nbsp;...
+
+- **5. What will a robot make of your résumé? The <b>bias</b> problem with using <b>AI</b> in job recruitment** [link](https://phys.org/news/2024-06-robot-rsum-bias-problem-ai.html)
+_Highlight:_ But the very nature of <b>AI</b>—and the data behind its processes and outputs—mean human <b>biases</b> are being embedded in the technology. Our research looked at&nbsp;...
+
+- **6. The data practitioner for the <b>AI</b> era | MIT Technology Review** [link](https://www.technologyreview.com/2024/06/10/1093132/the-data-practitioner-for-the-ai-era/)
+_Highlight:_ The key considerations for generative <b>AI</b> deployment—producing high-quality results, preventing <b>bias</b> and hallucinations, establishing governance&nbsp;...
+
+- **7. How to navigate the convergence of <b>AI</b>, <b>fair</b> lending rules | National Mortgage News** [link](https://www.nationalmortgagenews.com/news/how-to-navigate-the-convergence-of-ai-fair-lending-rules)
+_Highlight:_ As mortgage companies turn to <b>artificial intelligence</b> for some tasks, they&#39;re under pressure to comply both with <b>fair</b> lending laws and emerging&nbsp;...
+
+- **8. Biden declares war on innovation - Washington Examiner** [link](https://www.washingtonexaminer.com/restoring-america/fairness-justice/3033832/biden-declares-war-on-innovation/)
+_Highlight:_ <b>Fairness</b> &middot; Mission &middot; Logo Washington Examiner &middot; Logo ... <b>Fairness</b> &middot; Mission. Biden declares war on ... <b>AI</b> has the potential to increase the economic&nbsp;...
+
+- **9. Preparing for a new <b>AI</b>-driven era in software development - IT Brief Australia** [link](https://itbrief.com.au/story/preparing-for-a-new-ai-driven-era-in-software-development)
+_Highlight:_ To counteract pervasive bias, developers must focus on diversifying their training datasets, incorporating <b>fairness</b> metrics, and deploying bias-&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
