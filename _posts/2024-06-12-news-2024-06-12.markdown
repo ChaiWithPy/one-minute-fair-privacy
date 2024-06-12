@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-06-12 One-Minute Post
+date: 2024-06-12 14:15:43 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple is allowing users to opt out of ChatGPT integration to address privacy concerns. Elon Musk criticizes Apple's AI feature, raising privacy concerns. The VB AI Impact Tour discusses auditing for security bias and ethical standards in the age of AI. The Fifth Circuit won't adopt an AI rule after attorney pushback. Grant Writing with AI event focuses on mitigating bias when using AI for proposals.
+
+## Articles we found interesting:
+
+- **1. Apple &#39;Brilliant&#39; for Letting Users Opt Out of ChatGPT Integration: Analyst - Business Insider** [link](https://www.businessinsider.com/apple-openai-chatgpt-integration-privacy-opt-out-safety-concerns-2024-6)
+_Highlight:_ Apple will let users opt out of its coming ChatGPT integration in a move that could calm people&#39;s mounting <b>privacy</b> concerns, <b>AI</b> analyst says.
+
+- **2. Apple Intelligence Preview** [link](https://www.apple.com/apple-intelligence/)
+_Highlight:_ Draws on your personal context while setting a brand-new standard for <b>privacy</b> in <b>AI</b>.
+
+- **3. Is Apple&#39;s new <b>AI</b> feature a <b>privacy</b> concern? as claimed by Musk - Deccan Chronicle** [link](https://www.deccanchronicle.com/technology/is-apples-new-ai-feature-a-privacy-concern-as-claimed-by-musk-898553)
+_Highlight:_ Hyderabad: Soon after Apple&#39;s announcement of incorporating <b>artificial intelligence</b> in its devices, billionaire Elon Musk was quick in criticizing&nbsp;...
+
+- **4. The VB <b>AI</b> Impact Tour: How long will humans stay in the auditing loop? | VentureBeat** [link](https://venturebeat.com/ai/the-vb-ai-impact-tour-how-long-will-humans-stay-in-the-auditing-loop/)
+_Highlight:_ The latest <b>AI</b> Impact Tour tackles how auditing for security <b>bias</b>, performance and ethical standards has changed in the age of gen <b>AI</b>.
+
+- **5. Fifth Circuit Won&#39;t Adopt <b>AI</b> Rule After Attorney Pushback - Bloomberg Law News** [link](https://news.bloomberglaw.com/us-law-week/fifth-circuit-wont-adopt-ai-rule-after-attorney-pushback)
+_Highlight:_ “Maybe if we all generally know about <b>AI</b> and <b>bias</b> and hallucination, and know what we should use it for and what we shouldn&#39;t, then I&#39;ll peel my&nbsp;...
+
+- **6. Grant Writing with <b>AI</b> - NowKalamazoo** [link](https://nowkalamazoo.org/event/grant-writing-with-ai/)
+_Highlight:_ – Learn best practices for collaborating with <b>AI</b> for proposals – Gain skills in mitigating risks like <b>bias</b> when using <b>AI</b> – Increase efficiency and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
