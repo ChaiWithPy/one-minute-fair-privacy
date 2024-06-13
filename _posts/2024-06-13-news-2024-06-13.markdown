@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-13 One-Minute Post
+date: 2024-06-13 14:04:20 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Tim Cook discusses Apple's AI philosophy and emphasis on privacy. Elon Musk's X platform hides user likes for privacy reasons. OpenAI's ChatGPT raises privacy concerns. FTC official speaks about regulating AI bias. Daniel Hulme advocates for less biased AI. Government shifts procurement to require AI fairness and safety standards. English PhDs contribute to training Google's AI bot with a focus on fairness. Compliance Tip of the Day podcast offers advice on keeping AI-powered decisions fair and unbiased.
+
+## Articles we found interesting:
+
+- **1. &#39;Generative <b>AI</b> was never off the table&#39;: Tim Cook gets candid on <b>AI</b> and <b>privacy</b> | Laptop Mag** [link](https://www.laptopmag.com/phones/iphone/generative-ai-was-never-off-the-table-tim-cook-gets-candid-ai-and-privacy)
+_Highlight:_ Tim Cook unpacked Apple&#39;s <b>AI</b> philosophy and emphasis on <b>privacy</b> in an interview with MKBHD. Here&#39;s what it means for users and Apple Intelligence.
+
+- **2. Elon Musk&#39;s X platform is hiding which posts you &#39;like&#39; citing <b>privacy</b> reasons | Euronews** [link](https://www.euronews.com/next/2024/06/13/elon-musks-x-platform-is-hiding-which-posts-you-like-citing-privacy-reasons)
+_Highlight:_ Meet Spain&#39;s first <b>AI</b> model who earns up to €10,000 a month &middot; Apple unveils new <b>artificial intelligence</b> features and OpenAI deal &middot; European users&nbsp;...
+
+- **3. <b>AI</b> for communicators: What&#39;s new and what&#39;s next - Ragan Communications** [link](https://www.ragan.com/ai-for-communicators-whats-new-and-whats-next-7/)
+_Highlight:_ When Siri doesn&#39;t know an answer, she&#39;ll turn to a partnership with OpenAI&#39;s ChatGPT. <b>Privacy</b>, both from OpenAI and Apple, was a major concern. OpenAI&nbsp;...
+
+- **4. Podcast - Part 2: An FTC Official Speaks About the Regulation of <b>AI</b> Technology** [link](https://www.jdsupra.com/legalnews/part-2-an-ftc-official-speaks-about-the-73608/)
+_Highlight:_ ... <b>bias</b> and discrimination in <b>AI</b> technology. Mr. DiResta explains that companies may face liability for <b>AI</b> vendors and contractors, so See more +. In&nbsp;...
+
+- **5. Daniel Hulme: &#39;We will all end up having digital twins&#39; - People Management** [link](https://www.peoplemanagement.co.uk/article/1876722/daniel-hulme-we-will-end-having-digital-twins)
+_Highlight:_ “We can build <b>AI</b> to represent every corner of society… we can use it to ensure we build a less <b>biased</b> experience,” he said. Related Articles&nbsp;...
+
+- **6. <b>AI</b> Marketers: The New Mad Men? - PYMNTS.com** [link](https://www.pymnts.com/artificial-intelligence-2/2024/ai-marketers-the-new-mad-men/)
+_Highlight:_ West also highlights the challenges associated with relying on AI-driven tools, such as data privacy concerns and algorithmic <b>bias</b>: “<b>AI</b> operates&nbsp;...
+
+- **7. Government&#39;s <b>AI</b> Plans Come into Focus with DHS, OMB Roadmaps | FedTech Magazine** [link](https://fedtechmagazine.com/article/2024/06/governments-ai-plans-come-focus-dhs-omb-roadmaps)
+_Highlight:_ “The documents indicate a shift in procurement, setting principles requiring <b>AI</b> technologies to meet standards of <b>fairness</b> and safety.” DHS&#39; <b>AI</b>&nbsp;...
+
+- **8. These English PhDs helped train Google&#39;s <b>AI</b> bot. Here&#39;s what they think about it now.** [link](https://www.csmonitor.com/The-Culture/2024/0612/ai-google-gemini-english-coding-language)
+_Highlight:_ In her new field, Dr. Harbin would just have one pupil: <b>artificial intelligence</b>. Why We Wrote This. A story focused on. <b>Fairness</b>. If English is the&nbsp;...
+
+- **9. Compliance Tip of the Day: Keeping Your <b>AI</b> – Powered Decisions <b>Fair</b> and Unbiased** [link](https://www.jdsupra.com/legalnews/compliance-tip-of-the-day-keeping-your-31043/)
+_Highlight:_ Welcome to “Compliance Tip of the Day,” the podcast where we bring you daily insights and practical advice on navigating the ever-evolving&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
