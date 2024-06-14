@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-14 One-Minute Post
+date: 2024-06-14 13:59:21 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Microsoft delays controversial AI Recall feature on new Windows computers, while Apple's AI Cloud System makes big privacy promises. McMaster University study warns AI could reinforce bias, and Stevens Institute of Technology proposes improved methods to ensure AI fairness. Meanwhile, Amnah Ajmal of Mastercard emphasizes ethical AI development for societal inclusion and sustainable progress.
+
+## Articles we found interesting:
+
+- **1. Microsoft delays controversial <b>AI</b> Recall feature on new Windows computers - ABC News** [link](https://abcnews.go.com/Business/wireStory/microsoft-delays-controversial-ai-recall-feature-new-windows-111129488)
+_Highlight:_ ... <b>AI</b> technology that can compose documents, make images and serve as a lifelike personal assistant at work or home. The new <b>AI</b> ... <b>Privacy</b> Rights section,&nbsp;...
+
+- **2. Apple insists its ChatGPT tie-up will protect users&#39; <b>privacy</b>: here are the questions it must answer first** [link](https://theconversation.com/apple-insists-its-chatgpt-tie-up-will-protect-users-privacy-here-are-the-questions-it-must-answer-first-232498)
+_Highlight:_ Apple, a company known for its longstanding commitment to user <b>privacy</b>, has received flak since unveiling its <b>artificial intelligence</b> (<b>AI</b>)&nbsp;...
+
+- **3. Apple&#39;s <b>AI</b> Cloud System Makes Big <b>Privacy</b> Promises, but Can It Keep Them? - Gizmodo** [link](https://gizmodo.com/apple-intelligence-ai-privacy-security-private-cloud-1851536375)
+_Highlight:_ For one thing, the <b>AI</b> system relies on a huge amount of iPhone users&#39; data, presenting potential <b>privacy</b> risks. At the same time, the <b>AI</b> system&#39;s&nbsp;...
+
+- **4. McMaster University study warns <b>AI</b> could reinforce <b>bias</b> - The Hamilton Spectator** [link](https://www.thespec.com/news/hamilton-region/mcmaster-researcher-warns-ai-could-discriminate-against-people-with-disabilities-instead-of-help-them/article_25ac7a10-875b-5633-92ce-fcd7ea8bd11c.html)
+_Highlight:_ Study being presented at the Congress of the Humanities and Social Sciences shows the need for a shift in how <b>AI</b> models are trained so <b>bias</b> is not&nbsp;...
+
+- **5. Why the Current Approach for <b>AI</b> Is Excessively Dangerous - Datanami** [link](https://www.datanami.com/2024/06/13/why-the-current-approach-for-ai-is-excessively-dangerous/)
+_Highlight:_ Applications: <b>Artificial Intelligence</b>. Tags: <b>AI</b>, Argumentative Theory, confirmation <b>bias</b>, Rob Enderle. Comments are closed. This Just In; Most Read&nbsp;...
+
+- **6. Euroviews. <b>AI</b> could be your ideal work colleague - Euronews.com** [link](https://www.euronews.com/next/2024/06/13/ai-could-be-your-ideal-work-colleague)
+_Highlight:_ Integrating robotics into team environments can reduce the <b>biased</b> responses to objective performance feedback that we&#39;ve shown to be present in human-&nbsp;...
+
+- **7. Stevens Institute of Technology Study Proposes Improved Methods to Ensure <b>AI Fairness</b>** [link](https://indiaeducationdiary.in/stevens-institute-of-technology-study-proposes-improved-methods-to-ensure-ai-fairness/)
+_Highlight:_ ... <b>AI fairness</b>, which look at approval rates across protected groups. “In assessing <b>fairness</b>, the <b>AI</b> community tries to ensure equitable treatment&nbsp;...
+
+- **8. Key takeaways from Amnah Ajmal, Executive VP of Market Development, Mastercard at ...** [link](https://www.edgemiddleeast.com/event/10-takeaways-from-amnah-ajmal-executive-vp-of-market-development-mastercard-at-digital-future-forum-2024)
+_Highlight:_ Discover how ethical <b>AI</b> development can drive job creation, societal inclusion, and sustainable progress while emphasising transparency, <b>fairness</b>,&nbsp;...
+
+- **9. Will <b>Artificial Intelligence</b> (like <b>AI</b> Chatbots) Get Me “Canceled”, Blocked, Fined or Jailed?** [link](https://www.housingwire.com/articles/responsible-ai-in-real-estate-will-artificial-intelligence-like-ai-chatbots-get-me-canceled-blocked-fined-or-jailed/)
+_Highlight:_ As generative <b>AI</b> becomes our personal assistant, it&#39;s crucial to ensure these tools uphold <b>fair</b> housing laws to avoid legal pitfalls and promote&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
