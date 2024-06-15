@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-15 One-Minute Post
+date: 2024-06-15 14:07:15 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta pauses AI plans in Europe due to privacy complaints. Microsoft delays Recall AI tool launch amid privacy concerns. IFJ emphasizes responsible reporting in AI media practices. Research shows global attitudes correlate with language, reflecting biases in AI models. Route Fifty warns about AI reinforcing latent biases. Compliance Week discusses selecting fairness metrics for AI monitoring. Synthetic data generation evolves for fairness and robustness. Elblog.pl explores mitigating bias in AI algorithms for inclusivity and fairness.
+
+## Articles we found interesting:
+
+- **1. Meta pauses <b>AI</b> plans in Europe after <b>privacy</b> complaints - Tech Xplore** [link](https://techxplore.com/news/2024-06-meta-ai-europe-privacy-complaints.html)
+_Highlight:_ Meta has paused plans to use personal data to train its <b>artificial intelligence</b> technology in Europe, Ireland&#39;s regulator said Friday, after the&nbsp;...
+
+- **2. Meta pauses plans to train <b>AI</b> using European users&#39; data, bowing to regulatory pressure** [link](https://techcrunch.com/2024/06/14/meta-pauses-plans-to-train-ai-using-european-users-data-bowing-to-regulatory-pressure/)
+_Highlight:_ But the plans spurred not-for-profit <b>privacy</b> activist organization NOYB (“none of your business”) to file 11 complaints with constituent EU countries,&nbsp;...
+
+- **3. Microsoft delays launch of Recall <b>AI</b> amid <b>privacy</b> concerns - The Crypto Times** [link](https://www.cryptotimes.io/2024/06/15/microsoft-delays-recall-ai-tool-to-preview-amid-privacy-concerns/)
+_Highlight:_ Microsoft transitions <b>AI</b> tool Recall to Windows Insiders Program amid <b>privacy</b> and security concerns, altering Copilot+ PC release plans.
+
+- **4. <b>AI</b>: “Media working practices must be consistent with responsible reporting” says IFJ** [link](https://www.ifj.org/media-centre/news/detail/category/press-releases/article/ai-media-working-practices-must-be-consistent-with-responsible-reporting-says-ifj)
+_Highlight:_ Discussions on 12 June addressed <b>AI</b> in media literacy, <b>AI</b> social use, political manipulation and <b>bias</b> and journalism. IFJ&#39;s panel on <b>AI</b> and&nbsp;...
+
+- **5. The Truth Behind Our Words: <b>Bias</b> in Cultures Across History - SciTechDaily** [link](https://scitechdaily.com/the-truth-behind-our-words-bias-in-cultures-across-history/)
+_Highlight:_ Researchers found that global attitudes correlate with language, revealing that implicit <b>biases</b> are often mirrored in <b>AI</b> models like ChatGPT.
+
+- **6. No shortcuts: Only well-managed <b>AI</b> will deliver on its promise - Route Fifty** [link](https://www.route-fifty.com/digital-government/2024/06/no-shortcuts-only-well-managed-ai-will-deliver-its-promise/397391/)
+_Highlight:_ But like any powerful tool, Gen AI should be used judiciously: Watch for <b>bias</b>. <b>AI</b> trained on data that has some latent bias can reinforce that bias.
+
+- **7. <b>AI</b> in Compliance Week: Part 5- Continuous Monitoring of <b>AI</b> | Thomas Fox - JD Supra** [link](https://www.jdsupra.com/legalnews/ai-in-compliance-week-part-5-continuous-1970835/)
+_Highlight:_ How have you determined your key performance indicators (KPIs) and interpretation? Selecting the appropriate <b>fairness</b> metrics to track and interpret&nbsp;...
+
+- **8. How Synthetic Data Generation is evolving part4(Generative <b>AI</b>) - Monodeep Mukherjee** [link](https://medium.com/%40monocosmo77/how-synthetic-data-generation-is-evolving-part4-generative-ai-6982df543477)
+_Highlight:_ ... <b>fairness</b> and are more robust to ``leveling down&#39;&#39; when compared to methods optimizing traditional group <b>fairness</b> metrics. Sign up to discover human&nbsp;...
+
+- **9. The Impact of <b>Artificial Intelligence</b> on Society - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/06/14/the-impact-of-artificial-intelligence-on-society/)
+_Highlight:_ How can bias and discrimination in <b>AI</b> algorithms be mitigated to ensure <b>fairness</b> and inclusivity? Advantages: – Increased efficiency and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
