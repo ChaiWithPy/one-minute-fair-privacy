@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2024-06-16 One-Minute Post
+date: 2024-06-16 13:47:15 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta faces backlash over privacy concerns in Europe, halting AI model launch. Apple emphasizes privacy-first AI features. Kenya survey shows bias against AI law clerks. Ethical considerations highlight AI's susceptibility to bias. Revolutionizing politics with AI raises questions about fairness safeguards.
+
+## Articles we found interesting:
+
+- **1. Meta Halts Launch Of <b>AI</b> Models In Europe Due To Irish <b>Privacy</b> Regulator&#39;s Directive** [link](https://news.abplive.com/technology/meta-halts-launch-of-ai-models-in-europe-due-to-irish-privacy-regulator-s-directive-llm-idpc-1696073)
+_Highlight:_ The controversy centres around Meta&#39;s intention to use personal data to train its <b>artificial intelligence</b> (<b>AI</b>) models without obtaining user consent,&nbsp;...
+
+- **2. Facebook, Instagram are using your data – and you can&#39;t opt out - The Sydney Morning Herald** [link](https://www.smh.com.au/technology/facebook-instagram-are-using-your-data-and-you-can-t-opt-out-20240613-p5jlhc.html)
+_Highlight:_ Changes to Meta&#39;s <b>privacy</b> policy will come into effect on June 26, giving the company the use of years of users&#39; posts and photos to train its <b>AI</b>&nbsp;...
+
+- **3. Watch Apple BRUTALLY roast Microsoft&#39;s spectacular Windows Recall <b>AI</b> failure** [link](https://sg.news.yahoo.com/watch-apple-brutally-roast-microsofts-185420250.html)
+_Highlight:_ Apple announced its own <b>AI</b> features at its WWDC event, with a &quot;<b>privacy</b> first&quot; narrative at the forefront. In a recent interview, Apple openly&nbsp;...
+
+- **4. Kenya Survey: &quot;<b>AI</b> Clerk&#39;s Influence on Legal Outcomes Is Seen as No Less Legitimate ...** [link](https://reason.com/volokh/2024/06/15/kenya-survey-ai-clerks-influence-on-legal-outcomes-is-seen-as-no-less-legitimate-than-human-clerks/)
+_Highlight:_ With the exception of a small <b>bias</b> against <b>AI</b> law clerks in one ... <b>biased</b> against the litigant&#39;s race, sex, or religion. The <b>AI</b> judge would be&nbsp;...
+
+- **5. <b>Artificial Intelligence</b>: Opportunities and Risks - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/06/15/artificial-intelligence-opportunities-and-risks/)
+_Highlight:_ – <b>Bias</b>: <b>AI</b> systems can inherit biases from the data used to train them, leading to discriminatory outcomes. – Job displacement: The automation&nbsp;...
+
+- **6. Ethical Considerations in the Use of <b>Artificial Intelligence</b> and Machine Learning in Health ...** [link](https://www.cureus.com/articles/259236-ethical-considerations-in-the-use-of-artificial-intelligence-and-machine-learning-in-health-care-a-comprehensive-review%3Fscore_article%3Dtrue)
+_Highlight:_ <b>AI</b> and ML algorithms are susceptible to <b>bias</b>, which can manifest in various forms, including racial, sex, and socioeconomic <b>biases</b>. <b>Biases</b> may stem&nbsp;...
+
+- **7. Revolutionizing Politics with <b>AI</b> Innovations - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/06/15/revolutionizing-politics-with-ai-innovations/)
+_Highlight:_ ... <b>fairness</b> in decision-making processes? 2. What safeguards need to be in place to prevent the misuse of <b>AI</b> technology for political gain or&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
