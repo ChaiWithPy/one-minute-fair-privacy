@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-06-17 One-Minute Post
+date: 2024-06-17 13:54:15 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The EU is set to enhance AI privacy laws, while organizations are urged to address AI privacy concerns in healthcare. Meanwhile, the industry is exploring the future of AI regulation and the potential risks of bias in AI systems. It's crucial to navigate the ethical and legal risks of AI implementation, especially in the context of privacy, ethics, and security.
+
+## Articles we found interesting:
+
+- **1. Navigating the ethical and legal risks of <b>AI</b> implementation - CIO** [link](https://www.cio.com/article/2149672/navigating-the-ethical-and-legal-risks-of-ai-implementation.html)
+_Highlight:_ In Europe, the EU <b>Artificial Intelligence</b> Act is poised to build on the already comprehensive data <b>privacy</b> legislation set forth in the GDPR. The EU&nbsp;...
+
+- **2. Beyond the Hype: Intelligent CX with Business <b>AI</b> Is Here - SAP News Center** [link](https://news.sap.com/2024/06/beyond-the-hype-intelligent-cx-with-business-ai/)
+_Highlight:_ ... <b>privacy</b>, <b>AI</b> ethics, and security. We create a comprehensive and ethical ... AI journey today with meaningful generative AI capabilities infused across&nbsp;...
+
+- **3. Getting a Firmer Grip on <b>AI Privacy</b> Concerns in Healthcare - GovInfoSecurity** [link](https://www.govinfosecurity.com/interviews/getting-firmer-grip-on-ai-privacy-concerns-in-healthcare-i-5395)
+_Highlight:_ <b>Artificial intelligence</b> technologies offer tremendous promise in healthcare, but it&#39;s crucial for organizations to carefully assess the complex&nbsp;...
+
+- **4. <b>AI</b> is not a magic wand – it has built-in problems that are difficult to fix and can be dangerous** [link](https://theconversation.com/ai-is-not-a-magic-wand-it-has-built-in-problems-that-are-difficult-to-fix-and-can-be-dangerous-230878)
+_Highlight:_ With any <b>AI</b> system, we should match our expectations to its abilities – which have many potential limits.
+
+- **5. Exploring the Future of <b>Artificial Intelligence</b> Regulation - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/06/16/exploring-the-future-of-artificial-intelligence-regulation/)
+_Highlight:_ Looking ahead, the integration of <b>AI</b> regulations into business strategies will be pivotal for both regulatory compliance and market relevance. As the&nbsp;...
+
+- **6. Where the <b>AI</b> Risks Are: Swiss Re&#39;s Top 10 Ranking by Industry - Insurance Journal** [link](https://www.insurancejournal.com/magazines/mag-features/2024/06/17/779355.htm)
+_Highlight:_ By Susanne Sclafane. The insurance industry came in sixth in a ranking of 10 major industries based on current <b>AI</b> risk, and seventh based on&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
