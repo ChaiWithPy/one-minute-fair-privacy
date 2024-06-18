@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-18 One-Minute Post
+date: 2024-06-18 13:54:56 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple's OpenAI partnership threatens online privacy and data security. Hong Kong Privacy Commissioner releases First AI-focused Personal Data Protection guidelines. Microsoft's Recall AI feature sparks privacy and security concerns. Colorado implements first-in-the-nation law to address bias in AI systems. SUNY intern research programs focus on using AI in a positive way, while addressing human bias. Recommendations for Housing Regulators to take further action on AI to address fairness and discrimination. Pregnant Workers Fairness Act provides strong protections. Scarlett Johansson's case highlights gender bias in AI technology, emphasizing the need for AI ethics reform.
+
+## Articles we found interesting:
+
+- **1. Apple&#39;s OpenAI partnership threatens online <b>privacy</b> and data security. Here&#39;s what we can do.** [link](https://www.morningstar.com/news/marketwatch/20240618156/apples-openai-partnership-threatens-online-privacy-and-data-security-heres-what-we-can-do)
+_Highlight:_ By Jurica Dujmovic. Apple and other tech giants must be pushed to adopt more secure and ethical <b>AI</b> practices. Apple must reaffirm its commitment&nbsp;...
+
+- **2. Hong Kong <b>Privacy</b> Commissioner releases First <b>AI</b>-focused Personal Data Protection ...** [link](https://www.jdsupra.com/legalnews/hong-kong-privacy-commissioner-releases-7633649/)
+_Highlight:_ As <b>Artificial Intelligence</b> (<b>AI</b>) continues to evolve and integrates into business processes, the Office of the <b>Privacy</b> Commissioner for Personal&nbsp;...
+
+- **3. Could Microsoft&#39;s creepy &#39;Recall&#39; <b>AI</b> feature become potent spy tool for crooks? | Fox News** [link](https://www.foxnews.com/tech/could-microsofts-creepy-recall-ai-feature-become-potent-spy-tool-crooks)
+_Highlight:_ New Microsoft <b>AI</b> tool sparks <b>privacy</b> and security concerns. Tech expert Kurt “CyberGuy&quot; Knutsson has the details.
+
+- **4. Colorado has a first-in-the-nation law for <b>AI</b> — but what will it do?** [link](https://www.cpr.org/2024/06/17/colorado-artificial-intelligence-law-implementation-ramifications/)
+_Highlight:_ ... <b>bias</b> or discrimination embedded in <b>AI</b> systems, and to set guardrails to make sure the technology is used ethically as companies continue to&nbsp;...
+
+- **5. Congress Should Preempt State <b>AI</b> Safety Legislation - Lawfare** [link](https://www.lawfaremedia.org/article/congress-should-preempt-state-ai-safety-legislation)
+_Highlight:_ As Congress debates how to regulate <b>artificial intelligence</b> (<b>AI</b>)—or ... <b>bias</b> if they want to use <b>AI</b> for commerce in the state. A similar bill&nbsp;...
+
+- **6. <b>AI</b> a new focus of SUNY intern research programs - Spectrum News** [link](https://spectrumlocalnews.com/nys/buffalo/politics/2024/06/17/a-i--a-new-focus-of-suny-intern-research-programs)
+_Highlight:_ Students said they will focus on using <b>AI</b> in a positive way, but because the tool is trained by humans, it will mimic human error and <b>bias</b>, which must&nbsp;...
+
+- **7. Fact Sheet: Recommendations for Housing Regulators To Take Further Action on <b>AI</b>** [link](https://www.americanprogress.org/article/fact-sheet-recommendations-for-housing-regulators-to-take-further-action-on-ai/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) risks to housing <b>fairness</b> and discrimination using existing statutory authorities in the <b>Fair</b> Housing Act (FHA) and&nbsp;...
+
+- **8. Pregnant workers who need time off finally have strong protections - Fast Company** [link](https://www.fastcompany.com/91142216/pregnant-workers-who-need-time-off-finally-have-strong-protections)
+_Highlight:_ Starting today, employers will have to abide by the final guidance on how the EEOC will enforce the Pregnant Workers <b>Fairness</b> Act ... Work Life<b>AI</b> is&nbsp;...
+
+- **9. <b>AI</b> ethics on trial: Scarlett Johansson&#39;s case and the gender bias in Technology** [link](https://elitebusinessmagazine.co.uk/analysis/item/ai-ethics-on-trial-scarlett-johanssons-case-and-the-gender-bias-in-technology)
+_Highlight:_ ... <b>fairness</b>. Conclusion: Reforming <b>AI</b> for an ethical future. The rapid advancement of <b>AI</b> technology is inevitable, but the direction it takes is not&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
