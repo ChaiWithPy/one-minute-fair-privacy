@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-20 One-Minute Post
+date: 2024-06-20 13:43:18 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Privacy is at the forefront with AI and cyberattacks. TSA's facial recognition program aims to protect privacy. New Jersey provides resources for AI in schools, emphasizing privacy. Concerns arise over AI chatbots spreading misinformation. Banks must address bias in large language models. Responsible AI governance is crucial for fairness. The platform approach transforms work with a focus on fairness. Advanced AI evaluates casinos for fairness and safety.
+
+## Articles we found interesting:
+
+- **1. <b>Privacy</b> By Design And Its Impact On Security And GRC - Forbes** [link](https://www.forbes.com/sites/forbestechcouncil/2024/06/20/privacy-by-design-and-its-impact-on-security-and-grc/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>), cyberattacks and tightening regulatory controls have placed <b>privacy</b> at the forefront of our collective consciousness.
+
+- **2. How the TSA&#39;s facial recognition program could protect <b>privacy</b> - Fast Company** [link](https://www.fastcompany.com/91142081/the-tsas-facial-recognition-program-could-protect-privacy-rights-heres-how)
+_Highlight:_ And as <b>AI</b> cloning technology improves, and consumers increasingly use their faces as passwords, safeguarding the <b>privacy</b> and security of biometric&nbsp;...
+
+- **3. New Jersey unveils resources for educators using <b>AI</b> in schools as state aims to pioneer innovations** [link](https://www.chalkbeat.org/newark/2024/06/20/department-of-education-artificial-intelligence-resources-to-help-educators-schools/)
+_Highlight:_ But as the technology gains popularity, education experts continue to note that safety and <b>privacy</b> concerns should remain a top priority as <b>AI</b> expands&nbsp;...
+
+- **4. ChatGPT, other <b>AI</b> chatbots caught &#39;spreading Russian misinformation&#39;** [link](https://interestingengineering.com/culture/ai-chatbots-russian-misinformation)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) models like OpenAI&#39;s ChatGPT are inadvertently ... Concerns over the potential harms of <b>AI</b>, including <b>bias</b> and&nbsp;...
+
+- **5. Banks must address <b>bias</b> in large language models | American Banker** [link](https://www.americanbanker.com/opinion/banks-must-address-bias-in-large-language-models)
+_Highlight:_ In the rapidly evolving landscape of <b>artificial intelligence</b> for banking, the past 18 months have produced a fascinating evolution in the technology,&nbsp;...
+
+- **6. Building responsible <b>AI</b> - Opinion News | The Financial Express** [link](https://www.financialexpress.com/opinion/building-responsible-ai/3529445/)
+_Highlight:_ <b>Artificial Intelligence</b>, <b>ai</b>, <b>Artificial Intelligence</b> pros, <b>Artificial Intelligence</b> cons, chatgpt, gemini. Such <b>AI bias</b> assessment frameworks need&nbsp;...
+
+- **7. <b>AI</b> governance gap, top risk threatening business growth - FutureCIO** [link](https://futurecio.tech/ai-governance-gap-top-risk-threatening-business-growth/)
+_Highlight:_ “Organisations should prioritise transparency, accountability, and <b>fairness</b> in their <b>AI</b> systems to mitigate potential risks and ensure its responsible&nbsp;...
+
+- **8. The Platform Approach: Transforming the Future of Work and Human Potential with <b>AI</b>** [link](https://cxotoday.com/cxo-bytes/the-platform-approach-transforming-the-future-of-work-and-human-potential-with-ai/)
+_Highlight:_ The rise of <b>artificial intelligence</b> (<b>AI</b>) and <b>AI</b> ... Developing and deploying <b>AI</b> ethically, focusing on <b>fairness</b>, transparency, and accountability, is&nbsp;...
+
+- **9. Innovate Change: Discovering the Best Casinos Through Advanced <b>AI</b>-Powered Evaluations** [link](https://ciolook.com/innovate-change-discovering-the-best-casinos-through-advanced-ai-powered-evaluations/)
+_Highlight:_ We&#39;ll uncover the pivotal role <b>AI</b> plays in distinguishing the best casinos, ensuring that players have access to safe, <b>fair</b>, and enjoyable gaming&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
