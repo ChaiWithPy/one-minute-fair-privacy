@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-21 One-Minute Post
+date: 2024-06-21 13:40:34 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AG Ferguson announces Artificial Intelligence Task Force members in Washington State, focusing on privacy concerns. Meanwhile, Forbes highlights the importance of combating biased AI-generated outputs. Wikipedia's conservative bias is found to affect AI models. On the other hand, CIO News emphasizes the ongoing challenge of addressing bias and ensuring fairness in AI systems. The Nation stresses the need for transparency and inclusivity in AI development. Overall, the focus is on addressing privacy concerns, combating biased AI outputs, and ensuring fairness and inclusivity in AI systems.
+
+## Articles we found interesting:
+
+- **1. AG Ferguson announces <b>Artificial Intelligence</b> Task Force members | Washington State** [link](https://www.atg.wa.gov/news/news-releases/ag-ferguson-announces-artificial-intelligence-task-force-members)
+_Highlight:_ Katy Ruckle — State Chief <b>Privacy</b> Officer, Washington Technology Solutions; Dr. Magdalena Balazinska — Director, Paul G. Allen School of Computer&nbsp;...
+
+- **2. The Race Towards Ethical <b>AI</b>: A Call for Responsible Innovation - <b>AI</b> Business** [link](https://aibusiness.com/responsible-ai/the-race-towards-ethical-ai-a-call-for-responsible-innovation)
+_Highlight:_ ... <b>privacy</b> concerns with 22% of executives citing data <b>privacy</b> as their top generative <b>AI</b> ethical concern. Accountability for <b>AI</b> decisions remains a&nbsp;...
+
+- **3. Fremont Bank at FinovateSpring 2024 – Harnessing <b>AI</b> to augment a bank&#39;s customer experience** [link](https://www.fintechfutures.com/2024/06/fremont-bank-at-finovatespring-2024-harnessing-ai-to-augment-a-banks-customer-experience/)
+_Highlight:_ How to leverage <b>AI</b> to enhance the customer experience. How to address some of the main security and <b>privacy</b> concerns revolving the use of <b>AI</b>.
+
+- **4. Data Integrity In <b>AI</b>: Combating Deceptive <b>AI</b>-Generated Outputs - Forbes** [link](https://www.forbes.com/sites/forbestechcouncil/2024/06/20/data-integrity-in-ai-combating-deceptive-ai-generated-outputs/)
+_Highlight:_ <b>Biased</b> And Limited Training Data: <b>AI</b> systems trained on <b>biased</b> data sets can reproduce these <b>biases</b> in misleading results. • Poor Calibration: If&nbsp;...
+
+- **5. Wikipedia Is <b>Biased</b> against Conservatives — and the Slant Is Infecting <b>AI</b> Models** [link](https://www.nationalreview.com/news/new-study-confirms-long-held-conservative-suspicions-of-wikipedia-bias/)
+_Highlight:_ This <b>bias</b> could have profound implications for the training of large-language <b>artificial intelligence</b> models, according to the study&#39;s author, David&nbsp;...
+
+- **6. <b>AI</b>-powered martech news and releases: June 20** [link](https://martech.org/ai-powered-martech-news-and-releases-june-20/)
+_Highlight:_ ... <b>AI</b> produces,” he said. “Namely things like <b>bias</b> and reinforcing inequalities that already exist. It&#39;s going to create substantial structural&nbsp;...
+
+- **7. <b>AI</b> and Gen <b>AI</b> reshaping the future business model - CIO News** [link](https://cionews.co.in/ai-and-gen-ai-reshaping-the-future-business-model/)
+_Highlight:_ <b>Artificial Intelligence</b> (<b>AI</b>) and generative <b>AI</b> (Gen <b>AI</b>) ... Addressing bias and ensuring <b>fairness</b> in <b>AI</b> systems is an ongoing challenge that requires&nbsp;...
+
+- **8. Building Trust in <b>AI</b> - The Nation** [link](https://www.nation.com.pk/21-Jun-2024/building-trust-in-ai)
+_Highlight:_ ... <b>fairness</b> and inclusivity in <b>AI</b> development. Lack of transparency in opaque <b>AI</b> systems can make it difficult to understand how they reach decisions.
+
+- **9. If we don&#39;t get real about <b>AI</b> ethics, that&#39;s on us - a tribute to Neil Raden** [link](https://diginomica.com/if-we-dont-get-real-about-ai-ethics-thats-us-tribute-neil-raden)
+_Highlight:_ <b>AI fairness</b>, on the other hand, can be measured and reviewed: Be careful when using the term &quot;bias&quot; because it has so many meanings. In <b>AI</b> today, they&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
