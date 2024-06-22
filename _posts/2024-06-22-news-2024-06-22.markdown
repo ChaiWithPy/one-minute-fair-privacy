@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-22 One-Minute Post
+date: 2024-06-22 13:43:35 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple delays EU launch of AI features due to privacy concerns. Facial recognition startup Clearview AI settles privacy suit. Education Week raises concerns about bias in AI in schools. Colorado focuses on fairness and preventing bias in new AI law. India considers culturally aware AI systems for fairness. Forbes Africa emphasizes AI transparency for governance and fairness.
+
+## Articles we found interesting:
+
+- **1. Apple&#39;s New iPhone <b>AI</b> Security Move Explained - Forbes** [link](https://www.forbes.com/sites/kateoflahertyuk/2024/06/22/apples-new-ai-security-move-explained/)
+_Highlight:_ Apple has delayed the launch of its Apple Intelligence <b>AI</b> features in the EU, citing security and <b>privacy</b> concerns when complying with the Digital&nbsp;...
+
+- **2. Facial recognition startup Clearview <b>AI</b> settles <b>privacy</b> suit - The Globe and Mail** [link](https://www.theglobeandmail.com/business/article-facial-recognition-startup-clearview-ai-settles-privacy-suit/)
+_Highlight:_ Unique agreement gives plaintiffs in the federal suit a share of the company&#39;s potential value, rather than a traditional payout.
+
+- **3. Facial recognition startup Clearview <b>AI</b> settles <b>privacy</b> suit | News | indianagazette.com** [link](https://www.indianagazette.com/news/facial-recognition-startup-clearview-ai-settles-privacy-suit/article_eb66c322-5347-5a53-8462-f569d4a15d82.html)
+_Highlight:_ Facial recognition startup Clearview <b>AI</b> has reached a settlement in a lawsuit alleging its massive collection of images violated the subjects&#39; <b>privacy</b>&nbsp;...
+
+- **4. Forget Cheating. Here&#39;s the Real Question About <b>AI</b> in Schools - Education Week** [link](https://www.edweek.org/technology/forget-cheating-heres-the-real-question-about-ai-in-schools/2024/06)
+_Highlight:_ ... <b>bias</b> . See Also. <b>Artificial intelligence</b> and schoolwork image with hand holding pencil with digital <b>AI</b> collage overtop. Open image caption. Close&nbsp;...
+
+- **5. The Health Record - Health Law Insights, Issue 2, June 2024 - JD Supra** [link](https://www.jdsupra.com/legalnews/the-health-record-health-law-insights-4954241/)
+_Highlight:_ spoke about handling <b>AI bias</b>, utilization of <b>AI</b> for workflows, and the creation of <b>AI</b> tools. <b>AI</b> creates a potential risk for patients because it&nbsp;...
+
+- **6. Responsible <b>AI</b> Finally Being Elevated To The C-Suite - Forbes** [link](https://www.forbes.com/sites/joemckendrick/2024/06/21/responsible-ai-finally-being-elevated-to-the-c-suite/)
+_Highlight:_ Erroneous recommendations, hallucinations, and privacy violations are endemic. The most pressing concern is the algorithm <b>bias</b> that is pervasive&nbsp;...
+
+- **7. In writing the country&#39;s most sweeping <b>AI</b> law, Colorado focused on <b>fairness</b>, preventing bias** [link](https://www.npr.org/2024/06/22/nx-s1-4996582/artificial-intelligence-law-against-discrimination-hiring-colorado)
+_Highlight:_ In writing the country&#39;s most sweeping <b>AI</b> law, Colorado focused on <b>fairness</b>, preventing bias. June 22, 20245:00 AM ET. From&nbsp;...
+
+- **8. As India mulls <b>artificial intelligence</b> regulation, it must look for culturally aware <b>AI</b> systems** [link](https://thesouthfirst.com/opinion/as-india-mulls-artificial-intelligence-regulation-it-must-look-for-culturally-aware-ai-systems/)
+_Highlight:_ Regulation fosters accountability and transparency in <b>AI</b>-driven decisions, promoting public trust and <b>fair</b> competition.
+
+- **9. Expert-Speak: An Effective Framework For Governance Of <b>AI</b> In Africa** [link](https://www.forbesafrica.com/opinion/op-ed/2024/06/21/expert-speak-an-effective-framework-for-governance-of-ai-in-africa/)
+_Highlight:_ One such value is <b>AI</b> transparency which is essential for <b>AI</b> governance, as it fosters trust, accountability, and <b>fairness</b>. Transparent <b>AI</b> systems&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
