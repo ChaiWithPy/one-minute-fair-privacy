@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2024-06-23 One-Minute Post
+date: 2024-06-23 13:39:14 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The EU passes the world's first AI Act addressing cybersecurity and data privacy. Apple's focus on privacy gives it an advantage in AI. ChatGPT is found to be biased against resumes with credentials implying disability. A study reveals differing perspectives on AI-generated news, highlighting the issue of algorithmic bias. The future of AI requires addressing bias and fairness in AI algorithms to prevent perpetuating biases present in the training data.
+
+## Articles we found interesting:
+
+- **1. Why we need an <b>AI</b> law in Bangladesh | The Daily Star** [link](https://www.thedailystar.net/opinion/views/news/why-we-need-ai-law-bangladesh-3639606)
+_Highlight:_ On March 13, 2024, the European Union (EU) passed the world&#39;s first <b>Artificial Intelligence</b> (<b>AI</b>) Act. ... It addresses cybersecurity, data <b>privacy</b>, and&nbsp;...
+
+- **2. Does <b>AI</b> Make Apple the Dominant Magnificent 7 Stock to Own This Summer? - 24/7 Wall St.** [link](https://247wallst.com/investing/2024/06/23/does-ai-make-apple-the-dominant-magnificent-7-stock-to-own-this-summer/)
+_Highlight:_ Apple has a big advantage here as they have huge amounts of local processing on phones and a focus on <b>privacy</b>. OpenAI, the company that makes ChatGPT,&nbsp;...
+
+- **3. Apple may be in talks with Meta to add another generative <b>AI</b> provider to iOS 18** [link](https://appleinsider.com/articles/24/06/23/apple-may-be-in-talks-with-meta-to-add-another-generative-ai-provider-to-ios-18)
+_Highlight:_ ... <b>AI</b> provider to iOS 18. Mike Wuerthele&#39;s Avatar Mike Wuerthele | Jun 23, 2024. Adopting Meta may have implications for Apple <b>AI privacy</b>. 0 &middot; Facebook.
+
+- **4. Study Reveals Differing Perspectives on <b>AI</b>-Generated News** [link](https://elblog.pl/2024/06/23/study-reveals-differing-perspectives-on-ai-generated-news/)
+_Highlight:_ Key Challenges and Controversies: – Algorithmic <b>Bias</b>: <b>AI</b>-powered news platforms may inadvertently perpetuate bias present in the training data,&nbsp;...
+
+- **5. ChatGPT <b>biased</b> against CVs with credentials that imply disability, finds researchers** [link](https://indicanews.com/chatgpt-biased-against-cvs-with-credentials-that-imply-disability-finds-researchers/)
+_Highlight:_ “People need to be aware of the system&#39;s <b>biases</b> when using <b>AI</b> for these real-world tasks. Otherwise, a recruiter using ChatGPT can&#39;t make these&nbsp;...
+
+- **6. ChatGPT is <b>biased</b> against resumes with credentials that imply a disability—but it can improve** [link](https://techxplore.com/news/2024-06-chatgpt-biased-resumes-credentials-imply.html)
+_Highlight:_ &quot;Ranking resumes with <b>AI</b> is starting to proliferate, yet there&#39;s not much research behind whether it&#39;s safe and effective,&quot; said Glazko, the study&#39;s&nbsp;...
+
+- **7. The Future of <b>Artificial Intelligence</b>: Finding a Balance Between Innovation and Humanity** [link](https://elblog.pl/2024/06/23/the-future-of-artificial-intelligence-finding-a-balance-between-innovation-and-humanity/)
+_Highlight:_ How do we address bias and <b>fairness</b> in <b>AI</b> algorithms? – <b>AI</b> systems can inadvertently perpetuate biases present in the data they are trained on,&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
