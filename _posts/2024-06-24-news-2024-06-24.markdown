@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-24 One-Minute Post
+date: 2024-06-24 13:29:48 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Generative AI poses a threat to privacy, while a House privacy bill drops AI provisions. Healthcare AI faces data privacy challenges. The UK's AI regulatory model must address bias and privacy. Legal professionals must audit AI tools for fairness. Hand-drawn object recognition AI faces data bias issues. Randy Travis testifies on the Music Fairness Act. LotteFi unveils a gaming platform promoting fairness. SAS explores responsible generative AI, emphasizing fairness and privacy.
+
+## Articles we found interesting:
+
+- **1. Get Ready for Generative <b>AI&#39;s</b> Next Assault On Your <b>Privacy</b> - Private Internet Access** [link](https://www.privateinternetaccess.com/blog/get-ready-for-generative-ais-next-assault-on-your-privacy/)
+_Highlight:_ In the 15 months since we first warned that generative <b>AI</b> would be terrible for <b>privacy</b>, the potential threats have become clearer.
+
+- **2. Landmark <b>AI</b> provisions dropped from House <b>privacy</b> bill headed to markup** [link](https://insidecybersecurity.com/daily-news/landmark-ai-provisions-dropped-house-privacy-bill-headed-markup)
+_Highlight:_ The bipartisan <b>privacy</b> bill headed to markup this week in the House Energy and Commerce Committee no longer contains a section on civil rights and&nbsp;...
+
+- **3. Towards ethical <b>AI</b>: Solutions for enhanced data <b>privacy</b> in healthcare - DOTmed** [link](https://www.dotmed.com/news/story/63121)
+_Highlight:_ ... <b>privacy</b> and security? Challenges in data <b>privacy</b> regulations for <b>AI</b>-driven healthcare HIPAA&#39;s role in safeguarding patient data <b>privacy</b> is undeniable.
+
+- **4. Will the UK&#39;s &#39;unique&#39; <b>AI</b> regulatory model survive its election? | Gilbert + Tobin Lawyers** [link](https://www.gtlaw.com.au/knowledge/will-uks-unique-ai-regulatory-model-survive-its-election)
+_Highlight:_ Addressing <b>bias</b> should be a primary function of the beefed up centralised co-ordinating function. 2. Privacy and data protection frameworks must&nbsp;...
+
+- **5. Legal <b>AI</b> Careers Prospects And Opportunities: Navigating The Future Of Law - LawFuel** [link](https://www.lawfuel.com/legal-ai-careers-prospects-and-opportunities-navigating-the-future-of-law/)
+_Highlight:_ Legal professionals must be vigilant in auditing <b>AI</b> tools for fairness and mitigating any <b>biased</b> outcomes. Addressing <b>bias</b> head-on is essential to&nbsp;...
+
+- **6. <b>AI</b> Model Recognizes Hand-Drawn Objects with High Accuracy - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/06/23/ai-model-recognizes-hand-drawn-objects-with-high-accuracy/)
+_Highlight:_ – Data <b>bias</b>: The accuracy of the <b>AI</b> model relies heavily on the quality and diversity of the training dataset, leading to potential <b>biases</b> and&nbsp;...
+
+- **7. Randy Travis and SoundExchange CEO to Testify on Music <b>Fairness</b> Act - Hypebot** [link](https://www.hypebot.com/hypebot/2024/06/randy-travis-and-soundexchange-ceo-to-testify-on-music-fairness-act.html)
+_Highlight:_ ... <b>Artificial Intelligence</b> (<b>AI</b>) technology. Last month, Travis released “Where That Came From,” his first new song since the stroke, with the help of&nbsp;...
+
+- **8. LotteFi Unveils Innovative Gaming Platform with Blockchain and <b>AI</b> Integration - StreetInsider** [link](https://www.streetinsider.com/Globe%2BPR%2BWire/LotteFi%2BUnveils%2BInnovative%2BGaming%2BPlatform%2Bwith%2BBlockchain%2Band%2BAI%2BIntegration/23386260.html)
+_Highlight:_ In an innovative leap forward for the gaming industry, LotteFi unveiled its new platform, designed to restore trust and <b>fairness</b> through the&nbsp;...
+
+- **9. Responsible <b>AI</b>: Exploring Generative <b>AI</b> with SAS - Analytics Insight** [link](https://www.analyticsinsight.net/generative-ai/responsible-ai-exploring-generative-ai-with-sas)
+_Highlight:_ ... <b>AI</b> solutions that only have positive impacts on society, while addressing key criteria such as transparency, <b>fairness</b>, accountability, and privacy.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
