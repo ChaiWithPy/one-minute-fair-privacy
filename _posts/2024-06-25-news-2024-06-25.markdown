@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-25 One-Minute Post
+date: 2024-06-25 13:23:05 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+House pivots on data privacy bill, removing algorithmic discrimination coverage. Apple rejects Meta's AI on iPhone due to privacy concerns. New AI scorecard assesses strength of state, federal legislation. CFPB approves rule to ensure accuracy and accountability in AI and algorithms. Healthcare leaders worldwide counting on AI to close critical gaps in patient care. AI's role in the future of learning focuses on bias and fairness. Rwanda regulates AI, ensuring fairness in AI development and governance. health-equity.ai wins 2024 PING Innovation Award for promoting fair healthcare access.
+
+## Articles we found interesting:
+
+- **1. House pivots on data <b>privacy</b> bill, removing algorithmic discrimination coverage** [link](https://www.nextgov.com/digital-government/2024/06/house-pivots-data-privacy-bill-removing-algorithmic-discrimination-coverage/397618/)
+_Highlight:_ ... <b>privacy</b> rules with a national standard to safeguard the data <b>privacy</b> of Americans online. ... Human operators must be held accountable for <b>AI&#39;s</b> use in&nbsp;...
+
+- **2. Apple rejected Meta&#39;s attempt to put its <b>AI</b> on the iPhone, report says - Quartz** [link](https://qz.com/apple-rejects-ai-deal-meta-iphone-privacy-concerns-1851559004)
+_Highlight:_ Apple and Meta have long feuded over their different approaches to <b>privacy</b>.
+
+- **3. New <b>AI</b> scorecard can assess strength of state, federal legislation - StateScoop** [link](https://statescoop.com/epic-scorecard-state-federal-ai-legislation/)
+_Highlight:_ The Electronic <b>Privacy</b> Information Center published a document that allows scoring of state and federal <b>AI</b> legislation.
+
+- **4. CFPB Approves Rule to Ensure Accuracy and Accountability in the Use of <b>AI</b> and Algorithms ...** [link](https://www.consumerfinance.gov/about-us/blog/cfpb-approves-rule-to-ensure-accuracy-and-accountability-in-the-use-of-ai-and-algorithms-in-home-appraisals/)
+_Highlight:_ It can be tempting to think that computer models can take <b>bias</b> out of the equation, but they can&#39;t. The new rule we are approving today requires&nbsp;...
+
+- **5. Healthcare leaders worldwide counting on <b>AI</b> to close &#39;critical gaps&#39; in patient care** [link](https://aiin.healthcare/topics/patient-care/digital-transformation/healthcare-leaders-worldwide-counting-ai-close-critical-gaps-patient-care)
+_Highlight:_ ... <b>bias</b> in <b>AI</b> applications widening existing disparities in health outcomes. To address this risk, healthcare leaders say it is important to make <b>AI</b>&nbsp;...
+
+- **6. <b>Artificial intelligence</b> and romance: Should you dump your partner if Chat GPT says so?** [link](https://www.nzherald.co.nz/business/should-you-dump-your-partner-if-chat-gpt-says-so/X63ZZCASF5B5JO5G6OMSVY7R7I/)
+_Highlight:_ A cottage industry has arisen wherein journalists and academics aim to demonstrate <b>bias</b> within LLMs. That&#39;s how reports emerged of <b>AI</b> expressing&nbsp;...
+
+- **7. Rwanda: How Rwanda Is Regulating <b>Artificial Intelligence</b> - allAfrica.com** [link](https://allafrica.com/stories/202406250174.html)
+_Highlight:_ ... <b>AI</b> policy. Other principles established by RURA include the principle of justice that ensures <b>fairness</b> in <b>AI</b> development and governance&nbsp;...
+
+- **8. <b>AI&#39;s</b> role in the future of learning - eSchool News** [link](https://www.eschoolnews.com/digital-learning/2024/06/25/ais-role-in-the-future-of-learning/)
+_Highlight:_ Bias and <b>fairness</b>: Bias in <b>AI</b> systems and troubles ensuring <b>fair</b> treatment ... To truly reap the benefits of <b>AI</b> in education, stakeholders should work&nbsp;...
+
+- **9. health-equity.<b>ai</b> wins 2024 PING Innovation Award - Veale Wasbrough Vizards** [link](https://www.vwv.co.uk/news-and-events/news/health-equity-ai-2024-ping-innovation)
+_Highlight:_ Collaborating with pharma companies like Beigene and Roche Diabetes Care, health-equity.<b>ai</b> is promoting <b>fair</b> healthcare access and enhances patient&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
