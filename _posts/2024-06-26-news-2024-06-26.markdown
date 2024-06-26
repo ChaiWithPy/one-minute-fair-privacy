@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-26 One-Minute Post
+date: 2024-06-26 13:23:57 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple's privacy-focused AI could drive iPhone upgrades. Carter launches as the only privacy-first AI platform in AdTech. Workplace DEI initiatives face challenges with biased AI. AI is changing real estate, but faces challenges with algorithmic bias. Strategies to foster trust in AI-driven healthcare decisions. National framework for the assurance of fair AI in government.
+
+## Articles we found interesting:
+
+- **1. Rosenblatt Upgrades Apple (AAPL) to Buy, &#39;Survey Says <b>Privacy</b>-Focused <b>AI</b> Could Resonate&#39;** [link](https://www.streetinsider.com/Analyst%2BComments/Rosenblatt%2BUpgrades%2BApple%2B%2528AAPL%2529%2Bto%2BBuy%252C%2BSurvey%2BSays%2BPrivacy-Focused%2BAI%2BCould%2BResonate/23398361.html)
+_Highlight:_ Rosenblatt Upgrades Apple (AAPL) to Buy, &#39;Survey Says <b>Privacy</b>-Focused <b>AI</b> Could Resonate&#39;. June 26, 2024 6:39 AM. (Updated - June 26, 2024 6:40 AM&nbsp;...
+
+- **2. Carter Launches as Only <b>Privacy</b>-First, <b>AI</b> Powered Platform in AdTech Space | News** [link](https://www.bakersfield.com/ap/news/carter-launches-as-only-privacy-first-ai-powered-platform-in-adtech-space/article_edf29998-48cb-5757-8c7d-00714a133e3e.html)
+_Highlight:_ TORONTO--(BUSINESS WIRE)--Jun 26, 2024--. Today, Carter, a first-of-its-kind technology in the Retail Media Network (RMN) space, launches across&nbsp;...
+
+- **3. Why Apple&#39;s focus on <b>AI privacy</b> could help fuel the next iPhone upgrade cycle - CNBC** [link](https://www.cnbc.com/2024/06/26/why-apples-focus-on-ai-privacy-could-help-fuel-the-next-iphone-upgrade-cycle.html)
+_Highlight:_ The CNBC Investing Club gives investors a behind-the-scenes look at how Jim Cramer manages an investment portfolio so you can manage your own money&nbsp;...
+
+- **4. <b>AI</b> and Workplace DEI Initiatives: Opportunities and Challenges - McMillan LLP** [link](https://mcmillan.ca/insights/publications/ai-and-workplace-dei-initiatives-opportunities-and-challenges/)
+_Highlight:_ If data of a <b>biased</b> or discriminatory nature is used to train an <b>AI</b> tool, the tool may produce outputs reflecting or even exacerbating that <b>bias</b>. For&nbsp;...
+
+- **5. How <b>AI</b> is changing the real estate market | TechTarget** [link](https://www.techtarget.com/searchenterpriseai/feature/How-AI-is-changing-the-real-estate-market)
+_Highlight:_ Other major challenges include planning and prioritizing projects, as well as identifying and mitigating risks like algorithmic <b>bias</b> and security&nbsp;...
+
+- **6. Monkeys, Models, And Markets: <b>AI</b> Vs. Behavioral Finance - Forbes** [link](https://www.forbes.com/sites/philipmaymin/2024/06/25/monkeys-models-and-markets-ai-vs-behavioral-finance/)
+_Highlight:_ When our silicon brethren finally take over all securities trading, will there still be evidence of <b>biases</b> and empirical anomalies in market&nbsp;...
+
+- **7. Strategies to Foster Trust in <b>AI</b>-driven Healthcare Decisions - Analytics Insight** [link](https://www.analyticsinsight.net/artificial-intelligence/strategies-to-foster-trust-in-ai-driven-healthcare-decisions)
+_Highlight:_ Addressing Ethical Issues. There is a need to be certain that <b>AI</b> systems are <b>fair</b> and remain promotional of health equity. This must involve training&nbsp;...
+
+- **8. The future of <b>AI</b>: Harnessing the power of <b>AI</b> to improve children&#39;s lives - Fast Company** [link](https://www.fastcompany.com/91145229/the-future-of-ai-harnessing-the-power-of-ai-to-improve-childrens-lives)
+_Highlight:_ Robust <b>AI</b> systems learn from diverse data, enhancing <b>AI&#39;s</b> accuracy and <b>fairness</b>. Responsible <b>AI</b> embraces transparency—demystifying black-box&nbsp;...
+
+- **9. National Framework for the Assurance of <b>AI</b> in Government - Insight, <b>AI</b> - MinterEllison** [link](https://www.minterellison.com/articles/national-framework-for-the-assurance-of-ai-in-government)
+_Highlight:_ <b>Fairness</b>. <b>AI</b> systems should be inclusive and accessible and should not involve or result in unfair discrimination against individuals, communities, or&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
