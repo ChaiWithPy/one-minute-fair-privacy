@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-27 One-Minute Post
+date: 2024-06-27 13:11:40 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google's Illia Polosukhin is working on user-owned AI for privacy. Apple's privacy-focused AI gains investor approval. The US privacy bill faces criticism. Discussions arise on the need for a register of AI systems used by government agencies. UK thinktank emphasizes the need for a system to record AI misuse. Forbes explores the trust factor and bias in AI. Social Welfare Optimization is redefining fairness in AI. Futurist Thomas Frey emphasizes the importance of fairness in AI ethics. AI essays outperform humans in university exams, raising concerns about fairness.
+
+## Articles we found interesting:
+
+- **1. Illia Polosukhin of Google Transformer 8 and Near on democratizing <b>AI</b> - CNBC** [link](https://www.cnbc.com/2024/06/27/illiapolosukhinai240624tarasovsf.html)
+_Highlight:_ With Near, Polosukhin is focused on what he calls user-owned <b>AI</b>, “that optimizes for the <b>privacy</b> and sovereignty of users.” Watch the video to&nbsp;...
+
+- **2. Apple&#39;s &#39;<b>Privacy</b>-Focused <b>AI</b>&#39; Gets Seal Of Approval From Investors - Forbes** [link](https://www.forbes.com/sites/kateoflahertyuk/2024/06/27/apples-privacy-focused-ai-gets-seal-of-approval-from-investors/)
+_Highlight:_ The iPhone maker&#39;s <b>privacy</b>-focused Apple Intelligence platform could help it to gain marketshare, according to market analysts.
+
+- **3. Surprise! The Latest &#39;Comprehensive&#39; US <b>Privacy</b> Bill Is Doomed | WIRED** [link](https://www.wired.com/story/apra-privacy-bill-doomed/)
+_Highlight:_ ... <b>privacy</b> bill that legal experts contend has little hope of protecting anyone&#39;s <b>privacy</b>. ... <b>AI</b>-driven technologies. Dozens of civil rights organizations&nbsp;...
+
+- **4. Has the time come for a register of <b>AI</b> systems used by government agencies? | PHCC** [link](https://www.phcc.org.nz/briefing/has-time-come-register-ai-systems-used-government-agencies)
+_Highlight:_ <b>Artificial Intelligence</b> (<b>AI</b>) is rapidly advancing, especially in ... <b>Bias</b> is a complex multidimensional factor to consider when designing&nbsp;...
+
+- **5. UK needs system for recording <b>AI</b> misuse and malfunctions, thinktank says - The Guardian** [link](https://www.theguardian.com/technology/article/2024/jun/26/artificial-intelligence-misuse-malfunctions-reporting-uk)
+_Highlight:_ ... <b>AI</b> systems such as disinformation campaigns, attempted development of bioweapons, <b>bias</b> in <b>AI</b> systems or misuse of <b>AI</b> in public services, like in&nbsp;...
+
+- **6. Machine Suggested, Human Verified: In Search Of <b>AI&#39;s</b> Elusive Trust Factor - Forbes** [link](https://www.forbes.com/sites/joemckendrick/2024/06/26/machine-suggested-human-verified-in-search-of-ais-elusive-trust-factor/)
+_Highlight:_ ... <b>artificial intelligence</b>. At issue is the data that fuels <b>AI</b> decisions and actions, as well as concerns around erroneous “black-box” decisions and <b>bias</b>&nbsp;...
+
+- **7. Reassessing the <b>Fairness</b> of <b>Artificial Intelligence</b> through Social Welfare Optimization** [link](https://www.securities.io/reassessing-the-fairness-of-artificial-intelligence-through-social-welfare-optimization/)
+_Highlight:_ Explore how Social Welfare Optimization can redefine <b>fairness</b> in <b>AI</b>, ensuring algorithms benefit all, especially in high-impact areas like&nbsp;...
+
+- **8. Defining <b>AI</b> Ethics for the Future - Futurist Thomas Frey** [link](https://futuristspeaker.com/futurist-thomas-frey-insights/defining-ai-ethics-for-the-future/)
+_Highlight:_ <b>Fairness</b> means that all <b>AI</b> systems should be designed to avoid bias and ensure equitable treatment for all! Principal #3 – <b>Fairness</b>. <b>Fairness</b> in <b>AI</b>&nbsp;...
+
+- **9. <b>AI</b> essays beat human performance in university exams, reveals study | Tech News** [link](https://www.business-standard.com/technology/tech-news/ai-essays-beat-human-performance-in-university-exams-reveals-study-124062700818_1.html)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) has proved its prowess in academia ... <b>AI&#39;s</b> potential to compromise assessment <b>fairness</b>. While reverting to&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
