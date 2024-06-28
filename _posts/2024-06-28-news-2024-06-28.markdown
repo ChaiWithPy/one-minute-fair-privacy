@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-06-28 One-Minute Post
+date: 2024-06-28 13:14:16 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+House privacy talks implode, FCC chair seeks telecoms' efforts to block fraudulent AI political robocalls. AI companies training language models on YouTube's archive raises privacy concerns. Figma CEO to cover AI upgrade costs for customers. US Fed reveals generative AI use cases, emphasizing the need to address AI bias. Women in Compliance highlights mentorship for driving DEI and fostering board buy-in. CIA leans on AI for data triage and open source collection, focusing on addressing AI-related bias.
+
+## Articles we found interesting:
+
+- **1. House <b>privacy</b> talks implode in spectacular fashion - The Washington Post** [link](https://www.washingtonpost.com/politics/2024/06/28/house-privacy-talks-implode-spectacular-fashion/)
+_Highlight:_ House <b>privacy</b> talks implode in spectacular fashion ... FCC chair asks telecoms to detail efforts to block fraudulent <b>AI</b> political robocalls (Reuters)&nbsp;...
+
+- **2. <b>AI</b> companies train language models on YouTube&#39;s archive − making private videos a <b>privacy</b> risk** [link](https://brandequity.economictimes.indiatimes.com/news/digital/ai-companies-train-language-models-on-youtubes-archive-making-private-videos-a-privacy-risk/111332827)
+_Highlight:_ YouTube Archive: Exploring the intricate nexus of big tech self-regulation, <b>privacy</b> concerns, and legal safeguards in <b>AI</b> development underscores&nbsp;...
+
+- **3. Figma CEO says it is &#39;eating cost&#39; of <b>AI</b> upgrade for customers in 2024 - CNBC** [link](https://www.cnbc.com/2024/06/27/figma-ceo-says-its-eating-cost-of-ai-for-customers-in-2024-upgrade-.html)
+_Highlight:_ ... <b>AI</b>, and how good the tech is ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **4. US Fed reveals its five use cases for generative <b>AI</b> - Risk.net** [link](https://www.risk.net/risk-management/7959632/us-fed-reveals-its-five-use-cases-for-generative-ai)
+_Highlight:_ In terms of developing protocols and policies to address the risks, such as cyber security threats and <b>AI bias</b>, Tuteja argued that no-one needs to&nbsp;...
+
+- **5. Women in Compliance highlights: Mentorship driving DEI; fostering board buy-in | Premium** [link](https://www.complianceweek.com/ethics-and-culture/women-in-compliance-highlights-mentorship-driving-dei-fostering-board-buy-in/35019.article)
+_Highlight:_ ... <b>bias</b>, <b>AI</b> risk mitigation, and plenty of networking opportunities. It&#39;s important to align your compliance efforts with your business&#39; priorities&nbsp;...
+
+- **6. CIA Leaning on <b>AI</b> for Data &#39;Triage,&#39; Open Source Collection - MeriTalk** [link](https://www.meritalk.com/articles/cia-leaning-on-ai-for-data-triage-open-source-collection/)
+_Highlight:_ ... <b>AI</b>-related <b>bias</b>. “We want to make sure that our users feel very comfortable with” the technology, she said, “so they understand that what they&#39;re&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
