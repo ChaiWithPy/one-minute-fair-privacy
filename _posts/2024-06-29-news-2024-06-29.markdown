@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-29 One-Minute Post
+date: 2024-06-29 13:06:52 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Amazon hires execs from AI startup Adept and licenses its technology. Philadelphia Cyber Consulting Firm Zaviant appoints Adam Stone to head AI Governance practice group. New Arkansas AI Working Group will guide implementation. MIT study uncovers potential bias in AI medical diagnostics linked to race, gender, age. Meet the AI-Generated Women taking part in the 'Miss AI' Beauty Pageant. He helped invent Generative AI. Now he wants to save it. Consumer groups urge CFPB to make banks fairness-test AI lending software. AI warning on "Fairness Gaps" for X-Ray Analysis. Elevating your risk assessment game with AI and machine learning, ensuring fairness.
+
+## Articles we found interesting:
+
+- **1. Amazon hires execs from <b>AI</b> startup Adept and licenses its technology - CNBC** [link](https://www.cnbc.com/2024/06/28/amazon-hires-execs-from-ai-startup-adept-and-licenses-its-technology.html)
+_Highlight:_ Microsoft <b>AI</b> CEO Mustafa Suleyman on what&#39;s ahead for <b>AI</b> &amp; humanity ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **2. Philadelphia Cyber Consulting Firm Zaviant Appoints Adam Stone To Head <b>AI</b> Governance ... - KTLA** [link](https://ktla.com/business/press-releases/ein-presswire/723524270/philadelphia-cyber-consulting-firm-zaviant-appoints-adam-stone-to-head-ai-governance-practice-group)
+_Highlight:_ ... <b>AI</b> Governance practice group. With nearly four decades of experience in business leadership and over two decades specializing in data <b>privacy</b> and&nbsp;...
+
+- **3. New Arkansas <b>AI</b> Working Group Will Guide Implementation - Government Technology** [link](https://www.govtech.com/artificial-intelligence/new-arkansas-ai-working-group-will-guide-implementation)
+_Highlight:_ ... <b>AI</b> use cases for <b>AI</b> CoE. Priority focus areas for the pilot use ... <b>Privacy</b> &amp; <b>AI</b> &middot; Contact &middot; Advertise &middot; Stay Up To Date. Get smart with GovTech&nbsp;...
+
+- **4. MIT Study Uncovers Potential <b>Bias</b> in <b>AI</b> Medical Diagnostics Linked to Race, Gender, Age** [link](https://hoodline.com/2024/06/mit-study-uncovers-potential-bias-in-ai-medical-diagnostics-linked-to-race-gender-age/)
+_Highlight:_ MIT study reveals that <b>AI</b> models used for medical image diagnoses can predict patient demographics, potentially causing diagnostic <b>bias</b>.
+
+- **5. Meet the <b>AI</b>-Generated Women Taking Part in the &#39;Miss <b>AI</b>&#39; Beauty Pageant - Time** [link](https://time.com/6993650/ai-generated-women-miss-ai-beauty-pageant-contestants/)
+_Highlight:_ Computer vision experts and the Algorithmic Justice League have also uncovered racial <b>bias</b> in facial analysis technology. In an email to TIME, the&nbsp;...
+
+- **6. He Helped Invent Generative <b>AI</b>. Now He Wants to Save It | WIRED** [link](https://www.wired.com/story/user-owned-ai-illia-polosukhin-open-source-web3/)
+_Highlight:_ ... <b>bias</b> might be there and what kinds of decisions are made,” he says. As LLM technology improves, he worries it will get more dangerous, and that&nbsp;...
+
+- **7. Consumer groups to CFPB: Make banks <b>fairness</b>-test <b>AI</b> lending software | American Banker** [link](https://www.americanbanker.com/news/consumer-groups-to-cfpb-make-banks-fairness-test-ai-lending-software)
+_Highlight:_ Later the same day, the CFPB issued a <b>fair</b> lending report that it is forcing lenders to make an effort to ensure their lending algorithms (<b>AI</b> based or&nbsp;...
+
+- **8. <b>AI</b> Warning on “<b>Fairness</b> Gaps” for X-Ray Analysis | Inside Precision Medicine** [link](https://www.insideprecisionmedicine.com/topics/precision-medicine/ai-warning-on-fairness-gaps-for-x-ray-analysis/)
+_Highlight:_ It offers new insights into how <b>AI</b> encodes demographics and the impact this has on <b>fairness</b>, particularly when models are applied outside the&nbsp;...
+
+- **9. Elevating Your Risk Assessment Game with <b>AI</b> and Machine Learning, Part II - JD Supra** [link](https://www.jdsupra.com/legalnews/elevating-your-risk-assessment-game-3479301/)
+_Highlight:_ Your risk management model should ensure the accuracy, reliability, and <b>fairness</b> of the <b>AI</b>-powered risk assessment. To do so, you can establish a&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
