@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-06-30 One-Minute Post
+date: 2024-06-30 13:17:21 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI companies are facing scrutiny over privacy practices, with Apple rejecting Meta's AI integration proposal due to privacy concerns. Meanwhile, AI bias is under the spotlight, with discussions on challenges and solutions for background verification in the gig economy. Ethical considerations in AI are being emphasized, with a focus on bias and fairness. Additionally, major record labels are suing AI startups for copyright infringement, highlighting the importance of fair compensation for artists. The rise of AI is also prompting discussions on bias and fairness in AI systems, emphasizing the need for ethical and fair regulation of this technology.
+
+## Articles we found interesting:
+
+- **1. Best <b>AI</b> Chatbots of 2024 - CNET** [link](https://www.cnet.com/tech/services-and-software/best-ai-chatbots/)
+_Highlight:_ Don&#39;t ask an <b>AI</b> chatbot to summarize your company&#39;s trade secrets as <b>privacy</b> policies give <b>AI</b> companies wide latitude to do with that data as they&nbsp;...
+
+- **2. Apple Rejects Meta&#39;s <b>AI</b> Integration Proposal, Ex-Employee Accuses iPhone-Maker Of ... - Benzinga** [link](https://www.benzinga.com/news/24/06/39564817/apple-rejects-metas-ai-integration-proposal-ex-employee-accuses-iphone-maker-of-chemical-exposure-an)
+_Highlight:_ proposal to incorporate its <b>AI</b> chatbot, Llama, into the iPhone. The decision was partially due to Apple&#39;s concerns about Meta&#39;s <b>privacy</b> practices,&nbsp;...
+
+- **3. How <b>AI</b> could open doors to better care, smoother long-term care operations** [link](https://www.mcknights.com/news/how-ai-could-open-doors-to-better-care-smoother-long-term-care-operations/)
+_Highlight:_ “On the other side, there is intensive marketing around <b>AI</b> — everything is <b>AI</b>-enabled. ... <b>Privacy</b> Policy (See section - State Specific <b>Privacy</b> Rights).
+
+- **4. <b>AI</b> and background verification in the gig economy: Challenges and solutions | YourStory** [link](https://yourstory.com/2024/06/ai-and-background-verification-in-the-gig-economy-challenges-solution)
+_Highlight:_ <b>AI bias</b> can result from several factors, including skewed/limited training data, cultural or regional misunderstandings, and flawed algorithms leading&nbsp;...
+
+- **5. <b>AI</b> scientist Ray Kurzweil: &#39;We are going to expand intelligence a millionfold by 2045&#39;** [link](https://www.theguardian.com/technology/article/2024/jun/29/ray-kurzweil-google-ai-the-singularity-is-nearer)
+_Highlight:_ On issues of <b>bias</b>, <b>AI</b> is learning from humans and humans have bias. We&#39;re making progress but we&#39;re not where we want to be. There are also issues&nbsp;...
+
+- **6. Ethical Considerations in <b>AI</b>: Balancing Innovation and Responsibility - Analytics Insight** [link](https://www.analyticsinsight.net/artificial-intelligence/ethical-considerations-in-ai-balancing-innovation-and-responsibility)
+_Highlight:_ <b>Bias</b> and Fairness. <b>AI</b> is not something that <b>AI</b> engineers create out of thin air; rather, it is the <b>AI</b> copying our society&#39;s flaws.
+
+- **7. The rise of <b>AI</b> in our digital world - Sentinel Assam** [link](https://www.sentinelassam.com/more-news/life/the-rise-of-ai-in-our-digital-world)
+_Highlight:_ Artificial intelligence, or AI for short, is changing the way we live ... Bias and <b>fairness</b>: <b>AI</b> systems can sometimes reflect and amplify&nbsp;...
+
+- **8. Major Record Labels Sue <b>AI</b> Startups For Copyright Infringement - Inkl** [link](https://www.inkl.com/news/major-record-labels-sue-ai-startups-for-copyright-infringement)
+_Highlight:_ As the music industry continues to evolve, ensuring <b>fair</b> compensation and recognition for artists remains a critical issue. Sign up to read this&nbsp;...
+
+- **9. Exploring the Ethical Implications of <b>Artificial Intelligence</b> - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/06/30/exploring-the-ethical-implications-of-artificial-intelligence-3/)
+_Highlight:_ How can this technology be regulated in an ethical and <b>fair</b> manner? A robust regulatory framework is essential to tackle these issues. Civil society&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
