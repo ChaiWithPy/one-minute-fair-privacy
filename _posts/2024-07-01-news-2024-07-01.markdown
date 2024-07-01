@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-01 One-Minute Post
+date: 2024-07-01 13:07:55 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Morgan Freeman calls out 'unauthorized A.I.' replicating his voice in a TikTok video, while Meta risks fines over 'pay for privacy' model breaking EU rules. SATH Foundation hosts Leadership Roundtable on Ethical AI Governance, uncovering biases in AI's medical image analysis. The future of law: How AI can make courts faster and more efficient, as Brunel uses AI in stewardship and doubles down on manager misalignment. Revolutionizing Japanese AI Development faces challenges with inherent biases seeping into AI algorithms.
+
+## Articles we found interesting:
+
+- **1. Morgan Freeman calls out &#39;unauthorized <b>A.I.</b>&#39; replicating his voice in a TikTok video** [link](https://www.today.com/popculture/morgan-freeman-ai-rcna159683)
+_Highlight:_ <b>Privacy</b> Policy; Your <b>Privacy</b> Choices; CA Notice &middot; NEW TERMS OF SERVICE (UPDATED JULY 7, 2023) &middot; Careers &middot; Closed Captioning &middot; TODAY Sitemap&nbsp;...
+
+- **2. <b>A.I.</b> Chatbot for Los Angeles Schools Falls Flat - The New York Times** [link](https://www.nytimes.com/2024/07/01/us/ai-chatbot-los-angeles-schools.html)
+_Highlight:_ There are many complicated issues at play, including <b>privacy</b> of student data and the accuracy of any information offered via chatbots. And <b>A.I.</b>&nbsp;...
+
+- **3. Meta risks fines over &#39;pay for <b>privacy</b>&#39; model breaking EU rules - The Business Times** [link](https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/meta-risks-fines-over-pay-privacy-model-breaking-eu-rules)
+_Highlight:_ South Korea&#39;s SK Hynix to invest 103 trillion won by 2028 in <b>AI</b>, chips. Jul 01, 2024 10:18 AM. Asia&#39;s data centre rush is making some unique skills&nbsp;...
+
+- **4. SATH Foundation Hosts Leadership Roundtable on Ethical <b>AI</b> Governance - THISDAYLIVE** [link](https://www.thisdaylive.com/index.php/2024/07/01/sath-foundation-harps-on-transformative-impact-of-ai/)
+_Highlight:_ ... <b>bias</b> reduction in <b>AI</b> development, advocating for open systems from data gathering to usage and interpretation. Adewole Adene – Google&#39;s Government&nbsp;...
+
+- **5. Brunel uses <b>AI</b> in stewardship and doubles down on manager misalignment** [link](https://www.top1000funds.com/2024/07/brunel-uses-ai-in-stewardship-and-doubles-down-on-manager-misalignment/)
+_Highlight:_ Like the potential for social <b>bias</b> in <b>AI</b> algorithms. Given that <b>AI</b> systems are trained on large datasets that may contain societally <b>biased</b>&nbsp;...
+
+- **6. Revolutionizing Japanese <b>AI</b> Development** [link](https://elblog.pl/2024/06/30/revolutionizing-japanese-ai-development/)
+_Highlight:_ Among the significant challenges faced is the potential for inherent <b>biases</b> to seep into <b>AI</b> algorithms even with a focus on Japanese language data.
+
+- **7. Study uncovers biases in <b>AI&#39;s</b> medical image analysis - Tech Explorist** [link](https://www.techexplorist.com/study-uncovers-biases-ais-medical-image-analysis/85735/)
+_Highlight:_ The scope of <b>fair</b> medical imaging <b>AI&#39;s</b> limitations in everyday use. ... <b>AI</b> models help diagnose medical conditions from images like X-rays. However,&nbsp;...
+
+- **8. The future of law: How <b>AI</b> can make courts faster and more efficient - Tehran Times** [link](https://www.tehrantimes.com/news/500549/The-future-of-law-How-AI-can-make-courts-faster-and-more-efficient)
+_Highlight:_ ... <b>fairness</b>, transparency, and the very nature of justice. Proponents of <b>AI</b> in courtrooms highlight efficiency gains. <b>AI</b> systems could analyze vast&nbsp;...
+
+- **9. The Rise of <b>Artificial Intelligence</b>: Transforming Industries and Enhancing Human Life** [link](https://elblog.pl/2024/06/30/the-rise-of-artificial-intelligence-transforming-industries-and-enhancing-human-life/)
+_Highlight:_ As <b>AI</b> systems become more advanced, considerations surrounding bias, <b>fairness</b>, and accountability come to the forefront. How can we ensure that <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
