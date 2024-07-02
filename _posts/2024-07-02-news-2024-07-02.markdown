@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-07-02 One-Minute Post
+date: 2024-07-02 13:13:06 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta's AI privacy policy suspended by Brazil's National Data Protection Authority. YouTube launches privacy tools to protect users from AI content. EU AI Act and Privacy Laws impact AI strategies. AI systems in the Philippines reflect and amplify existing biases. CIA examines AI bias in civil rights. US employers face new legal landscape with AI and concerns about biases.
+
+## Articles we found interesting:
+
+- **1. Brazil authority suspends Meta&#39;s <b>AI privacy</b> policy, seeks adjustment - The Indian Express** [link](https://indianexpress.com/article/world/brazil-meta-ai-privacy-policy-9428936/)
+_Highlight:_ Brazil&#39;s National Data Protection Authority (ANPD) has decided to suspend with immediate effect the validity of Meta&#39;s new <b>privacy</b> policy for the&nbsp;...
+
+- **2. YouTube creates <b>privacy</b> tools to protect users from <b>AI</b> content - Washington Times** [link](https://www.washingtontimes.com/news/2024/jul/2/youtube-creates-privacy-tools-protect-users-ai-con/)
+_Highlight:_ YouTube quietly launched <b>privacy</b> rules last month aimed at helping users take down <b>AI</b> content that simulates their face or voice.
+
+- **3. How the EU <b>AI</b> Act and <b>Privacy</b> Laws Impact Your <b>AI</b> Strategies (and Why You Should Be Concerned)** [link](https://www.unite.ai/how-the-eu-ai-act-and-privacy-laws-impact-your-ai-strategies-and-why-you-should-be-concerned/)
+_Highlight:_ The Act is a comprehensive regulatory framework designed to govern the deployment and use of <b>AI</b> across member nations. Coupled with stringent <b>privacy</b>&nbsp;...
+
+- **4. Innovation and the convergence of <b>AI</b> and ESG in Philippines | Philstar.com** [link](https://www.philstar.com/business/2024/07/02/2366989/innovation-and-convergence-ai-and-esg-philippines)
+_Highlight:_ <b>AI</b> systems can reflect and amplify existing <b>biases</b> present in the data they are trained on. Ensuring fairness and transparency in <b>AI</b> algorithms is&nbsp;...
+
+- **5. Building a Framework for <b>AI</b> in Intelligence Tradecraft | AFCEA International** [link](https://www.afcea.org/signal-media/intelligence/building-framework-ai-intelligence-tradecraft)
+_Highlight:_ ... <b>AI bias</b>, particularly in the realm of civil rights, and advancing equity.” Given the various possible forms of <b>AI</b>, the CIA is examining which&nbsp;...
+
+- **6. <b>AI</b> in the Workplace: The New Legal Landscape Facing US Employers - Morgan Lewis** [link](https://www.morganlewis.com/pubs/2024/07/ai-in-the-workplace-the-new-legal-landscape-facing-us-employers)
+_Highlight:_ At the same time, the technology raises concerns about potential <b>biases</b>, accuracy, and increasingly complex legal compliance. As <b>AI&#39;s</b> influence grows&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
