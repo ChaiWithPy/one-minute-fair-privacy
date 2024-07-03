@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-03 One-Minute Post
+date: 2024-07-03 13:04:35 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta is ordered to stop training its AI on Brazilian personal data, raising privacy concerns. Meanwhile, AI is training on kids' photos despite strict privacy settings. On the fairness front, a new study proposes a radical fairness framework to address AI bias. Additionally, a podcast discusses the challenges of eliminating bias in AI decision-making. IBM explores vulnerabilities in AI models to evaluate social bias, emphasizing the importance of fairness in AI. The fast-developing world of AI ethics is also being discussed, focusing on transparency, fairness, and privacy. Overall, the intersection of AI, privacy, and fairness continues to be a hot topic with ongoing developments and challenges.
+
+## Articles we found interesting:
+
+- **1. Meta ordered to stop training its <b>AI</b> on Brazilian personal data - The Verge** [link](https://www.theverge.com/2024/7/3/24191405/meta-anpd-stop-training-ai-on-brazilian-facebook-instagram-data)
+_Highlight:_ Meta said in a statement to the AP that its updated policy “complies with <b>privacy</b> laws and regulations in Brazil,” and that the ruling is “a step&nbsp;...
+
+- **2. Brazil Blocks Meta from Using Local Data to Train <b>AI</b> Models - Maginative** [link](https://www.maginative.com/article/brazil-blocks-meta-from-using-local-data-to-train-ai-models/)
+_Highlight:_ This has raised alarm bells among <b>privacy</b> advocates and regulators, particularly given the vast trove of personal data at Meta&#39;s disposal. (Btw,&nbsp;...
+
+- **3. <b>AI</b> trains on kids&#39; photos even when parents use strict <b>privacy</b> settings - Ars Technica** [link](https://arstechnica.com/tech-policy/2024/07/ai-trains-on-kids-photos-even-when-parents-use-strict-privacy-settings/)
+_Highlight:_ Human Rights Watch (HRW) continues to reveal how photos of real children casually posted online years ago are being used to train <b>AI</b> models&nbsp;...
+
+- **4. <b>AI bias</b> solved? New study proposes radical fairness framework** [link](https://interestingengineering.com/innovation/ai-bias-fairness-framework-for-everyone)
+_Highlight:_ A new study proposes a way to avoid <b>biases</b> in decisions made by <b>AI</b> like deciding who gets a new mortgage or hired for a job.
+
+- **5. Study finds lower rates of breast reconstruction among American Indian/Alaska Native women** [link](https://www.news-medical.net/news/20240702/Study-finds-lower-rates-of-breast-reconstruction-among-American-IndianAlaska-Native-women.aspx)
+_Highlight:_ &quot;Complicating the healthcare environment in which <b>AI</b>/AN receive medical care is chronic underfunding of the Indian Health Service (IHS), implicit <b>bias</b>&nbsp;...
+
+- **6. Thinking About Thinking - Econlib - EconTalk Podcast Archive** [link](https://www.econtalk.org/extra/thinking-about-thinking/)
+_Highlight:_ 3- Felin argues that using <b>AI</b> to make rational decisions is a fool&#39;s game, as is the idea of being being able to rid <b>AI</b> of <b>bias</b>. Why are <b>biases</b> a&nbsp;...
+
+- **7. Exploring Vulnerabilities in LLMs: A Red Teaming Approach to Evaluate Social Bias** [link](https://research.ibm.com/publications/exploring-vulnerabilities-in-llms-a-red-teaming-approach-to-evaluate-social-bias)
+_Highlight:_ Generative <b>AI</b> has caused a paradigm shift in the area of <b>Artificial Intelligence</b> (<b>AI</b>) ... <b>Fairness</b>, Accountability, Transparency &middot; Human-Centered <b>AI</b>&nbsp;...
+
+- **8. “Who can we trust?”: How to keep up with the fast-developing world of <b>AI</b> - CMI** [link](https://www.managers.org.uk/knowledge-and-insights/article/who-can-we-trust-how-to-keep-up-with-the-fast-developing-world-of-ai/)
+_Highlight:_ In June, CMI presented &#39;Navigating <b>AI</b> Ethics: Transparency, <b>Fairness</b>, Privacy and Beyond&#39;, a fascinating event hosted by Dr Tirath Virdee, an <b>AI</b>&nbsp;...
+
+- **9. All in on <b>AI</b>, Understanding <b>AI</b> Bias &amp; <b>Fairness</b> - Sanofi** [link](https://www.sanofi.com/en/magazine/our-science/all-in-ai-bias-fairness)
+_Highlight:_ <b>Fairness</b> is the idea that all human beings are of equal moral status and should be free from discriminatory harm.*The goal of <b>fairness</b> in <b>AI</b> is to&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
