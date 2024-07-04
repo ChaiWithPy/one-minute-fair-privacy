@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-07-04 One-Minute Post
+date: 2024-07-04 13:03:42 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Microsoft's AI models are vulnerable to "Skeleton Key" attacks, while Brazil orders Meta to exclude personal data from AI training due to privacy concerns. Apple sets new privacy standards for AI, and the Indian government plans to watermark AI-generated content to prevent misuse. Meanwhile, researchers highlight the sexist bias in AI technology, and companies will soon have to defend their AI's decisions, raising concerns about bias issues.
+
+## Articles we found interesting:
+
+- **1. Microsoft: &quot;Skeleton Key&quot; Attacks Consistently Jailbreak <b>AI</b> Models, Allows Users to Directly ...** [link](https://www.cpomagazine.com/cyber-security/microsoft-skeleton-key-attacks-consistently-jailbreak-ai-models-allows-users-to-directly-ask-forbidden-questions/)
+_Highlight:_ Over the last 5 years, Scott has grown increasingly focused on the future landscape of big data, surveillance, cybersecurity and the right to <b>privacy</b>.
+
+- **2. Brazil Draws the Line: Meta Ordered to Exclude Personal Data from <b>AI</b> Training** [link](https://blockonomi.com/brazil-draws-the-line-meta-ordered-to-exclude-personal-data-from-ai-training/)
+_Highlight:_ Brazil&#39;s data protection authority has ordered Meta to stop using Brazilian users&#39; personal data for <b>AI</b> training, citing <b>privacy</b> concerns and&nbsp;...
+
+- **3. Apple Intelligence <b>privacy</b> sets a new standard, but it&#39;s not perfect – Inrupt - 9to5Mac** [link](https://9to5mac.com/2024/07/04/apple-intelligence-privacy/)
+_Highlight:_ “Their goal is for <b>AI</b> use—even in their cloud—to be no less secure than the phone&#39;s security. There are a lot of moving parts to it, but I think they&#39;&nbsp;...
+
+- **4. Govt looking at &#39;watermarking&#39; <b>AI</b>-bred content to curb misuse - Times of India** [link](https://timesofindia.indiatimes.com/india/govt-looking-at-watermarking-ai-bred-content-to-curb-misuse/articleshow/111469066.cms)
+_Highlight:_ Krishnan also highlighted the need to address the inherent <b>bias</b> that can creep into <b>AI</b> platforms, and said this can be tackled by developing&nbsp;...
+
+- **5. An Emerging Climate Threat: Sexist <b>AI</b> Technology - The Story Exchange** [link](https://thestoryexchange.org/an-emerging-climate-threat-sexist-ai-technology/)
+_Highlight:_ “It&#39;s incredibly demeaning.” The implicit <b>bias</b> of <b>AI&#39;s</b> creators manifests in myriad ways on the consumer-facing side of things. Researchers at Capitol&nbsp;...
+
+- **6. Very Soon, Companies Will Have To Defend Their <b>AI&#39;s</b> Decisions Too | IMS Legal Strategies** [link](https://www.jdsupra.com/legalnews/very-soon-companies-will-have-to-defend-8893145/)
+_Highlight:_ In the last 30 years, <b>artificial intelligence</b> (<b>AI</b>) ... 4) Will the prevalence of powerful <b>AI</b> tools exacerbate juror hindsight <b>bias</b> issues regarding what&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
