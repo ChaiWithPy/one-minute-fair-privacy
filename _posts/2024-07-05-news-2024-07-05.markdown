@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-05 One-Minute Post
+date: 2024-07-05 12:49:08 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+NJ is pioneering AI in schools with a focus on privacy. Proton Docs, a privacy-focused Google competitor, is gaining attention. ISO/IEC 42001 is addressing AI governance and ethical concerns. Generative AI in healthcare is being revisited to avoid biases. Nandan Nilekani emphasizes unbiased AI models. NEA approves a new AI policy statement focusing on AI bias. Turkey is introducing a new AI law for safe and fair AI use. The Shanghai Declaration emphasizes fairness in AI governance. AI is being used to promote fairness and eliminate bias in the workplace.
+
+## Articles we found interesting:
+
+- **1. NJ unveils resources for using <b>AI</b> in schools as state aims to pioneer innovations** [link](https://www.eschoolnews.com/digital-learning/2024/07/05/nj-ai-schools-pioneer-innovations/)
+_Highlight:_ Education experts continue to note that safety and <b>privacy</b> concerns should remain a top priority as <b>AI</b> expands in schools.
+
+- **2. What is Proton Docs? Why you might want to give the <b>privacy</b>-focused Google competitor a chance** [link](https://www.laptopmag.com/software/work-collaboration-tools/what-is-proton-docs-why-you-might-want-to-give-the-privacy-focused-google-competitor-a-chance)
+_Highlight:_ ... <b>privacy</b>-invading <b>AI</b> models.&quot; For that reason, Proton Docs is made for everyone, not just those working with sensitive information. Look at this&nbsp;...
+
+- **3. The Rise of <b>AI</b> Governance: Unpacking ISO/IEC 42001 | Quality Magazine** [link](https://www.qualitymag.com/articles/98100-the-rise-of-ai-governance-unpacking-iso-iec-42001)
+_Highlight:_ Ethical considerations also present significant hurdles. <b>AI</b> systems can perpetuate societal biases, raise <b>privacy</b> concerns, and have unintended&nbsp;...
+
+- **4. Elusive quadruple aim revisited for the generative <b>AI</b> era - <b>AI</b> in Healthcare** [link](https://aiin.healthcare/topics/patient-care/digital-transformation/elusive-quadruple-aim-revisited-generative-ai-era)
+_Highlight:_ ... <b>AI</b> may amplify inefficiencies and <b>biases</b> in the U.S. healthcare system.” Weeks and co-authors recommend four measures for avoiding such <b>AI</b>&nbsp;...
+
+- **5. IT headcount reduction linked to lower discretionary spending, not <b>AI</b>, says Nandan Nilekani** [link](https://www.cnbctv18.com/market/it-headcount-reduction-linked-to-lower-discretionary-spending-not-ai-says-nandan-nilekani-19438154.htm)
+_Highlight:_ Nilekani spoke about the importance of creating unbiased <b>AI</b> models and training them with curated data to mitigate <b>biases</b> and hallucinations. He&nbsp;...
+
+- **6. NEA Delegates Approve New <b>AI</b> Policy Statement - National Education Association** [link](https://www.nea.org/nea-today/all-news-articles/nea-delegates-approve-new-ai-policy-statement)
+_Highlight:_ It means understanding <b>AI bias</b> and being aware of ethical considerations. “<b>Artificial intelligence</b> has evolved into a permanent fixture in our&nbsp;...
+
+- **7. New Turkish <b>AI</b> Law on the horizon** [link](https://cms-lawnow.com/en/ealerts/2024/07/new-turkish-ai-law-on-the-horizon)
+_Highlight:_ The purpose of Türkiye&#39;s Draft <b>AI</b> Law is to ensure the safe, ethical, and <b>fair</b> use of <b>AI</b> technologies with the aim of protecting personal data and&nbsp;...
+
+- **8. Full text: Shanghai Declaration on Global <b>AI</b> Governance** [link](https://www.fmprc.gov.cn/mfa_eng/zxxx_662805/202407/t20240704_11448349.html)
+_Highlight:_ ... <b>fairness</b> in the process, and encourage leveraging <b>AI</b> technologies to empower the development of human society. We believe that only through global&nbsp;...
+
+- **9. Can <b>AI</b> Be Used To Eliminate Bias, Promote DEI? - CIO Africa** [link](https://cioafrica.co/can-ai-be-used-to-eliminate-bias-promote-dei/)
+_Highlight:_ By ensuring <b>fairness</b> and equal opportunities in the workplace. While challenges exist in using <b>AI</b> for DEI, businesses can rightly overcome them and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
