@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-06 One-Minute Post
+date: 2024-07-06 13:04:06 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta AI on Facebook raises privacy concerns. New Jersey introduces AI training with heightened privacy protections. Rapid deployment of AI entrenches biases in government systems. Healthcare industry grapples with model bias in AI adoption. Singapore establishes guidelines for securing AI, addressing fairness and transparency. AI systems embedded with biases affecting fairness. Ethical dilemmas in AI technologies call for solutions to uphold fairness and transparency.
+
+## Articles we found interesting:
+
+- **1. How to turn off Meta <b>AI</b> on Facebook comment summaries - USA Today** [link](https://www.usatoday.com/story/tech/tips/2024/07/05/how-to-turn-off-meta-ai-on-facebook/74300032007/)
+_Highlight:_ ... <b>privacy</b> concerns from users who do not want what they write online fed into the Meta <b>AI</b> system for machine learning and generation. Want to opt&nbsp;...
+
+- **2. How Manufacturers Can Use <b>AI</b> to Help Manage the Workforce Shortage - JD Supra** [link](https://www.jdsupra.com/legalnews/how-manufacturers-can-use-ai-to-help-3180154/)
+_Highlight:_ Many companies are spending money on <b>artificial intelligence</b> (<b>AI</b>) to address this issue to compensate for labor shortages. ... <b>Privacy</b> Tip #404 – July&nbsp;...
+
+- **3. N.J. Unveils <b>AI</b> Training, Tool for State Government Workers** [link](https://www.govtech.com/artificial-intelligence/n-j-unveils-ai-training-tool-for-state-government-workers)
+_Highlight:_ To ensure its security, the tool is hosted on state infrastructure with heightened security and <b>privacy</b> protections. The tool does not use state data&nbsp;...
+
+- **4. New government, new approach to IT? - Computer Weekly** [link](https://www.computerweekly.com/blog/Cliff-Sarans-Enterprise-blog/New-government-new-approach-to-IT)
+_Highlight:_ “Rapid deployment of <b>AI</b> and automated decision-making systems are entrenching <b>biases</b>, leading to inaccurate, discriminatory impacts,” she says. “&nbsp;...
+
+- **5. Is the healthcare industry ready for generative <b>AI</b>? Nurses say no, Kaiser Permanente begs to differ** [link](https://venturebeat.com/ai/is-the-healthcare-industry-ready-for-generative-ai-nurses-say-no-kaiser-permanente-begs-to-differ/)
+_Highlight:_ The healthcare industry as a whole has long grappled with data governance, privacy, model <b>bias</b> and inconsistent standards in its efforts to adopt <b>AI</b>&nbsp;...
+
+- **6. <b>AI</b> and Legal Risk: A Perfect Storm | The Legal Intelligencer - Law.com** [link](https://www.law.com/thelegalintelligencer/2024/07/05/ai-and-legal-risk-a-perfect-storm/)
+_Highlight:_ Another example is the potential for there to be <b>bias</b> in the <b>AI</b> tool, which can create HR risks for companies using such tools in recruiting or&nbsp;...
+
+- **7. Singapore&#39;s security agency establishes guidelines for safe <b>AI</b> - Cryptopolitan** [link](https://www.cryptopolitan.com/singapore-guidelines-for-securing-ai/)
+_Highlight:_ The guidelines will address issues like bias, <b>fairness</b> and transparency in <b>AI</b> systems. Ensuring ethical use of <b>AI</b> technologies is essential to&nbsp;...
+
+- **8. <b>AI</b> Bias: Causes, Impacts, and Mitigation Strategies - Analytics Insight** [link](https://www.analyticsinsight.net/artificial-intelligence/ai-bias-causes-impacts-and-mitigation-strategies)
+_Highlight:_ Nevertheless, it has also been discovered that some <b>AI</b> systems have embedded biases that have important consequences affecting the results, <b>fairness</b>,&nbsp;...
+
+- **9. The Rise of Evolved <b>Artificial Intelligence</b> Technologies - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/07/06/the-rise-of-evolved-artificial-intelligence-technologies/)
+_Highlight:_ Solutions must be sought to navigate these ethical dilemmas and uphold standards of <b>fairness</b> and transparency in <b>AI</b> applications. Advantages and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
