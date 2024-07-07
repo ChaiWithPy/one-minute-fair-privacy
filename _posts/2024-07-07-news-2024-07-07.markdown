@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2024-07-07 One-Minute Post
+date: 2024-07-07 12:59:14 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Tether CEO Paolo Ardoino is developing decentralized AI models to enhance security and privacy. Meanwhile, Google and Meta highlight the risks of AI infringing upon user privacy, potentially leading to regulatory scrutiny and fines. On the other hand, Saudi Arabia is committing to ethical AI development and global governance, emphasizing the importance of AI ethics, including integrity, fairness, privacy, and security. Additionally, there are new developments addressing bias, accountability, and ethical considerations in AI applications, with a focus on inclusivity and diversity in AI technology development.
+
+## Articles we found interesting:
+
+- **1. Tether CEO Paolo Ardoino Reveals How OpenAI Hack Could Have Been Prevented** [link](https://beincrypto.com/tether-develops-ai-models/)
+_Highlight:_ Tether is developing decentralized <b>AI</b> models to enhance security and <b>privacy</b>, according to CEO Paolo Ardoino. ... <b>artificial intelligence</b> (<b>AI</b>)&nbsp;...
+
+- **2. Google and Meta note risks of <b>AI</b> for business - Daryo.uz** [link](https://daryo.uz/en/2024/07/07/google-and-meta-note-risks-of-ai-for-business)
+_Highlight:_ ... <b>AI</b> applications. The use of <b>AI</b> could infringe upon user <b>privacy</b>, leading to regulatory scrutiny and potential fines. Meta has emphasized the risks&nbsp;...
+
+- **3. <b>AI</b> eyes of roads that can spy inside cars pose threat to <b>privacy</b> - Interesting Engineering** [link](https://interestingengineering.com/innovation/ai-speed-cameras-can-spy)
+_Highlight:_ <b>AI</b>-powered speed cameras will address distracted driving by detecting mobile phone use, seatbelt violations, and more.
+
+- **4. Technology&#39;s Influence On Humanity | New Sarawak Tribune** [link](https://www.newsarawaktribune.com.my/technologys-influence-on-humanity/)
+_Highlight:_ Furthermore, “The Age of <b>AI</b>” underscores the importance of inclusivity and diversity in the development of <b>AI</b> technology. By highlighting the <b>biases</b>&nbsp;...
+
+- **5. New Developments in <b>Artificial Intelligence</b> and Technology - Smartphone Magazine -** [link](https://smartphonemagazine.nl/en/2024/07/07/new-developments-in-artificial-intelligence-and-technology/)
+_Highlight:_ ... <b>AI</b> addresses concerns regarding <b>bias</b>, accountability, and ethical considerations in <b>AI</b> applications. Additionally, quantum computing emerges as a&nbsp;...
+
+- **6. This <b>AI</b> Paper from NYU and Meta <b>AI</b> Introduces LIFT: Length-Instruction Fine-Tuning for ...** [link](https://www.marktechpost.com/2024/07/06/this-ai-paper-from-nyu-and-meta-ai-introduces-lift-length-instruction-fine-tuning-for-enhanced-control-and-quality-in-instruction-following-llms/)
+_Highlight:_ This <b>bias</b> arises because human evaluators and training algorithms favor longer responses, leading to models that generate unnecessarily lengthy&nbsp;...
+
+- **7. Saudi Arabia commits to ethical <b>AI</b> development and global governance** [link](https://saudigazette.com.sa/article/644063/SAUDI-ARABIA/Saudi-Arabia-commits-to-ethical-AI-development-and-global-governance)
+_Highlight:_ ... <b>AI</b> initiatives both locally and internationally. He stressed the importance of <b>AI</b> ethics, including integrity, <b>fairness</b>, privacy, security&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
