@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-08 One-Minute Post
+date: 2024-07-08 12:50:42 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple's AI push raises privacy concerns. Tether aims for localized AI to protect user privacy. AppsFlyer gears up for privacy-focused marketing. Georgia AI program educates kids on bias in policing. AI chat platforms uncover bias in job applicant evaluation. Implementing generative AI in manufacturing raises fairness and ethical considerations. Experts emphasize fairness and equal opportunities in AI ethics.
+
+## Articles we found interesting:
+
+- **1. Apple&#39;s mad <b>AI</b> dash could end in a <b>privacy</b> faceplant | Macworld** [link](https://www.macworld.com/article/2381684/apples-mad-ai-dash-could-end-in-a-privacy-faceplant.html)
+_Highlight:_ Apple&#39;s mad <b>AI</b> dash could end in a <b>privacy</b> faceplant. All the news, rumors, and tips you missed last week. Apple Breakfast. By David Price, Editor&nbsp;...
+
+- **2. Locally Executable <b>AI</b> Could Protect User <b>Privacy</b> and Ensure Independence: Tether CEO** [link](https://cryptonews.com/news/locally-executable-ai-could-protect-user-privacy-and-ensure-independence-tether-ceo.htm)
+_Highlight:_ Tether is aiming to create decentralized, localized <b>AI</b> solutions, which can run on personal devices, enhancing the <b>privacy</b> and control.
+
+- **3. AppsFlyer&#39;s APAC chief on gearing up for the <b>privacy</b>-conscious marketing era | Analysis** [link](https://www.campaignasia.com/article/appsflyers-apac-chief-on-gearing-up-for-the-privacy-conscious-marketing-era/497022)
+_Highlight:_ AppsFlyer has also acquired Oolo, an <b>AI</b>-powered user acquisition and monetisation platform, adding it to its marketplace. Oolo analyses live app data&nbsp;...
+
+- **4. Georgia <b>artificial intelligence</b> program teaches kids about <b>bias</b> in policing - WRDW** [link](https://www.wrdw.com/2024/07/07/georgia-artificial-intelligence-program-teaches-kids-about-bias-policing/)
+_Highlight:_ Four-week summer&nbsp;...
+
+- **5. &#39;<b>AI</b> for Black Kids&#39; teaching about <b>bias</b> in policing - Augusta - WRDW** [link](https://www.wrdw.com/video/2024/07/07/ai-black-kids-teaching-about-bias-policing/)
+_Highlight:_ &#39;<b>AI</b> for Black Kids&#39;&nbsp;...
+
+- **6. Does <b>AI</b> Help Humans Make Better Decisions? - The Good Men Project** [link](https://goodmenproject.com/featured-content/does-ai-help-humans-make-better-decisions/)
+_Highlight:_ “A lot of researchers have focused on whether the algorithm has a <b>bias</b> or <b>AI</b> has a <b>bias</b>,” noted co-author Kosuke Imai, professor of government and&nbsp;...
+
+- **7. <b>AI</b> chat platforms uncover bias in job applicant evaluation - menafn** [link](https://menafn.com/1108417126/AI-chat-platforms-uncover-bias-in-job-applicant-evaluation)
+_Highlight:_ Researchers cautioned that unless these biases are addressed and mitigated, there could be significant implications for <b>fairness</b> in hiring decisions,&nbsp;...
+
+- **8. Challenges and Ethical Considerations of Implementing Generative <b>AI</b> in Manufacturing** [link](https://www.automationworld.com/factory/digital-transformation/article/55092052/challenges-and-ethical-considerations-of-implementing-generative-ai-in-manufacturing)
+_Highlight:_ Ensuring <b>fairness</b> and transparency &middot; Bias in <b>AI</b> models—<b>AI</b> systems can inadvertently learn and perpetuate biases present in training data, leading to&nbsp;...
+
+- **9. Ethics in <b>AI</b>: Moral or commercial interest? | Ctech** [link](https://www.calcalistech.com/ctechnews/article/s13vvlkw0)
+_Highlight:_ Experts are looking to address the fundamental issues of fairness and equal opportunities involved in the use of AI. ... <b>fair AI</b> practices, but it also&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
