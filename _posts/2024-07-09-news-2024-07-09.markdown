@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-09 One-Minute Post
+date: 2024-07-09 12:52:10 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Microsoft's Xandr ad-tech subsidiary is under fire for inaccurate data, while Citi advises taking profits in AI highfliers. Concerns over AI safety, privacy, and deepfakes are growing, prompting the need for threat modeling in AI products. China is advocating for international cooperation on AI to address bias and privacy risks. Major tech companies are warning of AI risks, including biased datasets, in SEC filings. AI and big data governance face challenges in ensuring fairness and preventing discrimination. Addressing AI bias is crucial for HR leaders to achieve better outcomes and foster trust.
+
+## Articles we found interesting:
+
+- **1. Microsoft ad-tech subsidiary is breaking EU law—and not doing right by advertisers, <b>privacy</b> ...** [link](https://fortune.com/2024/07/09/privacy-activists-europe-noyb-microsoft-xandr-rtb-gdpr-schrems/)
+_Highlight:_ Microsoft&#39;s Xandr holds loads of inaccurate and conflicting data about people, casting the accuracy of its ad targeting into doubt,&nbsp;...
+
+- **2. Citi says take profits in <b>AI</b> &#39;highfliers,&#39; gives safe alternatives if tech shares start to fall - CNBC** [link](https://www.cnbc.com/2024/07/09/citi-says-take-profits-in-ai-highfliers-gives-safe-alternatives-if-tech-shares-start-to-fall.html)
+_Highlight:_ It&#39;s time for investors to consider taking profits in some high-flying <b>artificial intelligence</b> names, according to Citi.
+
+- **3. <b>AI</b>: Get <b>AI&#39;s</b> mojo back intelligently - The Economic Times** [link](https://m.economictimes.com/opinion/et-commentary/get-ais-mojo-back-intelligently/articleshow/111586226.cms)
+_Highlight:_ As <b>AI</b> emerged, it was met with optimism, but soon concerns over <b>AI</b> safety, explainability, data <b>privacy</b>, and deepfakes overshadowed the excitement&nbsp;...
+
+- **4. How CISOs can apply threat modelling to <b>AI</b> products in four steps - TechRadar** [link](https://www.techradar.com/pro/how-cisos-can-apply-threat-modelling-to-ai-products-in-four-steps)
+_Highlight:_ This requires thinking beyond accidental errors and focusing on stopping deliberate attacks, <b>biased</b> outputs, and the potential for manipulation. By&nbsp;...
+
+- **5. Opinion | Why China is pushing so hard for international cooperation on <b>AI</b>** [link](https://www.scmp.com/opinion/china-opinion/article/3269571/why-china-pushing-so-hard-international-cooperation-ai)
+_Highlight:_ ... <b>AI</b> safety. Attendees discussed key risks in <b>AI</b> such as <b>bias</b>, infringement on intellectual property rights and private data, military use and&nbsp;...
+
+- **6. Major Tech Companies Are Quietly Warning of <b>A.I.</b> Risks in SEC Filings | Observer** [link](https://observer.com/2024/07/tech-companies-warning-ai-risks-sec-filings/)
+_Highlight:_ <b>Biased</b> datasets. A surge in copyright infringement claims. These are just some of the scenarios major tech companies have put forward as potential&nbsp;...
+
+- **7. <b>AI</b> and Big Data Governance: Challenges and Top Benefits - AiThority** [link](https://aithority.com/machine-learning/ai-and-big-data-governance-challenges-and-top-benefits/)
+_Highlight:_ <b>Fairness</b> ensures that <b>AI</b> systems do not reflect bias or result in discrimination. This is the principle that will assure stakeholders about the&nbsp;...
+
+- **8. A Survey of Controllable Learning: Methods, Applications, and Challenges in Information Retrieval** [link](https://www.marktechpost.com/2024/07/09/a-survey-of-controllable-learning-methods-applications-and-challenges-in-information-retrieval/)
+_Highlight:_ ... <b>AI</b> models, ensuring aspects like security, <b>fairness</b>, and interpretability. This technique effectively ensures the system meets specific&nbsp;...
+
+- **9. Why addressing <b>AI</b> bias is mission critical for HR leaders | UNLEASH** [link](https://www.unleash.ai/artificial-intelligence/why-addressing-ai-bias-is-mission-critical-for-hr-leaders/)
+_Highlight:_ All of this means that addressing bias in <b>AI</b> is not just about <b>fairness</b>; it&#39;s about achieving better outcomes, fostering trust, and ensuring an&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
