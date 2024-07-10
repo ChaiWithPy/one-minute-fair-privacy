@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-07-10 One-Minute Post
+date: 2024-07-10 12:58:48 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Republicans aim to repeal Biden's AI executive order, sparking concerns. Lawmaker proposes regulations for AI-generated robocalls. Telefónica updates AI principles for ethical use. Businesses face pressure as generative AI raises bias issues. Kenyan creatives embrace AI while expressing concerns over bias and intellectual property. AI's personalized pricing raises worries about bias and inflation.
+
+## Articles we found interesting:
+
+- **1. Republicans&#39; Vow to Repeal Biden&#39;s <b>AI</b> Executive Order Has Some Experts Worried - Time** [link](https://time.com/6996927/republicans-repeal-biden-ai-executive-order/)
+_Highlight:_ Republicans&#39; new party platform vows to repeal Biden&#39;s executive order on <b>artificial intelligence</b>. Some experts are worried.
+
+- **2. Lawmaker looks to update standards for <b>AI</b>-generated robocalls - Nextgov/FCW** [link](https://www.nextgov.com/artificial-intelligence/2024/07/lawmaker-looks-update-standards-ai-generated-robocalls/397927/)
+_Highlight:_ A new proposal from Rep. Rick Allen, R-Ga., would make calls created by <b>artificial intelligence</b> tools “subject to the same regulations and&nbsp;...
+
+- **3. We have updated our <b>artificial intelligence</b> principles - Telefónica** [link](https://www.telefonica.com/en/communication-room/blog/we-have-updated-our-artificial-intelligence-principles/)
+_Highlight:_ We have strengthened our commitment to the ethical and responsible use of <b>artificial intelligence</b> (<b>AI</b>) throughout the organisation,&nbsp;...
+
+- **4. Businesses are being pressed to do things right as generative <b>AI</b> gains momentum** [link](https://financialpost.com/technology/businesses-pressed-do-things-right-generative-ai)
+_Highlight:_ ... <b>AI</b> system to scan resumes that was clearly <b>biased</b> against women. “And when these (<b>AI</b>) models are exhibiting <b>bias</b>, chances are, their organizations&nbsp;...
+
+- **5. Kenyan Creatives Embrace <b>AI</b> Amid Concerns Over <b>Bias</b> and Intellectual Property** [link](https://tech-ish.com/2024/07/10/kenyan-creatives-embrace-ai-amid-concerns-over-bias-and-intellectual-property/)
+_Highlight:_ Kenyan creatives embrace <b>AI</b> for efficiency but fear job loss, cultural <b>bias</b>, and IP issues, urging robust policies and ethical development.
+
+- **6. <b>AI</b> Is Quietly Being Used to Pick Your Pocket With Personalized Pricing - Business Insider** [link](https://www.businessinsider.com/ai-quietly-picking-your-pocket-with-personalized-pricing-2024-7)
+_Highlight:_ Personalized pricing not only bakes in <b>bias</b> and can drive inflation but creates a world where you never know when your apps are ripping you off.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
