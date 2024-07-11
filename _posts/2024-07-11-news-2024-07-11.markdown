@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-11 One-Minute Post
+date: 2024-07-11 12:52:02 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta AI raises privacy concerns, Samsung to launch Bixby with its own AI, gen AI's potential for economic boost, algorithmic bias challenges AI perception, ESG guide for addressing biases in generative AI, Etsy doubles down on pro-AI art policies, ethical considerations and frameworks for fair AI deployment, and advancing transparency and fairness in AI for health equity.
+
+## Articles we found interesting:
+
+- **1. SFLC.in flags <b>privacy</b> concerns around Meta <b>AI</b> to MeitY - MediaNama** [link](https://www.medianama.com/2024/07/223-sflc-flags-privacy-concerns-meta-ai-meity/)
+_Highlight:_ In its letter to IT Minister, the legal services organisation pointed out that the Meta <b>AI</b> rollout &#39;enormous risks to <b>privacy</b>&#39;.
+
+- **2. Samsung to launch upgraded voice assistant Bixby this year with its own <b>AI</b> - CNBC** [link](https://www.cnbc.com/2024/07/11/samsung-to-launch-upgraded-bixby-this-year-with-its-own-ai.html)
+_Highlight:_ Samsung will launch an upgraded version of its voice assistant Bixby this year based on its own <b>artificial intelligence</b> models, mobile chief TM&nbsp;...
+
+- **3. The gen <b>AI</b> gender gap - Bank for International Settlements** [link](https://www.bis.org/publ/work1197.htm)
+_Highlight:_ Generative <b>artificial intelligence</b> (gen <b>AI</b>) holds the potential to boost economic activity. Evidence suggests it makes workers more productive,&nbsp;...
+
+- **4. The Changing Perception of <b>Artificial Intelligence</b> - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/07/10/the-changing-perception-of-artificial-intelligence-2/)
+_Highlight:_ Algorithmic <b>Bias</b> and Fairness: One of the primary challenges facing <b>AI</b> systems is the presence of <b>biases</b> in algorithms, leading to discriminatory&nbsp;...
+
+- **5. Guide to addressing ESG impacts in generative <b>AI</b> deployment - Allens** [link](https://www.allens.com.au/insights-news/insights/2024/06/guide-to-addressing-esg-impacts-in-generative-ai-deployment/)
+_Highlight:_ <b>Bias</b> and discrimination. If not properly managed, generative <b>AI</b> may inadvertently perpetuate or exacerbate existing <b>biases</b> present in the training&nbsp;...
+
+- **6. Etsy Doubles Down on Pro-<b>AI</b> Art Policies Despite Calls for <b>AI</b> Ban | PCMag** [link](https://www.pcmag.com/news/etsy-doubles-down-on-pro-ai-art-policies-despite-calls-for-ai-ban)
+_Highlight:_ Etsy admits that &quot;ethical questions&quot; around <b>AI</b> being trained on copyrighted works are a concern for some. It also notes that &quot;<b>bias</b>&quot; and <b>AI&#39;s</b>&nbsp;...
+
+- **7. Ethical Considerations in Deploying <b>AI</b> Algorithms: Case Studies and Frameworks - MSN** [link](http://www.msn.com/en-us/news/technology/ethical-considerations-in-deploying-ai-algorithms-case-studies-and-frameworks/ar-BB1pELwD%3Focid%3DBingNewsSerp%26apiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1)
+_Highlight:_ <b>Fairness</b> is a must in <b>AI</b>, which involves developing metrics and techniques for equitable outcomes across diverse user groups. <b>AI</b> systems must operate&nbsp;...
+
+- **8. Navigating the New Data Norms with Ethical Guardrails for Ethical <b>AI</b>** [link](https://www.dqindia.com/opinion/navigating-the-new-data-norms-with-ethical-guardrails-for-ai-5997358)
+_Highlight:_ Ethical <b>AI</b> in the digital age ensures trust, privacy, and <b>fairness</b>. Organizations must balance innovation with responsibility for a sustainable,&nbsp;...
+
+- **9. Advancing transparency, <b>fairness</b> in <b>AI</b> to boost health equity | TechTarget** [link](https://www.techtarget.com/healthtechanalytics/feature/Advancing-transparency-fairness-in-AI-to-boost-health-equity)
+_Highlight:_ Explore how <b>fairness</b> in clinical algorithms, including <b>AI</b> and machine learning, can help mitigate race-based health inequity.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
