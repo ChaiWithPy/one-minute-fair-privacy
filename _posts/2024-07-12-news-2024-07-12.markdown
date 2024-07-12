@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-07-12 One-Minute Post
+date: 2024-07-12 12:50:57 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Senators propose new regulations for AI privacy and transparency. Zurich Insurance commits to responsible AI use with a focus on data privacy. AI copilots mitigate transportation risk and eliminate bias with exhaustive KPI tracking. ServiceNow emphasizes the importance of addressing bias in AI with customer-supported research and design programs.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> Briefing: Senators propose new regulations for <b>privacy</b>, transparency and copyright protections** [link](https://digiday.com/media/ai-briefing-senators-propose-new-regulations-for-privacy-transparency-and-copyright-protections/)
+_Highlight:_ ... <b>AI</b> and <b>privacy</b>. While some lawmakers expressed concern about <b>AI</b> accelerating risks – such as online surveillance, scams, hyper-targeting ads and&nbsp;...
+
+- **2. Data and Responsible <b>AI</b> Commitment | Zurich Insurance** [link](https://www.zurich.com/en/sustainability/data-and-responsible-ai-commitment)
+_Highlight:_ Safety: Our use of <b>AI</b> is governed by our risk management framework including data <b>privacy</b> and protection, and taking into consideration industry best&nbsp;...
+
+- **3. Biggest risks of gen <b>AI</b> in your private life: ChatGPT, Gemini, Copilot - CNBC** [link](https://www.cnbc.com/2024/07/12/biggest-risks-of-gen-ai-in-your-private-life-chatgpt-gemini-copilot.html)
+_Highlight:_ The tools have different <b>privacy</b> policies related to the use and retention of user data, and various opt-out options, so being an informed consumer is&nbsp;...
+
+- **4. How <b>AI</b> copilots are mitigating transportation risk, enhancing delivery agility | ITWeb** [link](https://www.itweb.co.za/article/how-ai-copilots-are-mitigating-transportation-risk-enhancing-delivery-agility/KA3WwqdzjDo7rydZ)
+_Highlight:_ The emergence of <b>AI</b> ... <b>AI</b> copilots come with exhaustive KPI tracking that eliminates the risk of missed issues or subjective <b>bias</b>, driving data-driven&nbsp;...
+
+- **5. The case for coding automated vehicles with human values - Monash Lens** [link](https://lens.monash.edu/%40politics-society/2024/07/12/1386795/the-case-for-coding-automated-vehicles-with-human-values)
+_Highlight:_ Drivers&#39; exposure to AV failures can counter automation <b>bias</b>, and when combined with demanding increased transparency in <b>AI</b> system decision-making&nbsp;...
+
+- **6. ServiceNow&#39;s 4 key <b>AI</b> principles and why they matter to your business | ZDNET** [link](https://www.zdnet.com/article/servicenows-4-key-ai-principles-and-why-they-matter-to-your-business/)
+_Highlight:_ ... <b>bias</b> in <b>AI</b>. All of this is underscored by our broad-based, customer-supported <b>AI</b> research and design program that puts, and keeps, inclusivity at&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
