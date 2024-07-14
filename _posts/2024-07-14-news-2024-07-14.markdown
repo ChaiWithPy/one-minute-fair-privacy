@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-14 One-Minute Post
+date: 2024-07-14 12:56:28 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California's Privacy Protection Agency is gaining unchecked authority over AI. Meanwhile, concerns about AI bias and fairness are rising, with Workday facing a lawsuit over alleged bias in its AI screening tools. Legislation is being proposed in the US Congress to protect human-created content from AI misuse. The ethical implications of AI and machine learning in financial technology are being explored, particularly focusing on fairness and bias. Efforts are also being made to unbias fairness evaluation of radiology AI models, addressing concerns about fairness in AI and machine learning models.
+
+## Articles we found interesting:
+
+- **1. California <b>Privacy</b> Protection Agency&#39;s unchecked authority on <b>artificial intelligence</b>** [link](https://www.ocregister.com/2024/07/14/california-privacy-protection-agencys-unchecked-authority-on-artificial-intelligence/)
+_Highlight:_ The governor&#39;s vision of an “ethical, transparent, and trustworthy <b>AI</b>” requires that its development genuinely involves all stakeholders—all&nbsp;...
+
+- **2. Scared of <b>AI</b>? It won&#39;t replace humans - Daily Monitor** [link](https://www.monitor.co.ug/uganda/oped/letters/scared-of-ai-it-won-t-replace-humans-4690024)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) refers to computer systems capable of ... Some of the biggest risks today include things like consumer <b>privacy</b>&nbsp;...
+
+- **3. Hunting for <b>AI</b> bots? These four words could do the trick - NBC News** [link](https://www.nbcnews.com/tech/internet/hunting-ai-bots-four-words-trick-rcna161318)
+_Highlight:_ <b>AI</b> bots have been targeted by the phrase &quot;Ignore all previous ... Your <b>Privacy</b> Choices; CA Notice &middot; Terms of Service (Updated JULY 7, 2023)&nbsp;...
+
+- **4. What are the risks of <b>Artificial Intelligence</b>? Dangers of <b>AI</b> technology - AS USA - Diario AS** [link](https://en.as.com/latest_news/what-are-the-risks-of-artificial-intelligence-dangers-of-ai-technology-n/)
+_Highlight:_ There is also the risk of <b>bias</b> in <b>AI</b> systems as they are taught by humans, so depending on the data that is fed into the training program what the <b>AI</b>&nbsp;...
+
+- **5. Workday Loses Bid to Toss <b>Bias</b> Claims Over <b>AI</b> Screening Tools - Bloomberg Law News** [link](https://news.bloomberglaw.com/us-law-week/workday-loses-bid-to-toss-bias-claims-over-ai-screening-tools)
+_Highlight:_ Workday Inc. must defend against a lawsuit alleging its algorithmic decision-making tools discriminate against job applicants who are Black,&nbsp;...
+
+- **6. Emerging Trends in <b>AI</b> Ecosystems - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/07/13/emerging-trends-in-ai-ecosystems/)
+_Highlight:_ **Impact on employment:** How will the proliferation of <b>AI</b> technologies affect job markets and workforce dynamics? 4. **<b>Bias</b> and transparency:** How&nbsp;...
+
+- **7. Legislation to Protect Human-Created Content from <b>AI</b> Misuse Proposed in US Congress** [link](https://elblog.pl/2024/07/13/legislation-to-protect-human-created-content-from-ai-misuse-proposed-in-us-congress/)
+_Highlight:_ Individuals whose legally created content is misused by <b>AI</b> without consent or <b>fair</b> compensation would have the right to sue responsible companies or&nbsp;...
+
+- **8. Exploring the Ethical Implications of <b>AI</b> and Machine Learning in Financial Technology** [link](https://techbullion.com/exploring-the-ethical-implications-of-ai-and-machine-learning-in-financial-technology/)
+_Highlight:_ <b>Fairness</b> and Bias. One of the most significant ethical concerns is the potential for bias in <b>AI</b> and ML algorithms. Bias can arise from the data used&nbsp;...
+
+- **9. Unbiasing <b>fairness</b> evaluation of radiology <b>AI</b> model - ScienceDirect.com** [link](https://www.sciencedirect.com/science/article/pii/S2950162824000377)
+_Highlight:_ <b>Fairness</b> of <b>artificial intelligence</b> and machine learning models, often caused by imbalanced datasets, has long been a concern. While many efforts aim&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
