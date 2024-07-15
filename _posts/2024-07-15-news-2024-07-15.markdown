@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-15 One-Minute Post
+date: 2024-07-15 12:52:24 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+IMDA releases a guide on privacy-enhancing technology in AI. Ad execs raise concerns over Google's Privacy Sandbox terms. Meanwhile, a new smartwatch raises questions about AI bias. Microsoft and Apple withdraw from OpenAI board amid AI scrutiny. Blockchain is being explored to address AI's transparency and fairness issues. The UK government is navigating AI legislation to balance innovation and risk.
+
+## Articles we found interesting:
+
+- **1. &#39;Safety labels&#39; that clearly indicate <b>AI</b> risks and testing to be looked at: Josephine Teo** [link](https://www.straitstimes.com/tech/safety-labels-to-clearly-state-ai-risks-and-testing-in-discussion-josephine-teo)
+_Highlight:_ IMDA also released a guide on <b>privacy</b>-enhancing technology in <b>AI</b>, which Mrs Teo said will help to address growing demands for more data to train <b>AI</b>&nbsp;...
+
+- **2. Jefferies names &#39;yet-to-be discovered <b>AI</b> play&#39; in Taiwan, giving it 42% upside potential** [link](https://www.cnbc.com/2024/07/15/jefferies-names-yet-to-be-discovered-ai-play-in-taiwan-giving-it-42percent-upside-potential.html)
+_Highlight:_ <b>Privacy</b> Policy; California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices; CA Notice &middot; Terms of Service. © 2024 CNBC LLC. All Rights&nbsp;...
+
+- **3. Ad execs sound the alarm over Google&#39;s risky <b>Privacy</b> Sandbox terms - Digiday** [link](https://digiday.com/marketing/ad-execs-sound-the-alarm-over-googles-risky-privacy-sandbox-terms/)
+_Highlight:_ ... <b>Privacy</b> Sandbox Task Force. ... More in Marketing. View More &middot; Generative <b>AI</b> &middot; &#39;Everything is <b>AI</b> now&#39;: Amid <b>AI</b> boom, agencies navigate data security,&nbsp;...
+
+- **4. Where am <b>AI</b>? - The Malaysian Reserve** [link](https://themalaysianreserve.com/2024/07/15/where-am-ai/)
+_Highlight:_ MONTHS ago, my better half bought a smart watch for one&#39;s use. Very handy this — the <b>artificial intelligence</b> (<b>AI</b>) ... <b>bias</b>, decided to let it be and&nbsp;...
+
+- **5. Insider Today: Picking your pocket** [link](https://www.businessinsider.in/tech/news/insider-today-picking-your-pocket/articleshow/111732690.cms)
+_Highlight:_ Tesla&#39;s self-driving <b>bias</b>. ... — Michael Guan, CEO and cofounder of Final Round <b>AI</b>, whose <b>AI</b> &quot;magical teleprompter&quot; can help people ace job interviews.
+
+- **6. Is this the Intergovernmental Panel on Climate Change for <b>AI</b>? - Technical mitigants - Part 3** [link](https://www.gtlaw.com.au/knowledge/intergovernmental-panel-climate-change-ai-technical-mitigants-part-3)
+_Highlight:_ As to how to address <b>bias</b>, the interim report observes “[i]t is debated whether general-purpose <b>AI</b> systems can ever be completely &#39;fair&#39;”, but there&nbsp;...
+
+- **7. Microsoft, Apple Withdraw from OpenAI Board Amid <b>AI</b> Scrutiny - VoIP Review** [link](https://voip.review/2024/07/15/microsoft-apple-withdraw-openai-board-amid-ai-scrutiny/)
+_Highlight:_ Ethical concerns surrounding <b>AI</b> include bias, <b>fairness</b>, and accountability. Multiple scandals reveal <b>AI</b> responses being manipulated for wrongful&nbsp;...
+
+- **8. Can blockchain address <b>AI&#39;s</b> transparency issues? - Crypto News** [link](https://crypto.news/can-blockchain-address-ais-transparency-issues/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) is revolutionizing various sectors by ... <b>fairness</b>. The “black box” nature typical in most <b>AI</b> systems often&nbsp;...
+
+- **9. Navigating the UK&#39;s <b>AI</b> legislation: Balancing innovation and managing risk - ITN Business** [link](https://business.itn.co.uk/navigating-the-uks-ai-legislation-balancing-innovation-and-managing-risk/)
+_Highlight:_ ... <b>fairness</b>. The government&#39;s <b>AI</b> Regulation White Paper, published in March 2023, laid the groundwork for this principles-based framework, which is&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
