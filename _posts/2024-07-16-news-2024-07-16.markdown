@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-07-16 One-Minute Post
+date: 2024-07-16 12:52:45 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+EU's AI Act becomes law, set to apply from 2026. FINRA seeks feedback on AI tool regulations. Meta faces complaint for scraping user data for AI. New York mandates insurers to test AI for bias. HP introduces AI Studio to combat bias in models.
+
+## Articles we found interesting:
+
+- **1. Data <b>Privacy</b> Newsletter - Issue 25 - Slaughter and May** [link](https://www.slaughterandmay.com/insights/new-insights/data-privacy-newsletter-issue-25/)
+_Highlight:_ LEGAL UPDATES. EU <b>Artificial Intelligence</b> Act passes into law. The EU&#39;s <b>AI</b> Act will come into force on 1 August and will apply from 2 August 2026,&nbsp;...
+
+- **2. FINRA issues regulatory guidance on members using generative <b>AI</b> tools - JD Supra** [link](https://www.jdsupra.com/legalnews/finra-issues-regulatory-guidance-on-9766163/)
+_Highlight:_ ... <b>privacy</b> and integrity, reliability and accuracy of the <b>AI</b> model.” FINRA noted it welcomes feedback on how it could update its rules to address the&nbsp;...
+
+- **3. UK watchdog gets complaint of Meta scraping user data for <b>AI</b> - The Register** [link](https://www.theregister.com/2024/07/16/campaign_group_complains_to_uk/)
+_Highlight:_ ... <b>privacy</b> policy which allows it to scrape user data to develop <b>AI</b> models. Open Rights Group (ORG), a UK-based membership organization that&nbsp;...
+
+- **4. Insurers must test <b>AI</b> for <b>bias</b>, New York State says - Newsday** [link](https://www.newsday.com/business/dfs-ai-discrimination-rules-nxpm3m3q)
+_Highlight:_ Insurers must test <b>AI</b> for <b>bias</b>, New York State says. DFS Superintendent Adrienne Harris said insurance companies cannot use <b>AI</b>... DFS&nbsp;...
+
+- **5. HP Takes <b>AI</b> Leadership to the Next Level** [link](https://www.hp.com/us-en/newsroom/press-releases/2024/HP-Takes-AI-Leadership-to-the-Next-Level.html)
+_Highlight:_ ... <b>bias</b> in models in Z by HP <b>AI</b> Studio; Introducing the first HP OmniBook Ultra, the world&#39;s highest performance <b>AI</b> PC<sup>1</sup> with up to an industry-leading&nbsp;...
+
+- **6. HP is here to combat hallucinations and <b>bias</b> when making <b>AI</b> models - Windows Central** [link](https://www.windowscentral.com/hardware/computers-desktops/hp-is-here-to-combat-hallucinations-and-bias-when-making-ai-models)
+_Highlight:_ ... <b>bias</b> in <b>AI</b> models. The integration of Z by HP <b>AI</b> Studio with Galileo makes that <b>AI</b> development platform the first to integrate a trust framework&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
