@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-17 One-Minute Post
+date: 2024-07-17 12:45:18 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The rapid advancement of AI technology is driving the urgent need for federal privacy laws. Meanwhile, concerns over bias in AI systems are growing, with language and gender bias affecting search results. Organizations are emphasizing the responsible and fair use of AI, with a focus on addressing bias in training data and ensuring fairness and impartiality in AI systems. As the industry grapples with these challenges, the DOE has announced a roadmap for AI initiatives that prioritize safety, security, trustworthiness, and privacy. In this evolving landscape, policymakers are pushing for privacy legislation despite opposition, underscoring the complex interplay between AI, privacy, and fairness.
+
+## Articles we found interesting:
+
+- **1. Advancement of <b>AI</b> is Accelerating the Need for a Federal <b>Privacy</b> Law - The HIPAA Journal** [link](https://www.hipaajournal.com/advancement-of-ai-is-accelerating-the-need-for-federal-privacy-law/)
+_Highlight:_ Now, with the rapid advancement of <b>AI</b> technologies, federal data <b>privacy</b> protections are an even more pressing matter. Get The FREE HIPAA Compliance&nbsp;...
+
+- **2. Cantwell says she&#39;ll cut path for <b>privacy</b> bill despite opposition - Roll Call** [link](https://rollcall.com/2024/07/17/cantwell-says-shell-cut-path-for-privacy-bill-despite-opposition/)
+_Highlight:_ In the absence of a federal <b>privacy</b> law, 18 states have enacted <b>privacy</b> ... <b>AI</b> systems as early as 2026,” Cantwell said. “So without a strong&nbsp;...
+
+- **3. DOE Announces Roadmap for New Initiative for <b>Artificial Intelligence</b> in Science, Security ...** [link](https://www.energy.gov/articles/doe-announces-roadmap-new-initiative-artificial-intelligence-science-security-and)
+_Highlight:_ ... <b>AI</b> systems at scale and promote safety, security, trustworthiness, and <b>privacy</b>. DOE has already demonstrated early successes with <b>AI</b> for&nbsp;...
+
+- **4. The answer to your Google search may depend on where you live - Harvard Gazette** [link](https://news.harvard.edu/gazette/story/2024/07/the-answer-to-your-google-search-may-depend-on-where-you-live/)
+_Highlight:_ Why is language <b>bias</b> showing up in <b>AI</b>-powered searches? ... <b>Biases</b> in existing training data are unavoidable — issues with gender <b>bias</b> and racial <b>bias</b>&nbsp;...
+
+- **5. Goldman Sachs On Generative <b>AI</b>: It&#39;s Complicated - ETF Trends** [link](https://www.etftrends.com/goldman-sachs-generative-ai-complicated/)
+_Highlight:_ Generative <b>AI</b> in its current iteration faces a number of notable limitations. From concerns over <b>bias</b> and overtly incorrect responses to outright&nbsp;...
+
+- **6. Considerations for the Responsible Use of Generative <b>AI</b> in Healthcare** [link](https://healthtechmagazine.net/article/2024/07/considerations-responsible-use-generative-ai-healthcare)
+_Highlight:_ However, many generative <b>AI</b> tools out there lack transparency regarding the data sets they&#39;re trained on, which could lead to <b>biases</b>. As the industry&nbsp;...
+
+- **7. How To Craft A Company Policy For The Acceptable Use Of <b>AI</b> - Forbes** [link](https://www.forbes.com/sites/forbestechcouncil/2024/07/15/how-to-craft-a-company-policy-for-the-acceptable-use-of-ai/)
+_Highlight:_ <b>Fairness</b>: <b>Fairness</b> in <b>AI</b> involves addressing bias in training data to ensure that <b>AI</b> systems treat all individuals fairly and impartially. As&nbsp;...
+
+- **8. Data Curation Practices to Minimize Bias in Medical <b>AI</b> | by Fima Furman | Jul, 2024** [link](https://towardsdatascience.com/data-curation-practices-to-minimize-bias-in-medical-ai-379bf6983de2)
+_Highlight:_ To mitigate <b>AI</b> bias, it is important to understand how model bias and <b>fairness</b> are defined (PDF) and measured. A <b>fair</b>/unbiased model ensures its&nbsp;...
+
+- **9. Mozilla&#39;s Policy Vision for the new EU Mandate: Advancing Openness, Privacy, <b>Fair</b> ...** [link](https://blog.mozilla.org/netpolicy/2024/07/17/mozillas-policy-vision-for-the-new-eu-mandate-advancing-openness-privacy-fair-competition-and-choice-for-all/)
+_Highlight:_ For laws like the Digital Services Act (DSA), the Digital Markets Act (DMA), the GDPR, and the <b>AI</b> Act to realise their full potential, we strongly&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
