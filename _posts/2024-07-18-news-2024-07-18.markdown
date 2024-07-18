@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-18 One-Minute Post
+date: 2024-07-18 12:35:37 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta suspends AI tools in Brazil due to privacy concerns. Proton launches privacy-focused AI writing assistant. Companies using AI to personalize products raise privacy alarms. AI systems' biases highlighted, while business leaders see AI as a way to remove workplace bias. AI's reliance on biased data exacerbates injustices. Optimism for fair AI hiring, but transparency is crucial. Ethical AI development must align with fairness, transparency, and bias avoidance guidelines. New economic analysis on the impact of AI on productivity and fairness in financial services.
+
+## Articles we found interesting:
+
+- **1. Meta Decides To Suspend Its Generative <b>AI</b> Tools in Brazil - NDTV** [link](https://www.ndtv.com/artificial-intelligence/meta-meta-ai-brazil-meta-decides-to-suspend-its-generative-ai-tools-in-brazil-6130616)
+_Highlight:_ Meta decided to suspend use of generative <b>artificial intelligence</b> tools in Brazil in response to the government&#39;s objections to its new <b>privacy</b> policy.
+
+- **2. Proton Launches <b>Privacy</b>-Focused &#39;Scribe&#39; <b>AI</b> Writing Assistant - Thurrott.com** [link](https://www.thurrott.com/a-i/305669/proton-scribe-ai-writing-assistant)
+_Highlight:_ Proton announced today the launch of Proton Scribe, a <b>privacy</b>-focused <b>AI</b> writing assistant that will be integrated into Proton Mail.
+
+- **3. New technologies like <b>AI</b> let companies learn more about their customers—while raising ... - Fortune** [link](https://fortune.com/2024/07/17/salesforce-privacy-mastercard-copilot-zillow-a-i-uber-airbnb-technology/)
+_Highlight:_ Companies are collecting increasing amounts of data about customers to better personalize products for them, but risk setting off <b>privacy</b> alarm&nbsp;...
+
+- **4. The Side of <b>AI</b> They&#39;re Not Telling You - RELEVANT** [link](https://relevantmagazine.com/magazine/the-side-of-ai-theyre-not-telling-you/)
+_Highlight:_ <b>AI</b> systems are only as good as the data they are trained on, and their <b>biases</b> can become more pronounced as they evolve. IBM defines <b>AI bias</b> as&nbsp;...
+
+- **5. Why business leaders view <b>AI</b> as an opportunity to take &#39;toil out of our work&#39; - Fortune** [link](https://fortune.com/2024/07/17/ai-business-leaders-workplace-workday-mckinsey-lenovo/)
+_Highlight:_ Athena Karp, a general manager at Workday, said that <b>AI</b> could go even further by helping to remove workplace problems for employees such as <b>bias</b>. She&nbsp;...
+
+- **6. Crucial to never assume that the accuracy of <b>artificial intelligence</b> information equals the truth** [link](https://www.dailymaverick.co.za/opinionista/2024-07-17-crucial-to-never-assume-that-the-accuracy-of-artificial-intelligence-information-equals-the-truth/)
+_Highlight:_ Furthermore, <b>AI&#39;s</b> reliance on historical data may exacerbate existing <b>biases</b> and injustices. An <b>AI</b> trained on <b>biased</b> data will produce <b>biased</b> results,&nbsp;...
+
+- **7. Optimism for <b>AI</b> in hiring is high, but don&#39;t forget transparency - HR Executive** [link](https://hrexecutive.com/optimism-for-ai-in-hiring-is-high-but-dont-forget-transparency/)
+_Highlight:_ ... <b>fairness</b> baked into today&#39;s <b>AI</b> tools. But, experts say, to take advantage of <b>AI&#39;s</b> potential for <b>fair</b> hiring, HR leaders need to ensure they are&nbsp;...
+
+- **8. Address ethical concerns to optimise <b>AI</b> use - Tribune India** [link](https://www.tribuneindia.com/news/comment/address-ethical-concerns-to-optimise-ai-use-640753)
+_Highlight:_ Ethical <b>AI</b> development must align with guidelines promoting <b>fairness</b>, transparency, accountability and bias avoidance. Regulatory sandboxes can&nbsp;...
+
+- **9. Understanding <b>Fairness</b> In Financial Services | Scoop News** [link](https://www.scoop.co.nz/stories/AK2407/S00518/understanding-fairness-in-financial-services.htm)
+_Highlight:_ The Treasury: New Economic Analysis On The Impact Of <b>Artificial Intelligence</b>. This paper addresses three issues: Impacts of <b>AI</b> on productivity and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
