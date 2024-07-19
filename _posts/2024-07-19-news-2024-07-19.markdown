@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-19 One-Minute Post
+date: 2024-07-19 12:29:46 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Proton launches 'privacy-first' AI email assistant to rival Google, Microsoft. Meta halts AI assistant amid Brazil data privacy ruling. Worker, Biz Groups Clash On Proposed AI Rules In California. Cisco NGO Partner Simprints To Advance Ethical, Inclusive AI for Face Recognition Biometrics. India must lead the charge towards equitable AI. AI TRiSM Framework: Enhancing Trust & Security in AI Deployments.
+
+## Articles we found interesting:
+
+- **1. Proton launches &#39;<b>privacy</b>-first&#39; <b>AI</b> email assistant to rival Google, Microsoft - TheNextWeb** [link](https://thenextweb.com/news/proton-privacy-first-ai-email-assistant-rival-google-microsoft)
+_Highlight:_ Swiss app developer Proton has launched a new “<b>privacy</b>-first” <b>AI</b> email writing assistant that could be a more secure alternative to similar offerings&nbsp;...
+
+- **2. The biggest names in <b>AI</b> have teamed up to promote <b>AI</b> security - The Verge** [link](https://www.theverge.com/2024/7/18/24201223/security-privacy-google-microsoft-openai-ai-cosai)
+_Highlight:_ ... <b>privacy</b>, and safety of generative <b>AI</b> technology. Other companies joining CoSAI include IBM, PayPal, Cisco, and Anthropic. CoSAI will exist within&nbsp;...
+
+- **3. Meta halts <b>AI</b> assistant amid Brazil data <b>privacy</b> ruling - Verdict** [link](https://www.verdict.co.uk/meta-ai-brazilian-data-privacy/)
+_Highlight:_ The ANPD&#39;s decision requires Meta to revise its <b>privacy</b> policy, removing provisions on processing personal data for <b>AI</b> training. July 19, 2024.
+
+- **4. Worker, Biz Groups Clash On Proposed <b>AI</b> Rules In California - Law360** [link](https://www.law360.com/articles/1842615/worker-biz-groups-clash-on-proposed-ai-rules-in-california)
+_Highlight:_ ... <b>AI</b> tool&#39;s work when considering the criminal history of an applicant, and list examples to help clarify what <b>AI bias</b> can look like. Ken Wang&nbsp;...
+
+- **5. Cisco NGO Partner Simprints To Advance Ethical, Inclusive <b>AI</b> for Face Recognition Biometrics** [link](https://www.streetinsider.com/Accesswire/Cisco%2BNGO%2BPartner%2BSimprints%2BTo%2BAdvance%2BEthical%252C%2BInclusive%2BAI%2Bfor%2BFace%2BRecognition%2BBiometrics/23478170.html)
+_Highlight:_ This <b>bias</b>, rather than an issue with the technology itself, is a byproduct of training <b>AI</b> matching algorithms with datasets that are predominantly&nbsp;...
+
+- **6. How to ensure responsible genAI deployments through careful governance** [link](https://inform.tmforum.org/research-and-analysis/proofs-of-concept/how-to-ensure-responsible-genai-deployments-through-careful-governance)
+_Highlight:_ Proof Of Concept | <b>Artificial Intelligence</b> (<b>AI</b>), <b>AI</b> management ... <b>AI</b> metrics for hallucination, <b>bias</b>, and drift. Applications and wider&nbsp;...
+
+- **7. India must lead the charge towards equitable <b>AI</b> - Policy Circle** [link](https://www.policycircle.org/policy/india-must-lead-ai-revolution/)
+_Highlight:_ This not only undermines the accuracy and <b>fairness</b> of <b>artificial intelligence</b> algorithms but also reinforces a narrow worldview that prioritises&nbsp;...
+
+- **8. <b>AI</b> TRiSM Framework: Enhancing Trust &amp; Security in <b>AI</b> Deployments - Appinventiv** [link](https://appinventiv.com/blog/ai-trism-framework/)
+_Highlight:_ Prioritizing Ethics and <b>Fairness</b>. Beyond mere compliance, <b>AI</b> TRiSM for businesses provides a framework to address ethical and <b>fairness</b> considerations&nbsp;...
+
+- **9. <b>Artificial Intelligence</b>: Revolutionizing the Future - CIO News** [link](https://cionews.co.in/artificial-intelligence-revolutionizing-the-future/)
+_Highlight:_ Bias and <b>Fairness</b>: <b>AI</b> systems can perpetuate biases present in training data, leading to unfair outcomes. Ensuring fairness and transparency in AI&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
