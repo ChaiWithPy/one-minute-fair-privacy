@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-07-20 One-Minute Post
+date: 2024-07-20 12:35:52 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Oracle agrees to pay $115 million to settle consumer data privacy lawsuit. Women eager to use gen AI tools despite underrepresentation and privacy concerns. Nigerian newsrooms face challenges of AI bias. California implements two-pronged approach to regulate AI and prevent biases. CrowdStrike outages highlight the need for AI guardrails to prevent biases and overreliance.
+
+## Articles we found interesting:
+
+- **1. Oracle Agrees to Pay $115 Million to Settle Consumer Data <b>Privacy</b> Lawsuit - CMSWire.com** [link](https://www.cmswire.com/customer-experience/oracle-agrees-to-pay-115-million-to-settle-consumer-data-privacy-lawsuit/)
+_Highlight:_ And our newest community, VKTR, is home for <b>AI</b> practitioners and forward thinking leaders focused on the business of enterprise <b>AI</b>. Join the&nbsp;...
+
+- **2. Survey: Women are eager to use gen <b>AI</b> tools, even as they are &#39;vastly underrepresented&#39; in <b>AI</b>** [link](https://venturebeat.com/ai/survey-women-are-eager-to-use-gen-ai-tools-even-as-they-are-vastly-underrepresented-in-ai/)
+_Highlight:_ Still, women can be hesitant initially due to insecurities fueled by age-old biases and discrimination, as well as fears about data <b>privacy</b> and&nbsp;...
+
+- **3. <b>AI&#39;s</b> trillion dollar time bomb - CNBC** [link](https://www.cnbc.com/video/2024/07/19/ais-trillion-dollar-time-bomb.html)
+_Highlight:_ ... <b>AI</b> game. Microsoft in particular has spent billions at a premium ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **4. <b>AI bias</b>: The challenges faced by Nigerian newsrooms - Punch Newspapers** [link](https://punchng.com/ai-bias-the-challenges-faced-by-nigerian-newsrooms/)
+_Highlight:_ My thesis on “Journalists&#39; Perception of <b>AI</b> in Nigerian Newsrooms” brought up some really interesting findings. The one that stuck with me and&nbsp;...
+
+- **5. California&#39;s Two-Pronged Approach To Regulating <b>AI</b> In Employment And Beyond - Forbes** [link](https://www.forbes.com/sites/alonzomartinez/2024/07/19/californias-two-pronged-approach-to-regulating-ai-in-employment-and-beyond/)
+_Highlight:_ These efforts aim to ensure that technological advancements do not perpetuate existing <b>biases</b> or create new forms of discrimination. California Civil&nbsp;...
+
+- **6. Widespread CrowdStrike Outages Highlight The Imperative For <b>AI</b> Guardrails - Forbes** [link](https://www.forbes.com/sites/emilsayegh/2024/07/19/widespread-technology-outages-and-the-imperative-for-ai-guardrails/)
+_Highlight:_ Overreliance on <b>AI</b> occurs when users start accepting <b>AI</b> ... <b>AI</b> overreliance leads to multiple <b>biases</b>, including confirmation <b>bias</b> and the overestimation&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
