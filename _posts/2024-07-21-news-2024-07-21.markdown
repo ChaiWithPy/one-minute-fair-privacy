@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2024-07-21 One-Minute Post
+date: 2024-07-21 12:31:23 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI is being used to de-identify patient data for research, ensuring privacy. Paris's use of AI for security raises concerns about privacy. To address AI bias, there's a call for more diversity in data. Ethical concerns about AI's impact on fairness, privacy, and bias are being raised. A startup is advocating for responsible AI principles, emphasizing fairness and privacy.
+
+## Articles we found interesting:
+
+- **1. De-identifying patients with <b>AI</b>: Ensuring patient <b>privacy</b> while enhancing research** [link](https://www.thehindubusinessline.com/business-tech/de-identifying-patients-with-ai-ensuring-patient-privacy-while-enhancing-research/article68421806.ece)
+_Highlight:_ <b>AI</b> generated synthetic data that mimicks real patients ensures that healthcare data can be used safely for research without risking patient <b>privacy</b>.
+
+- **2. The case for decentralized compute in <b>AI</b>** [link](https://cryptoslate.com/the-case-for-decentralized-compute-in-ai/)
+_Highlight:_ By democratizing access to computational resources, enhancing data <b>privacy</b>, and leveraging emerging technologies, decentralized <b>AI</b> can offer a robust&nbsp;...
+
+- **3. With <b>AI</b>, jets and police squadrons, Paris is securing the Olympics — and worrying critics** [link](https://www.nbcwashington.com/news/national-international/with-ai-jets-and-police-squadrons-paris-is-securing-the-olympics-and-worrying-critics/3670442/)
+_Highlight:_ Campaigners for digital rights worry that Olympic surveillance cameras and <b>AI</b> systems could erode <b>privacy</b> and other freedoms, and zero in on people&nbsp;...
+
+- **4. There&#39;s a simple answer to the <b>AI bias</b> conundrum: More diversity | VentureBeat** [link](https://venturebeat.com/ai/theres-a-simple-answer-to-address-the-conundrum-of-ai-bias-more-diversity/)
+_Highlight:_ How can we proactively mitigate <b>AI bias</b> and create less harmful models if the data we train them on is inherently <b>biased</b>?
+
+- **5. Big data, social media and <b>artificial intelligence</b> will poison the 2024 election** [link](https://iowacapitaldispatch.com/2024/07/20/big-data-social-media-and-artificial-intelligence-will-poison-the-2024-election/)
+_Highlight:_ Now comes <b>artificial intelligence</b> and with it, automation <b>bias</b> ... <b>AI</b>. His genius is manipulation. Technology is his friend, altering or swapping&nbsp;...
+
+- **6. The Role of <b>Artificial Intelligence</b> in Shaping Our Future - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/07/20/the-role-of-artificial-intelligence-in-shaping-our-future/)
+_Highlight:_ As <b>AI</b> becomes more sophisticated, ethical dilemmas emerge regarding issues such as algorithmic <b>bias</b>, privacy violations, and autonomous decision-&nbsp;...
+
+- **7. Responsible <b>AI</b> Principles. As <b>Artificial Intelligence</b> or <b>AI</b> become… | by Hirdesh Baghel - Medium** [link](https://medium.com/%40hirdeshbaghel30/responsible-ai-principles-5d7385ff2727)
+_Highlight:_ <b>Fairness</b> — <b>Fair</b> to all groups of people &middot; Reliability and Safety — Continues working under high loads, unexpected situations etc. &middot; Privacy and Security&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
