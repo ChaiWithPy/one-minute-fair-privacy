@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-22 One-Minute Post
+date: 2024-07-22 12:27:54 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta's AI dreams are derailed by Brazil's privacy clampdown, while states are regulating AI for privacy. CIA's AI director is taking a thoughtful approach to AI, aiming to counter analytic bias. A new tool is combating internet hate against Indigenous people using AI. Indian AI startups form a coalition for responsible AI, focusing on fairness and privacy. Paradigm Asset Management unveils commitment to AI-driven fairness. AI is being used to revolutionize social welfare support, with a focus on fairness and impartiality.
+
+## Articles we found interesting:
+
+- **1. The all-seeing <b>AI</b> webcam - The Verge** [link](https://www.theverge.com/24199020/ai-art-dries-depoorter-selfies-surveillance-privacy-generative-ai)
+_Highlight:_ We explore the world of Dries Depoorter, an artist and engineer who uses <b>AI</b> and public webcam feeds to make us question our <b>privacy</b> and anonymity,&nbsp;...
+
+- **2. Meta&#39;s Generative <b>AI</b> Dreams Derailed by Brazil&#39;s <b>Privacy</b> Clampdown | - Firstpost** [link](https://www.firstpost.com/web-show/firstpost-america/metas-generative-ai-dreams-derailed-by-brazils-privacy-clampdown--vd391570/)
+_Highlight:_ ... <b>AI</b> tools over <b>privacy</b> concerns. The policy aimed to use personal data for <b>AI</b> training, affecting popular platforms like Messenger, Facebook, and&nbsp;...
+
+- **3. States strike out on their own on <b>AI</b>, <b>privacy</b> regulation - Florida Phoenix** [link](https://floridaphoenix.com/2024/07/21/states-strike-out-on-their-own-on-ai-privacy-regulation/)
+_Highlight:_ Others recognize possible innovations enabled by <b>AI</b> but regulate data <b>privacy</b>. Transparency, protection from discrimination, and accountability are&nbsp;...
+
+- **4. CIA <b>AI</b> director Lakshmi Raman claims the agency is taking a &#39;thoughtful approach&#39; to <b>AI</b>** [link](https://techcrunch.com/2024/07/21/cia-ai-director-lakshmi-raman-claims-the-agency-is-taking-a-thoughtful-approach-to-ai/)
+_Highlight:_ “We&#39;re looking at things like search and discovery aid, ideation aid, and helping us to generate counterarguments to help counter analytic <b>bias</b> we&nbsp;...
+
+- **5. New tool aims to harness the power of <b>AI</b> to combat internet hate against Indigenous people** [link](https://www.msn.com/en-ca/news/canada/new-tool-aims-to-harness-the-power-of-ai-to-combat-internet-hate-against-indigenous-people/ar-BB1qmm7v)
+_Highlight:_ If the internet is <b>biased</b>, it will learn to be <b>biased</b> — if there is hate speech there, it will learn that as well.&quot; <b>AI bias</b> revealed itself in&nbsp;...
+
+- **6. Navigating <b>AI&#39;s</b> role in modern education - The Hans India** [link](https://www.thehansindia.com/hans/education-careers/navigating-ais-role-in-modern-education-893614)
+_Highlight:_ ... <b>AI</b> systems, which could lead to misuse or security breaches. <b>Bias</b> in <b>AI</b> systems can also adversely affect educational institutions by perpetuating&nbsp;...
+
+- **7. Google, Microsoft, Infosys, IIM B and Indian <b>AI</b> startups form new major coalition for ... - The Hindu** [link](https://www.thehindu.com/sci-tech/technology/google-microsoft-infosys-iim-b-and-indian-ai-startups-form-new-major-coalition-for-responsible-ai-in-india/article68431246.ece)
+_Highlight:_ ... <b>fairness</b> in <b>AI</b> algorithms, transparency in <b>AI</b> operations and upholding user privacy and data protection. “Government welcomes support, and&nbsp;...
+
+- **8. James Francis, CEO of Paradigm Asset Management Unveils Commitment to Artificial ...** [link](https://www.streetinsider.com/Evertise%2BFinancial/James%2BFrancis%252C%2BCEO%2Bof%2BParadigm%2BAsset%2BManagement%2BUnveils%2BCommitment%2Bto%2BArtificial%2BIntegrity%2Bin%2BAI-Driven%2BAsset%2BManagement/23486900.html)
+_Highlight:_ ... <b>AI</b>-driven decisions are <b>fair</b> and unbiased. ... This approach not only enhances the accuracy and <b>fairness</b> of <b>AI</b>-driven decisions but also promotes social&nbsp;...
+
+- **9. New Technology Revolutionizes Social Welfare Support - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/07/22/new-technology-revolutionizes-social-welfare-support/)
+_Highlight:_ Ensuring <b>fairness</b> and impartiality in the <b>AI</b>-driven assessment process is essential to prevent exacerbating existing inequalities. Another&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
