@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-23 One-Minute Post
+date: 2024-07-23 12:29:50 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+FCC to review proposal on disclosure of AI use in calls. Companies urged to be alert to legal issues around data collection and AI. AI companies show little progress in self-regulation. AI terminology explained, highlighting the issue of bias. California Civil Rights Council considers rules to prevent AI discrimination in hiring. Workday faces class-action lawsuit for AI screening bias. "Godmother of AI" builds $1 billion spatial intelligence startup focusing on fairness, transparency, and accountability. IBM Research explores the correlation of prompt-based fairness metrics. Innovative digital AI solutions raise ethical concerns about fairness, accountability, and transparency in AI decision-making processes.
+
+## Articles we found interesting:
+
+- **1. FCC to Consider Rule on Disclosure of <b>AI</b> Use in Calls - ACA International** [link](https://www.acainternational.org/news/fcc-to-consider-rule-on-disclosure-of-ai-use-in-calls/)
+_Highlight:_ The commission will review the proposal at its Aug. 7 meeting, which also includes support for technologies that alert consumers to “unwanted and&nbsp;...
+
+- **2. Companies should be alert to legal issues around data collection and use** [link](https://www.twobirds.com/en/insights/2024/global/companies-should-be-alert-to-legal-issues-around-data-collection-and-use)
+_Highlight:_ Ensuring compliance is even more important as data protection regulators emerge as key players in the regulation of <b>AI</b>, stepping up their enforcement&nbsp;...
+
+- **3. <b>AI</b> companies promised to self-regulate one year ago. What&#39;s changed?** [link](https://www.technologyreview.com/2024/07/22/1095193/ai-companies-promised-the-white-house-to-self-regulate-one-year-ago-whats-changed/)
+_Highlight:_ The White House&#39;s voluntary <b>AI</b> commitments have brought better red-teaming practices and watermarks, but no meaningful transparency or&nbsp;...
+
+- **4. <b>AI</b> is confusing — here&#39;s your cheat sheet - The Verge** [link](https://www.theverge.com/24201441/ai-terminology-explained-humans)
+_Highlight:_ <b>Bias</b>: Hallucinations aren&#39;t the only problems that have come up when dealing with <b>AI</b> — and this one might have been predicted since AIs are, after&nbsp;...
+
+- **5. California Civil Rights Council weighs rules to prevent <b>AI</b> discrimination in hiring, employment** [link](https://statescoop.com/california-civil-rights-council-ai-hiring-employment-discrimination/)
+_Highlight:_ In an April 2021 council hearing on algorithms and <b>bias</b>, experts said <b>AI</b> is commonly used in every stage of the hiring process, including&nbsp;...
+
+- **6. Workday faces class-action for <b>AI</b> screening: should Canadian employers be concerned?** [link](https://www.hrreporter.com/focus-areas/employment-law/workday-faces-class-action-for-ai-screening-should-canadian-employers-be-concerned/387449)
+_Highlight:_ <b>AI</b> job applicant screening tools prone to <b>bias</b>. If it goes ahead, the suit against Workday will be the first proposed class-action lawsuit to&nbsp;...
+
+- **7. “Godmother of <b>AI</b>” builds $1 billion spatial intelligence startup - Israel Hayom** [link](https://www.israelhayom.com/2024/07/23/godmother-of-ai-builds-1-billion-spatial-intelligence-startup/)
+_Highlight:_ ... <b>fairness</b>, transparency, and accountability in <b>AI</b> development. Investor interest in <b>AI</b> has surged, with over $27 billion invested in U.S. <b>AI</b>&nbsp;...
+
+- **8. Why Don&#39;t Prompt-Based <b>Fairness</b> Metrics Correlate? for ACL 2024 - IBM Research** [link](https://research.ibm.com/publications/why-dont-prompt-based-fairness-metrics-correlate)
+_Highlight:_ Trustworthy <b>AI</b> &middot; Natural Language Processing &middot; <b>AI</b> Testing &middot; Trustworthy Generation &middot; Responsible Technology &middot; Foundation Models. Share. Related.
+
+- **9. Revolutionizing Workplace Communication with Innovative Digital <b>AI</b> Solutions** [link](https://elblog.pl/2024/07/23/revolutionizing-workplace-communication-with-innovative-digital-ai-solutions/)
+_Highlight:_ – **Ethical Concerns:** Ensuring <b>fairness</b>, accountability, and transparency in <b>AI</b> decision-making processes poses ethical dilemmas. In navigating&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
