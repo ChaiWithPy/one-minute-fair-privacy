@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-24 One-Minute Post
+date: 2024-07-24 12:32:36 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta warns EU regulatory efforts risk bloc missing out on AI advances, while MIT researchers advance automated interpretability in AI models to audit for safety and biases. KPMG prioritizes fairness and sustainability with their Trusted AI Framework. A California federal court allows a discrimination lawsuit against an AI-based workplace screener. Protests spark a debate on fairness and ethics in technology-driven hiring, raising concerns over AI's role in job recruitment. MIT researchers argue that randomization can improve fairness when allocating scarce resources with AI. AI models' poor management leads to decision bias and AI hallucinations, emphasizing the need for cleaner data curation. Privacy teams are exploring ways to manage AI and leverage GDPR compliance for AI deployment.
+
+## Articles we found interesting:
+
+- **1. Protecting Data <b>Privacy</b> as a Baseline for Responsible <b>AI</b> - YouTube** [link](https://www.youtube.com/watch%3Fv%3D01d1L93eiZk)
+_Highlight:_ ... <b>AI</b> (https://www.csis.org/analysis/protecting-data-<b>privacy</b>-baseline-responsible-<b>ai</b>) ,” a new Critical Questions by CSIS&#39;s Caitlin Chin-Rothmann.
+
+- **2. Meta warns EU regulatory efforts risk bloc missing out on <b>AI</b> advances - Financial Times** [link](https://www.ft.com/content/3c9d4172-91c0-417a-b347-00b4a9aee892)
+_Highlight:_ Comments come after <b>privacy</b> watchdog asks Facebook owner to pause training of future <b>AI</b> models on region&#39;s data.
+
+- **3. How should <b>privacy</b> teams manage <b>AI</b>? It takes a village - Slaughter and May** [link](https://www.slaughterandmay.com/insights/new-insights/how-should-privacy-teams-manage-ai-it-takes-a-village/)
+_Highlight:_ And even better, how can they leverage GDPR compliance and existing governance processes to assist with <b>AI</b> deployment? Role of the <b>Privacy</b> team. As&nbsp;...
+
+- **4. <b>AI</b> Workplace Screener Faces <b>Bias</b> Lawsuit: 5 Lessons for Employers and 5 ... - Fisher Phillips** [link](https://www.fisherphillips.com/en/news-insights/ai-workplace-screener-faces-bias-lawsuit.html)
+_Highlight:_ A California federal court just allowed a frustrated job applicant to proceed with an employment discrimination lawsuit against an <b>AI</b>-based vendor&nbsp;...
+
+- **5. Curating Cleaner Data In Messy Multimodal Modals - Forbes** [link](https://www.forbes.com/sites/adrianbridgwater/2024/07/23/curating-cleaner-data-in-messy-multimodal-modals/)
+_Highlight:_ In some of the messiest cases, poorly managed <b>AI</b> models lead to decision <b>bias</b> and so-called <b>AI</b> hallucinations. We might also say that <b>AI</b> can be a&nbsp;...
+
+- **6. MIT researchers advance automated interpretability in <b>AI</b> models** [link](https://news.mit.edu/2024/mit-researchers-advance-automated-interpretability-ai-models-maia-0723)
+_Highlight:_ Interpreting the mechanisms underlying <b>AI</b> models enables us to audit them for safety and <b>biases</b>, with the potential to deepen our understanding of the&nbsp;...
+
+- **7. KPMG: Using the <b>AI</b> &#39;Genie&#39; to Drive Sustainability &amp; Equity** [link](https://sustainabilitymag.com/articles/kpmg-using-the-ai-genie-to-drive-sustainability-equity)
+_Highlight:_ David Rowlands, KPMG&#39;s Global Head of <b>AI</b>, explores KPMG&#39;s Trusted <b>AI</b> Framework, prioritising <b>fairness</b> and sustainability &amp; why corporate&nbsp;...
+
+- **8. Study: When allocating scarce resources with <b>AI</b>, randomization can improve <b>fairness</b>** [link](https://news.mit.edu/2024/study-structured-randomization-ai-can-improve-fairness-0724)
+_Highlight:_ MIT researchers argue that, in some situations where machine-learning models are used to allocate scarce resources or opportunities,&nbsp;...
+
+- **9. Can <b>AI</b> See Beyond Biases In Hiring Practices? - The Pinnacle Gazette - Evrim Ağacı** [link](https://evrimagaci.org/tpg/can-ai-see-beyond-biases-in-hiring-practices-1696)
+_Highlight:_ Protests highlight growing concerns over <b>AI&#39;s</b> role in job recruitment, sparking a debate on <b>fairness</b> and ethics in technology-driven hiring.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
