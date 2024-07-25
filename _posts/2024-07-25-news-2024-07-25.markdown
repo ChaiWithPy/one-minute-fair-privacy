@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-07-25 One-Minute Post
+date: 2024-07-25 12:13:50 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AvePoint's Dana Simberkoff emphasizes the need for AI regulation to address data privacy concerns. Meanwhile, CVS settles a lawsuit over alleged biased AI screening tools. Neuro-symbolic AI is highlighted as a solution to mitigate biases in AI systems. These developments underscore the growing importance of addressing privacy and bias issues in the AI landscape.
+
+## Articles we found interesting:
+
+- **1. Data <b>privacy</b> concerns and the need for <b>AI</b> regulation - THINK Digital Partners** [link](https://www.thinkdigitalpartners.com/news/2024/07/25/data-privacy-concerns-and-the-need-for-ai-regulation/)
+_Highlight:_ Dana Simberkoff, chief risk, <b>privacy</b> and information security officer at AvePoint shares the three components he believes are necessary to safely&nbsp;...
+
+- **2. Salesforce and Workday CEOs explain their new joint <b>AI</b> venture - CNBC** [link](https://www.cnbc.com/2024/07/24/salesforce-and-workday-ceos-explain-their-new-joint-ai-venture-.html)
+_Highlight:_ &quot;<b>AI</b> is all about data, and if you have access to the data, then you ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **3. 2024 Mid-Year <b>Privacy</b> Report - A Comprehensive Look at New Developments in Data <b>Privacy</b> Laws** [link](https://www.jdsupra.com/legalnews/2024-mid-year-privacy-report-a-6572458/)
+_Highlight:_ ... <b>privacy</b> landscape across the country. Meanwhile, hot topics like <b>artificial intelligence</b> (“<b>AI</b>”), minors&#39; <b>privacy</b> rights, and international data&nbsp;...
+
+- **4. CVS settles lawsuit alleging it used <b>AI</b> &#39;lie detector&#39; in interviews | Legal Dive** [link](https://www.legaldive.com/news/cvs-settles-lawsuit-over-using-ai-based-lie-detector/722318/)
+_Highlight:_ For instance, a job applicant alleged that Workday&#39;s <b>AI</b> screening software tool is <b>biased</b> and discriminatory. ... <b>bias</b> against people with autism&nbsp;...
+
+- **5. Neuro-symbolic <b>AI</b>: <b>AI</b> with reasoning - Finextra** [link](https://www.finextra.com/blogposting/26508/neuro-symbolic-ai-ai-with-reasoning)
+_Highlight:_ Encouraging the Development of Ethical <b>Artificial Intelligence</b>: Addressing <b>Bias</b>: Neuro-symbolic <b>AI</b> can help mitigate <b>biases</b> in <b>AI</b> systems by&nbsp;...
+
+- **6. How <b>AI</b> Is Redesigning, Not Replacing, HR and Other Jobs - SHRM** [link](https://www.shrm.org/topics-tools/news/technology/how-ai-is-redesigning--not-replacing--hr-and-other-jobs)
+_Highlight:_ According to research from Gartner, those fears are primarily centered on job loss, as well as potential <b>bias</b> stemming from <b>AI</b>. Experts say most&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
