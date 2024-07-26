@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-26 One-Minute Post
+date: 2024-07-26 12:14:39 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta's chief privacy officer expressed support for California's proposed AI law. The Olympics' use of AI for security has sparked privacy concerns. Video game actors are striking over AI and fairness issues. Apple commits to following Biden administration's AI safety guidelines. A study suggests randomization can improve fairness when allocating resources with AI. Despite challenges, AI in healthcare promises better outcomes. Researchers warn of AI perpetuating structural violence due to bias. Judges are narrowing the reach of a Biden rule against anti-LGBTQ+ bias.
+
+## Articles we found interesting:
+
+- **1. California Law Would Safeguard Public Against <b>AI</b> Risks - Government Technology** [link](https://www.govtech.com/artificial-intelligence/california-law-would-safeguard-public-against-ai-risks)
+_Highlight:_ Rob Sherman, vice president and chief <b>privacy</b> officer for Meta, said in a letter to Wiener dated June 25 that <b>AI</b> systems “are built by multiple actors&nbsp;...
+
+- **2. Olympics&#39; <b>AI</b> Security Stokes Backlash Over Mass Surveillance - Bloomberg Law News** [link](https://news.bloomberglaw.com/privacy-and-data-security/olympics-ai-security-stokes-backlash-over-mass-surveillance)
+_Highlight:_ ... <b>AI</b> event-security technology that uses machine learning to analyze video ... Browse More Stories in <b>Privacy</b> &amp; Data Security Law. Sign Up For&nbsp;...
+
+- **3. Video game actors will go on strike over <b>artificial intelligence</b> concerns - ABC30 Fresno** [link](https://abc30.com/post/video-game-actors-will-go-strike-artificial-intelligence/15095613/)
+_Highlight:_ ... <b>AI</b>. Without guardrails, game companies could train <b>AI</b> to replicate ... <b>Privacy</b> PolicyYour US State <b>Privacy</b> Rights &middot; Terms of UseInterest-Based&nbsp;...
+
+- **4. <b>AI</b> in healthcare: Is it the ultimate solution we have been waiting for? - Times of India** [link](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/ai-in-healthcare-is-it-the-ultimate-solution-we-have-been-waiting-for/articleshow/112008452.cms)
+_Highlight:_ Despite challenges like data privacy and algorithm <b>bias</b>, responsible <b>AI</b> development promises better health outcomes. The medical ﬁeld is on the&nbsp;...
+
+- **5. Facing Up To The Threat Of <b>AI</b> - Forbes** [link](https://www.forbes.com/sites/pennyabeywardena/2024/07/25/facing-up-to-the-threat-of-ai/)
+_Highlight:_ ... <b>bias</b> and lacking accountability in decision-making processes” Buolamwini said. “<b>AI</b> systems can perpetuate structural violence by denying&nbsp;...
+
+- **6. Days before a Biden rule against anti-LGBTQ+ <b>bias</b> takes effect, judges are narrowing its reach** [link](https://www.beaumontenterprise.com/news/article/days-before-a-biden-rule-against-anti-lgbtq-bias-19596827.php)
+_Highlight:_ Days before a Biden rule against anti-LGBTQ+ <b>bias</b> takes effect, judges are narrowing its reach ... Our Use of <b>AI</b> &middot; Ethics Policy. Contact. Contact Us.
+
+- **7. Video Game Actors Strike for <b>AI</b> Protections | Common Dreams** [link](https://www.commondreams.org/news/sag-aftra-video-game-strike)
+_Highlight:_ ... <b>fair</b>, reasonable <b>AI</b> protections, but rather flagrant exploitation.&quot; &quot;We look forward to collaborating with teams on our interim and independent&nbsp;...
+
+- **8. Apple says it will follow the Biden administration&#39;s <b>AI</b> safety guidelines - BGR** [link](https://bgr.com/tech/apple-says-it-will-follow-the-biden-administrations-ai-safety-guidelines/)
+_Highlight:_ Apple has agreed to comply with a set of voluntary safeguards for <b>AI</b> created by President Joe Biden&#39;s administration ... <b>fairness</b> throughout the&nbsp;...
+
+- **9. Study: When allocating scarce resources with <b>AI</b>, randomization can improve <b>fairness</b>** [link](https://www.technologyforyou.org/study-when-allocating-scarce-resources-with-ai-randomization-can-improve-fairness/)
+_Highlight:_ When deploying a model, users typically strive to ensure its predictions are <b>fair</b> by reducing bias. This often involves techniques like adjusting the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
