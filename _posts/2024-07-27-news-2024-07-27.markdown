@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2024-07-27 One-Minute Post
+date: 2024-07-27 12:16:19 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Biden-Harris Administration announces new AI actions with a focus on privacy. Visa employs AI to combat $40 billion in fraud. Samsung hints at new AI-driven products. AI can produce real photos, spreading bias. Salesforce's MINT-1T dataset aims to disrupt AI industry by addressing bias. Cooperation is crucial for AI and cybersecurity fairness.
+
+## Articles we found interesting:
+
+- **1. FACT SHEET: Biden-Harris Administration Announces New <b>AI</b> Actions and Receives ...** [link](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/26/fact-sheet-biden-harris-administration-announces-new-ai-actions-and-receives-additional-major-voluntary-commitment-on-ai/)
+_Highlight:_ Nine months ago, President Biden issued a landmark Executive Order to ensure that America leads the way in seizing the promise and managing the&nbsp;...
+
+- **2. How Visa employed <b>artificial intelligence</b> to check $40 billion in fraud as scammers also take to <b>AI</b>** [link](https://www.cnbc.com/2024/07/26/ai-and-machine-learning-helped-visa-combat-40-billion-in-fraud-activity.html)
+_Highlight:_ The payments giant said it prevented $40 billion worth of fraudulent transactions from October 2022 to September 2023, nearly double from a year&nbsp;...
+
+- **3. Samsung hints at new products as it bets on <b>AI</b> to drive upgrades to its latest foldable phones - CNBC** [link](https://www.cnbc.com/2024/07/26/samsung-tm-roh-interview-galaxy-ai-mixed-reality-and-foldables.html)
+_Highlight:_ Samsung Electronics&#39; mobile boss TM Roh discussed Galaxy <b>AI</b> and software strategy, while hinting at future foldable products and mixed reality&nbsp;...
+
+- **4. A sea of misinformation - News and Sentinel** [link](https://www.newsandsentinel.com/opinion/local-columns/2024/07/a-sea-of-misinformation/)
+_Highlight:_ ... <b>bias</b>. <b>Artificial intelligence</b> can produce what look like real photos, and an unethical, agenda-driven sharer can spread those photos without&nbsp;...
+
+- **5. How To Use <b>AI</b> As Your Creative Sparring Partner - Forbes** [link](https://www.forbes.com/sites/corneliawalther/2024/07/26/how-to-use-ai-as-your-creative-sparring-partner/)
+_Highlight:_ Beyond Efficiency: Removing <b>Bias</b>. Beyond productivity <b>AI</b>-human collaboration offers additional benefits in professional settings. By allowing&nbsp;...
+
+- **6. How Salesforce&#39;s MINT-1T dataset could disrupt the <b>AI</b> industry | VentureBeat** [link](https://venturebeat.com/ai/how-salesforces-mint-1t-dataset-could-disrupt-the-ai-industry/)
+_Highlight:_ The <b>AI</b> community must grapple with issues of <b>bias</b>, interpretability, and robustness. There&#39;s a pressing need to develop <b>AI</b> systems that are not&nbsp;...
+
+- **7. The Importance Of Cooperation In <b>AI</b> And Cybersecurity Compliance - Forbes** [link](https://www.forbes.com/sites/katevitasek/2024/07/26/the-importance-of-cooperation-in-ai-and-cybersecurity-compliance/)
+_Highlight:_ ... <b>AI</b> threats. Close collaboration between industries and the government is essential for the security and <b>fairness</b> of <b>AI</b> applications. Here&#39;s what&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
