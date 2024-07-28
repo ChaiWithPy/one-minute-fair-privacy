@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-07-28 One-Minute Post
+date: 2024-07-28 12:21:20 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Edward Snowden warns of AI threats to Bitcoin privacy. Visa uses AI to reduce fraud, while HP addresses bias in AI datasets. Startups are trading independence for Big Tech's resources, and algorithmic bias remains a significant concern in AI systems.
+
+## Articles we found interesting:
+
+- **1. Edward Snowden Highlights Bitcoin&#39;s <b>Privacy</b> Risks Amid <b>AI</b> Advancements - BeInCrypto** [link](https://beincrypto.com/snowden-bitcoin-privacy-risks/)
+_Highlight:_ ... <b>privacy</b> posed by advancements in <b>AI</b> and blockchain technology. Snowden Warns of <b>AI</b> Threats to Bitcoin <b>Privacy</b>. Sponsored. Sponsored. Snowden warned&nbsp;...
+
+- **2. Business Tech Roundup: Google&#39;s Cookie Retreat - Forbes** [link](https://www.forbes.com/sites/quickerbettertech/2024/07/28/business-tech-roundup-googles-cookie-retreat/)
+_Highlight:_ Visa is using <b>AI</b> to reduce fraud, the alcoholic beverage industry is leaning into <b>AI</b> and be very wary of Microsoft&#39;s new <b>AI</b> art tool.
+
+- **3. <b>AI</b> startups swap independence for Big Tech&#39;s deep pockets - France 24** [link](https://www.france24.com/en/live-news/20240728-ai-startups-swap-independence-for-big-tech-s-deep-pockets)
+_Highlight:_ It&#39;s the case of the vanishing startup: some of Silicon Valley&#39;s most promising names in the fast-developing generative <b>AI</b> ... <b>Privacy</b> &middot; Cookies&nbsp;...
+
+- **4. HP may have plenty of <b>AI</b> software and hardware to show off, but accessibility is <b>AI&#39;s</b> best ...** [link](https://www.techradar.com/computing/artificial-intelligence/hp-may-have-plenty-of-ai-software-and-hardware-to-show-off-but-accessibility-is-ais-best-and-only-future)
+_Highlight:_ ... <b>AI</b> models. It also needs to address issues such as hallucination, drift, and <b>bias</b> in its <b>AI</b> data sets. Whether or not HP can live up to these&nbsp;...
+
+- **5. Advancements in <b>Artificial Intelligence</b>: A New Era of Problem-Solving** [link](https://elblog.pl/2024/07/27/advancements-in-artificial-intelligence-a-new-era-of-problem-solving/)
+_Highlight:_ The issue of algorithmic <b>bias</b>, where <b>AI</b> systems inadvertently perpetuate social inequalities or discriminatory patterns, presents a significant&nbsp;...
+
+- **6. Once Upon An Algorithm: The Tale Of <b>AI&#39;s</b> Rise - Kashmir Reader** [link](https://kashmirreader.com/2024/07/28/once-upon-an-algorithm-the-tale-of-ais-rise/)
+_Highlight:_ <b>Bias</b> in <b>AI</b>: <b>AI</b> systems trained on <b>biased</b> data can perpetuate social inequalities. Mitigating <b>bias</b> in <b>AI</b> development and deployment is crucial for&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
