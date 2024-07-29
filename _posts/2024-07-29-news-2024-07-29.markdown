@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-29 One-Minute Post
+date: 2024-07-29 12:08:13 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+HHS restructures to consolidate technology, cybersecurity, data, AI, and HealthIT, while the EU AI Act aims to create responsible rules governing AI use. Google uses AI to improve traffic flow, but CJI DY Chandrachud warns that AI in policing may lead to targeting marginalized neighborhoods. Concerns arise about bias, privacy, and security in hyper-personalized AI in healthcare and digital trading assistants. Protiviti receives an award for its innovative AI solutions focused on fairness and inclusion. China reacts to Sam Altman's AI arms race warning, emphasizing the importance of human-centered and fair AI principles. The FDA explores lifecycle management for AI in healthcare to ensure fairness in AI-enabled health devices.
+
+## Articles we found interesting:
+
+- **1. HHS Restructures to Consolidate Technology, Cybersecurity, Data, <b>AI</b>, and HealthIT** [link](https://www.hipaajournal.com/hhs-restructures-consolidates-technology-cybersecurity-data-ai-healthit/)
+_Highlight:_ Your <b>Privacy</b> Respected. HIPAA Journal <b>Privacy</b> Policy. Get The FREE HIPAA Compliance Checklist. Immediate Delivery of Checklist Link To Your Email&nbsp;...
+
+- **2. What Non-EU Companies Need to Know About the EU <b>AI</b> Act - Bloomberg Tax** [link](https://news.bloombergtax.com/daily-tax-report/what-non-eu-companies-need-to-know-about-the-eu-ai-act)
+_Highlight:_ ... <b>AI</b> Act) with the intent of creating coherent and responsible rules governing the use of <b>AI</b>. As with <b>privacy</b> and data regulation under the rules&nbsp;...
+
+- **3. Google is using <b>AI</b> in an attempt to improve traffic flow - NBC News** [link](https://www.nbcnews.com/nightly-news/video/google-is-using-ai-in-an-attempt-to-improve-traffic-flow-215863877575)
+_Highlight:_ <b>Privacy</b> Policy; Your <b>Privacy</b> Choices; CA Notice &middot; Terms of Service (Updated JULY 7, 2023) &middot; NBC News Sitemap &middot; Closed Captioning &middot; Advertise &middot; Select&nbsp;...
+
+- **4. Using <b>AI</b> in policing may lead to targeting neighbourhoods of marginalised: CJI DY Chandrachud** [link](https://www.barandbench.com/news/using-ai-policing-may-lead-targeting-neighbourhoods-marginalised-cji-dy-chandrachud)
+_Highlight:_ ... <b>bias</b> and end up targeting neighbourhoods of marginalised communities. &quot;If historical crime data used to train these algorithms reflect <b>biases</b> or&nbsp;...
+
+- **5. Hyper-Personalized <b>AI</b> in Healthcare: A Benefit or a Threat? - Techopedia** [link](https://www.techopedia.com/hyper-personalized-ai-in-healthcare-a-benefit-or-a-threat)
+_Highlight:_ The persuasive power of <b>AI</b> raises concerns about misinformation, <b>bias</b>, privacy, and security issues, highlighting the need for regulatory oversight&nbsp;...
+
+- **6. The rise of <b>AI</b> digital trading assistants - THE BUSINESS TIMES** [link](https://www.businesstimes.com.sg/videos/the-rise-of-ai-digital-trading-assistants/6359537077112)
+_Highlight:_ ... <b>AI</b> to gain a competitive edge. How does an <b>AI</b> digital assistant work, are there concerns with privacy and <b>bias</b> issues that need to be looked at?
+
+- **7. Protiviti Honored With a 2024 Consulting Leaders in Technology Award for Excellence in <b>AI</b> ...** [link](https://www.stocktitan.net/news/RHI/protiviti-honored-with-a-2024-consulting-leaders-in-technology-award-iccghzfi6b1n.html)
+_Highlight:_ The firm was recognized for its innovative <b>AI</b> solutions focused on <b>fairness</b>, inclusion, and equitable representation in healthcare and financial&nbsp;...
+
+- **8. China Reacts to Sam Altman&#39;s <b>AI</b> Arms Race Warning - Newsweek** [link](https://www.newsweek.com/china-reacts-sam-altman-ai-arms-race-warning-groundless-accusations-1931344)
+_Highlight:_ ... <b>artificial intelligence</b> should adhere to principles that are human-centered and promote benevolence. China believes that <b>AI</b> development should be <b>fair</b>&nbsp;...
+
+- **9. FDA Explores Lifecycle Management for <b>AI</b> in Health Care - MyChesCo** [link](https://www.mychesco.com/a/news/national/fda-explores-lifecycle-management-for-ai-in-health-care/)
+_Highlight:_ ... <b>fairness</b> of <b>AI</b>-enabled health care devices. The authors highlight the potential of Lifecycle Management (LCM) concepts to address the unique&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
