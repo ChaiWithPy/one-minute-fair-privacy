@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-30 One-Minute Post
+date: 2024-07-30 12:16:39 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI practitioners are taking first steps towards a privacy-centric future with the release of a Data Privacy Toolkit. Meanwhile, the EU AI Act is under scrutiny for potential biases against women in trademarks. Small businesses in Singapore are seeking guidance for the fair use of personal data in training generative AI. Additionally, the UAE Charter for the Development and Use of Artificial Intelligence has been launched, emphasizing principles for inclusive and fair AI advancements.
+
+## Articles we found interesting:
+
+- **1. Data <b>Privacy</b> Maze: A Compliance Essentials Guide - CMSWire.com** [link](https://www.cmswire.com/customer-experience/the-data-privacy-toolkit-first-steps-toward-a-privacy-centric-future/)
+_Highlight:_ The Data <b>Privacy</b> Toolkit: First Steps Toward a <b>Privacy</b> ... <b>AI</b> practitioners and forward thinking leaders focused on the business of enterprise <b>AI</b>.
+
+- **2. Apple releases first preview of its long-awaited iPhone <b>AI</b> - CNBC** [link](https://www.cnbc.com/2024/07/29/apple-releases-apple-intelligence-its-long-awaited-ai-features.html)
+_Highlight:_ <b>AI</b>-generated summaries for Mail, Messages, voicemail transcriptions ... Advertise With Us. Please Contact Us &middot; <b>Privacy</b> Policy; California Consumer&nbsp;...
+
+- **3. Armanino Integrates Generative <b>AI</b> Updates to Audit Ally - CPA Practice Advisor** [link](https://www.cpapracticeadvisor.com/2024/07/29/armanino-integrates-generative-ai-updates-to-audit-ally/108496/)
+_Highlight:_ Audit Ally puts client <b>privacy</b> and data security at the forefront as well, ensuring compliance with data <b>privacy</b> regulations, Armanino said. Audit&nbsp;...
+
+- **4. EU <b>AI</b> Act: The whole story or just Act One? | <b>Artificial Intelligence</b> | World IP Review** [link](https://www.worldipreview.com/artificial-intelligence/eu-ai-act-the-whole-story-or-just-act-one)
+_Highlight:_ INTA-WIPR gender diversity report reveals ongoing <b>biases</b> for women in TMs &middot; Provocative trademarks: balancing rights with morality in the EU.
+
+- **5. Teaching computers to forget - The Hindu** [link](https://www.thehindu.com/opinion/op-ed/teaching-computers-to-forget/article68460448.ece)
+_Highlight:_ Simultaneously, we are witnessing an increase in <b>AI</b> (<b>Artificial Intelligence</b>) <b>bias</b>, misinformation, and breach of privacy, which gets heightened&nbsp;...
+
+- **6. The Evolution of <b>Artificial Intelligence</b> and Ethical Considerations - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/07/29/the-evolution-of-artificial-intelligence-and-ethical-considerations/)
+_Highlight:_ – Algorithmic <b>Bias</b>: <b>AI</b> systems can inadvertently perpetuate biases present in the data they are trained on, leading to unfair outcomes and&nbsp;...
+
+- **7. Singapore&#39;s small businesses riding the <b>AI</b> wave - SME horizon** [link](https://www.smehorizon.com/singapores-small-businesses-riding-the-ai-wave/)
+_Highlight:_ Small businesses have expressed the need for improved guidance for safe and <b>fair</b> use of personal data in training generative <b>AI</b>. ... Some companies lack&nbsp;...
+
+- **8. PRESSR: The <b>Artificial Intelligence</b> Office launches the UAE Charter for the Development ...** [link](https://www.tradingview.com/news/reuters.com,2024-07-30:newsml_Zaw3zGFJ6:0-pressr-the-artificial-intelligence-office-launches-the-uae-charter-for-the-development-and-use-of-artificial-intelligence/)
+_Highlight:_ The Charter also includes principles to enhance awareness in the <b>AI</b> field for an inclusive future, benefiting from <b>AI</b> advancements to ensure <b>fair</b>&nbsp;...
+
+- **9. Ballots and bots: Reimagining democracy with <b>AI</b>-led electoral evolution | YourStory** [link](https://yourstory.com/2024/07/ballots-and-bots-reimagining-democracy-with-ai)
+_Highlight:_ By leveraging Visual <b>AI</b> and connecting it with Aadhaar, we could safeguard our democratic process and ensure a <b>fair</b> outcome, securing the nation&#39;s&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
