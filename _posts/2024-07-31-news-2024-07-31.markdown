@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-07-31 One-Minute Post
+date: 2024-07-31 12:07:22 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Zendata launches Advanced AI Model for privacy and AI governance. Dating apps' AI adoption raises concerns about privacy. Apple commits to addressing bias in AI. Chatbots' decision-making influenced by cognitive biases. CHIME introduces AI principles to ensure fairness in healthcare. NIST's Dioptra aids in testing AI fairness. AI's impact on education raises concerns about algorithmic fairness.
+
+## Articles we found interesting:
+
+- **1. Zendata Unveils Groundbreaking <b>AI</b> Governance and Data <b>Privacy</b> Solution - AiThority** [link](https://aithority.com/machine-learning/zendata-unveils-groundbreaking-ai-governance-and-data-privacy-solution/)
+_Highlight:_ Zendata, the leading provider of data <b>privacy</b> and <b>AI</b> explainability solutions, today announced the launch of its Advanced <b>AI</b> Model.
+
+- **2. Dating Apps Think <b>AI</b> Will Stop Swiping Burnout. It Might Make It Worse - CNET** [link](https://www.cnet.com/tech/services-and-software/dating-apps-think-ai-will-stop-swiping-burnout-it-might-make-it-worse/)
+_Highlight:_ Or will the adoption of <b>AI</b> exacerbate existing concerns about <b>privacy</b> and ultimately make things worse? The answer will lie in how the apps plan on&nbsp;...
+
+- **3. Zendata Unveils Groundbreaking <b>AI</b> Governance and Data <b>Privacy</b> Solution - PR Newswire** [link](https://www.prnewswire.com/news-releases/zendata-unveils-groundbreaking-ai-governance-and-data-privacy-solution-302210571.html)
+_Highlight:_ PRNewswire/ -- Zendata, the leading provider of data <b>privacy</b> and <b>AI</b> explainability solutions, today announced the launch of its Advanced <b>AI</b> Model&nbsp;...
+
+- **4. Apple is the latest tech giant to sign onto White House&#39;s <b>AI</b> commitments** [link](https://www.emergingtechbrew.com/stories/2024/07/30/apple-white-house-ai-commitments-ben-buchanan)
+_Highlight:_ ... <b>bias</b> and discrimination in <b>AI</b>. Uncertain future: With presidential campaigns in full swing, there&#39;s of course uncertainty about the future of any&nbsp;...
+
+- **5. Research: The decision-making mystery of <b>AI</b> chatbots - Cornell Chronicle** [link](https://news.cornell.edu/stories/2024/07/research-decision-making-mystery-ai-chatbots)
+_Highlight:_ The chatbots possess an &#39;inside view&#39; akin to humans, characterized by falling prey to cognitive <b>biases</b> such as the conjunction fallacy,&nbsp;...
+
+- **6. Algorithmic fairness as a key to creating responsible <b>artificial intelligence</b> - BBVA** [link](https://www.bbva.com/en/innovation/algorithmic-fairness-as-a-key-to-creating-responsible-artificial-intelligence/)
+_Highlight:_ <b>Biased</b> algorithms are mainly caused by <b>biases</b> or distortions in the training data. Proposals are already in place that caution against <b>bias</b> to&nbsp;...
+
+- **7. CHIME Unveils Comprehensive <b>AI</b> Principles to Guide Healthcare Transformation** [link](https://www.morningstar.com/news/pr-newswire/20240731da73195/chime-unveils-comprehensive-ai-principles-to-guide-healthcare-transformation)
+_Highlight:_ Discrimination, Bias &amp; Equity: Monitoring <b>AI</b> to prevent discriminatory outcomes and enhance <b>fairness</b>. Affordability: Ensuring <b>AI</b> accessibility to&nbsp;...
+
+- **8. <b>AI</b> Testing: NIST&#39;s Dioptra as a Step Forward, and Other NIST Guidance - JD Supra** [link](https://www.jdsupra.com/legalnews/ai-testing-nist-s-dioptra-as-a-step-2461242/)
+_Highlight:_ ... <b>AI</b> systems against risks such as reliability, security, and <b>fairness</b>. In our article “Is Your <b>AI</b> Testing Tool a Breach of Contract Claim Waiting&nbsp;...
+
+- **9. The Impact of <b>Artificial Intelligence</b> on Modern Education - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/07/31/the-impact-of-artificial-intelligence-on-modern-education/)
+_Highlight:_ Additionally, issues of algorithmic bias and <b>fairness</b> in <b>AI</b>-powered ... (<b>AI</b>), Data Privacy, Edge <b>AI</b>, <b>Fairness</b> in <b>AI</b>, xPL. Post navigation.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
