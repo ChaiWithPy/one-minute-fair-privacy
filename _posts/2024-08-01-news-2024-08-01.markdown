@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-08-01 One-Minute Post
+date: 2024-08-01 12:04:39 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+States are introducing AI regulations, mirroring the path of privacy laws. The EU AI Act is now in effect, with fines for GDPR breaches. A new NSA-powered AI tool aims to optimize cyberdefense testing. Fairness in machine learning is a growing concern, prompting Unilever to outline steps to navigate the EU AI Act. A tech CEO asked diverse women to expose biases in their AI chatbot, revealing concerning results.
+
+## Articles we found interesting:
+
+- **1. Taking a Byte From the Regulatory Apple: States Introduce <b>AI</b> Regulations, Creating Conflict ...** [link](https://www.law.com/legaltechnews/2024/08/01/taking-a-byte-from-the-regulatory-apple-states-introduce-ai-regulations-creating-conflict-risks-with-future-federal-law/)
+_Highlight:_ This places <b>AI</b> regulation on track to follow the same path as <b>privacy</b>/data collection—with the states, the courts, the industry itself, and other&nbsp;...
+
+- **2. EU <b>AI</b> Act goes into effect: Here&#39;s what it means for U.S. tech firms - CNBC** [link](https://www.cnbc.com/2024/08/01/eu-ai-act-goes-into-effect-heres-what-it-means-for-us-tech-firms.html)
+_Highlight:_ ... <b>privacy</b> law. Companies faces fines of up to 20 million euros or 4% of annual global turnover for GDPR breaches. Oversight of all <b>AI</b> models that&nbsp;...
+
+- **3. New NSA-powered <b>AI</b> tool would help industry optimize cyberdefense testing** [link](https://www.nextgov.com/cybersecurity/2024/07/new-nsa-powered-ai-tool-would-help-industry-optimize-cyberdefense-testing/398476/)
+_Highlight:_ Your <b>Privacy</b> Choices; Exercise Your <b>Privacy</b> Rights. New NSA-powered <b>AI</b> tool would help industry optimize cyberdefense testing.
+
+- **4. A novel approach for assessing fairness in deployed machine learning algorithms - Nature** [link](https://www.nature.com/articles/s41598-024-68651-w)
+_Highlight:_ Fairness in machine learning (ML) emerges as a critical concern as <b>AI</b> systems increasingly influence diverse aspects of society, from healthcare&nbsp;...
+
+- **5. Unilever lays out action plan as EU <b>AI</b> Act takes effect - Personal Care Insights** [link](https://www.personalcareinsights.com/news/unilever-lays-out-action-plan-as-eu-ai-act-takes-effect.html)
+_Highlight:_ Unilever outlines the steps it has taken to navigate the EU <b>AI</b> Act, which will come into force tomorrow to govern the risks of <b>AI</b> systems.
+
+- **6. I&#39;m a tech CEO and I asked a group of diverse women to expose <b>biases</b> in our <b>AI</b> chatbot. It ...** [link](https://fortune.com/2024/07/31/tech-ceo-bias-ai-chatbot-diversity-women/)
+_Highlight:_ <b>AI</b> chatbots cursing and flirting—despite standard guardrails—were among the concerning results.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
