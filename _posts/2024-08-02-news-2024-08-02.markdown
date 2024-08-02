@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-02 One-Minute Post
+date: 2024-08-02 12:00:37 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California proposes AI regulations for privacy and nondiscrimination standards. Zendata launches AI governance and data privacy solution. GitHub Models emphasizes privacy and security. EU AI Act requires companies to address bias in AI applications. AI systems are biased against conservative views. Generative AI is transforming clinical trial work with biases. The ICO's strategic approach to regulating AI focuses on fairness. AI reshapes economies and becomes central to a revolution of justice and fairness. AI has potential to positively impact safety, fairness, and democratization in sport with the Olympic AI Agenda.
+
+## Articles we found interesting:
+
+- **1. A Quick &amp; Easy Guide To California&#39;s Suite Of Proposed <b>AI</b> Regulations - Mondaq** [link](https://www.mondaq.com/unitedstates/privacy-protection/1501400/a-quick-easy-guide-to-californias-suite-of-proposed-ai-regulations)
+_Highlight:_ SB 892 — Public Contracts: <b>AI</b> Services: Safety, <b>Privacy</b>, &amp; Nondiscrimination Standards: Businesses providing <b>AI</b> services to the state may be&nbsp;...
+
+- **2. Zendata Unveils Groundbreaking <b>AI</b> Governance and Data <b>Privacy</b> Solution - Datanami** [link](https://www.datanami.com/this-just-in/zendata-unveils-groundbreaking-ai-governance-and-data-privacy-solution/)
+_Highlight:_ SAN FRANCISCO, Aug. 2, 2024 -- Zendata, a leading provider of data <b>privacy</b> and <b>AI</b> explainability solutions, has announced the launch of its&nbsp;...
+
+- **3. GitHub launches GitHub Models to integrate <b>AI</b> into workflows - IT Brief Australia** [link](https://itbrief.com.au/story/github-launches-github-models-to-integrate-ai-into-workflows)
+_Highlight:_ The new feature emphasises <b>privacy</b> and security; GitHub ensures that neither prompts nor outputs from GitHub Models will be shared with the model&nbsp;...
+
+- **4. The EU <b>AI</b> Act comes into effect | MobiHealthNews** [link](https://www.mobihealthnews.com/news/eu-ai-act-comes-effect)
+_Highlight:_ Companies are also required to eliminate or reduce the risk of <b>bias</b> in their <b>AI</b> applications and address <b>bias</b> when it occurs with mitigation measures.
+
+- **5. On <b>AI</b>, More Understanding, Less Regulation | City Journal** [link](https://www.city-journal.org/article/on-ai-more-understanding-less-regulation)
+_Highlight:_ ... <b>bias</b>”—never mind how <b>AI</b> systems are primarily <b>biased</b> against conservative views. Some Democrats, like New York senator Chuck Schumer, have argued&nbsp;...
+
+- **6. How Is Generative <b>AI</b> Transforming Clinical Trial Work? - BioSpace** [link](https://www.biospace.com/career-advice/how-is-generative-ai-transforming-clinical-trial-work)
+_Highlight:_ ... <b>biases</b>. GenAI is trained on the world, and in the communication that we have openly available, there is a certain <b>bias</b>.
+
+- **7. The ICO&#39;s strategic approach to regulating <b>AI</b> - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D8cef0cee-647c-4536-acba-ed02bac8adfc)
+_Highlight:_ <b>fairness</b>: The ICO notes it is crucial to ensure that <b>AI</b> systems do not unfairly discriminate or create adverse effects, considering the broader&nbsp;...
+
+- **8. Imagine Revolution 3000 in future of <b>AI</b> - Daily Monitor** [link](https://www.monitor.co.ug/uganda/oped/commentary/imagine-revolution-3000-in-future-of-ai-4711232)
+_Highlight:_ Envision a future where <b>Artificial Intelligence</b> (<b>AI</b>) not only reshapes economies but also becomes central to a revolution of justice and <b>fairness</b>.
+
+- **9. From ambition to precision | Deloitte Global** [link](https://www.deloitte.com/global/en/about/story/impact/ambition-to-precision.html)
+_Highlight:_ ... <b>AI</b> has boundless potential to positively impact safety, <b>fairness</b> and democratization in sport. With the launch of the Olympic <b>AI</b> Agenda, the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
