@@ -1,0 +1,40 @@
+---
+layout: post
+title: 2024-08-03 One-Minute Post
+date: 2024-08-03 12:15:20 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The AI Act has entered into force, emphasizing privacy and cybersecurity. The US, EU, and allies are addressing privacy risks in connected cars. Healthcare CIOs play a crucial role in AI governance. Insurers are investing in generative AI, focusing on ethical application. Meta has launched the largest 'open' AI model, prioritizing fairness, accountability, and transparency. AI conferences globally are focusing on ethics, trust, and fairness in AI applications across industries.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> Act Enters into Force - Hunton Andrews Kurth LLP** [link](https://www.huntonak.com/privacy-and-information-security-law/ai-act-enters-into-force)
+_Highlight:_ <b>Privacy</b> &amp; Information Security Law Blog. Global <b>Privacy</b> and Cybersecurity Law Updates and Analysis. Home; &gt; Insights; &gt; Blogs.
+
+- **2. US, EU, Allies Commit to Address <b>Privacy</b> Risks in Connected Cars | ChannelE2E** [link](https://www.channele2e.com/brief/us-eu-allies-commit-to-address-privacy-risks-in-connected-cars)
+_Highlight:_ ... <b>AI</b>-Powered Traffic Management. (Adobe Stock). The U.S., European Union, and several U.S.-allied countries, such as Canada, Japan, Germany and&nbsp;...
+
+- **3. Considerations for an <b>AI</b> Governance Framework in Legal Environments | Legaltech News** [link](https://www.law.com/legaltechnews/2024/08/02/considerations-for-an-ai-governance-framework-in-legal-environments/)
+_Highlight:_ ... <b>privacy</b> and <b>confidentiality</b> of our data. This piece provides some practical thoughts for how to do so in the rapidly evolving <b>AI</b> environment.
+
+- **4. The Crucial Role Of Healthcare CIOs In <b>AI</b> Governance - Forbes** [link](https://www.forbes.com/sites/davidchou/2024/08/02/the-crucial-role-of-healthcare-cios-in-ai-governance/)
+_Highlight:_ <b>AI</b> can significantly enhance efficiency in healthcare organizations&#39; clinical and operational settings. However, many lack the proper governance&nbsp;...
+
+- **5. Insurers Invest in Generative <b>AI</b>, but Long-Term Impact Remains Uncertain - AIS Health** [link](https://aishealth.mmitnetwork.com/blogs/health-plan-weekly/insurers-invest-in-generative-ai-but-long-term-impact-remains-uncertain)
+_Highlight:_ Health plans should make sure they apply <b>artificial intelligence</b> in an ethical manner and involve multiple stakeholders, experts say.
+
+- **6. <b>AI&#39;s</b> Potential to Advance Human Rights? Striking the Right Balance - Just Security** [link](https://www.justsecurity.org/98097/ais-potential-to-advance-human-rights/)
+_Highlight:_ The risks of <b>AI</b> are well-known, but devoting more effort to understanding its benefits towards human rights will help harness its potential.
+
+- **7. Meta Just Launched the Largest &#39;Open&#39; <b>AI</b> Model in History. Here&#39;s Why It Matters.** [link](https://singularityhub.com/2024/08/02/meta-just-launched-the-largest-open-ai-model-in-history-heres-why-it-matters/)
+_Highlight:_ There are a range of ethical frameworks that seek to improve the <b>fairness</b>, accountability, transparency, privacy, and human oversight of <b>AI</b>.
+
+- **8. Top <b>AI</b> Conferences (2024): Global Gatherings of Leading <b>AI</b> Innovators - eWEEK** [link](https://www.eweek.com/artificial-intelligence/top-ai-conferences/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) is reshaping industries worldwide ... <b>AI</b> ethics, trust, and <b>fairness</b>; <b>AI</b> applications in various industries.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
