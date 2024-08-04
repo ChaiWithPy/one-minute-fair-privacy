@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-08-04 One-Minute Post
+date: 2024-08-04 12:15:52 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Australian companies await privacy law overhaul, while Argentina plans AI for crime prediction, raising privacy concerns. Ottawa uses AI to predict homelessness, sparking privacy and bias worries. EU implements regulations for AI governance. Elon Musk expresses concerns about AI biases. IBM Japan to disclose AI use in workforce evaluation, resolving a labor dispute.
+
+## Articles we found interesting:
+
+- **1. Imminent <b>privacy</b> law overhaul keeps Australian companies on edge over <b>AI</b>** [link](https://www.theaustralian.com.au/business/financial-services/imminent-privacy-law-overhaul-keeps-australian-companies-on-edge-over-ai/news-story/13ac61cf3ec7dc3dc7fe17f4cd725a5e)
+_Highlight:_ The federal government&#39;s overhaul of Australia&#39;s <b>privacy</b> law is being keenly anticipated by Australian companies, particularly those weighing&nbsp;...
+
+- **2. Argentina plans to adopt <b>AI</b> to predict and prevent &#39;future crimes&#39; - Cointelegraph** [link](https://cointelegraph.com/news/argentina-government-ministry-of-security-uiaas-artificial-intelligence-ai)
+_Highlight:_ “Argentina is using <b>AI</b> to fight crime, but at what cost to <b>privacy</b>?” computer software engineer David Arnal commented. “Once again, where are the&nbsp;...
+
+- **3. Ottawa latest city to turn to <b>AI</b> to predict chronic homelessness | larongeNOW** [link](https://larongenow.com/2024/08/04/ottawa-latest-city-to-turn-to-ai-to-predict-chronic-homelessness/)
+_Highlight:_ As cities increasingly turn to <b>AI</b>, some advocates are raising concerns about <b>privacy</b> and bias. But those behind the project insist it is just one&nbsp;...
+
+- **4. The Era of Intelligent Automation: Challenges and Opportunities - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/08/03/the-era-of-intelligent-automation-challenges-and-opportunities/)
+_Highlight:_ The European Union has taken a significant step by implementing regulations to govern the realm of <b>artificial intelligence</b> (<b>AI</b>), a domain that has&nbsp;...
+
+- **5. &#39;I&#39;m concerned...&#39;: Elon Musk opens up about <b>AI</b> safety, truth, birth rates, and dangers of ...** [link](https://www.businesstoday.in/technology/news/story/im-concerned-elon-musk-opens-up-about-ai-safety-truth-birth-rates-and-dangers-of-ideological-bias-on-lex-fridmans-podcast-440038-2024-08-03)
+_Highlight:_ Musk believes that even seemingly harmless <b>biases</b> or inaccuracies embedded in <b>AI</b> systems could have disastrous consequences.
+
+- **6. IBM Japan to disclose how <b>AI</b> is used to evaluate its work force | The Asahi Shimbun** [link](https://www.asahi.com/ajw/articles/15375025)
+_Highlight:_ A labor-management dispute at IBM Japan over personnel evaluations using <b>artificial intelligence</b> (<b>AI</b>) is now resolved under a landmark agreement.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
