@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-05 One-Minute Post
+date: 2024-08-05 12:01:57 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+US govt sues TikTok over child privacy violations. NC introduces handbook on AI use in schools. Argentina plans proactive crime detection with AI, raising privacy concerns. HR professionals oppose AI in hiring without safeguards. Ottawa uses AI to predict chronic homelessness, facing bias concerns. Medical care revolutionized with AI, but ethical concerns persist. Big data analytics and AI reshaping media content creation, highlighting fairness issues. Legal ethics and AI fairness challenges discussed. CoRover.ai partners with EthosAI.one to champion human-centric responsible AI.
+
+## Articles we found interesting:
+
+- **1. US govt sues TikTok over child <b>privacy</b> violations - Storyboard18** [link](https://www.storyboard18.com/digital/us-govt-sues-tiktok-over-child-privacy-violations-38811.htm)
+_Highlight:_ The civil lawsuit is against TikTok owner ByteDance and its affiliates for violations of the Children&#39;s Online <b>Privacy</b> Protection Act ... <b>AI</b>: Towards a&nbsp;...
+
+- **2. NC students and teachers getting new handbook on <b>AI</b> use in school - WCNC** [link](https://www.wcnc.com/article/news/local/nc-schools-receive-new-handbook-using-ai-classroom/275-d7b7d99c-3759-4a39-b945-e63ab2698a1d)
+_Highlight:_ The North Carolina Department of Public Instruction introduced a handbook for teachers on how to incorporate <b>AI</b> into learning. ... <b>Privacy</b> Policy &middot; Ad&nbsp;...
+
+- **3. <b>AI</b> for Proactive Crime Detection in Argentina - Bitcoinsensus** [link](https://www.bitcoinsensus.com/ai-for-proactive-crime-detection-in-argentina/)
+_Highlight:_ Argentina plans to use <b>AI</b> to prevent cybercrime; They are going to analyze historical data in depth; However, <b>privacy</b> and <b>confidentiality</b> issues&nbsp;...
+
+- **4. 4 in 10 HR professionals oppose <b>AI</b> in hiring without safeguards | Singapore Business Review** [link](https://sbr.com.sg/hr-education/news/4-in-10-hr-professionals-oppose-ai-in-hiring-without-safeguards)
+_Highlight:_ Concerns about ethical <b>AI</b> use, ensuring fairness, and mitigating <b>bias</b> in <b>AI</b> algorithms (31%) are among the top challenges HR professionals face when&nbsp;...
+
+- **5. Ottawa becomes the latest city to turn to <b>AI</b> to help it predict chronic homelessness** [link](https://www.theglobeandmail.com/canada/article-ottawa-becomes-the-latest-city-to-turn-to-ai-to-predict-chronic/)
+_Highlight:_ Some advocates are concerned about privacy and <b>bias</b> but those behind the project insist it is just one tool to help determine who might need help.
+
+- **6. Revolutionizing Medical Care with <b>AI</b> Technology - Smartphone Magazine -** [link](https://smartphonemagazine.nl/en/2024/08/05/revolutionizing-medical-care-with-ai-technology/)
+_Highlight:_ Despite the promising benefits of <b>AI</b> in healthcare, concerns about legal risks and ethical considerations persist. Issues such as algorithm <b>bias</b>, data&nbsp;...
+
+- **7. Navigating the media landscape: How big data analytics and <b>AI</b> are reshaping content creation** [link](https://gulfnews.com/gn-reach/navigating-the-media-landscape-how-big-data-analytics-and-ai-are-reshaping-content-creation-1.1722838932277)
+_Highlight:_ Bias and <b>fairness</b>: <b>AI</b> models are only as unbiased as the data they are trained on. Biases present in the training data can perpetuate and amplify&nbsp;...
+
+- **8. <b>Artificial Intelligence</b> and Legal Ethics: New Challenges and Opportunities - Iravaban.net** [link](https://iravaban.net/en/488204.html)
+_Highlight:_ How do we ensure the <b>fairness</b> and impartiality of <b>AI</b>-driven decisions? What are the implications when <b>AI</b> systems err? Who bears responsibility for&nbsp;...
+
+- **9. CoRover.<b>ai</b> announces strategic partnership with EthosAI.one to champion human-centric ...** [link](https://www.expresscomputer.in/news/corover-ai-announces-strategic-partnership-with-ethosai-one-to-champion-human-centric-responsible-ai-with-bharatgpt/114649/)
+_Highlight:_ This partnership will ensure the reliability, <b>fairness</b>, and accuracy of BharatGPT, making it a powerful and trustworthy <b>AI</b> solution. This&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
