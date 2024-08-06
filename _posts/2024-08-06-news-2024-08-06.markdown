@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-06 One-Minute Post
+date: 2024-08-06 11:53:17 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California Legislature returns with a push for AI regulation, while Europe's AI Act enters into force. Financial service providers in Germany receive guidance on AI, and Senator Ted Cruz aims to scale back AI regulation. Meanwhile, candidates and HR leaders increasingly accept AI in hiring, but concerns over fairness and bias in AI recruitment algorithms grow among HR professionals in Singapore. AI ethicists are working to ensure responsible development and deployment of AI systems, mitigating potential biases and ensuring fairness.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> Regulation Still in the Mix as California Legislature Returns to Session | KQED** [link](https://www.kqed.org/news/11998817/ai-regulation-still-in-the-mix-as-california-legislature-returns-to-session)
+_Highlight:_ ... <b>Privacy</b> and Consumer Protection Committee. She is pushing four <b>AI</b> bills this year, including AB 1836, which would prohibit using “digital replicas&nbsp;...
+
+- **2. <b>AI</b> and data <b>privacy</b> are difficult to square off, but blockchains might help** [link](https://interestingengineering.com/innovation/ai-and-data-privacy-are-difficult-to-square-off-but-blockchains-might-help)
+_Highlight:_ The <b>AI</b> revolution is in full swing, but we&#39;re still in the early innings. As models continue to get better and better, the issue of training and&nbsp;...
+
+- **3. Austin Health explores how generative <b>AI</b> can revolutionise healthcare service delivery ...** [link](https://news.microsoft.com/en-au/features/austin-health-explores-how-generative-ai-can-revolutionise-healthcare-service-delivery-backed-by-microsofts-responsible-ai-and-security-features/)
+_Highlight:_ They are especially concerned with addressing issues such as data <b>privacy</b>, ethical concerns and the need for an evidence base as a foundation for&nbsp;...
+
+- **4. <b>AI</b> Act, legal framework for Europe designed to support &quot;trustworthy <b>AI</b>&quot;, enters into force - htn** [link](https://htn.co.uk/2024/08/05/ai-act-legal-framework-for-europe-designed-to-support-trustworthy-ai-enters-into-force/)
+_Highlight:_ The European Commission has announced that <b>AI</b> Act, a legal framework seeking to address the risks of <b>AI</b> in Europe, has entered into force.
+
+- **5. Germany: BaFin publishes guidance for financial service providers on <b>AI</b> - DataGuidance** [link](https://www.dataguidance.com/news/germany-bafin-publishes-guidance-financial-service)
+_Highlight:_ On August 1, 2024, the Federal Financial Supervisory Authority (BaFin) published a guidance for financial service providers regarding artificial&nbsp;...
+
+- **6. Sen. Ted Cruz takes aim at <b>AI</b> EO; TMF reform gains Senate momentum | The Daily Scoop Podcast** [link](https://www.youtube.com/watch%3Fv%3DIiIU6DP3L10)
+_Highlight:_ Sen. Ted Cruz, R-Texas, has introduced a series of amendments aimed at scaling back the Biden administration&#39;s efforts to regulate <b>artificial</b>&nbsp;...
+
+- **7. Candidates and HR Leaders Increasingly Accept <b>AI</b> in Hiring - HRO Today** [link](https://www.hrotoday.com/news/ticker/candidates-and-hr-leaders-increasingly-accept-ai-in-hiring/)
+_Highlight:_ ... <b>AI</b> is used in hiring. The responses demonstrate the changing perceptions about the <b>fairness</b> of <b>AI</b> tools, with 64% of candidates saying they are&nbsp;...
+
+- **8. Concerns over <b>Artificial Intelligence</b> in recruitment grow among HR professionals in Singapore** [link](https://theindependent.sg/concerns-over-artificial-intelligence-ai-in-recruitment-grow-among-hr-professionals-in-singapore/)
+_Highlight:_ ... <b>fairness</b> and mitigate bias in <b>AI</b> algorithms. This concern is compounded by the difficulty of integrating <b>AI</b> with existing HR systems and processes&nbsp;...
+
+- **9. How <b>AI</b> will Change Everyday Life - Open Source For You** [link](https://www.opensourceforu.com/2024/08/how-ai-will-change-everyday-life/)
+_Highlight:_ <b>AI</b> ethicists ensure responsible development and deployment of <b>AI</b> systems, mitigating potential biases and ensuring <b>fairness</b>. Furthermore, <b>AI</b> can&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
