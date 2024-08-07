@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-08-07 One-Minute Post
+date: 2024-08-07 11:55:21 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+DOJ's Arun Rao discusses consumer protection, elder fraud, and privacy. Yoti and Incode prioritize privacy in their AI age scanners. India's industry leaders emphasize data privacy and sovereignty in AI innovation. 'The Godmother of AI' warns about the potential harms of AI advancement, including bias. Educators are addressing data security, algorithmic bias, equity, and ethical AI use. Generative AI's misrepresentation of physician images prompts the need to tackle biases in AI.
+
+## Articles we found interesting:
+
+- **1. Lawfare Daily: DOJ&#39;s Arun Rao on Consumer Protection, Elder Fraud, and <b>Privacy</b>** [link](https://www.lawfaremedia.org/article/lawfare-daily--doj-s-arun-rao-on-consumer-protection--elder-fraud--and-privacy)
+_Highlight:_ They discuss DOJ&#39;s consumer protection work, cyber crime and elder fraud, data <b>privacy</b>, and generative <b>AI</b>. You can find out more about Rao&#39;s work&nbsp;...
+
+- **2. A booming industry of <b>AI</b> age scanners, aimed at children&#39;s faces - The Washington Post** [link](https://www.washingtonpost.com/technology/2024/08/07/face-scanning-kids-online-privacy/)
+_Highlight:_ Yoti and Incode have said they take <b>privacy</b> seriously, including by deleting images after a person&#39;s face is analyzed. But beyond <b>privacy</b> concerns,&nbsp;...
+
+- **3. India&#39;s Data <b>Privacy</b> &amp; Sovereignty Imperative: Industry Leaders Chart a Course for <b>AI</b> ...** [link](https://cxotoday.com/press-release/indias-data-privacy-sovereignty-imperative-industry-leaders-chart-a-course-for-ai-innovation-and-digital-trust/)
+_Highlight:_ As India emerges as a global <b>AI</b> frontrunner, the intricate interplay between data innovation, data sovereignty and robust <b>privacy</b> safeguards has&nbsp;...
+
+- **4. &#39;The Godmother of <b>AI</b>&#39; says California&#39;s well-intended <b>AI</b> bill will harm the U.S. ecosystem** [link](https://fortune.com/2024/08/06/godmother-of-ai-says-californias-ai-bill-will-harm-us-ecosystem-tech-politics/)
+_Highlight:_ Most alarmingly, this bill does not address the potential harms of <b>AI</b> advancement, including <b>bias</b> and deepfakes. Instead, SB-1047 sets an&nbsp;...
+
+- **5. How <b>AI</b> can help drive inclusive learning | The Educator K/12** [link](https://www.theeducatoronline.com/k12/news/how-ai-can-help-drive-inclusive-learning/285332)
+_Highlight:_ Educators are grappling with a slew of new issues, from data security to algorithmic <b>bias</b>, equity and ethical <b>AI</b> use. To move boldly into this new&nbsp;...
+
+- **6. Generative <b>AI&#39;s</b> Misrepresentation of Physician Images - Drug Topics** [link](https://www.drugtopics.com/view/generative-ais-misrepresentation-of-physician-images)
+_Highlight:_ By tackling these <b>biases</b>, <b>AI</b> can become a powerful tool for advancing ... Identifying and addressing bias in artificial intelligence. JAMA&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
