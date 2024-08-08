@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-08 One-Minute Post
+date: 2024-08-08 11:53:16 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Amazon's $4 billion investment in AI firm Anthropic faces UK merger investigation, while Australia's Senate inquiry highlights the urgent need for responsible AI, focusing on data integrity and privacy. Ethical assurance ensures AI systems do not reinforce biases or inequalities, promoting fairness and justice. On the other hand, AI has trouble picturing physicians that aren't White men, highlighting the issue of biases in AI. Additionally, the University of Delaware uses AI to transform lectures into study tools, and a 14-year-old Haryana farmer's son claims six patents, AI bot, and robotic vision, emphasizing the importance of AI fairness. Furthermore, a survey reveals 84% of tech execs support AI copyright reform, highlighting the urgent need for updated regulations in data privacy and security.
+
+## Articles we found interesting:
+
+- **1. Amazon&#39;s $4 billion investment in <b>AI</b> firm Anthropic faces UK merger investigation - CNBC** [link](https://www.cnbc.com/2024/08/08/amazons-investment-in-ai-firm-anthropic-faces-uk-merger-investigation.html)
+_Highlight:_ ... <b>AI</b> applications. ... Advertise With Us. Please Contact Us &middot; <b>Privacy</b> Policy; California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **2. Survey: 84% of tech execs back copyright law overhaul for <b>AI</b> era | VentureBeat** [link](https://venturebeat.com/ai/survey-84-of-tech-execs-back-copyright-law-overhaul-for-ai-era/)
+_Highlight:_ New survey reveals 84% of tech execs support <b>AI</b> copyright reform, highlighting urgent need for updated regulations in data <b>privacy</b>, security,&nbsp;...
+
+- **3. Australia is calling for responsible <b>Artificial Intelligence</b>** [link](https://itbrief.com.au/story/australia-is-calling-for-responsible-artificial-intelligence)
+_Highlight:_ Australia&#39;s Senate inquiry highlights the urgent need for responsible <b>AI</b>, focusing on data integrity and <b>privacy</b> amid growing concerns of <b>AI</b>&nbsp;...
+
+- **4. What is responsible <b>AI</b> (RAI) and why you should adopt it - Times of India** [link](https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/what-is-responsible-ai-rai-and-why-you-should-adopt-it/)
+_Highlight:_ Ethical assurance: Ensures <b>AI</b> systems do not reinforce <b>biases</b> or inequalities, promoting fairness and justice. Trust building: Enhances public trust&nbsp;...
+
+- **5. <b>AI</b> has trouble picturing physicians that aren&#39;t White men - Medical Economics** [link](https://www.medicaleconomics.com/view/ai-has-trouble-picturing-physicians-that-aren-t-white-men)
+_Highlight:_ ... <b>bias</b> in <b>AI</b>. Computational <b>biases</b> arise from data that <b>AI</b> use. <b>Biases</b> in human thought influence development of <b>AI</b> tools, and systemic <b>biases</b> are&nbsp;...
+
+- **6. University of Delaware uses <b>AI</b> to transform lectures into study tools - The Philadelphia Inquirer** [link](https://www.inquirer.com/education/colleges-using-artificial-intelligence-education-20240807.html)
+_Highlight:_ ... <b>AI</b>. Also at Penn, Duncan Watts, a computational social scientist, and his colleagues built the Media <b>Bias</b> Detector, which uses <b>artificial intelligence</b>&nbsp;...
+
+- **7. 14-year-old Haryana farmer&#39;s son claims six patents, <b>AI</b> bot, and robotic vision - INDIAai** [link](https://indiaai.gov.in/news/14-year-old-haryana-farmer-s-son-claims-six-patents-ai-bot-and-robotic-vision)
+_Highlight:_ <b>AI fairness</b>. Ensuring algorithmic <b>fairness</b> in <b>AI</b> models. Anjali Raja. Aug 06, 2024 3 Min. <b>AI</b> Questions. Can <b>AI</b> create original art, music, or stories?
+
+- **8. 25 Questions to Help You Understand How <b>AI</b> will Affect Your Job in the Future** [link](https://futuristspeaker.com/future-of-work/25-questions-to-help-you-understand-how-ai-will-affect-your-job-in-the-future/)
+_Highlight:_ Positive: New regulations could protect workers&#39; rights and ensure responsible <b>AI</b> use, creating a more stable and <b>fair</b> work environment. Negative:&nbsp;...
+
+- **9. <b>AI</b> in Medical Imaging: Balancing Performance and <b>Fairness</b> Across Populations** [link](https://www.marktechpost.com/2024/08/08/ai-in-medical-imaging-balancing-performance-and-fairness-across-populations/)
+_Highlight:_ The research team conducted experiments to evaluate medical <b>AI</b> models&#39; performance and <b>fairness</b> across various demographic groups and modalities. They&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
