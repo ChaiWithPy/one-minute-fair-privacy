@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-08-09 One-Minute Post
+date: 2024-08-09 11:58:47 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Elon Musk's X to pause AI training with some EU data due to privacy concerns. Meanwhile, tech strategist Elin Hauge advocates against biased AI development. Companies are hesitant to adopt generative AI tools due to privacy and security issues. Free AI courses now include modules on bias, privacy, and security considerations. The pitfalls of AI worship are highlighted, with concerns about replicating biases in AI usage, particularly in hiring processes.
+
+## Articles we found interesting:
+
+- **1. Elon Musk to pause X&#39;s <b>AI</b> training on some EU data, Ireland says – POLITICO** [link](https://www.politico.eu/article/elon-musks-x-to-pause-ai-training-with-some-eu-data-says-irish-privacy-regulator/)
+_Highlight:_ X will pause training its <b>artificial intelligence</b> chatbot Grok with some European users&#39; posts, according to Europe&#39;s chief <b>privacy</b> watchdog.
+
+- **2. X halts using personal data of Europeans to train <b>AI</b> | Courthouse News Service** [link](https://www.courthousenews.com/x-halts-using-personal-data-of-europeans-to-train-ai/)
+_Highlight:_ ... <b>privacy</b> rights. As X has its European headquarters in Ireland, the ... In June, Meta backtracked on plans to use personal data from Facebook and&nbsp;...
+
+- **3. Why Aren&#39;t More Companies Adopting Generative <b>AI</b> Tools? - Forbes** [link](https://www.forbes.com/sites/forbestechcouncil/2024/08/09/why-arent-more-companies-adopting-generative-ai-tools/)
+_Highlight:_ Security and data <b>privacy</b> remain perhaps the most critical barrier to <b>AI</b> adoption. The reality is that generative <b>AI</b> tools, which are built into&nbsp;...
+
+- **4. Tech and Business Strategist Elin Hauge Stands Up Against Irresponsible <b>AI</b> Development** [link](https://www.ellecanada.com/vip/elle-extra/tech-and-business-strategist-elin-hauge-stands-up-against-irresponsible-ai-development)
+_Highlight:_ Everyone—not just women and minorities—should call out <b>bias</b> in tech and <b>AI</b>, says this expert. ... <b>AI</b> was found to have been <b>biased</b> against women.
+
+- **5. 5 Free <b>AI</b> Courses With Certifications In 2024 - Forbes** [link](https://www.forbes.com/sites/rachelwells/2024/08/08/5-free-ai-courses-with-certifications-in-2024/)
+_Highlight:_ ... <b>AI bias</b>, privacy and security considerations, <b>AI</b> tools usage, and the correlation between <b>artificial intelligence</b> and machine learning. Coursera&nbsp;...
+
+- **6. No god in the machine: the pitfalls of <b>AI</b> worship | <b>Artificial intelligence</b> (<b>AI</b>) | The Guardian** [link](https://www.theguardian.com/news/article/2024/aug/08/no-god-in-the-machine-the-pitfalls-of-ai-worship)
+_Highlight:_ ... <b>AI</b> usage in things like hiring is replicating <b>biases</b>. In both cases, pre-existing racial <b>bias</b> emerged in digital systems. That&#39;s not to say that&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
