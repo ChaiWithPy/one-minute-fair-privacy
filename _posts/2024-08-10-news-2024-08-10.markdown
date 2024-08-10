@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-10 One-Minute Post
+date: 2024-08-10 12:03:43 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+A comprehensive guide on developing effective AI policies to avoid privacy risks. X agrees not to use some EU user data for AI chatbot training. NACo opens AI leadership academy to prevent bias in county government. Courts to decide if DEI training discriminates against white people. The importance of governance in GenAI projects to monitor and intervene for bias. Ethical concerns raised about transparency, bias, and fairness in AI algorithms. Dave Antrobus emphasizes the importance of building AI with fairness and respect. Framework for detecting AI hallucinations and trends in health tech for fairness and equality.
+
+## Articles we found interesting:
+
+- **1. How To Develop An Effective <b>AI</b> Policy - Forbes** [link](https://www.forbes.com/sites/bernardmarr/2024/08/09/how-to-develop-an-effective-ai-policy/)
+_Highlight:_ A comprehensive guide on how <b>AI</b> should be used—or not used—is critical for organizations that want to avoid risks such as breaching <b>privacy</b>, exposing&nbsp;...
+
+- **2. Black Hat 2024: <b>AI</b> in Security, Microsoft Vulnerabilities, and More - Spiceworks** [link](https://www.spiceworks.com/it-security/security-general/articles/black-hat-2024-ai-in-security-microsoft-vulnerabilities-and-more/)
+_Highlight:_ It also comes at a time when <b>artificial intelligence</b> (<b>AI</b>) ... Using their real-world experiences, they examined the complex tradeoffs between <b>privacy</b> and&nbsp;...
+
+- **3. X agrees to not use some EU user data to train <b>AI</b> chatbot - ET CISO** [link](https://ciso.economictimes.indiatimes.com/news/grc/x-agrees-to-not-use-some-eu-user-data-to-train-ai-chatbot/112392527%3Futm_source%3Dlatest_news%26utm_medium%3Dhomepage)
+_Highlight:_ ... <b>privacy</b> settings to opt out ... <b>AI</b> systems. Advt. Elon Musk-owned X has said it allows all users to decide if&nbsp;...
+
+- **4. NACo opens <b>AI</b> leadership academy for county government employees - StateScoop** [link](https://statescoop.com/naco-county-government-ai-leadership-academy/)
+_Highlight:_ ... <b>AI</b> tools to amplify <b>bias</b> or share misinformation. “The leadership coaches facilitating this program will demystify <b>AI</b> with practical, relevant and&nbsp;...
+
+- **5. Does DEI training discriminate against White people? Courts will decide.** [link](https://www.washingtonpost.com/business/2024/08/09/dei-training-court-cases-discrimination/)
+_Highlight:_ Summary is <b>AI</b>-generated, newsroom-reviewed. White plaintiffs ... “The enemy is <b>bias</b> against racial minorities or really <b>bias</b> against any group.
+
+- **6. The Importance Of Governance In GenAI Projects - Forbes** [link](https://www.forbes.com/sites/forbestechcouncil/2024/08/09/the-importance-of-governance-in-genai-projects/)
+_Highlight:_ Teams should monitor <b>AI</b> systems, review outputs for <b>bias</b> and intervene when necessary. Establishing a stakeholder board for oversight, employee&nbsp;...
+
+- **7. Exploring the Future: The Unpredictable Impact of <b>Artificial Intelligence</b>** [link](https://elblog.pl/2024/08/10/exploring-the-future-the-unpredictable-impact-of-artificial-intelligence/)
+_Highlight:_ This ethical dilemma raises concerns about transparency, bias, and <b>fairness</b> in <b>AI</b> algorithms, sparking debates on the need for regulatory frameworks&nbsp;...
+
+- **8. Dave Antrobus: Ethical Considerations in <b>AI</b> Development - FEAST Online Magazine** [link](https://www.feastmagazine.org/ai/dave-antrobus-ethical-considerations-in-ai-development/)
+_Highlight:_ His work reminds us it&#39;s vital to build tech that respects people and <b>fairness</b>. The Importance of <b>AI</b> Ethics. In the world of <b>artificial intelligence</b>,&nbsp;...
+
+- **9. Talkspace earnings, a framework for detecting <b>AI</b> hallucination, and trends in telehealth abortions** [link](https://www.statnews.com/2024/08/08/health-tech-talkspace-ai-hallucination-telehealth-abortion-trends/)
+_Highlight:_ <b>AI artificial intelligence fairness</b> equality Adobe. You&#39;re reading the web edition of STAT&#39;s Health Tech newsletter, our guide to how technology is&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
