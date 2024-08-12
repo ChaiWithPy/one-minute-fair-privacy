@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-12 One-Minute Post
+date: 2024-08-12 11:50:11 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+X faces data protection complaints after changing privacy policy for AI training. Governments take steps to regulate AI and prevent discrimination. Concerns raised about AI bias perpetuating existing biases. AI fairness highlighted as crucial for trust and inclusivity. LendingPoint partners with FairPlay to enhance algorithmic decisions, emphasizing fairness-as-a-service. AI's impact on business activities stresses the importance of transparency, equity, and accountability for fairness.
+
+## Articles we found interesting:
+
+- **1. X hit with nine data protection complaints after announcing it will partially suspend data ... - Euractiv** [link](https://www.euractiv.com/section/data-privacy/news/x-hit-with-eight-data-protection-complaints-after-announcing-it-will-partially-suspend-data-processing-for-ai-training/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). On 6 August ... X changed its <b>privacy</b> policy to include data processing for training <b>AI</b> back in September 2023.
+
+- **2. Federal and States Governments Take Steps to Regulate <b>AI</b>, Prevent Discrimination** [link](https://accelerationeconomy.com/ai/federal-and-states-governments-take-steps-to-regulate-ai-prevent-discrimination/)
+_Highlight:_ Today, <b>AI</b> is governed primarily by state governments, industry, and the courts, which continue to apply existing laws, including <b>privacy</b> and&nbsp;...
+
+- **3. The urgent need for <b>AI</b> regulation - The Express Tribune** [link](https://tribune.com.pk/story/2487335/the-urgent-need-for-ai-regulation)
+_Highlight:_ Pakistan&#39;s <b>AI</b> policy needs comprehensive regulations to address ethical concerns, data <b>privacy</b>, and liability issues. The policy is silent about&nbsp;...
+
+- **4. Looking ahead, the CDAIO role will likely expand to include more focus on ethical <b>AI</b> ...** [link](https://ciosea.economictimes.indiatimes.com/news/strategy-and-management/looking-ahead-the-cdaio-role-will-likely-expand-to-include-more-focus-on-ethical-ai-practices-and-data-privacy-regulations-ashley-fernandez/112395403)
+_Highlight:_ <b>Bias</b> and fairness: <b>AI</b> algorithms can perpetuate or exacerbate existing <b>biases</b> if not properly managed. Ensuring fairness and transparency in <b>AI</b>&nbsp;...
+
+- **5. Resemblance Determined by <b>AI</b> at 82% - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/08/11/resemblance-determined-by-ai-at-82/)
+_Highlight:_ If the dataset used for comparison is not representative or contains inherent <b>biases</b>, the results may be skewed or inaccurate. Additionally, concerns&nbsp;...
+
+- **6. Threat to Free Speech Posed by <b>AI Bias</b> Isn&#39;t Artificial | National Review** [link](https://www.nationalreview.com/2024/08/the-threat-to-free-speech-posed-by-ai-bias-isnt-artificial/)
+_Highlight:_ The Threat to Free Speech Posed by <b>AI Bias</b> Isn&#39;t Artificial. Google headquarters in New York City, December 17, 2018 (Jeenah Moon/Reuters). Share
+
+- **7. In the words of Elsa Halili: &quot;When girls bring their unique perspectives and talents to the ...** [link](https://eca.unwomen.org/en/stories/in-the-words-of/2024/08/in-the-words-of-elsa-halili-when-girls-bring-their-unique-perspectives-and-talents-to-the-table-it-leads-to-improved-solutions-and-a-tech-industry-thats-more-welcoming-to-everyone)
+_Highlight:_ ... <b>AI</b> responses. This approach ensures trust and <b>fairness</b>, teaching <b>AI</b> to be <b>fair</b> to everyone. As <b>AI</b> becomes increasingly integrated into&nbsp;...
+
+- **8. LendingPoint Partners With FairPlay to Further Enhance Its Algorithmic Decisions - PR Newswire** [link](https://www.prnewswire.com/news-releases/lendingpoint-partners-with-fairplay-to-further-enhance-its-algorithmic-decisions-302219021.html)
+_Highlight:_ FairPlay <b>AI</b> is the world&#39;s first &quot;<b>Fairness</b>-as-a-Service&quot; solution&nbsp;...
+
+- **9. The Impact of <b>Artificial Intelligence</b> on Business Activities - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/08/12/the-impact-of-artificial-intelligence-on-business-activities/)
+_Highlight:_ ... <b>AI</b> technologies in practice. Transparency, Equity, and Accountability Applications of <b>AI</b> must uphold transparency, <b>fairness</b>, and accountability.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
