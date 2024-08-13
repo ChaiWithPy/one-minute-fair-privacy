@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-13 One-Minute Post
+date: 2024-08-13 12:01:48 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+X Chatbot excludes EU data from AI training after legal action. X faces privacy complaints for using EU user data without consent. SB205's transparency and fairness rules aim to protect consumers from AI-driven discrimination. Def Con spotlights AI's soaring importance in cybersecurity and its vulnerability to bias. Study suggests people prefer AI to make major life decisions, but fairness is crucial.
+
+## Articles we found interesting:
+
+- **1. X Chatbot to Exclude EU Data From <b>AI</b> Training After Ireland Legal Action - CPO Magazine** [link](https://www.cpomagazine.com/data-protection/x-chatbot-to-exclude-eu-data-from-ai-training-after-ireland-legal-action/)
+_Highlight:_ Grokbot reportedly collected posts from European users for its <b>AI</b> training from May 7 to August 1 this year ... <b>privacy</b> setting that is on by default).
+
+- **2. Are <b>AI</b> scribes risking patient safety? - RACGP** [link](https://www1.racgp.org.au/newsgp/professional/are-ai-scribes-risking-patient-safety)
+_Highlight:_ It states that GPs must be aware of three key issues when adopting <b>AI</b>: clinical, <b>privacy</b> and security, and workflow and practice. <b>AI</b> scribe tools were&nbsp;...
+
+- **3. X Faces <b>Privacy</b> Complaints For Using EU User Data to Train <b>AI</b> Model Without Consent** [link](https://www.tekedia.com/x-faces-privacy-complaints-for-using-eu-user-data-to-train-ai-model-without-consent/)
+_Highlight:_ Elon Musk-owned social media platform X, is facing a wave of <b>privacy</b> complaints in the European Union (EU) after it was revealed that the platform&nbsp;...
+
+- **4. Def Con spotlights <b>AI&#39;s</b> soaring importance in the high-stakes cybersecurity war—and its vulnerability** [link](https://fortune.com/2024/08/12/defcon-gen-ai-bug-bounty-cybersecurity-vulnerabilities/)
+_Highlight:_ ... <b>bias</b>, deepfakes, or the tendency of <b>AI</b> systems to produce content that reflects a dominant culture, for example. Ghosh pointed to a November 2023&nbsp;...
+
+- **5. &#39;<b>AI</b>&#39; crowds and unskewed polls: Trump prepares to reject another loss** [link](https://www.washingtonpost.com/politics/2024/08/12/ai-crowds-unskewed-polls-trump-prepares-reject-another-loss/)
+_Highlight:_ In part, it&#39;s confirmation <b>bias</b>, with partisans being more likely to accept false information as true when it supports their preexisting beliefs.
+
+- **6. Elizabeth Cohen, KFF Health News, Author at MM+M - Medical Marketing and Media** [link](https://www.mmm-online.com/author/elizabeth-cohen-kff-health-news/)
+_Highlight:_ Exercise is key for ... <b>AI</b> Deciphered: Discovering the Potential for Marketers and Communicators.
+
+- **7. <b>AI</b> Law SB205: Does Colorado&#39;s New Law Protect Consumers or Stifle Innovation?** [link](https://www.cmswire.com/digital-marketing/ai-law-sb205-does-colorados-new-law-protect-consumers-or-stifle-innovation/)
+_Highlight:_ SB205&#39;s transparency and <b>fairness</b> rules aim to protect consumers from <b>AI</b>-driven discrimination, but can it balance innovation and regulation&nbsp;...
+
+- **8. Would you prefer <b>AI</b> make major life decisions for you? Study suggests yes - Live Science** [link](https://www.livescience.com/technology/artificial-intelligence/would-you-prefer-ai-make-major-life-decisions-for-you-study-suggests-yes-but-you-d-be-much-happier-if-a-human-did-it)
+_Highlight:_ ... <b>fairness</b>. They tolerated any deviation between the decision and their own interests when the <b>AI</b> made the decision, so long as one <b>fairness</b>&nbsp;...
+
+- **9. Ethical implications of <b>AI</b> algorithms in decision-making - ET Edge Insights** [link](https://etedge-insights.com/technology/artificial-intelligence/ethical-implications-of-ai-algorithms-in-decision-making/)
+_Highlight:_ ... <b>fairness</b> in <b>AI</b> applications. Privacy and Security of Data. There are huge privacy risks associated with the misuse of personal data within <b>AI</b> systems.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
