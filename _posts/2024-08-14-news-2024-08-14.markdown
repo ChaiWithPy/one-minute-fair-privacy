@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-08-14 One-Minute Post
+date: 2024-08-14 11:47:50 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Colorado becomes the first US state with comprehensive AI law, focusing on privacy. MetaRouter and Magellan AI collaborate to prioritize privacy compliance. Sahara AI raises $43M for a blockchain project addressing copyright and privacy. US AI regulations emphasize transparency and bias. Students cautioned about AI bias in writing assistance. AI outperforms humans in writing medical summaries, with lower risk of bias.
+
+## Articles we found interesting:
+
+- **1. EU And Colorado Celebrate Summer With <b>AI</b> Legislation - <b>Privacy</b> Protection** [link](https://www.mondaq.com/unitedstates/privacy-protection/1505966/ai-summer-roundup-eu-and-colorado-celebrate-summer-with-ai-legislation)
+_Highlight:_ Colorado is now the first US state to have a comprehensive <b>AI</b> law (going into effect February 1, 2026)... Worldwide <b>Privacy</b>. Photo of Liisa M. Thomas.
+
+- **2. MetaRouter and Magellan <b>AI</b> Partner to Enhance Ad Performance Tracking in the Data <b>Privacy</b>-Era** [link](https://www.prnewswire.com/news-releases/metarouter-and-magellan-ai-partner-to-enhance-ad-performance-tracking-in-the-data-privacy-era-302221736.html)
+_Highlight:_ The MetaRouter and Magellan <b>AI</b> collaboration prioritizes <b>privacy</b> compliance while delivering accurate data, balancing regulatory requirements with&nbsp;...
+
+- **3. Sahara <b>AI</b>, Blockchain Project Tackling Copyright and <b>Privacy</b>, Raises $43M - CoinDesk** [link](https://www.coindesk.com/business/2024/08/14/sahara-ai-blockchain-project-tackling-copyright-and-privacy-raises-43m/)
+_Highlight:_ The funding round was led by Pantera Capital, Binance Labs and Polychain Capital and included participation from Samsung, Matrix Partners,&nbsp;...
+
+- **4. Q&amp;A: <b>AI</b> regulation in the US - Financier Worldwide** [link](https://www.financierworldwide.com/qa-ai-regulation-in-the-us)
+_Highlight:_ US state <b>AI</b> laws and laws in other jurisdictions generally focus on two key areas: transparency and <b>bias</b>. All laws require some type of notice of <b>AI</b>&nbsp;...
+
+- **5. How students should — and shouldn&#39;t — use <b>artificial intelligence</b> - MSU Denver RED** [link](https://red.msudenver.edu/2024/how-students-should-and-shouldnt-use-artificial-intelligence/)
+_Highlight:_ ... <b>bias</b> in subsequent revisions of an assignment. “<b>AI</b> could be really helpful in terms of editing, revising and cleaning up writing, but a human&nbsp;...
+
+- **6. Study: <b>AI</b> Outperforms Humans in Writing Medical Summaries - RTInsights** [link](https://www.rtinsights.com/study-ai-outperforms-humans-in-writing-medical-summaries/)
+_Highlight:_ In addition, while there is some risk of hallucinations or <b>AI bias</b>, the risk is far lower than human error in completing these documents, the study&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
