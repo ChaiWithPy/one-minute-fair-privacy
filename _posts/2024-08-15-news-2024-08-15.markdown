@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-15 One-Minute Post
+date: 2024-08-15 11:39:33 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Biden discusses AI and online privacy at Creator Economy Conference. Best search engines for 2024 cater to privacy and AI integration. Integrators enhance security systems with AI-powered privacy measures. Expert available to discuss bias in AI systems and AI regulation efforts. Page Center targets ethics in generative AI to address bias and misuse for misinformation. New DOL guidance on using AI in the workplace addresses concerns about bias and privacy. Forbes article emphasizes the importance of fairness and non-discrimination policies in AI. AI in 2024 focuses on navigating progress and public perception, with IBM's AI Fairness 360 fostering collaboration for ethical AI systems. Strategies for a solid AI future emphasize establishing frameworks, rules, and standards for safety and fairness in AI development and application.
+
+## Articles we found interesting:
+
+- **1. WATCH: Biden discusses <b>AI</b>, online <b>privacy</b> at first Creator Economy Conference at White House** [link](https://www.youtube.com/watch%3Fv%3DKe0uiHxeI3U)
+_Highlight:_ Watch PBS News for daily, breaking and live news, plus special coverage. We are home to PBS News Hour, ranked the most credible and objective TV&nbsp;...
+
+- **2. Best Search Engines To Use In 2024 – Forbes Advisor** [link](https://www.forbes.com/advisor/business/software/best-search-engines/)
+_Highlight:_ Explore the best search engines for 2024 that cater to diverse user needs, from <b>privacy</b> and <b>AI</b> integration to regional content.
+
+- **3. How integrators can help U.S. organizations navigate data <b>privacy</b> legislation** [link](https://www.securityinfowatch.com/video-surveillance/video-management-software-vms/article/55133176/how-integrators-can-help-us-organizations-navigate-data-privacy-legislation)
+_Highlight:_ Existing security systems need to be enhanced with <b>AI</b>-powered <b>privacy</b> measures to ensure compliance and build trust.
+
+- **4. Expert Available: A California Bill to Regulate Ar | Newswise** [link](https://www.newswise.com/articles/expert-available-a-california-bill-to-regulate-artificial-intelligence-is-stirring-debate)
+_Highlight:_ He can discuss topics related to building trustworthy <b>AI</b>, <b>bias</b> in <b>AI</b> systems, and <b>AI</b> regulation efforts, among other <b>AI</b>-related issues. -GW-. MEDIA&nbsp;...
+
+- **5. Page Center targets ethics in generative <b>AI</b> with next call for proposals - Penn State** [link](https://www.psu.edu/news/bellisario-college-communications/story/page-center-targets-ethics-generative-ai-next-call/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) in communication. The call is part of ... <b>bias</b> and the misuse of <b>AI</b> for misinformation.&quot; Shen and Shoenberger&nbsp;...
+
+- **6. The New Guidance From DOL On Using <b>AI</b> In The Workplace - JD Supra** [link](https://www.jdsupra.com/legalnews/the-new-guidance-from-dol-on-using-ai-7042676/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). For ... Concerns about job displacement, privacy, <b>bias</b>, and overall impact on employee well-being are rampant.
+
+- **7. Building Trust In <b>AI</b>: Ethical Practices For Technology Companies - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/08/15/building-trust-in-ai-ethical-practices-for-technology-companies/)
+_Highlight:_ 3. Practice <b>Fairness</b> And Implement Non-Discrimination Policies. Organizations can develop and enforce comprehensive ethical guidelines for <b>AI</b>&nbsp;...
+
+- **8. <b>AI</b> in 2024: Navigating Progress and Public Perception - PC-Tablet India** [link](https://www.pc-tablet.co.in/ai-in-2024-navigating-progress-and-public-perception/38112/)
+_Highlight:_ ... <b>AI</b> and IBM&#39;s <b>AI Fairness</b> 360, foster collaboration and accelerate progress in building ethical <b>AI</b> systems. As <b>AI</b> continues to evolve and permeate&nbsp;...
+
+- **9. 4 strategies for a solid — and profitable — <b>AI</b> future - CIO Dive** [link](https://www.ciodive.com/news/4-strategies-AI-future-IBM/724167/)
+_Highlight:_ They establish the frameworks, rules and standards directing <b>AI</b> research, development and application to ensure safety and <b>fairness</b>. Since <b>AI</b> is a&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
