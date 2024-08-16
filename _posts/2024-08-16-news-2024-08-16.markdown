@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-08-16 One-Minute Post
+date: 2024-08-16 11:41:29 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Lawmakers respond to Treasury's request for AI guidelines in financial services, emphasizing the increasing importance of privacy for AI models. San Francisco sues AI-generated deepfake porn sites for privacy violations. MIT researchers discuss proving humanity online amidst concerns about AI agents' privacy implications. AI's potential in the service industry is highlighted, but challenges such as data privacy and algorithm bias are noted. Argentina introduces an AI security unit, raising concerns about social biases and government political bias. AI's transformative impact on the medical field is discussed, with attention to the potential biases in AI training datasets.
+
+## Articles we found interesting:
+
+- **1. McHenry, Financial Services Committee Leaders Respond to Treasury&#39;s Request for ...** [link](https://financialservices.house.gov/news/documentsingle.aspx%3FDocumentID%3D409346)
+_Highlight:_ ... <b>Artificial Intelligence</b> (<b>AI</b>) in financial services. The lawmakers ... <b>privacy</b> has only become more critical and valuable for <b>AI</b> models. The&nbsp;...
+
+- **2. <b>AI</b>-generated deepfake porn sites sued by San Francisco** [link](https://sfstandard.com/2024/08/15/ai-generated-deepfake-porn-sites-sued-by-san-francisco/)
+_Highlight:_ At a press conference Thursday at City Hall, Chiu and two other city attorneys are expected to outline the sites&#39; <b>privacy</b>-rights violations and ways&nbsp;...
+
+- **3. 3 Questions: How to prove humanity online | MIT News** [link](https://news.mit.edu/2024/3-questions-proving-humanity-online-0816)
+_Highlight:_ <b>AI</b> agents could soon become indistinguishable from humans online. New ... <b>privacy</b>. MIT News spoke with two co-authors of the paper, Nouran&nbsp;...
+
+- **4. <b>AI</b>: The secret weapon for service industry dominance - Brand Equity** [link](https://brandequity.economictimes.indiatimes.com/news/digital/ai-the-secret-weapon-for-service-industry-dominance/112555249)
+_Highlight:_ <b>Ai</b> In Service Industry: While <b>AI</b> offers immense potential, challenges such as data privacy, algorithm <b>bias</b>, and the need for human oversight must&nbsp;...
+
+- **5. Argentina goes Minority Report with new <b>AI</b> security unit - Buenos Aires Herald** [link](https://buenosairesherald.com/business/tech/argentina-goes-minority-report-with-new-ai-security-unit)
+_Highlight:_ It has also raised concerns about state surveillance, the social <b>biases AI</b> ... There are also disturbing questions about how government political bias&nbsp;...
+
+- **6. The doctor will see you now. The doctor is a machine - Maine | newscentermaine.com** [link](https://www.newscentermaine.com/article/news/local/207/artificial-intelligence-is-transforming-the-medical-field-maine/97-06fc089b-4157-4705-abb0-1fc6d2349752)
+_Highlight:_ In a surprising number of cases, patients say that <b>AI</b> is more comforting than a human physician ... Rich: <b>Bias</b>, because <b>AI</b> is trained on datasets that&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
