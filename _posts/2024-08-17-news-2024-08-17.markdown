@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-17 One-Minute Post
+date: 2024-08-17 11:52:21 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+KidGeni settles with CARU for alleged privacy violations, while Deputy AG Monaco convenes organizations to discuss privacy and consumer protection. Quebec aims to lead in privacy, cybersecurity, and AI adoption. Dr. Ida Someh discusses AI trends, bias, and its impact on elections in Australia. Forbes releases a compliance guide for Illinois employers to prevent unintentional bias in AI hiring. ITWeb highlights the inherited biases in AI algorithms. Google AI's Imagen 3 paper showcases improvements in diversity but persistent biases towards lighter skin tones and younger ages. Vishal Bhalla addresses the risk of bias in AI algorithms and its implications for fairness and diversity in HR practices. AI training is found to alter human fairness and behavior, with participants showing motivation to train AI for fairness.
+
+## Articles we found interesting:
+
+- **1. KidGeni Settles with CARU for COPPA Violations - The National Law Review** [link](https://natlawreview.com/article/caru-settles-kidgeni-ai-platform-over-alleged-privacy-violations)
+_Highlight:_ CARU Settles With KidGeni <b>AI</b> Platform Over Alleged <b>Privacy</b> Violations. by: Liisa M. Thomas, Tracy Chau, Snehal Desai of Sheppard, Mullin, Richter&nbsp;...
+
+- **2. Update on Deputy Attorney General Lisa Monaco&#39;s Justice <b>AI</b> Convenings** [link](https://www.justice.gov/opa/pr/update-deputy-attorney-general-lisa-monacos-justice-ai-convenings-0)
+_Highlight:_ The Deputy AG welcomed organizations and advocates focused on <b>privacy</b> and consumer protection to the Justice Department to discuss opportunities for&nbsp;...
+
+- **3. Breaking down Quebec&#39;s Cybersecurity and Digital Strategy 2024-2028 | IAPP** [link](https://iapp.org/news/a/breaking-down-quebec-s-cybersecurity-and-digital-strategy-2024-2028)
+_Highlight:_ As a forerunner of <b>privacy</b> protection, it appears Quebec also aspires to lead the country in cybersecurity and <b>AI</b> adoption. We expect more of these&nbsp;...
+
+- **4. INTERVIEW: <b>AI</b> expert Dr Ida Someh speaks to SBS as tech and social media giants front a ...** [link](https://www.sbs.com.au/news/podcast-episode/interview-ai-expert-dr-ida-someh-speaks-to-sbs-as-tech-and-social-media-giants-front-a-senate-inquiry/b9296d06w)
+_Highlight:_ ... <b>AI</b> technology in Australia. It&#39;s part of a national effort to examine <b>AI</b> trends, <b>bias</b> and opportunities, including its impact on elections and the&nbsp;...
+
+- **5. <b>AI</b> In Hiring: 2026 Compliance Guide For Illinois Employers - Forbes** [link](https://www.forbes.com/sites/alonzomartinez/2024/08/16/ai-in-hiring-2026-compliance-guide-for-illinois-employers/)
+_Highlight:_ ... <b>AI</b> systems to prevent unintentional <b>bias</b>. Predictive Analysis and Geographic Discrimination. One of the more nuanced risks associated with <b>AI</b> in&nbsp;...
+
+- **6. All things being equal: <b>AI</b> ethics in networking - ITWeb** [link](https://www.itweb.co.za/article/all-things-being-equal-ai-ethics-in-networking/JBwErvn36jj76Db2)
+_Highlight:_ Importantly, <b>biases</b> from the data on which <b>AI</b> is trained might be inherited by <b>AI</b> algorithms. This may result in the exclusion of some groups from&nbsp;...
+
+- **7. Google <b>AI</b> Released the Imagen 3 Technical Paper: Showcasing In-Depth Details** [link](https://www.marktechpost.com/2024/08/17/google-ai-released-the-imagen-3-technical-paper-showcasing-in-depth-details/)
+_Highlight:_ <b>Fairness</b> assessments show improvements in diversity, though some biases towards lighter skin tones and younger ages persist. Comprehensive evaluations&nbsp;...
+
+- **8. Vishal Bhalla | Digital Transformation in HR - Process Excellence Network** [link](https://www.processexcellencenetwork.com/events-digital-transformation-in-hr/speakers/vishal-bhalla)
+_Highlight:_ Addressing the risk of bias in <b>AI</b> algorithms and the implications for <b>fairness</b> and diversity in HR practices. Discussion of the pros and cons of <b>AI</b> in&nbsp;...
+
+- **9. <b>AI</b> training alters human <b>fairness</b> and behavior, researchers say - Interesting Engineering** [link](https://interestingengineering.com/innovation/ai-training-alter-human-behavior)
+_Highlight:_ ... <b>AI</b> developers. “The participants seemed to have a motivation to train <b>AI</b> for <b>fairness</b>, which is encouraging, but other people might have different&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
