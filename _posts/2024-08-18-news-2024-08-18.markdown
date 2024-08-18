@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2024-08-18 One-Minute Post
+date: 2024-08-18 11:40:56 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple introduces new privacy features in iOS 18, emphasizing AI-powered Zero Trust. Fortune 500 companies see AI as a risk factor. Education is urged to lead in managing AI risks. ChatGPT's 'T' represents AI's bold leap and challenges in mitigating bias. A letter suggests bringing unbiased AI entities into politics and the Supreme Court. Chinese AI chatbots exhibit gender biases. Binance-backed Sahara AI secures $43M funding to create a transparent and fair AI ecosystem using blockchain technology.
+
+## Articles we found interesting:
+
+- **1. Security Bite: Ranking my favorite new <b>privacy</b> features in iOS 18 - 9to5Mac** [link](https://9to5mac.com/security-bite-ranking-my-favorite-new-privacy-features-in-ios-18/)
+_Highlight:_ ... <b>AI</b>-powered Zero Trust, and ... Apple claims it has zero access to this data, touting a new level of <b>privacy</b> in the <b>Artificial Intelligence</b> field.
+
+- **2. What the papers say: Fortune 500 <b>AI</b> risk; Paddy McKillen court case | Business Post** [link](https://www.businesspost.ie/news/what-the-papers-say-fortune-500-ai-risk-paddy-mckillen-court-case/)
+_Highlight:_ ... <b>Privacy</b> Policy &middot; Terms of Use. Media. What the papers say: Fortune 500 <b>AI</b> ... Most Fortune 500 companies see <b>AI</b> as &#39;risk factor&#39;, study finds. The&nbsp;...
+
+- **3. Why education should lead the charge in managing <b>AI</b> risks - opinion - The Jerusalem Post** [link](https://www.jpost.com/opinion/article-815121)
+_Highlight:_ ... <b>privacy</b> regulation. While legislation is important, there are three key reasons why we should prioritize education in addressing <b>AI&#39;s</b> risks. First&nbsp;...
+
+- **4. ChatGPT&#39;s &#39;T&#39;: How a Single Letter Represents <b>AI&#39;s</b> Boldest Leap and Its Challenges** [link](https://www.techiexpert.com/chatgpts-t-how-a-single-letter-represents-ais-boldest-leap-and-its-challenges/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). Researchers introduced it in 2017 and it has. ... Strategies are to be developed to mitigate <b>bias</b> and ensure transparency&nbsp;...
+
+- **5. Letter: Bring <b>AI</b> into politics, Supreme Court - Grand Forks Herald** [link](https://www.grandforksherald.com/opinion/letters/letter-bring-ai-into-politics-supreme-court)
+_Highlight:_ President Joe Biden should retire all U.S. Supreme Court justices in favor of nine <b>AI</b> entities with no <b>bias</b> to make proper logical legal decisions. <b>AI</b>&nbsp;...
+
+- **6. China&#39;s <b>AI</b> bots show gender <b>bias</b>, developers point to real-life examples - MSN** [link](http://www.msn.com/en-in/money/news/china-s-ai-bots-show-gender-bias-developers-point-to-real-life-examples/ar-BB1nRfan%3Fapiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1)
+_Highlight:_ In a recent study, it was discovered that Chinese <b>AI</b> chatbots exhibit gender <b>biases</b>, which developers attribute to the flawed real-life examples&nbsp;...
+
+- **7. Binance-Backed Sahara <b>AI</b> Secures $43M Funding – What&#39;s Its Game Plan? | CCN.com** [link](https://www.ccn.com/news/technology/binance-backed-sahara-ai-funding/)
+_Highlight:_ By leveraging blockchain technology, Sahara <b>AI</b> intends to create a transparent and <b>fair</b> ecosystem where <b>AI</b> assets can be managed efficiently.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
