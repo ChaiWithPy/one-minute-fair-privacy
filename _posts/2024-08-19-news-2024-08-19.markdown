@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-08-19 One-Minute Post
+date: 2024-08-19 11:33:33 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Lawmakers from Connecticut, Maryland, and Minnesota discuss AI policy and data privacy concerns. FCC proposes new rules to regulate AI-generated robocalls and robotexts, seeking comments on privacy implications. Community colleges navigate AI's human-centered future in the shadow of AB 2370, addressing algorithmic bias and data privacy. The next wave in generative AI focuses on harnessing the power of agents while addressing potential biases in outputs. Musk's new image generation tool, Grok, sparks outrage due to the spread of noxious images, raising concerns about political bias in AI tools.
+
+## Articles we found interesting:
+
+- **1. Lawmakers from three states share experiences regulating <b>AI</b> - Source New Mexico** [link](https://sourcenm.com/2024/08/19/lawmakers-from-three-states-share-experiences-regulating-ai/)
+_Highlight:_ Connecticut, Maryland and Minnesota legislators walk NM panel through policy, including data <b>privacy</b> concerns&nbsp;...
+
+- **2. FCC Proposes New <b>AI</b>-Generated Robocall Rules | Brownstein Hyatt Farber Schreck** [link](https://www.jdsupra.com/legalnews/fcc-proposes-new-ai-generated-robocall-1922893/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) in robocalls and ... Additionally, the FCC released a Notice of Inquiry seeking comment on the <b>privacy</b> implications of real&nbsp;...
+
+- **3. FCC Works to Regulate <b>AI</b> Generated Robocalls and Robotexts - The National Law Review** [link](https://natlawreview.com/article/fcc-proposes-first-their-kind-tcpa-rules-ai-generated-robocalls-and-robotexts)
+_Highlight:_ ... <b>AI</b> NOI, and tailored to reflect the <b>privacy</b> protections under the TCPA by focusing on <b>AI</b>-generated voice or text calls used to interact with&nbsp;...
+
+- **4. <b>AI</b> in Community Colleges: Navigating a Human-Centered Future in the Shadow of AB 2370** [link](https://www.facultyfocus.com/articles/teaching-with-technology-articles/ai-in-community-colleges-navigating-a-human-centered-future-in-the-shadow-of-ab-2370/)
+_Highlight:_ The rapid evolution of <b>artificial intelligence</b> (<b>AI</b>) has ushered in a ... Issues such as data privacy, algorithmic <b>bias</b>, and the potential for <b>AI</b>&nbsp;...
+
+- **5. The Next Wave in Generative <b>AI</b>: Harnessing the Power of Agents | Daily Host News** [link](https://www.dailyhostnews.com/the-next-wave-in-generative-ai-harnessing-the-power-of-agents)
+_Highlight:_ Technical constraints like limited context length and memory; <b>Bias</b> in outputs; Potential for toxic or harmful speech; Limited knowledge (e.g., ChatGPT&nbsp;...
+
+- **6. Grok, Musk&#39;s New Image Generation Tool Creates Outrage after Noxious Images Spread** [link](https://aseannow.com/topic/1335773-grok-musks-new-image-generation-tool-creates-outrage-after-noxious-images-spread/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) and politics. The introduction of Grok ... The concerns surrounding X&#39;s <b>AI</b> tools are not limited to political <b>bias</b>.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
