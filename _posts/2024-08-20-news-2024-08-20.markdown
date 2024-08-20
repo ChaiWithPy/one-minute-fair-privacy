@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2024-08-20 One-Minute Post
+date: 2024-08-20 11:49:06 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+IBM's privacy chief highlights US lagging in AI regulation. Alvarez & Marsal discusses navigating pressures for responsible AI. Forbes explores AI, federated learning, and blockchain for medical use cases. Generative AI mitigates representation bias and improves model fairness. Study suggests humans alter behavior when training AI for fairness. AI plays a transformative role in the renewable energy sector, emphasizing fairness and transparency. Tala advocates for responsible and transparent AI adoption in lending, prioritizing fairness, transparency, and data privacy.
+
+## Articles we found interesting:
+
+- **1. Euronews Digital Summer: US lagging Europe on <b>AI</b> regulation - IBM <b>privacy</b> chief** [link](https://www.euronews.com/next/2024/08/20/euronews-digital-summer-us-lagging-europe-on-ai-regulation-ibm-privacy-chief)
+_Highlight:_ Montgomery is tasked with overseeing the company&#39;s global <b>privacy</b>, data and <b>AI</b> governance program. She is a member of the United States&#39; National <b>AI</b>&nbsp;...
+
+- **2. <b>AI</b> Ethics Part One: Navigating Pressures for Responsible <b>AI</b> | Alvarez &amp; Marsal** [link](https://www.alvarezandmarsal.com/insights/ai-ethics-part-one-navigating-pressures-responsible-ai)
+_Highlight:_ With <b>AI</b> systems becoming more powerful and widespread, the risks of ethical oversights—such as bias, discrimination, <b>privacy</b> violations, and&nbsp;...
+
+- **3. Harnessing <b>AI</b>, Federated Learning And Blockchain For A Better Future In Medical Use Cases** [link](https://www.forbes.com/councils/forbestechcouncil/2024/08/20/harnessing-ai-federated-learning-and-blockchain-for-a-better-future-in-medical-use-cases/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) is poised to ... This preserves patient <b>confidentiality</b> and aligns with <b>privacy</b> regulations like GDPR and HIPAA.
+
+- **4. Generative <b>AI</b> Mitigates Representation <b>Bias</b> and Improves Model Fairness Through ... - medRxiv** [link](https://www.medrxiv.org/content/10.1101/2023.09.26.23296163v3)
+_Highlight:_ Several approaches have been developed to mitigate representation <b>bias</b>, ranging from simple resampling methods, such as SMOTE, to recent approaches&nbsp;...
+
+- **5. Humans Might be Altering Their Behavior When Training <b>AI</b>, According to This Study - iHLS** [link](https://i-hls.com/archives/125154)
+_Highlight:_ ... <b>AI</b> for <b>fairness</b>. The study, published in Proceedings of the National Academy of Sciences, included five experiments, with 200–300 subjects each&nbsp;...
+
+- **6. Transformative Role of <b>AI</b> in Renewable Energy Sector - Shia Waves** [link](https://shiawaves.com/english/news/science/109728-transformative-role-of-ai-in-renewable-energy-sector/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) is ... Experts stress the importance of <b>fairness</b> and transparency in <b>AI</b> operations to mitigate these risks.
+
+- **7. Tala pushes for responsible and transparent <b>AI</b> adoption in lending | Inquirer Technology** [link](https://technology.inquirer.net/136549/tala-pushes-for-responsible-and-transparent-ai-adoption-in-lending)
+_Highlight:_ Gastl also expounded on the importance of ensuring utmost <b>fairness</b>, transparency and data privacy in <b>AI</b>-driven lending practices, acknowledging&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
