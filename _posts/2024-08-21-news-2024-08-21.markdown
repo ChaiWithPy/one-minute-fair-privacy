@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-21 One-Minute Post
+date: 2024-08-21 11:40:41 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI researchers are calling for "personhood credentials" to distinguish between humans and bots. Meanwhile, a new explainable AI model has been developed to reduce bias in antibiotic development. Additionally, Singapore's Cyber Security Agency has unveiled new guidelines to enhance AI security, focusing on cybersecurity risks and fairness. Responsible AI development is being emphasized, considering ethical concerns like privacy, bias, and fairness.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> researchers call for “personhood credentials” as bots grow smarter - The Washington Post** [link](https://www.washingtonpost.com/politics/2024/08/21/human-bot-personhood-credentials-worldcoin/)
+_Highlight:_ But without better ways to make that distinction, advances in <b>artificial intelligence</b> mean <b>AI</b> ... <b>privacy</b> or anonymity. They propose a system of “&nbsp;...
+
+- **2. How <b>AI</b> Will Impact Governance, Risk And Compliance Programs - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/08/21/how-ai-will-impact-governance-risk-and-compliance-programs/)
+_Highlight:_ With 15+ years in the field, Matt serves as VP of Security and CISO at Drata, leading global security, IT, GRC and <b>privacy</b> initiatives.
+
+- **3. Parents Cautiously Optimistic on <b>AI</b> in Schools: Content Safety and Data <b>Privacy</b> Among Top Worries** [link](https://www.stocktitan.net/news/GEN/parents-cautiously-optimistic-on-ai-in-schools-content-safety-and-b0g4fs0jz99o.html)
+_Highlight:_ Parents express concern over <b>AI</b> in education: Survey reveals 93% worried about classroom use. Learn Norton&#39;s cybersafety tips for back-to-school,&nbsp;...
+
+- **4. Peering into the mind of <b>artificial intelligence</b> to make better antibiotics | ScienceDaily** [link](https://www.sciencedaily.com/releases/2024/08/240819172516.htm)
+_Highlight:_ Aug. 8, 2023 — Researchers have developed a new explainable <b>artificial intelligence</b> (<b>AI</b>) model to reduce <b>bias</b> and enhance trust and accuracy in&nbsp;...
+
+- **5. Deloitte survey reveals enterprise generative <b>AI</b> production deployment challenges** [link](https://venturebeat.com/ai/deloitte-survey-reveals-enterprise-generative-ai-production-deployment-challenges/)
+_Highlight:_ ... <b>bias</b>, security, trust, privacy and regulatory compliance. While these are not entirely new domains, Norton emphasized that there are nuances to gen <b>AI</b>&nbsp;...
+
+- **6. Why social science is vital to developing ethical <b>AI</b> - Silicon Republic** [link](https://www.siliconrepublic.com/machines/ai-governance-and-diversity-education-key-to-equality-says-expert)
+_Highlight:_ Professor and researcher in <b>AI</b> and civil law, Cecilia Danesi discusses the changing face of <b>AI</b> and the issue of inherent <b>bias</b>.
+
+- **7. Building trust in <b>AI</b> commercialization: Prioritizing security standards - ET Edge Insights** [link](https://etedge-insights.com/technology/artificial-intelligence/building-trust-in-ai-commercialization-prioritizing-security-standards/)
+_Highlight:_ Responsible <b>AI</b> development means considering ethical concerns like privacy, bias and <b>fairness</b>. For instance, imagine an <b>AI</b>-powered loan&nbsp;...
+
+- **8. Singapore: Cyber Security Agency unveils new guidelines to enhance <b>AI</b> security** [link](https://www.globalcompliancenews.com/2024/08/21/singapore-cyber-security-agency-unveils-new-guidelines-to-enhance-ai-security-public-consultation-open/)
+_Highlight:_ The Guidelines support the securing of <b>AI</b> systems throughout their lifecycle, with a focus on cybersecurity risks rather than <b>AI</b> safety, <b>fairness</b>,&nbsp;...
+
+- **9. Navigating <b>AI</b> Governance: Insights into Ethical and Effective <b>AI</b> Implementation** [link](https://www.dqindia.com/opinion/navigating-ai-governance-insights-into-ethical-and-effective-ai-implementation-6899491)
+_Highlight:_ Opinion: <b>AI</b> is reshaping industries, making strong governance crucial to balance innovation and ethics, ensuring transparency, <b>fairness</b>,&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
