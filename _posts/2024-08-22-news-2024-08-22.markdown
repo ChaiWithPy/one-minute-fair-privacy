@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-22 One-Minute Post
+date: 2024-08-22 11:37:55 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Microsoft is set to release an AI feature called Recall, raising privacy concerns. Employees are open to AI in the workplace, but there are worries about AI bias in software testing. On the bright side, South Africa is advancing in AI innovation with a new national policy framework focusing on fairness and ethical considerations.
+
+## Articles we found interesting:
+
+- **1. Microsoft to release <b>AI</b> feature Recall in October for Windows Insiders - Computerworld** [link](https://www.computerworld.com/article/3490921/microsoft-to-release-ai-feature-recall-in-october-for-windows-insiders.html)
+_Highlight:_ ... <b>privacy</b> and could make sensitive personal information more accessible to attackers. ... “This will drive the real on-device, <b>privacy</b>-centric <b>AI</b> promise.
+
+- **2. As Microsoft breaks awkward silence around its controversial Recall feature, <b>privacy</b> ...** [link](https://www.zdnet.com/article/as-microsoft-breaks-awkward-silence-around-its-controversial-recall-feature-privacy-questions-remain/)
+_Highlight:_ When Microsoft rolled out its <b>AI</b>-powered Copilot+ PCs back in May, the big reveal was a new feature called Recall, which promised to &quot;make it easier&nbsp;...
+
+- **3. Research: As <b>AI</b> Increases in the Workplace, Employees Are Open to Their Employers Listening** [link](https://www.prnewswire.com/news-releases/research-as-ai-increases-in-the-workplace-employees-are-open-to-their-employers-listening-302228162.html)
+_Highlight:_ &quot;In their laudable desire to protect employee <b>privacy</b>, HR leaders may be underestimating employee comfort with passive listening,&quot; said Matt Evans,&nbsp;...
+
+- **4. Addressing <b>AI bias</b> in <b>AI</b>-driven software testing - SD Times** [link](https://sdtimes.com/test/addressing-ai-bias-in-ai-driven-software-testing/)
+_Highlight:_ <b>AI bias</b> occurs when an <b>AI</b> system produces skewed or prejudiced results due to erroneous assumptions or imbalances in the machine learning process.
+
+- **5. Can <b>AI</b> truly be creative, or is it just mimicking human creativity? - INDIAai** [link](https://indiaai.gov.in/article/can-ai-truly-be-creative-or-is-it-just-mimicking-human-creativity)
+_Highlight:_ <b>Bias</b> Detection Tools: Use tools to identify and measure <b>biases</b> in <b>AI</b> systems. Mitigation Techniques: Employ techniques like adversarial training or&nbsp;...
+
+- **6. 7 points of positivity likely to win buy-in for healthcare <b>AI</b>** [link](https://aiin.healthcare/topics/patient-care/digital-transformation/7-points-positivity-likely-win-buy-healthcare-ai)
+_Highlight:_ “People and algorithms alike can contribute to <b>bias</b> in <b>AI</b> tools,” Yang points out. “Our <b>AI</b> tools are built to minimize <b>bias</b>.” We also know <b>AI</b> has&nbsp;...
+
+- **7. <b>AI</b> Politics: A Revolution or a Distraction? - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/08/21/ai-politics-a-revolution-or-a-distraction/)
+_Highlight:_ Delving into the nuances of <b>fairness</b>, representation, and accessibility in <b>AI</b>-powered governance is crucial to safeguarding democratic ideals and&nbsp;...
+
+- **8. 6 Principles for Gender Equitable <b>Artificial Intelligence</b> Solutions - ICTworks** [link](https://www.ictworks.org/6-principles-for-gender-equitable-artificial-intelligence-solutions/)
+_Highlight:_ NetHope identified 5 sets of principles for gender equitable <b>AI</b> development in the following areas: <b>Fairness</b> and inclusivity. Transparency. Design and&nbsp;...
+
+- **9. South Africa Advances in <b>AI</b> Innovation with New National Policy Framework** [link](https://www.polity.org.za/article/south-africa-advances-in-ai-innovation-with-new-national-policy-framework-2024-08-22)
+_Highlight:_ ... <b>AI</b> use by developing <b>AI</b> systems that prioritise ethical considerations. This includes addressing issues such as bias, <b>fairness</b>, transparency and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
