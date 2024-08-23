@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-23 One-Minute Post
+date: 2024-08-23 11:41:49 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Healthcare organizations are appointing Chief AI Officers to ensure ethical and transparent AI systems. Perplexity AI plans to run ads while addressing privacy concerns. Regulators are focusing on real AI risks like bias and discrimination. Accenture and AWS collaborate to scale AI adoption responsibly, addressing bias risks. APAC is addressing bias in AI applications to mitigate health disparities. AI's potential in healthcare is a double-edged sword, raising concerns about fairness. New research questions the fairness and effectiveness of AI in mental health diagnosis. The accuracy vs. fairness tradeoff in AI-based lending is a concern for the industry.
+
+## Articles we found interesting:
+
+- **1. The newest member of the health system C-suite? Chief <b>AI</b> Officer | Healthcare IT News** [link](https://www.healthcareitnews.com/news/newest-member-health-system-c-suite-chief-ai-officer)
+_Highlight:_ The CAIO ensures that <b>AI</b> systems are developed and deployed ethically, transparently and responsibly. To do so, the CAIO oversees data <b>privacy</b>&nbsp;...
+
+- **2. Perplexity <b>AI</b> plans to start running ads in fourth quarter as <b>AI</b>-assisted search gains popularity** [link](https://www.cnbc.com/2024/08/22/perplexity-ai-plans-to-start-running-search-ads-in-fourth-quarter.html)
+_Highlight:_ Perplexity <b>AI</b>, the <b>artificial intelligence</b> startup that&#39;s been ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **3. Monitoring The Risks That Come With Using <b>Artificial Intelligence</b> In Home-Based Care** [link](https://homehealthcarenews.com/2024/08/monitoring-the-risks-that-come-with-using-artificial-intelligence-in-home-based-care/)
+_Highlight:_ However, <b>AI</b> models rely on large data sets to learn, train and evolve, which can lead to <b>privacy</b> concerns. “Home care agencies are actively reaching&nbsp;...
+
+- **4. Regulators are focusing on real <b>AI</b> risks over theoretical ones. Good - The Economist** [link](https://www.economist.com/leaders/2024/08/22/regulators-are-focusing-on-real-ai-risks-over-theoretical-ones-good)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) that outwits its human creators ... <b>AI</b>, such as <b>bias</b>, discrimination and violation of intellectual-property rights.
+
+- **5. Accenture and AWS Collaborate to Help Organizations Scale Adoption of <b>AI</b> Responsibly** [link](https://newsroom.accenture.com/news/2024/accenture-and-aws-collaborate-to-help-organizations-scale-adoption-of-ai-responsibly)
+_Highlight:_ ... <b>AI</b> risks, such as <b>bias</b> and hallucinations, and implement compliance requirements with new and evolving <b>AI</b> regulations. According to Accenture&nbsp;...
+
+- **6. APAC&#39;s growing focus on genAI and more briefs | MobiHealthNews** [link](https://www.mobihealthnews.com/news/asia/apacs-growing-focus-genai-and-more-briefs)
+_Highlight:_ ... <b>bias</b> in <b>AI</b> applications widening disparities in health outcomes.&quot; To mitigate its risk, leaders look to make <b>AI</b> more transparent, ensure diversity&nbsp;...
+
+- **7. The potential of <b>AI</b> in healthcare: A double-edged sword** [link](https://blogs.bcm.edu/2024/08/23/the-potential-of-ai-in-healthcare-a-double-edged-sword/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) is transforming healthcare, but is it a ... <b>fairness</b> of <b>AI</b> systems. Patients should be informed about how their&nbsp;...
+
+- **8. Could <b>AI</b> discriminate when it comes to mental health? - FMT** [link](https://www.freemalaysiatoday.com/category/leisure/2024/08/23/could-ai-discriminate-when-it-comes-to-mental-health/)
+_Highlight:_ ... <b>ai</b>-ls. New research raises crucial questions about the <b>fairness</b> and effectiveness of <b>AI</b> technology as it pertains to mental health diagnosis and&nbsp;...
+
+- **9. In <b>AI</b>-based lending, is there an accuracy vs. <b>fairness</b> tradeoff? | American Banker** [link](https://www.americanbanker.com/news/in-ai-based-lending-is-there-an-accuracy-vs-fairness-tradeoff)
+_Highlight:_ If efforts to make <b>AI</b>-based loan decision models less discriminatory degrade accuracy, that is problematic for the entire industry.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
