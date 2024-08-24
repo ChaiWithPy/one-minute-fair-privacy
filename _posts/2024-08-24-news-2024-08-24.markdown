@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-24 One-Minute Post
+date: 2024-08-24 11:47:10 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta and Spotify CEOs criticize EU AI regulations for stifling innovation due to stringent privacy rules. US and African nations discuss responsible AI use in military applications, acknowledging inherent human bias in AI systems. Meanwhile, 1 in 5 top companies mention generative AI in their financial reports, highlighting concerns about bias and security. Additionally, hardware's role in ensuring fairness of artificial neural networks is being explored, aiming for a fair digital world.
+
+## Articles we found interesting:
+
+- **1. EU <b>AI</b> rules stifle innovation, Meta and Spotify CEOs warn - Cointelegraph** [link](https://cointelegraph.com/news/meta-spotify-criticize-eu-ai-regulations)
+_Highlight:_ ... <b>AI</b>. Both CEOs argue that the stringent <b>privacy</b> regulations surrounding <b>AI</b>, especially those concerning the use of public data, are slowing down&nbsp;...
+
+- **2. ZeroTrusted.<b>ai&#39;s</b> Free Health Checker Exposes Hidden Vulnerabilities - FOX40** [link](https://fox40.com/business/press-releases/ein-presswire/737810138/zerotrusted-ais-free-health-checker-exposes-hidden-vulnerabilities)
+_Highlight:_ ... <b>privacy</b>, reliability, and governance of <b>AI</b> technologies. The company&#39;s <b>AI</b> Governance System (AGS) and other solutions meet the highest standards in <b>AI</b>&nbsp;...
+
+- **3. Perplexity&#39;s pitch deck offers advertisers a new vision for <b>AI</b> search - Digiday** [link](https://digiday.com/media-buying/perplexitys-pitch-deck-offers-advertisers-a-new-vision-for-ai-search/)
+_Highlight:_ However, the deck doesn&#39;t list any third-party measurement partners for measurement or how it plans to protect <b>privacy</b>. ... Why the convergence of <b>AI</b>,&nbsp;...
+
+- **4. US, African Nations Discuss Responsible <b>AI</b> Use in Military Applications - Bitcoin.com News** [link](https://news.bitcoin.com/us-african-nations-discuss-responsible-ai-use-in-military-applications/)
+_Highlight:_ “We&#39;ve learned the hard way [that there is] inherent human <b>bias</b> built into the <b>AI</b> system … leading to maybe misinformation being provided to the&nbsp;...
+
+- **5. 1 in 5 top companies mention generative <b>AI</b> in their financial reports, but not in a good way** [link](https://www.zdnet.com/article/one-in-five-top-companies-mention-generative-ai-in-their-financial-reports-but-not-in-a-good-way/)
+_Highlight:_ The risks weren&#39;t necessarily just within the context of <b>bias</b>, security, or other <b>AI</b> maladies. Failure to keep current with <b>AI</b> developments was&nbsp;...
+
+- **6. Will <b>AI</b> replace technical writers? One user&#39;s experience | TechTarget** [link](https://www.techtarget.com/searchenterpriseai/opinion/Will-AI-replace-technical-writers-One-users-experience)
+_Highlight:_ AI <b>bias</b>. <b>AI</b> can exhibit bias based on its training data and source material, leading to skewed or imbalanced outcomes. These biases might stem&nbsp;...
+
+- **7. How hardware contributes to the <b>fairness</b> of artificial neural networks - Tech Xplore** [link](https://techxplore.com/news/2024-08-hardware-contributes-fairness-artificial-neural.html)
+_Highlight:_ As <b>AI</b> models increasingly deploy on resource-constrained devices, such as mobile and edge devices, we realized that the underlying hardware could&nbsp;...
+
+- **8. Breaking <b>AI</b> Echo Chambers: AdCounty Media CRO on Algorithmic Bias and Digital Diversity** [link](https://www.ahmedabadmirror.com/breaking-ai-echo-chambers-adcounty-media-cro-on-algorithmic-bias-and-digital-diversity/81874448.html)
+_Highlight:_ ... <b>fair</b> digital world. 1&nbsp;...
+
+- **9. We train <b>AI</b>. <b>AI</b> might be training us, too, WashU researchers find - St. Louis Post-Dispatch** [link](https://www.stltoday.com/news/local/metro/we-train-ai-ai-might-be-training-us-too-washu-researchers-find/article_b2e5483a-5b3e-11ef-8e5b-cbc8375cb778.html)
+_Highlight:_ Still, “people were willing to sacrifice reward to make the <b>AI</b> more <b>fair</b>,” said Chien-Ju Ho, a researcher and assistant professor of computer science&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
