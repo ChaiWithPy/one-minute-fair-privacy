@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-25 One-Minute Post
+date: 2024-08-25 11:37:48 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Police use of AI can increase racial profiling and unnecessary police deployments, while Meta's AI chatbot raises privacy concerns. AI systems trained on biased data amplify societal inequalities, and AI algorithms may introduce biases in historical portraiture. An AI chatbot linked a person to false accusations, highlighting potential fairness issues. Additionally, the Islamic State is using AI for propaganda and recruitment, raising concerns about the dark side of AI.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> used by police cannot tell Black people apart and other reasons Canada&#39;s <b>AI</b> laws need ...** [link](https://theconversation.com/ai-used-by-police-cannot-tell-black-people-apart-and-other-reasons-canadas-ai-laws-need-urgent-attention-236752)
+_Highlight:_ However, police use of <b>AI</b> can increase racial profiling and increase unnecessary police deployments. Civil liberties and <b>privacy</b> groups have written&nbsp;...
+
+- **2. How Meta <b>AI</b> can be your new digital assistant on the tech giant&#39;s platforms | Fox News** [link](https://www.foxnews.com/tech/how-meta-ai-can-your-new-digital-assistant-tech-giants-platforms)
+_Highlight:_ Meta&#39;s <b>artificial intelligence</b> chatbot can make life easier. But it&#39;s important to remain aware of <b>privacy</b> issues and possible inaccuracies.
+
+- **3. 5 <b>AI</b> Back-To-School Steps For Educators Exploring ChatGPT - Forbes** [link](https://www.forbes.com/sites/danfitzpatrick/2024/08/25/5-ai-back-to-school-steps-for-educators/)
+_Highlight:_ Let&#39;s continue our journey from <b>AI</b> novice to <b>AI</b> educator. 6 ... In the <b>AI</b> gold rush, data <b>privacy</b> is non-negotiable. 8. Tailor-Made&nbsp;...
+
+- **4. How consumers can influence who controls <b>AI</b> | Astro Awani** [link](https://www.astroawani.com/berita-dunia/how-consumers-can-influence-who-controls-ai-484692)
+_Highlight:_ These cases underscore a troubling pattern: <b>AI</b> systems, trained on <b>biased</b> data, amplify societal inequalities. Consider the algorithms driving these&nbsp;...
+
+- **5. The <b>AI</b> Breakthrough in Historical Portraiture - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/08/24/the-ai-breakthrough-in-historical-portraiture/)
+_Highlight:_ Disadvantages: – Interpretation <b>Bias</b>: <b>AI</b> algorithms may inadvertently introduce biases or inaccuracies in the portrayal of historical figures, leading&nbsp;...
+
+- **6. Why more Aussies are letting <b>AI</b> organise their divorce | The North West Star | Mt Isa, QLD** [link](https://www.northweststar.com.au/story/8741277/why-more-aussies-are-letting-ai-organise-their-divorce/)
+_Highlight:_ ... <b>bias</b>. Dr Mealy also warns the <b>AI</b> tool should not be considered a one-stop divorce solution but says its guidance could provide useful guidance.
+
+- **7. <b>AI</b> Chatbots: Potential Pitfalls in Information Accuracy - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/08/24/ai-chatbots-potential-pitfalls-in-information-accuracy/)
+_Highlight:_ An <b>AI</b> chatbot recently linked a former court reporter, Martin Bernklau, to false accusations of criminal activities such as child abuse and fraud.
+
+- **8. Most People Prefer <b>Artificial Intelligence</b> To Make Major Life Decisions Instead Of Having ...** [link](https://www.chipchick.com/2024/08/most-people-prefer-artificial-intelligence-to-make-major-life-decisions-instead-of-having-real-humans-do-it.html)
+_Highlight:_ On the other hand, the outcome of the study shows that people are happier when humans make such decisions. An online decision experiment was used to&nbsp;...
+
+- **9. The dark side of <b>AI</b>: Islamic State supporters turn to <b>artificial intelligence</b> to bolster online support** [link](https://www.msn.com/en-in/news/world/the-dark-side-of-ai-islamic-state-supporters-turn-to-artificial-intelligence-to-bolster-online-support/ar-AA1phU9F)
+_Highlight:_ The Islamic State has started using <b>artificial intelligence</b> to create high-quality propaganda videos and chatbots to recruit members online.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
