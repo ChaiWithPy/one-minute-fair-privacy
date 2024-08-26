@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2024-08-26 One-Minute Post
+date: 2024-08-26 11:33:24 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI advancements bring significant risks including biases and privacy violations. Governments worldwide are navigating the regulatory landscape to address these concerns. The UK government is working to reduce bias in AI tools used on the public, while ethical considerations in AI healthcare startups involve promoting fairness and inclusivity. Additionally, developers are urged to vet and deploy software from providers with a history of upholding privacy best practices. The AI revolution also faces challenges related to embedded racism and algorithmic bias, highlighting the need for measures to ensure fairness in AI systems.
+
+## Articles we found interesting:
+
+- **1. Navigating the Global <b>AI</b> Regulatory Landscape: Essential Insights for CISOs** [link](https://www.infosecurity-magazine.com/opinions/global-ai-regulatory-cisos/)
+_Highlight:_ However, with these advancements come significant risks, including biases, <b>privacy</b> violations and ethical concerns. Governments worldwide are&nbsp;...
+
+- **2. When Will <b>AI&#39;s</b> Rewards Surpass Its Risks? - Forbes** [link](https://www.forbes.com/sites/joemckendrick/2024/08/25/when-will-ais-rewards-surpass-its-risks/)
+_Highlight:_ The database of 700-plus <b>AI</b> risks finds more attributed to <b>AI</b> ... Further, <b>privacy</b>, security, trust, user and client acceptance are key challenges.
+
+- **3. Developers Just Want to Have Fun. <b>AI</b> Can Help. | Built In** [link](https://builtin.com/artificial-intelligence/developers-fun-ai)
+_Highlight:_ Developers also need to vet and deploy software and cloud services from providers with a long history of upholding security and <b>privacy</b> best practices&nbsp;...
+
+- **4. Warnings <b>AI</b> tools used by government on UK public are &#39;racist and <b>biased</b>&#39; - The Guardian** [link](https://www.theguardian.com/technology/article/2024/aug/25/register-aims-to-quash-fears-over-racist-and-biased-ai-tools-used-on-uk-public)
+_Highlight:_ ... <b>AI</b> systems work and the measures taken to reduce the risk of <b>bias</b>. The DWP is using <b>AI</b> to detect potential fraud in advance claims for universal&nbsp;...
+
+- **5. New <b>AI</b> world, disinfo dilemma: More crises, more lies | The Business Standard** [link](https://www.tbsnews.net/thoughts/new-ai-world-disinfo-dilemma-more-crises-more-lies-925411)
+_Highlight:_ ... <b>AI</b> revolution - the embedded racism. &quot;The <b>AI</b> training data has a white male, cis gendered <b>bias</b>. It&#39;s an algorithmic problem,&quot; he said. Simply put&nbsp;...
+
+- **6. Struggling to develop leaders? <b>AI</b>-powered succession planning can help** [link](https://www.peoplemattersglobal.com/article/hr-technology/struggling-to-develop-leaders-ai-powered-succession-planning-can-help-42485)
+_Highlight:_ <b>AI</b>-driven succession planning strategies are transforming leadership ... Algorithm <b>bias</b>. <b>AI</b> algorithms are only as good as the data they are&nbsp;...
+
+- **7. The Future of <b>AI</b> in Healthcare Startups: Insights from Scott Dylan in London - BusinessMole** [link](https://www.businessmole.com/the-future-of-ai-in-healthcare-startups-insights-from-scott-dylan-in-london/)
+_Highlight:_ Ethical considerations in <b>AI</b> healthcare startups involve building trust through transparency, ensuring <b>fairness</b> and inclusivity, and promoting <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
