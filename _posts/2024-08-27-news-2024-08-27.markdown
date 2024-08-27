@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-08-27 One-Minute Post
+date: 2024-08-27 11:50:46 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI governance frameworks are becoming ubiquitous, with a focus on privacy. Enterprises are increasing AI adoption while addressing data privacy concerns. Startups are urged to champion responsible AI to mitigate bias throughout the AI lifecycle. Ethical AI governance is essential for fairness and bias prevention in financial institutions.
+
+## Articles we found interesting:
+
+- **1. 10 Essential Guidelines For Enterprise-Ready <b>AI</b> Solutions - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/08/27/10-essential-guidelines-for-enterprise-ready-ai-solutions/)
+_Highlight:_ I expect <b>AI</b> governance frameworks to become as ubiquitous as information security or <b>privacy</b> policies. For <b>AI</b> startups selling their products to&nbsp;...
+
+- **2. APEC Third Senior Officials&#39; Meeting 2024: 6 Insights from Digital Week** [link](https://accesspartnership.com/apec-third-senior-officials-meeting-2024-6-insights-from-digital-week/)
+_Highlight:_ The importance of adopting and harmonizing regulatory frameworks that support the digital economy, especially in areas such as data <b>privacy</b>, <b>AI</b>&nbsp;...
+
+- **3. STUDY: <b>AI</b> Adoption Spends Jump Among Enterprises as Eliminating Data <b>Privacy</b> ...** [link](https://insideainews.com/2024/08/27/study-ai-adoption-spends-jump-among-enterprises-as-eliminating-data-privacy-concerns-remains-a-foremost-opportunity-for-driving-long-term-growth-and-roi/)
+_Highlight:_ STUDY: <b>AI</b> Adoption Spends Jump Among Enterprises as Eliminating Data <b>Privacy</b> Concerns Remains a Foremost Opportunity for Driving Long-Term Growth and&nbsp;...
+
+- **4. Towards inclusive innovation: How startups can champion responsible <b>AI</b> - YourStory.com** [link](https://yourstory.com/2024/08/inclusive-innovation-how-startups-can-champion-responsible-ai)
+_Highlight:_ <b>Bias</b> can emerge in various ways throughout the <b>AI</b> lifecycle—from data collection, processing and algorithm design to testing, system deployment, and&nbsp;...
+
+- **5. Readying business for the age of <b>AI</b> | MIT Technology Review** [link](https://www.technologyreview.com/2024/08/26/1096349/readying-business-for-the-age-of-ai/)
+_Highlight:_ You&#39;ve got privacy challenges, data quality, completeness challenges, and then really training <b>AI</b> systems on data that&#39;s <b>biased</b>, which is easily done,&nbsp;...
+
+- **6. For &#39;frictionless credit&#39;, RBI to launch technology platform; to call it Unified Lending Interface** [link](https://indianexpress.com/article/business/ai-loan-sanctioning-rbi-governor-das-9534032/)
+_Highlight:_ “Ethical <b>AI</b> governance is essential to ensure fairness and prevention of <b>bias</b>. Financial institutions must ensure that <b>AI</b> models are explainable&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
