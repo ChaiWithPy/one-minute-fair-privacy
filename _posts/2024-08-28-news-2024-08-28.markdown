@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-28 One-Minute Post
+date: 2024-08-28 11:45:16 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Windows 10 users hesitant to upgrade due to AI privacy concerns. Louisiana releases guidelines for responsible AI use in K-12 classrooms. Police using AI for incident reports raises bias concerns. Advocates emphasize AI ethics and fairness in regulation. Public attitudes towards AI in education highlight the need for fairness and bias correction. Existing legal frameworks and gaps in generative AI raise privacy and legal concerns. The Supreme Court's emphasis on fairness in a Delhi excise policy case. Unpacking key concepts in AI ethics goes beyond explainability and fairness, addressing the need for ethical AI beyond bias correction.
+
+## Articles we found interesting:
+
+- **1. Are Windows 10 users refusing to upgrade over <b>privacy</b> fears with <b>AI</b>? - GB News** [link](https://www.gbnews.com/tech/windows-10-ai-upgrade-deadline)
+_Highlight:_ Are Windows 10 users refusing to upgrade over <b>privacy</b> fears with <b>AI</b>? Millions of PC owners face fee deadline. a woman sits with a windows 11 laptop&nbsp;...
+
+- **2. Existing Legal Frameworks And Gaps In Generative <b>AI</b> - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/08/28/existing-legal-frameworks-and-gaps-in-generative-ai/)
+_Highlight:_ Dr. Suresh Rajappa, Global Data / Tax Leader at KPMG LLP. getty. This post is the fourth in a series exploring the <b>privacy</b> and legal concerns of&nbsp;...
+
+- **3. LOUISIANA RELEASES GUIDANCE FOR RESPONSIBLE USE OF <b>ARTIFICIAL</b> ...** [link](https://www.louisianabelieves.com/newsroom/news-releases/release/2024/08/28/louisiana-releases-guidance-for-responsible-use-of-artificial-intelligence-in-k-12-classrooms)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) in the classroom. The LDOE has developed a ... Data <b>Privacy</b> and Security: Robust data <b>privacy</b> and security&nbsp;...
+
+- **4. Police have begun using <b>AI</b> to write incident reports - StateScoop** [link](https://statescoop.com/ai-axon-police-report-chatgpt-write/)
+_Highlight:_ In addition to concerns that the tool could amplify <b>biases</b> or get facts wrong, Axon&#39;s own chief executive told the AP that district attorneys have&nbsp;...
+
+- **5. Frontline in battle against <b>AI bias</b> - AFR** [link](https://www.afr.com/technology/frontline-in-battle-against-ai-bias-20240826-p5k5c6)
+_Highlight:_ <b>Bias</b> in <b>AI</b> is a pernicious scourge that permeates digital landscapes, shaping everything from search results to predictive algorithms.
+
+- **6. Research on public attitudes towards the use of <b>AI</b> in education - GOV.UK** [link](https://www.gov.uk/government/publications/research-on-parent-and-pupil-attitudes-towards-the-use-of-ai-in-education/research-on-public-attitudes-towards-the-use-of-ai-in-education)
+_Highlight:_ Human oversight: Human involvement in <b>AI</b> use to ensure teacher roles are not displaced, to correct for error and unfair <b>bias</b>, and to provide&nbsp;...
+
+- **7. <b>AI</b> Regulation&#39;s Champions Can Seize Common Ground—or Be Swept Aside | Lawfare** [link](https://www.lawfaremedia.org/article/ai-regulation-s-champions-can-seize-common-ground-or-be-swept-aside)
+_Highlight:_ These advocates often describe themselves as focused on <b>AI</b> ethics, <b>fairness</b>, and similar concerns; for lack of a better term, call them the “ethicists&nbsp;...
+
+- **8. Supreme Court&#39;s &#39;<b>fairness</b>&#39; rap to CBI, ED in Delhi excise policy case: &#39;Can&#39;t pick, choose&#39;** [link](https://www.hindustantimes.com/india-news/cant-pick-choose-anyone-supreme-courts-fairness-rap-to-cbi-ed-in-delhi-excise-policy-case-101724817911553.html)
+_Highlight:_ ... <b>fairness</b> of their probe”. Shortly after granting bail to BRS leader K ... <b>AI</b> phone: Is Apple Intelligence worth it? What to know about the&nbsp;...
+
+- **9. Unpacking Key Concepts in <b>AI</b> Ethics: Beyond Explainability and <b>Fairness</b> - MSN** [link](http://www.msn.com/en-us/news/technology/unpacking-key-concepts-in-ai-ethics-beyond-explainability-and-fairness/ar-BB1hOgI8%3Focid%3DBingNewsVerp%26apiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1)
+_Highlight:_ Addressing <b>fairness</b> and bias is crucial, but it doesn&#39;t alone guarantee ethical <b>AI</b>. Gender Shades research on facial recognition revealed significant&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
