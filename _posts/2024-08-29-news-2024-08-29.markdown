@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-29 One-Minute Post
+date: 2024-08-29 11:31:08 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google is relaunching its controversial AI image-generation tool, Gemini, while also addressing AI bias. Meanwhile, Shaktikanta Das discusses AI's impact on finance and the importance of ensuring data privacy. Additionally, efforts are being made to combat bias in AI systems for fairness, and a comprehensive framework is being developed to advance fairness in graph collaborative filtering. In the legal realm, lawsuits are being filed to ensure fairness for authors in the use of their work by AI companies.
+
+## Articles we found interesting:
+
+- **1. Specialized GenAI Platforms: Challenges And How To Address Them - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/08/28/specialized-genai-platforms-challenges-and-how-to-address-them/)
+_Highlight:_ Ensuring Data <b>Privacy</b> And Regulatory Compliance. A key challenge in developing a generative <b>AI</b> platform is ensuring data <b>privacy</b> and regulatory&nbsp;...
+
+- **2. Google Gemini will again support <b>AI</b> image generation of people - CNBC** [link](https://www.cnbc.com/2024/08/28/google-gemini-will-again-support-ai-image-generation-of-people.html)
+_Highlight:_ ... <b>artificial intelligence</b> tool, after pulling the <b>AI</b> image-generation ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **3. Shaktikanta Das On <b>AI&#39;s</b> Impact In Finance: Revolutionizing Services And Ensuring Data <b>Privacy</b>** [link](https://www.youtube.com/watch%3Fv%3D6KJmk7y4tAY)
+_Highlight:_ Shaktikanta Das On <b>AI&#39;s</b> Impact In Finance: Revolutionizing Services And Ensuring Data <b>Privacy</b>. 114 views · 1 hour ago #ShaktikantaDas #RBI&nbsp;...
+
+- **4. Acquisition parameters influence <b>AI</b> recognition of race in chest x-rays and mitigating these ...** [link](https://www.nature.com/articles/s41467-024-52003-3)
+_Highlight:_ While many factors likely contribute to <b>AI bias</b> and demographics prediction, these results highlight the importance of carefully considering data&nbsp;...
+
+- **5. Google relaunching problematic tool for <b>AI</b>-generated images - UPI.com** [link](https://www.upi.com/Top_News/US/2024/08/28/google-imagen-3-image-tool/2361724872906/)
+_Highlight:_ ... <b>bias</b>. Among images that produced controversy and claims of <b>bias</b> were ... The retooled <b>AI</b> image-generator called Imagen 3 enables users to customize the&nbsp;...
+
+- **6. Ensuring that <b>AI</b> serves humanity | The Star** [link](https://www.thestar.com.my/opinion/letters/2024/08/29/ensuring-that-ai-serves-humanity)
+_Highlight:_ Follow us on our official WhatsApp channel for breaking news alerts and key updates! Tags / Keywords: <b>Artificial intelligence</b>; <b>biases</b> and prejudices&nbsp;...
+
+- **7. Applying Design Principles for Responsible <b>AI</b> in Homeland Security - HS Today** [link](https://www.hstoday.us/featured/applying-design-principles-for-responsible-ai-in-homeland-security/)
+_Highlight:_ Combating Bias for <b>Fairness</b>. Addressing and minimizing bias in <b>AI</b> systems is vital to ensure <b>fairness</b>. Subjecting <b>AI</b> tools to rigorous bias&nbsp;...
+
+- **8. Advancing <b>Fairness</b> in Graph Collaborative Filtering: A Comprehensive Framework for ...** [link](https://www.marktechpost.com/2024/08/28/advancing-fairness-in-graph-collaborative-filtering-a-comprehensive-framework-for-theoretical-formalization-and-enhanced-mitigation-techniques/)
+_Highlight:_ As a Tech enthusiast, he delves into the practical applications of <b>AI</b> with a focus on understanding the impact of <b>AI</b> technologies and their real-world&nbsp;...
+
+- **9. As <b>AI</b> and authors battle in court, Pittsburgh lit community yearns for <b>fairness</b> - PublicSource** [link](https://www.publicsource.org/artificial-intelligence-ai-literature-authors-publishers-lawsuits-pittsburgh/)
+_Highlight:_ Lawsuits seeking to bar <b>artificial intelligence</b> companies from using authors&#39; work — without compensation or consent — have writers hoping for a&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
