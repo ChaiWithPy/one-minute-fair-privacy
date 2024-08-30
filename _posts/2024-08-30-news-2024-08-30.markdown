@@ -1,0 +1,25 @@
+---
+layout: post
+title: 2024-08-30 One-Minute Post
+date: 2024-08-30 11:39:23 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+SAG-AFTRA fights to protect voice actors from AI takeover. EU AI Act emphasizes privacy. Experts discuss privacy-preserving AI techniques at Virtual AI Summit.
+
+## Articles we found interesting:
+
+- **1. How Important is <b>Confidentiality</b> in Translation Services? - Slator** [link](https://slator.com/how-important-is-confidentiality-in-translation-services/)
+_Highlight:_ The latest strike highlights a key point of contention: the use of <b>AI</b> in voice acting. SAG-AFTRA aims to protect its members from being replaced by <b>AI</b>&nbsp;...
+
+- **2. <b>AI</b> and Evolving Legislation in the US and Abroad - InformationWeek** [link](https://www.informationweek.com/machine-learning-ai/ai-and-evolving-legislation-in-the-us-and-abroad)
+_Highlight:_ Some principles underlying the recently passed <b>Artificial Intelligence</b> Act (a.k.a., the EU <b>AI</b> Act), for example, include: protect <b>privacy</b>&nbsp;...
+
+- **3. Virtual <b>AI</b> Summit: Balancing <b>AI</b> Risks and Opportunities - BankInfoSecurity** [link](https://www.bankinfosecurity.com/virtual-ai-summit-balancing-ai-risks-opportunities-a-26151)
+_Highlight:_ ... <b>privacy</b> concerns related to <b>AI</b> technology adoption. They provided detailed explanations of <b>privacy</b>-preserving <b>AI</b> techniques, such as federated&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
