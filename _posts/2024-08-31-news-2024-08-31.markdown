@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-08-31 One-Minute Post
+date: 2024-08-31 11:35:12 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Canada's privacy regulator finds AI technology violates data-protection laws. GPT apps fail to disclose data collection. California may require standards for powerful AI models. Governments urged to eliminate bias in AI models. AI algorithms pose challenges with potential biases. New requirements for AI-enabled health care raise fairness concerns. AI-powered tools enhance justice system while maintaining fairness. Efforts to train AI to promote women CEOs for improved fairness.
+
+## Articles we found interesting:
+
+- **1. Forget ChatGPT—Canada Can Cook Up Its Own <b>AI</b> | The Walrus** [link](https://thewalrus.ca/forget-chatgpt-canada-can-cook-up-its-own-ai/)
+_Highlight:_ The Italian <b>privacy</b> regulator had already decided the technology violated Europe&#39;s data-protection laws. Canada&#39;s office of the <b>privacy</b> commissioner&nbsp;...
+
+- **2. GPT apps fail to disclose data collection, study finds - The Register** [link](https://www.theregister.com/2024/08/31/gpt_apps_data_collection/)
+_Highlight:_ ... <b>privacy</b> policies. The researchers – Evin Jaff, Yuhao Wu, Ning Zhang ... Buying a PC for local <b>AI</b>? These are the specs that actually matter.
+
+- **3. What to Include in Your Company&#39;s Internal Generative <b>AI</b> Use Policy | Harris Beach PLLC** [link](https://www.jdsupra.com/legalnews/what-to-include-in-your-company-s-1737816/)
+_Highlight:_ This includes ensuring compliance with data <b>privacy</b> regulations such as General Data Protection Regulation or the California Consumer Protection&nbsp;...
+
+- **4. California could be the first state to require standards for powerful <b>AI</b> models - NPR** [link](https://www.npr.org/2024/08/30/nx-s1-5094150/california-could-be-the-first-state-to-require-standards-for-powerful-ai-models)
+_Highlight:_ ... <b>bias</b> in decision-making and protect children&#39;s data. But Democratic State Senator Scott Wiener of San Francisco has arguably introduced the most&nbsp;...
+
+- **5. Governments need to beef up cyberdefense for the <b>AI</b> era - and get back to the basics** [link](https://www.zdnet.com/article/governments-need-to-beef-up-cyberdefense-for-the-ai-era-which-means-going-back-to-the-basics/)
+_Highlight:_ More importantly, public sector organizations can eliminate any <b>bias</b> or hallucinations in their <b>AI</b> models, he said and the necessary guardrails should&nbsp;...
+
+- **6. The Intersection of <b>AI</b> and Advertising: 2024 and Beyond - WebProNews** [link](https://www.webpronews.com/the-intersection-of-ai-and-advertising-2024-and-beyond/)
+_Highlight:_ Another challenge is the potential for <b>bias</b> in <b>AI</b> algorithms. If not carefully managed, <b>AI</b> can perpetuate existing <b>biases</b> in data, leading to&nbsp;...
+
+- **7. Antidiscrimination Law Meets <b>Artificial Intelligence</b>—New Requirements for Health Care ...** [link](https://law.stanford.edu/2024/08/29/antidiscrimination-law-meets-artificial-intelligence-new-requirements-for-health-care-organizations-and-insurers/)
+_Highlight:_ This move raises questions about the rule&#39;s <b>fairness</b> and potential effects on <b>AI</b>-enabled health care. Michelle M. Mello Professor of Law and&nbsp;...
+
+- **8. Prosecutors and <b>AI</b>: Navigating Justice in the Age of Algorithms | EDRM - JD Supra** [link](https://www.jdsupra.com/legalnews/prosecutors-and-ai-navigating-justice-1408880/)
+_Highlight:_ The <b>AI</b>-powered tools can enhance evidence analysis, case management, and decision-making, all while maintaining the integrity and <b>fairness</b> expected of&nbsp;...
+
+- **9. Can <b>AI</b> be trained to promote women CEOs? - Impact Investing** [link](https://www.equities.com/impact-investing/ai-promote-women-ceos/)
+_Highlight:_ This not only improves the accuracy and <b>fairness</b> of <b>AI</b> outputs but also helps create a society where women leaders are seen as the norm, not the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
