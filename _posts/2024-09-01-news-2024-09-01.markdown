@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-01 One-Minute Post
+date: 2024-09-01 11:21:09 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Microsoft's new AI features raise privacy concerns. Meta CEO and Spotify criticize EU AI regulations. AI system analyzes student data to prevent chronic nonattendance. Left-leaning biases in AI could reshape society. AI and Data Science courses in the UK address bias effects. AI is key to the future of Paralympic sports. Revolutionizing healthcare with AI innovations. Thriving AI job opportunities in the USA.
+
+## Articles we found interesting:
+
+- **1. Microsoft&#39;s <b>AI</b> Push: Concerns, Challenges, and the Road Ahead - 24/7 Wall St.** [link](https://247wallst.com/investing/2024/09/01/microsofts-ai-push-concerns-challenges-and-the-road-ahead/)
+_Highlight:_ Microsoft&#39;s new <b>AI</b> features raise <b>privacy</b> concerns. <b>AI</b> investments might take years to pay off. Microsoft faces competition from cheaper <b>AI</b> apps.
+
+- **2. Meta CEO Mark Zuckerberg and Spotify Criticize EU <b>AI</b> Regulations - GreekReporter.com** [link](https://greekreporter.com/2024/09/01/meta-mark-zuckerberg-spotify-criticize-eu-ai-regulations/)
+_Highlight:_ Zuckerberg and Ek criticize European <b>AI</b> regulations &middot; EU <b>privacy</b> regulators told Meta to delay user data <b>AI</b> training &middot; Meta&#39;s earlier plans to use&nbsp;...
+
+- **3. <b>AI</b> system analyses student data to prevent chronic nonattendance - Sinar Daily** [link](https://www.sinardaily.my/article/220752/focus/world/ai-system-analyses-student-data-to-prevent-chronic-nonattendance)
+_Highlight:_ TOKYO - A Japanese city is exploring the use of <b>artificial intelligence</b> (<b>AI</b>) ... (Photo partially pixelated by supplier for <b>privacy</b> reasons) (Photo&nbsp;...
+
+- **4. How <b>AI&#39;s</b> left-leaning <b>biases</b> could reshape society - Just The News** [link](https://justthenews.com/nation/technology/how-ais-left-leaning-biases-could-reshape-society)
+_Highlight:_ The new <b>artificial intelligence</b> (<b>AI</b>) tools that are quickly replacing traditional search engines are raising concerns about potential political <b>biases</b>&nbsp;...
+
+- **5. Internet&#39;s left-leaning <b>bias</b> to go on &#39;juiced up steroid binge&#39; with advanced <b>AI</b> systems to ...** [link](https://www.skynews.com.au/insights-and-analysis/internets-leftleaning-bias-to-go-on-juiced-up-steroid-binge-with-advanced-ai-systems-to-transform-our-information-gathering/news-story/d08ca4cff2de41099aafa509b325f0cd)
+_Highlight:_ A recent study conducted by David Rozado, an <b>AI</b> researcher affiliated with Otago Polytechnic and Heterodox Academy, offers a troubling analysis&nbsp;...
+
+- **6. Free <b>AI</b> and Data Science Courses in the UK - Analytics Insight** [link](https://www.analyticsinsight.net/artificial-intelligence/free-ai-and-data-science-courses-in-the-uk)
+_Highlight:_ <b>Artificial Intelligence</b> (<b>AI</b>) and Data Science are transforming ... <b>bias</b>, effects of <b>artificial intelligence</b> on the society. The Impact of&nbsp;...
+
+- **7. <b>AI</b> key to future of paralympic sports: President of Asian Paralympic Committee** [link](https://www.wam.ae/en/article/b4yuyhq-key-future-paralympic-sports-president-asian)
+_Highlight:_ Speaking to Emirates News Agency (WAM) on the sidelines of the Paris 2024 Paralympic Games, Al Usaimi noted that <b>AI</b> will play a significant role,&nbsp;...
+
+- **8. Revolutionizing Healthcare with <b>AI</b> Innovations** [link](https://elblog.pl/2024/09/01/revolutionizing-healthcare-with-ai-innovations/)
+_Highlight:_ Utilizing <b>AI</b> technologies for medication reminders, the initiative aims to support elderly individuals in managing their health effectively. By&nbsp;...
+
+- **9. <b>AI</b> Job Opportunities in the USA - Analytics Insight** [link](https://www.analyticsinsight.net/artificial-intelligence/ai-job-opportunities-in-the-usa)
+_Highlight:_ The USA has a thriving market for <b>AI</b> professionals, with numerous opportunities in sectors like technology, healthcare, and finance.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
