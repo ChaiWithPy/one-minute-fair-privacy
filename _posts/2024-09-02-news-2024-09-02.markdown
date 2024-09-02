@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2024-09-02 One-Minute Post
+date: 2024-09-02 11:26:38 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Australia's Privacy Regulator Folds on AI, as facial recognition technology raises concerns. France's new AI surveillance law sparks privacy discussions. GCash promotes ethical AI use. AI tool detects autism early, highlighting AI bias in medical diagnosis. The EU AI Act aims to address bias in AI models. EU takes final step toward trustworthy AI, emphasizing diversity and fairness.
+
+## Articles we found interesting:
+
+- **1. Australia&#39;s <b>Privacy</b> Regulator Folds on <b>AI</b> | The West Report** [link](https://michaelwest.com.au/australias-privacy-regulator-folds-on-ai-the-west-report/)
+_Highlight:_ Do they have your face? Facial recognition is at the cutting edge of <b>privacy</b> invasion. Josh checks out Clearview <b>AI</b> and another loss for <b>privacy</b>.
+
+- **2. PrivacyCafé: Big Brother At The Olympics – France&#39;s New <b>AI</b> Surveillance Law (Podcast)** [link](https://www.mondaq.com/unitedstates/privacy-protection/1510194/privacycaf%25C3%25A9-big-brother-at-the-olympics-frances-new-ai-surveillance-law-podcast)
+_Highlight:_ In this episode of PrivacyCafé, Richard Sheinis and Jade Davis discuss France&#39;s new data <b>privacy</b> law permitting <b>AI</b> video surveillance for the&nbsp;...
+
+- **3. GCash Good Data for Good promotes ethical <b>AI</b> use - MyCebu.ph** [link](https://www.mycebu.ph/article/gcash-good-data-for-good-ai/)
+_Highlight:_ GCash team with guest speaker Dr. Benito Teehankee, Council for Responsible Analytics &amp; <b>AI</b> Chairperson. (From left): GCash Data <b>Privacy</b> Officer Atty.
+
+- **4. New <b>AI</b> Tool Detects Autism Early in Toddlers - Psychology Today** [link](https://www.psychologytoday.com/us/blog/the-future-brain/202409/new-ai-tool-detects-autism-early-in-toddlers)
+_Highlight:_ <b>Artificial Intelligence</b>. 4 Min Read. How <b>AI Bias</b> Impacts Medical Diagnosis. <b>AI</b> medical imaging models are <b>biased</b>, performing better at predicting&nbsp;...
+
+- **5. The Future of <b>Artificial Intelligence</b> in Everyday Life - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/09/01/the-future-of-artificial-intelligence-in-everyday-life/)
+_Highlight:_ – <b>Bias</b> and Discrimination: <b>AI</b> algorithms can inherit <b>biases</b> present in data, resulting in discriminatory outcomes. – Accountability: Determining&nbsp;...
+
+- **6. What is the EU <b>AI</b> Act, and should government agencies care? - The Mandarin** [link](https://www.themandarin.com.au/253630-what-is-the-eu-ai-act-and-should-government-agencies-care/)
+_Highlight:_ ... <b>bias</b> in <b>AI</b> models and rules, and ensure proper levels of transparency and documentation. All in all, these are best practices that make good sense&nbsp;...
+
+- **7. EU Takes Final Step Toward Trustworthy <b>AI</b> - EE Times Europe** [link](https://www.eetimes.eu/eu-takes-final-step-toward-trustworthy-ai/)
+_Highlight:_ According to Article 27, ensuring “diversity, non-discrimination and <b>fairness</b> means that <b>AI</b> systems are developed and used in a way that includes&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
