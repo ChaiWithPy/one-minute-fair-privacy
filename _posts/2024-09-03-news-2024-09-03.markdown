@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-03 One-Minute Post
+date: 2024-09-03 11:41:42 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI is advancing in medical data with a focus on privacy and transparency. Meanwhile, there's a growing concern about biased AI in finance, prompting the need for fairness and bias reduction. Additionally, stakeholders emphasize the importance of ethical AI use and collaboration to address privacy concerns and ensure fairness in economic growth.
+
+## Articles we found interesting:
+
+- **1. Eliminating the <b>AI</b> &#39;Black Box&#39; to Make Clinical Data Usable - MedCity News** [link](https://medcitynews.com/2024/09/eliminating-the-ai-black-box-to-make-clinical-data-usable/)
+_Highlight:_ ... <b>privacy</b> and transparency. Breakthroughs in medical-grade <b>AI</b> are advancing its safe use. Gen <b>AI</b> software performs analyses or creates output via the&nbsp;...
+
+- **2. <b>AI</b> Is Asking A Lot Of Our Data—How Can We Humans Help It Out? - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/09/03/ai-is-asking-a-lot-of-our-data-how-can-we-humans-help-it-out/)
+_Highlight:_ As we integrate <b>AI</b> deeper into our business processes, it&#39;s also crucial to address data <b>privacy</b> and ethical considerations. Although this topic could&nbsp;...
+
+- **3. New Hampshire AG Announces New Data <b>Privacy</b> Unit - Mondaq** [link](https://www.mondaq.com/unitedstates/privacy-protection/1511426/new-hampshire-ag-announces-new-data-privacy-unit)
+_Highlight:_ California Legislature Clarifies <b>Privacy</b> Obligations For <b>AI</b> Models. United States <b>Privacy</b>. FK. Frankfurt Kurnit Klein &amp; Selz. Read More About. <b>Privacy</b>.
+
+- **4. Generative <b>AI</b> in Finance: Forecasting Market Trends - Analytics Insight** [link](https://www.analyticsinsight.net/generative-ai/generative-ai-in-finance-forecasting-market-trends)
+_Highlight:_ If the data it was trained on is <b>biased</b>, then that <b>bias</b> might leak into the <b>AI&#39;s</b> generated predictions, possibly leading to unfair or discriminatory&nbsp;...
+
+- **5. Why Artificial Integrity Is The New <b>AI</b> Frontier - Forbes** [link](https://www.forbes.com/sites/hamiltonmann/2024/09/02/why-artificial-integrity-is-the-new-ai-frontier/)
+_Highlight:_ In the rapidly evolving world of <b>Artificial Intelligence</b> (<b>AI</b>), computational power isn&#39;t enough. ... Algorithmic <b>Bias</b> and Discrimination: Since <b>AI</b>&nbsp;...
+
+- **6. Future of B2B Workforce and <b>AI</b> in Upskilling Talent and Adapting to Automation** [link](https://cxotoday.com/story/future-of-b2b-workforce-and-ai-in-upskilling-talent-and-adapting-to-automation/)
+_Highlight:_ In today&#39;s digital transformation era, <b>artificial intelligence</b> (<b>AI</b>) ... It is vital to ensure fairness, transparency, and <b>bias</b> reduction within <b>AI</b>&nbsp;...
+
+- **7. How <b>AI</b> Can Transform Fintech, Credit Scoring - Forbes** [link](https://www.forbes.com/councils/forbesfinancecouncil/2024/09/03/how-ai-can-transform-fintech-credit-scoring/)
+_Highlight:_ One promising application of <b>AI</b> is the creation of <b>fair</b>, interoperable credit score systems between countries. ... <b>fairness</b> through a data-driven&nbsp;...
+
+- **8. GCash Good Data for Good promotes ethical <b>AI</b> use | Daily Guardian** [link](https://dailyguardian.com.ph/gcash-good-data-for-good-promotes-ethical-ai-use/)
+_Highlight:_ ... <b>fairness</b> at the forefront of <b>AI</b> advancement. With responsible finance at its core, GCash underscores the importance of upholding these values as&nbsp;...
+
+- **9. ICT Stakeholders Highlight Need for Sectoral Collaboration to Harness Benefits of <b>AI</b>** [link](https://www.nigeriacommunicationsweek.com.ng/ict-stakeholders-highlight-need-for-sectoral-collaboration-to-harness-benefits-of-ai/)
+_Highlight:_ ... <b>Artificial Intelligence</b> (<b>AI</b>) for economic growth. ... <b>fairness</b>, security vulnerabilities, data privacy concerns, and ethical and moral dilemmas.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
