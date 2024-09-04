@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-04 One-Minute Post
+date: 2024-09-04 11:29:01 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Qualcomm launches new AI PC chip to challenge Intel and AMD, emphasizing on-device AI. Illinois Human Rights Act amended to prohibit discriminatory use of AI, gearing up for a bias audit. Sarasota County schools crafting new AI guidelines to address bias in pattern detection. TechBullion highlights the threat of AI bias and the need to understand and mitigate its implications. Analytics Insight emphasizes the critical aspects of building AI policies to ensure fairness and avoid perpetuating bias. Elets BFSI discusses how AI and machine learning are redefining risk management, emphasizing the importance of AI decisions in building trust and ensuring fairness.
+
+## Articles we found interesting:
+
+- **1. Qualcomm ramps up challenge to Intel and AMD with latest <b>AI</b> PC chip - CNBC** [link](https://www.cnbc.com/2024/09/04/qualcomm-launches-latest-ai-pc-chip-in-challenge-to-intel-and-amd.html)
+_Highlight:_ He highlighted the push toward “on-device <b>AI</b>,” where <b>artificial intelligence</b> ... <b>Privacy</b> Policy; California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon; CA&nbsp;...
+
+- **2. Guide, don&#39;t hide: reprogramming learning in the wake of <b>AI</b> - Nature** [link](https://www.nature.com/articles/d41586-024-02837-0)
+_Highlight:_ See our <b>privacy</b> policy for more information on the use of your personal data. Manage preferences for further information and to change your choices.
+
+- **3. Data <b>privacy</b> and security in <b>AI</b>-driven testing - SD Times** [link](https://sdtimes.com/data/data-privacy-and-security-in-ai-driven-testing/)
+_Highlight:_ Data <b>privacy</b> and security in <b>AI</b>-driven testing &middot; The Shift in Perception: A Story from Typemock &middot; The Risk of Intellectual Property (IP) Leakage &middot; The&nbsp;...
+
+- **4. Amendment to Illinois Human Rights Act Prohibits Discriminatory Use of <b>AI</b> | Saul Ewing LLP** [link](https://www.jdsupra.com/legalnews/amendment-to-illinois-human-rights-act-6329621/)
+_Highlight:_ ... <b>artificial intelligence</b> (“<b>AI</b>”) in ... <b>bias</b> audit (an impartial evaluation by an independent auditor&nbsp;...
+
+- **5. Sarasota County schools crafting new <b>AI</b> guidelines - WFLA** [link](https://www.wfla.com/news/sarasota-county/sarasota-county-schools-crafting-new-ai-guidelines/)
+_Highlight:_ Since <b>AI</b> systems could lead to <b>bias</b> in how patterns are detected and ... Students shall not use <b>Artificial Intelligence</b> (<b>AI</b>) platforms to avoid doing&nbsp;...
+
+- **6. How might <b>AI</b> help you find a job? Case Western professors researching how** [link](https://www.cleveland.com/news/2024/09/how-might-ai-help-you-find-a-job-case-western-professors-researching-how.html)
+_Highlight:_ But two professors at Case Western Reserve University are exploring a way that <b>AI</b> can make finding a job much easier, while removing <b>bias</b> from the&nbsp;...
+
+- **7. The Threat of <b>AI</b> Bias Understanding the Implications and Mitigating the Risks - TechBullion** [link](https://techbullion.com/the-threat-of-ai-bias-understanding-the-implications-and-mitigating-the-risks/)
+_Highlight:_ ... AI <b>fairness</b>. <b>Artificial intelligence</b> biases are inherently entrenched in a collection of forms within the historical and social context of technology.
+
+- **8. Building Your <b>AI</b> Policy? Don&#39;t Forget These 10 Critical Aspects - Analytics Insight** [link](https://www.analyticsinsight.net/artificial-intelligence/building-your-ai-policy-dont-forget-these-10-critical-aspects)
+_Highlight:_ It means that <b>AI</b> technologies should be developed in a manner that keeps in check of human rights, does not perpetuate bias, and engenders <b>fairness</b>.
+
+- **9. <b>AI</b> and Machine Learning Redefining Risk Management - Elets BFSI** [link](https://bfsi.eletsonline.com/ai-and-machine-learning-redefining-risk-management/)
+_Highlight:_ ... <b>Artificial Intelligence</b> (<b>AI</b>) and Machine Learning (ML) ... <b>AI</b> decisions will be crucial for building trust and ensuring <b>fairness</b>.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
