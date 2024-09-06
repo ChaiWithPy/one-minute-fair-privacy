@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-06 One-Minute Post
+date: 2024-09-06 11:41:42 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Honor releases its own AI assistant to compete with Apple in China, while concerns arise over privacy and accuracy of AI sexual health apps. The US Senate holds a meeting on bias in artificial intelligence, as California Governor's desk is filled with AI bills. The federal government's push for more AI usage is criticized for ignoring potential harms. Efforts are being made to address prejudices in algorithmic decision-making and navigate the complex landscape of AI governance, ensuring fairness and accountability. IBM is working on shaping AI governance in education to embed accuracy and fairness into assessments.
+
+## Articles we found interesting:
+
+- **1. Honor looks to get ahead of Apple in China with its own <b>AI</b> assistant - CNBC** [link](https://www.cnbc.com/2024/09/06/honor-announces-ai-assistant-as-it-looks-to-get-ahead-of-apple-in-china.html)
+_Highlight:_ The upgraded <b>AI</b> agent from Honor will look to compete with the likes ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **2. <b>AI</b> sexual health apps raise <b>privacy</b> and accuracy concerns - Technical.ly** [link](https://technical.ly/diversity-equity-inclusion/ai-sexual-health-apps-privacy/)
+_Highlight:_ Here&#39;s what to consider before asking an <b>AI</b> app for sexual health help. If you plan to take care of STI concerns in the <b>privacy</b> of your own home, be&nbsp;...
+
+- **3. <b>AI</b> Statutory Update - New Technology - Technology - United States - Mondaq** [link](https://www.mondaq.com/unitedstates/new-technology/1514124/ai-statutory-update)
+_Highlight:_ As the case has been with the failure of Congress to pass meaningful, comprehensive data <b>privacy</b> legislation, it has failed to pass any meaningful <b>AI</b>&nbsp;...
+
+- **4. Senate Study Committee on <b>Artificial Intelligence</b> to Hold Fourth Meeting** [link](https://senatepress.net/senate-study-committee-on-artificial-intelligence-to-hold-fourth-meeting.html)
+_Highlight:_ Date: Thursday, September 12, 2024; Time: 10:00 a.m.; Location: Georgia Cyber Innovation &amp; Training Center, 100 Grace Hopper Ln, Augusta, GA 30901&nbsp;...
+
+- **5. California Gov. Gavin Newsom&#39;s desk is overflowing with <b>AI</b> bills - The Washington Post** [link](https://www.washingtonpost.com/politics/2024/09/05/california-gov-gavin-newsoms-desk-is-overflowing-with-ai-bills/)
+_Highlight:_ I cover <b>artificial intelligence</b> for The Post out in San Francisco. Below: A new report probes the link between social media and political violence.
+
+- **6. The government says more people need to use <b>AI</b>. Here&#39;s why that&#39;s wrong** [link](https://theconversation.com/the-government-says-more-people-need-to-use-ai-heres-why-thats-wrong-238327)
+_Highlight:_ The federal government is encouraging more people to use <b>artificial intelligence</b>. But this blind hype dismisses the harms caused by the new&nbsp;...
+
+- **7. Uncovering and addressing prejudices in algorithmic decision-making - Bias in <b>AI</b> Systems** [link](https://ciolook.com/uncovering-and-addressing-prejudices-in-algorithmic-decision-making-bias-in-ai-systems/)
+_Highlight:_ We must ensure these technologies operate with <b>fairness</b> and accountability, safeguarding equal treatment across all demographics. Understanding <b>AI</b>&nbsp;...
+
+- **8. Navigating the Complex Landscape of <b>AI</b> Governance: Principles and Frameworks for ... - JD Supra** [link](https://www.jdsupra.com/legalnews/navigating-the-complex-landscape-of-ai-8017817/)
+_Highlight:_ Human-Centered Values and <b>Fairness</b>: <b>AI</b> ... Organizations must conduct ethical impact assessments to prevent biases and ensure AI&#39;s accessibility and&nbsp;...
+
+- **9. How IBM is shaping <b>AI</b> governance in education with Smarter Balanced** [link](https://www.ibm.com/blog/how-ibm-is-shaping-ai-governance-in-education-with-smarter-balanced/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) in educational assessments ... The panel&#39;s goal is to develop guiding principles for embedding accuracy and <b>fairness</b> into&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
