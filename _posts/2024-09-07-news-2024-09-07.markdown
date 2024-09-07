@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-09-07 One-Minute Post
+date: 2024-09-07 11:22:28 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple is integrating AI for enhanced privacy, while Amazon's Alexa faces accusations of bias. Meanwhile, there's a push for ethical norms in AI education to combat discrimination. CNBC's Cramer defends AI infrastructure, emphasizing its significance amidst negative narratives. These developments highlight the intersection of AI, privacy, and bias in various domains.
+
+## Articles we found interesting:
+
+- **1. Ep13: How <b>AI</b> is making Apple rethink the insides of an iPhone w/ Phil Solis of IDC** [link](https://www.thehindu.com/podcast/how-ai-is-making-apple-rethink-the-insides-of-a-smartphone/article68616837.ece)
+_Highlight:_ The device will likely come with significant <b>AI</b> capabilities, potentially leveraging on-device processing for enhanced <b>privacy</b> and performance. The&nbsp;...
+
+- **2. Can <b>AI</b> help families make difficult end-of-life care decisions? - NBC News** [link](https://www.nbcnews.com/now/video/can-ai-help-families-make-difficult-end-of-life-care-decisions-218803781789)
+_Highlight:_ Artists clone their voices using <b>AI</b> as battle brews over <b>AI</b>-generated music ... Your <b>Privacy</b> Choices; CA Notice &middot; Terms of Service (Updated JULY 7, 2023)&nbsp;...
+
+- **3. Cramer pushes back against a &#39;new and negative <b>AI</b> narrative&#39; on Wall Street - CNBC** [link](https://www.cnbc.com/2024/09/06/cramer-pushes-back-against-a-new-and-negative-ai-narrative-on-wall-street.html)
+_Highlight:_ “I believe that <b>AI</b> infrastructure remains the greatest story of our time,” he said. ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b>&nbsp;...
+
+- **4. &#39;Alexa, how should I vote?&#39;: rightwing uproar over voice assistant&#39;s pro-Kamala Harris points** [link](https://www.theguardian.com/us-news/article/2024/sep/06/amazon-alexa-kamala-harris-support)
+_Highlight:_ Amazon says the device&#39;s pro-Harris answers were due to software errors, but conservatives allege a liberal <b>bias</b>.
+
+- **5. Ethical norms for teaching <b>AI</b> needed, alliance says - Taipei Times** [link](https://www.taipeitimes.com/News/taiwan/archives/2024/09/07/2003823406)
+_Highlight:_ The ministry should prioritize <b>AI</b> education on fighting discrimination and crime, as well as improving learning motivation, rather than focusing&nbsp;...
+
+- **6. Amazon Explains How an Alexa Upgrade <b>Biased</b> its <b>AI</b> to Favor Kamala Harris | Inc.com** [link](https://www.inc.com/kit-eaton/amazon-says-alexa-upgrade-skewed-ai-to-harris.html)
+_Highlight:_ &#39;Hey, Alexa. Explain yourself.&#39; Trump supporters were upset when Amazon&#39;s voice assistant seemed to favor his opponent. An <b>AI</b> upgrade was to&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
