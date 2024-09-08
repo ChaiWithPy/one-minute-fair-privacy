@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-08 One-Minute Post
+date: 2024-09-08 11:17:37 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Elon Musk's X may be in breach of Australian privacy law over data harvesting for Grok AI. Haltia.AI unveils ASIMOV: The next-generation AI platform prioritizing privacy. Concerns about bias in AI algorithms continue to surge. Saudi Arabia to host the first International AI Olympiad, focusing on fairness in AI. Oprah to explore the ethical implications of AI, including fairness and accountability. Africa's AI-driven public health revolution must prioritize fairness and prevent algorithmic bias.
+
+## Articles we found interesting:
+
+- **1. Elon Musk&#39;s X may be in breach of Australian <b>privacy</b> law over data harvesting for Grok <b>AI</b>** [link](https://www.msn.com/en-us/news/australia/elon-musk-s-x-may-be-in-breach-of-australian-privacy-law-over-data-harvesting-for-grok-ai/ar-BB1qUe1V%3Focid%3DBingNewsVerp)
+_Highlight:_ Australia&#39;s <b>privacy</b> watchdog says there&#39;s &quot;cause for concern&quot; over X&#39;s harvesting of the user data of its Australian users to train a new&nbsp;...
+
+- **2. PRESSR: Haltia.<b>AI</b> unveils ASIMOV: The next-generation <b>AI</b> platform for enterprise and government** [link](https://www.tradingview.com/news/reuters.com,2024-09-08:newsml_Zaw1Gl7kv:0-pressr-haltia-ai-unveils-asimov-the-next-generation-ai-platform-for-enterprise-and-government/)
+_Highlight:_ Trustworthy <b>AI</b>: <b>Privacy</b>-First with On-Premise Deployment. ASIMOV&#39;s architecture prioritizes trust, security, and transparency. In an era of&nbsp;...
+
+- **3. The Transformative Power Of <b>Artificial Intelligence</b> On Modern Technology** [link](https://www.harlemworldmagazine.com/the-transformative-power-of-artificial-intelligence-on-modern-technology/)
+_Highlight:_ ... <b>privacy</b> and complies with regulations is paramount. Additionally, there is the challenge of bias in <b>AI</b> algorithms. If the data used to train <b>AI</b>&nbsp;...
+
+- **4. As <b>artificial intelligence</b> surges across daily life, so do concerns <b>AI</b> - TribLIVE.com** [link](https://triblive.com/business/technology/as-artificial-intelligence-surges-across-daily-life-so-do-concerns-ai/)
+_Highlight:_ Algorithmic <b>bias</b> is just one reason people mistrust <b>AI</b> — and a reminder that these technologies are still in their infancy. “People on both sides who&nbsp;...
+
+- **5. BBC breaches its own editorial guidelines 1500 times during Israel-Hamas war - report** [link](https://www.jpost.com/israel-hamas-war/article-819124)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>), The Telegraph added. The research found that there was a &quot;deeply worrying pattern of <b>bias</b> against Israel&quot; and that&nbsp;...
+
+- **6. First Legally binding <b>AI</b> treaty - INSIGHTS IAS - Simplifying UPSC IAS Exam Preparation** [link](https://www.insightsonindia.com/2024/09/07/first-legally-binding-ai-treaty/)
+_Highlight:_ <b>Bias</b> and Discrimination, <b>AI</b> training on <b>biased</b> data may result in decisions that unfairly disadvantage certain groups, perpetuating societal&nbsp;...
+
+- **7. Saudi Arabia to Host First International <b>AI</b> Olympiad** [link](https://english.aawsat.com/technology/5058611-saudi-arabia-host-first-international-ai-olympiad)
+_Highlight:_ The lectures spanned five weeks and covered diverse topics such as Introduction to <b>AI</b>, Social Impact of <b>AI</b> (ethics, <b>fairness</b>), Kernel Methods&nbsp;...
+
+- **8. Oprah Set to Explore <b>AI</b> in Upcoming Special - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/09/07/oprah-set-to-explore-ai-in-upcoming-special/)
+_Highlight:_ **What are the ethical implications of <b>AI</b>?** – <b>AI</b> ethics encompasses <b>fairness</b>, accountability, and transparency in <b>AI</b> systems. As algorithms&nbsp;...
+
+- **9. The Future of Epidemic Control: Africa&#39;s <b>AI</b>-driven public health revolution - MyJoyOnline** [link](https://www.myjoyonline.com/the-future-of-epidemic-control-africas-ai-driven-public-health-revolution/)
+_Highlight:_ African governments and <b>AI</b> developers must work together to ensure <b>fairness</b> and prevent algorithmic bias in healthcare. Accessibility: Not all African&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
