@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-09-09 One-Minute Post
+date: 2024-09-09 11:44:25 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+UK signs international AI treaty to protect human rights and the rule of law, emphasizing the need to shape AI. WhatsApp's 'View Once' privacy feature has a bug, while a smart home hub ensures privacy by only listening when touched. Tech Policy Press calls for fellowship applications focusing on AI and data privacy, as well as bias and discrimination. Reports accuse BBC of bias against Israel during the war in Gaza, using artificial intelligence to analyze content and highlight the media's blame pattern.
+
+## Articles we found interesting:
+
+- **1. UK signs international <b>AI</b> treaty to protect &#39;human rights and the rule of law&#39;** [link](https://www.publictechnology.net/2024/09/09/public-order-justice-and-rights/uk-signs-international-ai-treaty-to-protect-human-rights-and-the-rule-of-law/)
+_Highlight:_ ... <b>privacy</b> is respected and <b>AI</b> does not discriminate against them”. ... However, we must not let <b>AI</b> shape us – we must shape <b>AI</b>. This convention is&nbsp;...
+
+- **2. Bug lets anyone bypass WhatsApp&#39;s &#39;View Once&#39; <b>privacy</b> feature - TechCrunch** [link](https://techcrunch.com/2024/09/09/bug-lets-anyone-bypass-whatsapps-view-once-privacy-feature/)
+_Highlight:_ Exclusive, Meta, <b>Privacy</b>, <b>privacy</b>, Security, WhatsApp &middot; Security ... Miami-based <b>AI</b> bookkeeping startup finally has raised another big round&nbsp;...
+
+- **3. Love <b>privacy</b> and smart home tech? This hub only listens when you&#39;re touching it | ZDNET** [link](https://www.zdnet.com/home-and-office/smart-home/love-privacy-and-smart-home-tech-this-hub-only-listens-when-youre-touching-it/)
+_Highlight:_ Assuming the dog doesn&#39;t get hold of the puck first, speaking with the Voice Mate utilizes Aqara&#39;s custom Copilot <b>AI</b> to take action on your&nbsp;...
+
+- **4. Call for Applications: Tech Policy Press 2025 Fellowship** [link](https://www.techpolicy.press/call-for-applications-tech-policy-press-2025-fellowship/)
+_Highlight:_ <b>AI</b> and data privacy, including the impacts of <b>AI</b> services and products on individual and collective privacy. Al <b>bias</b> and discrimination, including&nbsp;...
+
+- **5. &#39;A Distinct Pattern of <b>Bias</b> Against Israel&#39;: Report on BBC Coverage of War in Gaza, Oct. 7** [link](https://www.haaretz.com/israel-news/2024-09-08/ty-article/report-accuses-bbc-of-anti-israel-bias-during-war-in-gaza/00000191-d1cb-d214-a393-d5fb39460000)
+_Highlight:_ Working with a team of about 20 lawyers and data scientists, the report uses <b>artificial intelligence</b> to analyze over nine million words of content.
+
+- **6. Study Calls Out BBC&#39;s &#39;Pattern of <b>Bias</b>&#39; Against Israel | Newsmax.com** [link](https://www.newsmax.com/newsfront/study-ai-bias/2024/09/08/id/1179518/)
+_Highlight:_ The media has blamed Israel more than Hamas terrorists for war crimes and genocide amid the war, according to an <b>artificial intelligence</b> analysis&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
