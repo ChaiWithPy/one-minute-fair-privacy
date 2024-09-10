@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-10 One-Minute Post
+date: 2024-09-10 11:55:11 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California SB 1047 may bring more stringent AI regulation. Colorado emphasizes trust and innovation in new AI guidelines. CFOs prioritize data security and privacy, with generative AI becoming common. OpenAI's SearchGPT raises concerns about AI infrastructure bias. AI is changing the conversation around digital accessibility by mitigating unconscious bias. Ben-Gurion University develops a tool to decipher AI medical decisions and avoid bias. A conference on AI emphasizes transparency, fairness, and accountability. Assessments without AI raise concerns about fairness and authenticity. AI tools in hiring and recruiting offer substantial benefits but raise concerns about bias and fairness.
+
+## Articles we found interesting:
+
+- **1. Zooming in on <b>AI</b> – #3: California SB 1047 – The Potential New Frontier of More Stringent <b>AI</b> ...** [link](https://www.aoshearman.com/insights/ao-shearman-on-tech/california-sb-1047-the-potential-new-frontier-of-more-stringent-ai-regulation)
+_Highlight:_ Helen Christakos and Sonya Aggarwal of our U.S. <b>Privacy</b> and Data Security practice and Eva Wang of our Technology Transactions practice look at&nbsp;...
+
+- **2. Trust, innovation central to Colorado&#39;s new <b>AI</b> guidelines, says state data chief | StateScoop** [link](https://statescoop.com/ai-policy-colorado-amy-bhikha-2024/)
+_Highlight:_ “In the past, you were looking at data governance truly from that data <b>privacy</b> lens, you know, making sure that you&#39;re keeping your HIPAA data or your&nbsp;...
+
+- **3. Rising Cyber Threats Drive CFOs to Prioritize Data Security and <b>Privacy</b>, Increasing Focus ...** [link](https://www.prnewswire.com/news-releases/rising-cyber-threats-drive-cfos-to-prioritize-data-security-and-privacy-increasing-focus-on-fpa-and-gen-ai-states-protivitis-latest-global-finance-trends-survey-302243299.html)
+_Highlight:_ Generative <b>AI</b> is becoming table stakes, with 44% of finance departments in publicly held organizations employing this technology.
+
+- **4. &#39;Put glue on your pizza&#39; embodies everything wrong with <b>AI</b> search — is SearchGPT ready to ...** [link](https://www.livescience.com/technology/artificial-intelligence/openai-searchgpt-put-glue-on-your-pizza-everything-wrong-with-ai-search)
+_Highlight:_ The role of <b>artificial intelligence</b> (<b>AI</b>) in influencing how we use the ... &quot;That&#39;s aside from the issue of <b>AI</b> infrastructure <b>bias</b> to prevent&nbsp;...
+
+- **5. <b>AI</b> is Changing the Conversation Around Digital Accessibility - <b>AI</b> Business** [link](https://aibusiness.com/responsible-ai/ai-is-changing-the-conversation-around-digital-accessibility)
+_Highlight:_ By leveraging <b>AI</b>, organizations can detect and mitigate this unconscious <b>bias</b>, cleansing <b>biased</b> language from datasets and helping to bolster&nbsp;...
+
+- **6. Ben-Gurion University Researchers Develop Tool To Decipher <b>AI</b> Medical Decisions** [link](https://themedialine.org/life-lines/ben-gurion-university-researchers-develop-tool-to-decipher-ai-medical-decisions/)
+_Highlight:_ Zaritsky also discussed the ethical concerns surrounding <b>AI</b> in medicine, particularly the need to avoid <b>bias</b>. “If a machine is trained on images of&nbsp;...
+
+- **7. Conference on <b>artificial intelligence</b> opens with profound question: “What is truth?”** [link](https://www.oikoumene.org/news/conference-on-artificial-intelligence-opens-with-profound-question-what-is-truth)
+_Highlight:_ ... <b>AI</b> and digital technology are used.” She reiterated the importance of advocating for transparency, <b>fairness</b>, and accountability when using <b>AI</b> and&nbsp;...
+
+- **8. Assessments that maintain <b>fairness</b> and authenticity without <b>AI</b>** [link](https://www.timeshighereducation.com/campus/assessments-maintain-fairness-and-authenticity-without-ai)
+_Highlight:_ <b>artificial intelligence</b> (<b>AI</b>) raises concerns about &middot; equity and <b>fairness</b> in &middot; assessment and adds complications for how educators measure students&#39;&nbsp;...
+
+- **9. <b>Artificial intelligence</b> tools offer substantial benefits, challenges for hiring and recruiting** [link](https://www.msn.com/en-us/money/technology/artificial-intelligence-tools-offer-substantial-benefits-challenges-for-hiring-and-recruiting/ar-AA1qcX8z)
+_Highlight:_ However, these technologies also introduce significant challenges. The reliance on <b>AI</b> in recruitment raises concerns about bias, <b>fairness</b>, and the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
