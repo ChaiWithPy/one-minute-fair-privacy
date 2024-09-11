@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-11 One-Minute Post
+date: 2024-09-11 11:29:30 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+India's digital revolution sets global benchmark, but data privacy looms large. Meta admits Australians cannot opt out of 'predatory' AI data scrape. Apple's Craig Federighi talks AI and privacy. AI chatbots have a political bias that could unknowingly influence society. Examining the capabilities and risks of advanced AI systems. AI tools must avoid propagating biases or misinformation. Global coordination is necessary for regulating AI, focusing mainly on accountability and fairness.
+
+## Articles we found interesting:
+
+- **1. From Aadhaar to <b>AI</b>: India&#39;s digital revolution sets global benchmark, but data <b>privacy</b> looms large** [link](https://www.businesstoday.in/magazine/deep-dive/story/from-aadhaar-to-ai-indias-digital-revolution-sets-global-benchmark-but-data-privacy-looms-large-445466-2024-09-11)
+_Highlight:_ India&#39;s digital transformation has been fuelled by initiatives such as Aadhaar, UPI, and DigiLocker. Moving ahead, the country needs to&nbsp;...
+
+- **2. Meta admits Australians cannot opt out of &#39;predatory&#39; <b>AI</b> data scrape** [link](https://www.smh.com.au/technology/meta-admits-australians-cannot-opt-out-of-predatory-ai-data-scrape-20240911-p5k9o0.html)
+_Highlight:_ Senators are calling for stronger <b>privacy</b> laws to give Facebook users the ability to block the company from using their posts to train its <b>AI</b>&nbsp;...
+
+- **3. EXCLUSIVE: Apple&#39;s Craig Federighi Talks <b>AI</b> and <b>Privacy</b> - EFTM** [link](https://eftm.com/2024/09/exclusive-apples-craig-federighi-talks-ai-and-privacy-254322)
+_Highlight:_ Apple&#39;s answer as they move to introduce their own <b>AI</b> product is a mix of advanced tech to create strict <b>privacy</b>. Their new “Apple Intelligence”&nbsp;...
+
+- **4. <b>AI</b> Chatbots Have a Political <b>Bias</b> That Could Unknowingly Influence Society - Science Alert** [link](https://www.sciencealert.com/ai-chatbots-have-a-political-bias-that-could-unknowingly-influence-society)
+_Highlight:_ <b>Artificial intelligence</b> engines powered by Large Language Models (LLMs) are becoming an increasingly accessible way of getting answers and advice,&nbsp;...
+
+- **5. Examining the capabilities and risks of advanced <b>AI</b> systems - Brookings Institution** [link](https://www.brookings.edu/articles/examining-advanced-ai-capabilities-and-risks/)
+_Highlight:_ <b>AI</b> outputs are <b>biased</b> if they are skewed based on protected characteristics, such as gender, race, or religion. When these outputs inform high-stakes&nbsp;...
+
+- **6. 4 <b>AI</b> Tools That Can Unlock Previously Overlooked Talent | HRMorning** [link](https://www.hrmorning.com/articles/ai-tools-for-talent-acquisition/)
+_Highlight:_ <b>Bias</b>/Compliance Issues &middot; HireVue data scientists conduct regular algorithm audits of <b>AI</b> tools for <b>bias</b> &middot; External audits are conducted by several firms&nbsp;...
+
+- **7. <b>AI</b> Is Powerful But Is It <b>Fair</b>? This New Approach Levels The Playing Field - Forbes India** [link](https://www.forbesindia.com/article/darden-school-of-business/ai-is-powerful-but-is-it-fair-this-new-approach-levels-the-playing-field/94109/1)
+_Highlight:_ In the rush to adopt <b>AI</b>, many organizations are overlooking a critical issue: <b>fairness</b>. Ensuring <b>AI</b> systems make decisions that don&#39;t unfairly&nbsp;...
+
+- **8. PodChats for FutureCIO: The business value of <b>AI</b> and other emerging technologies** [link](https://futurecio.tech/podchats-for-futurecio-the-business-value-of-ai-and-other-emerging-technologies/)
+_Highlight:_ Explainability should be a fundamental aspect of any autonomous AI system. <b>Fairness</b>: <b>AI</b> tools must avoid propagating biases or misinformation.
+
+- **9. Why Global Coordination is Necessary for Regulating <b>AI</b> - ProMarket** [link](https://www.promarket.org/2024/09/11/why-global-coordination-is-necessary-for-regulating-ai/)
+_Highlight:_ Principle Prioritization: Governments prioritize the OECD <b>AI</b> Principles differently, focusing mainly on accountability and <b>fairness</b>. Implementation&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
