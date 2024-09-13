@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-13 One-Minute Post
+date: 2024-09-13 11:51:18 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta is training AI models using public posts, raising privacy concerns. Meanwhile, SAP updates its AI ethics policy based on UNESCO recommendations, emphasizing fairness and non-discrimination. Brandtech Group introduces 'Bias Breaker' to mitigate AI bias, offering ethical AI sprints. In the pharmaceutical industry, AI's unintentional biases are transforming drug discovery and healthcare. Local governments are strategizing to spread AI while ensuring privacy protection. AI is being implemented to support diversity, equity, and inclusion initiatives, reducing bias in hiring processes. The ethical development of AI is emphasized to empower humanity and ensure fairness.
+
+## Articles we found interesting:
+
+- **1. Strategies for spreading <b>AI</b> throughout local government - Bloomberg Cities** [link](https://bloombergcities.jhu.edu/news/strategies-spreading-ai-throughout-local-government)
+_Highlight:_ ... <b>AI</b>, to provide basic guidance and ground rules around its use, and ... Show <b>Privacy</b> Statement. JHU is committed to the protection of your data&nbsp;...
+
+- **2. Meta fed its <b>AI</b> on almost everything you&#39;ve posted publicly since 2007 - The Verge** [link](https://www.theverge.com/2024/9/12/24242789/meta-training-ai-models-facebook-instagram-photo-post-data)
+_Highlight:_ Meta&#39;s <b>privacy</b> center and blog posts acknowledge hoovering up public posts and comments from Facebook and Instagram to train generative <b>AI</b>: We use&nbsp;...
+
+- **3. First tranche of <b>privacy</b> reforms bring progress but no long-term clarity - Allens** [link](https://www.allens.com.au/insights-news/insights/2024/09/first-tranche-of-privacy-reforms-bring-progress-but-no-long-term-clarity/)
+_Highlight:_ <b>AI</b> Cyber Data &amp; <b>Privacy</b> Risk &amp; Compliance Technology, Media &amp; Telecommunications. Some important developments, but uncertainty remains. Yesterday&nbsp;...
+
+- **4. <b>AI</b> in the Pharmaceutical Industry: Transforming Drug Discovery and Healthcare** [link](https://appinventiv.com/blog/ai-in-pharmaceutical-industry/)
+_Highlight:_ <b>Bias</b> and Fairness: <b>AI</b> algorithms may unintentionally incorporate <b>biases</b> present in the data, leading to unfair treatment of certain patient groups.
+
+- **5. Implementing <b>AI</b> across the hire-to-retire journey - GovInsider** [link](https://govinsider.asia/intl-en/article/implementing-ai-across-the-hire-to-retire-journey)
+_Highlight:_ There is also potential for leaders to deploy <b>AI</b> to support DEI initiatives and reduce <b>bias</b> in hiring, Khosla said. These <b>AI</b> tools can remove&nbsp;...
+
+- **6. Brandtech Group unveils &#39;<b>Bias</b> Breaker&#39; to mitigate <b>AI bias</b> - Adgully.com** [link](https://www.adgully.com/brandtech-group-unveils-bias-breaker-to-mitigate-ai-bias-150392.html)
+_Highlight:_ Additionally, they are offering 6-week-long ethical <b>AI</b> sprints to guide clients in developing brand-specific policies. Addressing concerns about <b>bias</b>,&nbsp;...
+
+- **7. Forging <b>AI&#39;s</b> ethical path? - The Express Tribune** [link](https://tribune.com.pk/story/2495717/forging-ais-ethical-path)
+_Highlight:_ ... <b>Artificial Intelligence</b> (<b>AI</b>) to empower man rather than the other way round. ... <b>fairness</b> in the development of <b>AI</b>. Its focus is on the ethical&nbsp;...
+
+- **8. SAP Updates <b>AI</b> Ethics Policy Based on UNESCO** [link](https://news.sap.com/2024/09/why-sap-updated-ai-ethics-policy-unesco-recommendation/)
+_Highlight:_ SAP&#39;s Guiding Principles on <b>AI</b> Ethics &middot; Proportionality and Do Not Harm &middot; Safety and Security &middot; <b>Fairness</b> and Non-Discrimination &middot; Sustainability &middot; Right to&nbsp;...
+
+- **9. <b>AI</b> powered hiring: How <b>AI</b> is driving <b>fair</b> and bias-free hiring decisions - People Matters** [link](https://www.peoplematters.in/article/recruitment/ai-powered-hiring-how-ai-is-driving-fair-and-bias-free-hiring-decisions-42681)
+_Highlight:_ We talk to Kartik Mandaville CEO and Founder of Springworks on how <b>AI</b> is reimaging hiring and ensure its a quick <b>fair</b> and bias-free process.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
