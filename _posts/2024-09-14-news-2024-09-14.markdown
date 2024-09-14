@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-14 One-Minute Post
+date: 2024-09-14 11:36:46 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+G20 nations unite to combat disinformation and establish AI guidelines with a focus on privacy and human rights. Meanwhile, Colorado and the EU are implementing regulations to govern high-risk AI, emphasizing consumer privacy. In the US, a unified regulatory framework for AI is urged to prevent privacy violations. On the bias front, agencies are addressing AI bias concerns by combining human and technical solutions, while leveraging AI to combat gender bias in hiring. Additionally, the White House launches an AI Datacenter Task Force to enhance policy coordination, and a proposed Generative AI Disclosure Act seeks transparency and fairness in AI training datasets. As AI continues to rise, prioritizing character is highlighted as crucial to building a trustworthy workforce and mitigating AI's potential for bias and privacy violations.
+
+## Articles we found interesting:
+
+- **1. How States Are Stepping in to Regulate <b>AI</b> | Goodwin - JDSupra** [link](https://www.jdsupra.com/legalnews/how-states-are-stepping-in-to-regulate-9422642/)
+_Highlight:_ Integration of <b>AI</b> Regulation into Consumer <b>Privacy</b> Laws. In recent years ... Like the EU <b>AI</b> Act, the Colorado <b>AI</b> Act focuses on regulating high-risk <b>AI</b>&nbsp;...
+
+- **2. Tech Policy Chief: <b>AI&#39;s</b> Promise and Perils - CBS Austin** [link](https://cbsaustin.com/news/local/tech-policy-chief-ais-promise-and-perils)
+_Highlight:_ ... <b>privacy</b> violations. Prabhakar also called for a unified regulatory framework for <b>AI</b> in the U.S., learning from past mistakes with social media. On&nbsp;...
+
+- **3. G20 nations agree to join efforts to fight disinformation and set <b>AI</b> guidelines - ABC News** [link](https://abcnews.go.com/International/wireStory/g20-nations-agree-join-efforts-fight-disinformation-set-113678163)
+_Highlight:_ ... <b>AI</b>,” with human oversight and compliance with <b>privacy</b> and human rights laws. “We hope this will be referenced in the leaders&#39; declaration and that&nbsp;...
+
+- **4. Comprehensive legislation governing <b>AI</b> technology unlikely this session, lawmaker says** [link](https://www.hr-brew.com/stories/2024/09/13/comprehensive-legislation-governing-ai-technology-unlikely-this-session-lawmaker-says)
+_Highlight:_ “Another approach would be…if <b>AI</b> has <b>bias</b> and a whole bunch of folks are not hired [because of their] gender and other protected class, we can&nbsp;...
+
+- **5. Prioritizing character: The key to building a strong and trustworthy workforce in the <b>AI</b> age** [link](https://www.fastcompany.com/91186524/prioritizing-character-the-key-to-building-a-strong-and-trustworthy-workforce-in-the-ai-age)
+_Highlight:_ As automation and <b>AI</b> rise, the value of human qualities in business seems to be at risk. <b>AI</b> can be misused to violate data privacy, introduce <b>bias</b>&nbsp;...
+
+- **6. With <b>AI bias</b> still a sticking point for clients, agencies mix human and technical fixes - Digiday** [link](https://digiday.com/marketing/with-ai-bias-still-a-sticking-point-for-clients-agencies-mix-human-and-technical-fixes/)
+_Highlight:_ Since the advent of generative <b>AI</b> roughly two years ago, one concern has persisted among marketers contemplating the advantages of the tech — <b>bias</b>.
+
+- **7. White House Launches <b>AI</b> Datacenter Task Force to Boost Policy Coordination - CircleID** [link](https://circleid.com/posts/20240913-white-house-launches-ai-datacenter-task-force-to-boost-policy-coordination)
+_Highlight:_ Proposed Generative <b>AI</b> Disclosure Act Seeks Transparency and <b>Fairness</b> in <b>AI</b> Training Datasets &middot; CircleID Reporter; Apr 12, 2024 7:01 AM PDT; Views&nbsp;...
+
+- **8. Leveraging <b>AI</b> to Combat Gender Bias in Hiring: A Paradigm Shift in Recruitment** [link](https://www.hrgrapevine.com/content/article/leveraging-ai-to-combat-gender-bias-in-hiring-a-paradigm-shift-in-recruitment-assessfirst)
+_Highlight:_ Impartial Decision-Making: <b>AI</b> can transcend human intuition and cognitive biases, promoting more equitable hiring practices. Enhanced <b>Fairness</b>:&nbsp;...
+
+- **9. Why Google&#39;s &#39;Polite&#39; <b>AI</b> Tool Is Raising Employee Eyebrows | HackerNoon** [link](https://hackernoon.com/why-googles-polite-ai-tool-is-raising-employee-eyebrows)
+_Highlight:_ Tools like Ask raise serious doubts about transparency and <b>fairness</b> in internal dialogue. The main concern with <b>AI</b>-driven systems is that they could&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
