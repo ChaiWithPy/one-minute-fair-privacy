@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-09-15 One-Minute Post
+date: 2024-09-15 11:12:55 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI accountability in healthcare is crucial for business success, addressing biases and ensuring data privacy. AI-first procurement drives efficiency and innovation while maintaining data privacy. Melania Trump denounces FBI's raid as an invasion of privacy. The US House Science Committee passes nine AI bills, focusing on addressing bias in AI systems and sharing digital privacy strategies. Ethical reflections highlight the implications of AI bias, emphasizing the need for careful management. A survey reveals the need for improved AI literacy and stronger regulatory guidance to address biases in primary care.
+
+## Articles we found interesting:
+
+- **1. Why <b>AI</b> accountability in healthcare is essential for business success | Viewpoint** [link](https://www.chiefhealthcareexecutive.com/view/why-ai-accountability-in-healthcare-is-essential-for-business-success-viewpoint)
+_Highlight:_ This includes addressing potential biases, ensuring data <b>privacy</b>, and prioritizing patient safety. Ethical <b>AI</b> practices foster a culture of&nbsp;...
+
+- **2. <b>AI</b>-First Procurement: The Key to Driving Efficiency, Innovation, and Competitive Advantage** [link](https://www.webpronews.com/ai-first-procurement-the-key-to-driving-efficiency-innovation-and-competitive-advantage/)
+_Highlight:_ IT and Data <b>Privacy</b>: <b>AI</b> systems are integral in ensuring compliance with data security and privacy regulations, particularly in vendor vetting and&nbsp;...
+
+- **3. Melania Trump denounces FBI&#39;s Mar-a-Lago raid as &#39;invasion of my <b>privacy</b>&#39;, calls it a ...** [link](https://m.economictimes.com/news/international/world-news/melania-trump-denounces-fbis-mar-a-lago-raid-as-invasion-of-my-privacy-calls-it-a-warning-to-all-americans/articleshow/113362684.cms)
+_Highlight:_ ... <b>privacy</b>. She warned that this act serves as a reminder to all ... <b>Artificial Intelligence</b>(<b>AI</b>). Java Programming with ChatGPT: Learn using&nbsp;...
+
+- **4. Nine <b>AI</b> Bills Pass US House Science, Space and Technology Committee | TechPolicy.Press** [link](https://www.techpolicy.press/nine-ai-bills-pass-us-house-science-space-and-technology-committee/)
+_Highlight:_ ... <b>bias</b> in <b>AI</b> enabled systems. Learning about ethical concerns related to <b>AI</b> and sharing digital privacy strategies. Professional development in <b>AI</b>&nbsp;...
+
+- **5. Ethical Reflections on Technology&#39;s Role in Society - elblog.pl - Decoding <b>AI</b>** [link](https://elblog.pl/2024/09/14/ethical-reflections-on-technologys-role-in-society/)
+_Highlight:_ **What are the implications of <b>AI bias</b>?** <b>AI</b> systems can perpetuate and even exacerbate societal <b>biases</b> if not carefully managed. Ethical&nbsp;...
+
+- **6. Survey Reveals Key Challenges And Opportunities For <b>AI</b> In Primary Care | Scoop News** [link](https://www.scoop.co.nz/stories/GE2409/S00032/survey-reveals-key-challenges-and-opportunities-for-ai-in-primary-care.htm)
+_Highlight:_ There is a clear need for improved <b>AI</b> literacy among healthcare providers, as well as stronger regulatory guidance and trust-building efforts to&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
