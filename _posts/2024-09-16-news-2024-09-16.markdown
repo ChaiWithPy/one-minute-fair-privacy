@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-16 One-Minute Post
+date: 2024-09-16 10:12:57 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google introduces "confidential matching" for advertisers, addressing privacy concerns. The EU's AI model raises privacy concerns. NIST releases updated draft guidance for federal agencies' use of AI, highlighting the risks of biased outcomes. Algorithmic bias in AI systems can adversely affect marginalized groups in financial management. AI's role in reforming the Nepali judiciary emphasizes the importance of fair and speedy trials. Microsoft CEO urges Nigerians to adopt AI, emphasizing fairness, reliability, inclusiveness, privacy, transparency, and accountability.
+
+## Articles we found interesting:
+
+- **1. Data <b>Privacy</b>: Google introduces &quot;confidential matching&quot; for advertisers - Storyboard18** [link](https://www.storyboard18.com/digital/data-privacy-google-introduces-confidential-matching-for-advertisers-42332.htm)
+_Highlight:_ ... EU ... <b>AI</b> model, raises <b>privacy</b> concerns &middot; LATEST NEWS &middot; SPECIAL COVERAGE &middot; WATCH LISTEN &middot; logoimage. about us.
+
+- **2. Why these Gulf states want to be <b>AI</b> superpowers - CNN** [link](https://www.cnn.com/2024/09/16/middleeast/middle-east-artificial-intelligence-spc/index.html)
+_Highlight:_ “There are many concerns that go with the development of <b>AI</b> - not just <b>privacy</b> concerns, not just the risks of losing jobs, but also all the way&nbsp;...
+
+- **3. <b>AI</b> Legislation and Governance - <b>AI</b> Business** [link](https://aibusiness.com/responsible-ai/ai-legislation-and-governance)
+_Highlight:_ As with data <b>privacy</b> and GDPR, Europe is leading again with the <b>Artificial Intelligence</b> Act (EU <b>AI</b> Act). This is the world&#39;s first standalone law&nbsp;...
+
+- **4. NIST Releases Updated Draft Guidance For Federal Agencies&#39; Use Of <b>AI</b> In Identity ...** [link](https://www.mondaq.com/unitedstates/new-technology/1517404/nist-releases-updated-draft-guidance-for-federal-agencies-use-of-ai-in-identity-verification-systems-ai-the-washington-report)
+_Highlight:_ However, the draft guidance notes that the use of <b>AI</b> in digital identity systems also carries numerous risks, &quot;including disparate outcomes, <b>biased</b>&nbsp;...
+
+- **5. The Rise of <b>AI</b> in Financial Management Among Young Consumers** [link](https://elblog.pl/2024/09/15/the-rise-of-ai-in-financial-management-among-young-consumers/)
+_Highlight:_ **Algorithmic <b>Bias</b>:** If not designed carefully, <b>AI</b> systems can perpetuate existing <b>biases</b>, adversely affecting marginalized groups in the finance&nbsp;...
+
+- **6. International Day of Democracy: <b>AI</b> and democracy - Times of India** [link](https://timesofindia.indiatimes.com/blogs/methink/international-day-of-democracy-ai-and-democracy/)
+_Highlight:_ <b>Artificial Intelligence</b> (<b>AI</b>) refers to computer systems or ... Algorithmic <b>bias</b>: If <b>AI</b> systems are <b>biased</b>, they can reinforce existing&nbsp;...
+
+- **7. Challenges and opportunities of <b>AI</b> in reforming Nepali judiciary - Onlinekhabar English** [link](https://english.onlinekhabar.com/ai-in-reforming-nepali-judiciary.html)
+_Highlight:_ This proverb is taken seriously especially in criminal law as <b>fair</b> and speedy trial is a general principle of law and justice. Soon <b>AI</b> has the&nbsp;...
+
+- **8. Outside the Box: Is Amorality the Ultimate Superintelligence? - <b>Fair</b> Observer** [link](https://www.fairobserver.com/more/science/outside-the-box-is-amorality-the-ultimate-superintelligence/)
+_Highlight:_ Outside the Box” is <b>Fair</b> Observer&#39;s regular column dedicated to exploring our relationship with <b>artificial intelligence</b>.
+
+- **9. Adopt <b>AI</b> to drive economic growth, development, Microsoft CEO urges Nigerians** [link](https://naija247news.com/2024/09/15/adopt-ai-to-drive-economic-growth-development-microsoft-ceo-urges-nigerians/)
+_Highlight:_ ... <b>Artificial Intelligence</b> (<b>AI</b>) to drive Nigeria&#39;s ... <b>AI</b> such as <b>fairness</b>, reliability, inclusiveness, privacy, transparency and accountability.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
