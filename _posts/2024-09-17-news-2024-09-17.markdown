@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-17 One-Minute Post
+date: 2024-09-17 10:12:43 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The Office of the Privacy Commissioner of Canada discusses the impact of AI on privacy. California County's AI policy addresses ownership and privacy concerns. Infosys chair predicts commoditization of big AI models. Schumer and Markey call for civil rights offices to mitigate AI bias. GenAI displays no racial or sex bias in opioid treatment plans. A study investigates racial and gender biases in AI-driven oncology. Youverse CEO to discuss responsible AI in biometrics. Best practices for leveraging AI in recruitment include regular fairness audits.
+
+## Articles we found interesting:
+
+- **1. Remarks at the Canada&#39;s Competition Summit 2024 - Office of the <b>Privacy</b> Commissioner of Canada** [link](https://www.priv.gc.ca/en/opc-news/speeches/2024/sp-d_20240916/)
+_Highlight:_ Opening Remarks. Good afternoon and thank you for the invitation to share my perspective on <b>artificial intelligence</b> and its impact on <b>privacy</b>. <b>AI</b> is&nbsp;...
+
+- **2. California County <b>AI</b> Policy Could Be Instructive for Other Localities - Governing Magazine** [link](https://www.governing.com/artificial-intelligence/california-county-ai-policy-could-be-instructive-for-other-localities)
+_Highlight:_ “There can be risks in using this technology, including uncertainty about ownership of the <b>AI</b>-created content and security and <b>privacy</b> concerns with&nbsp;...
+
+- **3. Big <b>AI</b> models will be commoditized: Infosys chair says - CNBC** [link](https://www.cnbc.com/2024/09/17/big-ai-models-will-be-commoditized-infosys-chair-says.html)
+_Highlight:_ ... <b>AI</b>, “is a longer cycle than consumer <b>AI</b>.” In this article. INFY-IN+ ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **4. Schumer, Markey call on agencies to set up civil rights offices to mitigate <b>AI bias</b> | FedScoop** [link](https://fedscoop.com/schumer-markey-call-agencies-civil-rights-offices-mitigate-ai-bias/)
+_Highlight:_ The Senate Democrats demanded agencies using <b>AI</b> for “consequential” uses, like job applications or hospital treatment, create and maintain a civil&nbsp;...
+
+- **5. Markey, Schumer Demand Civil Rights Protections for Federal Use of <b>AI</b> | Common Dreams** [link](https://www.commondreams.org/news/ai-protection)
+_Highlight:_ ... bias and discrimination. Specifically, the pair is pushing OMB to ... <b>biased AI</b>-powered algorithms.&quot; &quot;Finally, because a regulation is only&nbsp;...
+
+- **6. GenAI displays no racial, sex <b>bias</b> in opioid treatment plans - TechTarget** [link](https://www.techtarget.com/healthtechanalytics/news/366610636/GenAI-displays-no-racial-sex-bias-in-opioid-treatment-plans)
+_Highlight:_ These <b>biases</b> in opioid prescription exacerbate existing inequities in healthcare, and there is some concern that <b>AI</b> tools could worsen them -- despite&nbsp;...
+
+- **7. <b>Fairness</b> in <b>AI</b>-Driven Oncology: Investigating Racial and Gender Biases in Large Language Models** [link](https://www.cureus.com/articles/295010-fairness-in-ai-driven-oncology-investigating-racial-and-gender-biases-in-large-language-models)
+_Highlight:_ <b>AI</b>-generated cancer cases are not fully representative of real-world demographic distributions and encode stereotypes on substance abuse, such as&nbsp;...
+
+- **8. Youverse CEO to Discuss Responsible <b>AI</b> in Biometrics at EAB Research Projects Conference** [link](https://financialit.net/news/artificial-intelligence/youverse-ceo-discuss-responsible-ai-biometrics-eab-research-projects)
+_Highlight:_ ... <b>AI</b> products that prioritize <b>fairness</b>, explainability, and sustainability. By leveraging responsible <b>AI</b> principles, Youverse is striving to create&nbsp;...
+
+- **9. Navigating the Future of HR and Recruitment: Trends, Challenges, and Best Practices** [link](https://www.onrec.com/news/news-archive/navigating-the-future-of-hr-and-recruitment-trends-challenges-and-best-practices)
+_Highlight:_ Leveraging <b>Artificial Intelligence</b> (<b>AI</b>) in Recruitment ... Best Practices: Combine <b>AI</b> with human oversight, regularly audit <b>AI</b> tools for <b>fairness</b>, and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
