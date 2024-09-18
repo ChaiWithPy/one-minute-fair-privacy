@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-09-18 One-Minute Post
+date: 2024-09-18 09:31:17 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Tech giants are gaining an edge in generative AI, raising concerns about data privacy. Meanwhile, URAC launches updated telehealth accreditation with new standards on AI, diversity, equity, and privacy. On the other hand, bias in AI predictive analytics and gender bias in generative AI image creation are being revealed, highlighting the need for fairness and inclusivity in AI technologies.
+
+## Articles we found interesting:
+
+- **1. Experts Expect Limited Competition in Generative <b>AI</b> Industry - PYMNTS.com** [link](https://www.pymnts.com/artificial-intelligence-2/2024/experts-expect-limited-competition-in-generative-ai-industry/)
+_Highlight:_ New research suggests tech giants may gain an edge in generative <b>artificial intelligence</b> (<b>AI</b>) ... Data <b>privacy</b> emerges as a critical issue in a&nbsp;...
+
+- **2. URAC Launches Updated Telehealth Accreditation with New Standards on <b>Artificial</b> ... - Morningstar** [link](https://www.morningstar.com/news/pr-newswire/20240918ne08883/urac-launches-updated-telehealth-accreditation-with-new-standards-on-artificial-intelligence-diversity-equity-and-inclusion-and-data-privacy)
+_Highlight:_ ... <b>Artificial Intelligence</b>, Diversity, Equity and Inclusion and Data <b>Privacy</b> ... <b>AI</b> use, inclusivity and <b>privacy</b> in telehealth. About URAC. Founded in&nbsp;...
+
+- **3. Unlocking the Potential of Generative <b>AI</b> in Pharma | Alvarez &amp; Marsal** [link](https://www.alvarezandmarsal.com/insights/unlocking-potential-generative-ai-pharma)
+_Highlight:_ The Dark Side of Gen <b>AI</b>: Uncover potential risks and ethical concerns, including data <b>privacy</b>, harmful content generation, legal and copyright issues,&nbsp;...
+
+- **4. Role of <b>AI</b> Predictive Analytics in Supply Chain Management - Data Science Central** [link](https://www.datasciencecentral.com/role-of-ai-predictive-analytics-in-supply-chain-management/)
+_Highlight:_ <b>Bias</b> characteristics of <b>AI</b> could be a challenge as the precision made by <b>AI</b> predictive analysis could be <b>biased</b> for the organization&#39;s regulations.
+
+- **5. Australian researchers reveal gender <b>bias</b> in GenAI image creation - Cyber Daily** [link](https://www.cyberdaily.au/tech/11126-australian-researchers-reveal-gender-bias-in-genai-image-creation)
+_Highlight:_ Images created by generative <b>artificial intelligence</b> tend to present male figures over women, and a lack of ethnic diversity.
+
+- **6. <b>Artificial Intelligence</b> - Statetimes** [link](https://statetimes.in/artificial-intelligence-5/)
+_Highlight:_ <b>AI</b> systems often learn from historical data, which can include inherent <b>biases</b> based on race, gender, socioeconomic status, and more. For instance, if&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
