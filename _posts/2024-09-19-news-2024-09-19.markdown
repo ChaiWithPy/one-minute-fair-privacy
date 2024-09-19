@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-19 One-Minute Post
+date: 2024-09-19 09:33:09 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+LinkedIn has been using personal data for AI training without updating its privacy policy. Clearview AI settles an age bias lawsuit. Google invests $25M in AI training for teachers to address bias issues. A former Biden advisor calls for audits of AI health tech to address biases. Policymakers are considering regulations to ensure fairness and accountability in AI systems. AI, VR, and blockchain are shaping the future of online casinos, focusing on fairness.
+
+## Articles we found interesting:
+
+- **1. LinkedIn updates <b>privacy</b> policy to allow <b>AI</b> training on users&#39; personal data; know how to opt out** [link](https://indianexpress.com/article/technology/artificial-intelligence/linkedin-updates-privacy-policy-ai-training-personal-data-9576464/)
+_Highlight:_ LinkedIn has been scraping users&#39; personal data to train <b>AI</b> models without making necessary changes to its <b>privacy</b> policy at the outset.
+
+- **2. Maintaining Data <b>Privacy</b> During <b>AI</b>-Enabled QA Testing - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/09/19/maintaining-data-privacy-during-ai-enabled-qa-testing/)
+_Highlight:_ Protecting data <b>privacy</b> is crucial during QA testing. This becomes an even bigger issue when <b>AI</b> is involved in the equation. That is because it takes&nbsp;...
+
+- **3. LinkedIn is training <b>AI</b> models on your data - The Verge** [link](https://www.theverge.com/2024/9/18/24248471/linkedin-ai-training-user-accounts-data-opt-in)
+_Highlight:_ The FAQ posted for its <b>AI</b> training says it uses “<b>privacy</b> enhancing technologies to redact or remove personal data” from its training sets, and that it&nbsp;...
+
+- **4. Clearview <b>AI</b>, Former Face-Tech Sellers Settle Age <b>Bias</b> Lawsuit - Bloomberg Law News** [link](https://news.bloomberglaw.com/daily-labor-report/clearview-ai-former-face-tech-sellers-settle-age-bias-lawsuit)
+_Highlight:_ Clearview <b>AI</b> resolved an age discrimination lawsuit brought by two former sales employees who accused the facial recognition company of firing&nbsp;...
+
+- **5. Google Spends $25M on <b>AI</b> Training for Teachers - Education Week** [link](https://www.edweek.org/technology/google-spends-25m-on-ai-training-for-teachers/2024/09)
+_Highlight:_ ... <b>AI&#39;s bias</b> problems. “I think that&#39;s one of the biggest challenges, is that there&#39;s <b>bias</b> in all these tools and in lots of technology,” Culatta said.
+
+- **6. Former Biden adviser, Atlanta doctor calls for audits of <b>AI</b> health tech** [link](https://www.ajc.com/news/health-news/former-biden-advisor-atlanta-doctor-calls-for-audits-of-ai-health-tech/QIIKK74OUFCO7AMF3URXOUE4SY/)
+_Highlight:_ She also flagged the potential <b>bias</b> of programmers and <b>AI</b> trainers as an area of concern. ... <b>AI</b> medical <b>biases</b> also crosses over into gender, Ford&nbsp;...
+
+- **7. The Ethics Of <b>AI</b>: Pursuing <b>Fairness</b> And Accountability - Forbes** [link](https://www.forbes.com/councils/forbesbusinessdevelopmentcouncil/2024/09/19/the-ethics-of-ai-pursuing-fairness-and-accountability/)
+_Highlight:_ It&#39;s on company leaders and managers to ensure <b>AI</b> accountability. All companies should continually consider creating policies to ensure ethical <b>AI</b>&nbsp;...
+
+- **8. Impact of <b>artificial intelligence</b> on the global economy | News.az** [link](https://news.az/news/-impact-of-artificial-int-elligence-on-the-global-economy)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) ... Policymakers are considering regulations that would ensure transparency, accountability, and <b>fairness</b> in <b>AI</b> systems,&nbsp;...
+
+- **9. How <b>AI</b>, VR, and blockchain are shaping the future of online casinos** [link](https://retailtechinnovationhub.com/home/2024/9/18/how-ai-vr-and-blockchain-are-shaping-the-future-of-online-casinos)
+_Highlight:_ ... <b>fairness</b>. How <b>AI</b> is used in online casinos: ○ Personalised gaming experience: <b>AI</b> can analyze player preferences and behavior to recommend games&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
