@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-09-20 One-Minute Post
+date: 2024-09-20 09:42:19 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OpenAI's data deals raise privacy concerns, while LinkedIn allows users to opt out of AI data training. CTA's AI gun detection raises privacy worries, as UN experts call for global AI regulation. MIT and Penn State find bias in home surveillance AI, as Google pledges $25M to address AI bias in education.
+
+## Articles we found interesting:
+
+- **1. OpenAI&#39;s data hunger raises <b>privacy</b> concerns - The Conversation** [link](https://theconversation.com/openais-data-hunger-raises-privacy-concerns-237448)
+_Highlight:_ A string of recent deals by the cutting-edge <b>AI</b> company suggest an interest in large amounts of behavioural, health and biometric data.
+
+- **2. LinkedIn is using your data to train <b>AI</b>. Here&#39;s how to stop it - The Hill** [link](https://thehill.com/homenews/nexstar_media_wire/4889236-linkedin-is-using-your-data-to-train-its-ai-heres-how-to-opt-out/)
+_Highlight:_ Users can easily turn off the <b>AI</b> tool on their mobile devices and desktop. Just go to Settings, click “Data <b>Privacy</b>,” then select “Data for Generative&nbsp;...
+
+- **3. CTA&#39;s testing of <b>AI</b> to detect guns is another step on road to &#39;surveillance state&#39;** [link](https://chicago.suntimes.com/other-views/2024/09/19/cta-testing-ai-artificial-intelligence-detect-guns-surveillance-privacy-stephen-ragan-aclu)
+_Highlight:_ We shouldn&#39;t rush to adopt new technologies that are unproven, potentially dangerous and will erode our <b>privacy</b> rights, an American Civil&nbsp;...
+
+- **4. &#39;Irrefutable&#39; need for global regulation of <b>AI</b>: UN experts | UN News** [link](https://news.un.org/en/story/2024/09/1154541)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) is transforming our world, from opening ... <b>AI bias</b> and surveillance is yet another area of concern, with the&nbsp;...
+
+- **5. MIT and Penn State Study Reveals <b>AI Bias</b> in Home Surveillance Systems - Hoodline** [link](https://hoodline.com/2024/09/mit-and-penn-state-study-reveals-ai-bias-in-home-surveillance-systems-calls-for-rethink-in-police-notification-decisions/)
+_Highlight:_ MIT and Penn State researchers find <b>AI</b> in home surveillance may show inconsistent and <b>biased</b> decisions regarding police notification.
+
+- **6. Google to Give $25M to Nonprofits Educating Students, Teachers on <b>AI</b>** [link](https://www.govtech.com/education/k-12/google-to-give-25m-to-nonprofits-educating-students-teachers-on-ai)
+_Highlight:_ ... <b>AI&#39;s bias</b> problems. &quot;I think that&#39;s one of the biggest challenges, is that there&#39;s <b>bias</b> in all these tools and in lots of technology,&quot; Culatta said.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
