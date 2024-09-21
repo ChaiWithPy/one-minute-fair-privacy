@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-21 One-Minute Post
+date: 2024-09-21 09:42:42 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Adversarial attacks on AI models are on the rise, prompting organizations to prioritize AI privacy and security. LinkedIn suspends the use of UK data for AI following regulatory concerns. Meanwhile, MCSD officials are exploring ways to incorporate AI while ensuring privacy and data protection for students. In the realm of bias, there's a focus on exercising caution with AI to mitigate biases, and the critical role of model governance in eliminating AI bias. On the fairness front, the Colorado AI Act aims to promote transparency, accountability, and fairness in AI systems, and there's a growing emphasis on ethics and fairness in AI solutions. Thomson Reuters is launching a program focusing on AI ethics, fairness, and regulatory gaps in AI systems.
+
+## Articles we found interesting:
+
+- **1. Adversarial attacks on <b>AI</b> models are rising: what should you do now? - VentureBeat** [link](https://venturebeat.com/security/adversarial-attacks-on-ai-models-are-rising-what-should-you-do-now/)
+_Highlight:_ ... <b>AI</b> models had been attacked. Two in five organizations had an <b>AI privacy</b> breach or security incident of which 1 in 4 were malicious attacks. A&nbsp;...
+
+- **2. LinkedIn suspends use of UK data for <b>AI</b> after watchdog questions - BBC** [link](https://www.bbc.com/news/articles/cy89x4y1pmgo)
+_Highlight:_ But they have faced regulatory hurdles in the UK and EU, with strict <b>privacy</b> rules placing limits on how and when personal data can be collected. Meta&nbsp;...
+
+- **3. MCSD officials considering ways to incorporate <b>AI</b> | News, Sports, Jobs - Times Republican** [link](https://www.timesrepublican.com/news/todays-news/2024/09/mcsd-officials-considering-ways-to-incorporate-ai/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) continues to make advances and is ... <b>privacy</b> and data protection for the students. “I don&#39;t think we are&nbsp;...
+
+- **4. 5 Brain Strategies to Dramatically Reduce Conflict and Boost Your Leadership, Backed by ...** [link](https://www.inc.com/marcel-schwantes/5-brain-strategies-to-reduce-conflict-boost-your-leadership.html)
+_Highlight:_ ... <b>bias</b> in <b>AI</b>. Article continues after video. Featured Video. An Inc.com Featured Presentation. But in his new book Breaking <b>Bias</b>: Where Stereotypes&nbsp;...
+
+- **5. Exercising Caution with <b>AI</b>: What MSPs Should Consider - Channel Insider** [link](https://www.channelinsider.com/managed-services/ai-msp-what-to-consider/)
+_Highlight:_ Learn what MSPs should consider when using <b>AI</b>, from security risks to <b>bias</b>, and how to safely implement <b>AI</b> for clients and internal operations.
+
+- **6. The critical role of model governance in eliminating <b>AI bias</b> - FinTech Global** [link](https://fintech.global/2024/09/20/the-critical-role-of-model-governance-in-eliminating-ai-bias/)
+_Highlight:_ To garner trust, it&#39;s crucial to address and eliminate <b>biases</b> within these models and algorithms. Some level of <b>bias</b> in <b>AI</b> can seem inevitable. Large&nbsp;...
+
+- **7. The Colorado <b>AI</b> Act: What You Need To Know | Morningstar** [link](https://www.morningstar.com/news/accesswire/920824msn/the-colorado-ai-act-what-you-need-to-know)
+_Highlight:_ The act aims to promote transparency, accountability and <b>fairness</b> in the development and deployment of <b>AI</b> systems while protecting the rights and&nbsp;...
+
+- **8. 7 <b>AI</b> Skills That Will Land You The Perfect Tech Job - India Today** [link](https://www.indiatoday.in/visualstories/education/7-ai-skills-that-will-land-you-the-perfect-tech-job-172527-20-09-2024)
+_Highlight:_ Being aware of issues like bias and privacy can help in developing responsible <b>AI</b> solutions. 7. Ethics and <b>fairness</b> in <b>AI</b>. <b>ai</b> generated 8864234 960&nbsp;...
+
+- **9. Thomson Reuters Reporting on <b>AI</b> Ethics and Data and Digital Rights Programme 2024** [link](https://opportunitydesk.org/2024/09/20/thomson-reuters-reporting-on-ai-ethics-and-data-and-digital-rights-programme-2024/)
+_Highlight:_ ... <b>fairness</b>) in <b>AI</b> systems, regulatory gaps, <b>AI</b> and mis/dis information, and <b>AI</b> tools for journalists, amongst others. The programme will also cover&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
