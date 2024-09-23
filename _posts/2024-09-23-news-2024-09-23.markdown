@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-23 One-Minute Post
+date: 2024-09-23 08:28:38 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+India urged to balance privacy and AI innovation in DPDP rules, while AI education experts emphasize safe AI usage and data privacy practices. Ethical concerns arise around bias and fairness in AI systems, with a growing interest in AI-driven fairness in the gambling industry. The future of security lies in advanced analytics and AI, safeguarding the principles of fairness and transparency.
+
+## Articles we found interesting:
+
+- **1. Move fast and break things? Not again, and not with <b>AI</b>. - The Hill** [link](https://thehill.com/opinion/technology/4891654-move-fast-and-break-things-not-again-and-not-with-ai/)
+_Highlight:_ ... <b>privacy</b>, mental health, civil discourse and culture). The problem with ... The bill makes sense because the public interest should matter as much as&nbsp;...
+
+- **2. ITIC urges India to balance <b>privacy</b> and <b>AI</b> innovation in DPDP rules - Business Standard** [link](https://www.business-standard.com/industry/news/itic-urges-india-to-balance-privacy-and-ai-innovation-in-dpdp-rules-124092200484_1.html)
+_Highlight:_ ITIC urges India to balance <b>privacy</b> and <b>AI</b> innovation in DPDP rules. Asks for a compliance period of 18-24 months to the data protection legislation.
+
+- **3. 5 <b>AI</b> Education Experts Share Their Secrets - Forbes** [link](https://www.forbes.com/sites/danfitzpatrick/2024/09/22/5-ai-education-experts-share-their-secrets/)
+_Highlight:_ Jason highlighted the importance of educating students about safe <b>AI</b> usage and data <b>privacy</b> practices. Hosting the Back to School <b>AI</b> Webinar 2024&nbsp;...
+
+- **4. Regulating <b>AI</b> - Newspaper - DAWN.COM** [link](https://www.dawn.com/news/1860390/regulating-ai)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) ... Ethical concerns also arise around <b>bias</b> and fairness, as <b>AI</b> systems must be free from inherent discrimination.
+
+- **5. Nearly 600 students register for UI&#39;s new <b>AI</b> certificate - The Daily Iowan** [link](https://dailyiowan.com/2024/09/22/nearly-600-students-register-for-uis-new-ai-certificate/)
+_Highlight:_ She said that <b>AI</b> users must also be aware of <b>bias</b> within the coding itself. “I think it&#39;s important for those users to understand <b>bias</b> that might be&nbsp;...
+
+- **6. Feelings About <b>AI</b>: Which Countries Are Most Excited or Nervous? - Visual Capitalist** [link](https://www.visualcapitalist.com/cp/feelings-about-ai-which-countries-are-most-excited-or-nervous/)
+_Highlight:_ They also have some of the lowest levels of trust when it comes to <b>AI bias</b> and privacy concerns. ... Related Topics:<b>artificial intelligenceai</b>emotions<b>AI</b>&nbsp;...
+
+- **7. Beam Community Embraces New <b>AI</b> Gambling Cryptocurrency As The Future Of Crypto** [link](https://bitcoinist.com/beam-community-embraces-new-ai-gambling-cryptocurrency-as-the-future-of-crypto/)
+_Highlight:_ This <b>AI</b>-driven <b>fairness</b>, combined with blockchain technology, provides a level of trust and security that is resonating with Beam (BEAM) investors.
+
+- **8. Growing Interest in New <b>Ai</b> Casino Coin From Nervos Network Investors Fuels MPEPE Price Rally** [link](https://bitcoinist.com/growing-interest-in-new-ai-casino-coin-from-nervos-network-investors-fuels-mpepe-price-rally/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) in the gambling industry. The project&#39;s ability to bring transparency and <b>fairness</b> to gambling through <b>AI</b> is drawing&nbsp;...
+
+- **9. The Future of Security Starts Now: How Advanced Analytics and <b>AI</b> Are Transforming Cybersecurity** [link](https://www.digitaljournal.com/pr/news/vehement-media/future-security-starts-now-advanced-164923313.html)
+_Highlight:_ Ethical <b>AI</b> not only protects against cyber threats but also safeguards the principles of <b>fairness</b> and transparency. Organizations must strive to&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
