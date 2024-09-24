@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-24 One-Minute Post
+date: 2024-09-24 08:31:57 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+A new enterprise AI platform promises faster inference and lower costs for private cloud, addressing concerns about data privacy. Kamala Harris's potential presidency could mean increased AI regulation, while AWS is working on building a responsible AI ecosystem by rigorously testing for accuracy and fairness. On the other hand, there are growing concerns about biases in AI, with critics arguing that predictive policing may perpetuate historical biases. The White House is cooperating with the United Arab Emirates to address bias, discrimination, and ensure fairness in AI algorithms. Additionally, Scienaptic's AI-driven credit underwriting platform is live, focusing on fair and compliant AI. It's crucial to ensure transparency, accountability, and fairness in AI algorithms to prevent bias and discrimination.
+
+## Articles we found interesting:
+
+- **1. Cybersecurity Law Center - International Association of <b>Privacy</b> Professionals** [link](https://iapp.org/about/cybersecurity-law-center/)
+_Highlight:_ The IAPP is a not-for-profit association founded in 2000 with a mission to define, promote and improve the professions of <b>privacy</b>, <b>AI</b> governance and&nbsp;...
+
+- **2. Together <b>AI</b> promises faster inference and lower costs with enterprise <b>AI</b> platform for private cloud** [link](https://venturebeat.com/ai/together-ai-promises-faster-inference-and-lower-costs-with-enterprise-ai-platform-for-private-cloud/)
+_Highlight:_ Running <b>AI</b> in the public cloud can presents enterprises with numerous concerns about data <b>privacy</b> and security. That&#39;s why some enterprises will&nbsp;...
+
+- **3. What Would a Harris Presidency Mean for <b>AI</b> Regulation? | Built In** [link](https://builtin.com/artificial-intelligence/kamala-harris-ai-regulation)
+_Highlight:_ ... <b>AI</b> regulation at a critical time for the industry. The unprecedented growth in the use of <b>artificial intelligence</b> is fueling concerns about <b>privacy</b>&nbsp;...
+
+- **4. Revolutionizing public safety and criminal justice through <b>AI</b> - Security Magazine** [link](https://www.securitymagazine.com/articles/101023-revolutionizing-public-safety-and-criminal-justice-through-ai)
+_Highlight:_ However, critics argue that predictive policing may perpetuate <b>biases</b> present in historical crime data, leading to discriminatory practices and&nbsp;...
+
+- **5. <b>AI</b> Reshapes Finance: From Regulated Institutions To Agile Hedge Funds - Forbes** [link](https://www.forbes.com/sites/libertbarry/2024/09/23/ai-reshapes-finance-from-regulated-institutions-to-agile-hedge-funds/)
+_Highlight:_ ... <b>bias</b> or errors. Challenges of <b>AI</b> Adoption in Regulated Sectors. <b>AI&#39;s</b> integration in regulated financial institutions faces hurdles, particularly&nbsp;...
+
+- **6. United States and United Arab Emirates Cooperation on <b>Artificial Intelligence</b> | The White House** [link](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/23/united-states-and-united-arab-emirates-cooperation-on-artificial-intelligence/)
+_Highlight:_ ... <b>bias</b>, discrimination, and ensuring fairness in <b>AI</b> algorithms. Broadening and Deepening Cooperation in <b>AI</b> Protection and Cybersecurity: Promote an&nbsp;...
+
+- **7. Harnessing <b>AI</b> for Good: AWS&#39;s role in building a responsible <b>AI</b> ecosystem - CNBC TV18** [link](https://www.cnbctv18.com/technology/harnessing-ai-for-good-awss-role-in-building-a-responsible-ai-ecosystem-19481186.htm)
+_Highlight:_ By ensuring that <b>AI</b> algorithms used for diagnostics or treatment recommendations are rigorously tested for accuracy and <b>fairness</b>, these efforts&nbsp;...
+
+- **8. Patriot Federal Credit Union Live With Scienaptic&#39;s <b>Fair</b> &amp; Compliant <b>AI</b>-driven ... - Yahoo Finance** [link](https://finance.yahoo.com/news/patriot-federal-credit-union-live-120000249.html)
+_Highlight:_ NEW YORK, September 23, 2024--Leading global <b>AI</b>-powered credit underwriting platform provider Scienaptic <b>AI</b>, announced today that Patriot Federal&nbsp;...
+
+- **9. The rise of <b>artificial intelligence</b>: A double-edged sword for humanity - Aaj English TV** [link](https://english.aaj.tv/news/330380676/the-rise-of-artificial-intelligence-a-double-edged-sword-for-humanity)
+_Highlight:_ Ensuring transparency, accountability, and <b>fairness</b> in <b>AI</b> algorithms is essential to prevent bias and discrimination. Moreover, developing robust&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
