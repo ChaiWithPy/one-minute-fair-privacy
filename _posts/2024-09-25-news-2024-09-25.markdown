@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-09-25 One-Minute Post
+date: 2024-09-25 08:15:38 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Microsoft introduces new AI safety features to address privacy concerns. Social media users can now opt-out of AI training. Senators propose AI Civil Rights Act to combat AI bias. Tougher cyber guidelines are being developed to address biases in AI. Survey reveals people of color are vulnerable to data-driven discrimination.
+
+## Articles we found interesting:
+
+- **1. Microsoft unveils &#39;trustworthy <b>AI</b>&#39; features to fix hallucinations and boost <b>privacy</b>** [link](https://venturebeat.com/ai/microsoft-unveils-trustworthy-ai-features-to-fix-hallucinations-and-boost-privacy/)
+_Highlight:_ Microsoft unveiled a suite of new <b>artificial intelligence</b> safety features on Tuesday, aiming to address growing concerns about <b>AI</b> security, <b>privacy</b>,&nbsp;...
+
+- **2. Social media sites are training their <b>AI</b> products on your posts. Here&#39;s how you can opt-out** [link](https://technical.ly/software-development/stop-social-media-ai-training/)
+_Highlight:_ Because a national data <b>privacy</b> law isn&#39;t yet in place in the US, overseas word-of-mouth is sometimes the only way many US users learn about data&nbsp;...
+
+- **3. Survey Shows 132M People of Color Unprotected Against Data-Driven Discrimination in U.S.** [link](https://civilrights.org/2024/09/24/people-of-color-unprotected-against-data-driven-discrimination-in-us/)
+_Highlight:_ ... <b>privacy</b> laws and civil rights protections and a legislative brief on the current landscape of data <b>privacy</b> and <b>artificial intelligence</b> (<b>AI</b>) safeguards&nbsp;...
+
+- **4. Senators propose <b>AI</b> Civil Rights Act to address &#39;sinister side&#39; of <b>artificial intelligence</b>** [link](https://today.westlaw.com/Document/I95840f207aaf11efb10bb8649cdc3716/View/FullText.html%3FtransitionType%3DDefault%26contextData%3D%2528sc.Default%2529)
+_Highlight:_ ... <b>AI bias</b>. That bill was referred to the Committee on Homeland Security and Governmental Affairs, where it awaits consideration. In Tuesday&#39;s&nbsp;...
+
+- **5. Senator Markey Introduces <b>AI</b> Civil Rights Act to Eliminate <b>AI Bias</b>, Enact Guardrails on Use ...** [link](https://www.markey.senate.gov/news/press-releases/senator-markey-introduces-ai-civil-rights-act-to-eliminate-ai-bias-enact-guardrails-on-use-of-algorithms-in-decisions-impacting-peoples-rights-civil-liberties-livelihoods)
+_Highlight:_ “While <b>AI</b> can improve decision-making across various sectors, systemic <b>biases</b> in <b>AI</b> algorithms disproportionately impact marginalized communities,”&nbsp;...
+
+- **6. Tougher cyber guidelines coming for something you do every day** [link](https://federalnewsnetwork.com/cybersecurity/2024/09/tougher-cyber-guidelines-coming-for-something-you-do-every-day/)
+_Highlight:_ The <b>AI</b> field is focusing more and more on <b>biases</b>, not just <b>bias</b> in terms if you think about racial <b>biases</b>, but <b>bias</b> in the way that you can actually&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
