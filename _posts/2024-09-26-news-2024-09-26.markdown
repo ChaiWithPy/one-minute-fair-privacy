@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-26 One-Minute Post
+date: 2024-09-26 08:13:10 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta AI can now adopt AI-generated voices of celebrities, raising privacy concerns. Gibson Dunn hires Google's former chief privacy officer to expand AI practice. Surging AI demand could cause the world's next chip shortage. Triveni Gandhi discusses building responsible AI systems and eliminating bias. Wisconsin aims to regulate AI to protect against bias and discrimination. Explainable AI ensures fairness in security applications. The EU's AI Act has transformed the role of chief privacy officer to govern AI systems for transparency and fairness. SolarWinds report reveals IT concerns about AI adoption, emphasizing the need for fairness and transparency in building AI.
+
+## Articles we found interesting:
+
+- **1. My chat with soulless <b>AI</b> Judi Dench, coming soon to your Facebook - The Washington Post** [link](https://www.washingtonpost.com/technology/2024/09/25/meta-ai-celebrity-voices-judi-dench/)
+_Highlight:_ Meta <b>AI</b> now can adopt the <b>AI</b>-generated voices of celebrities. ... Data and <b>Privacy</b>: A guide to every <b>privacy</b> setting you should change now.
+
+- **2. Gibson Dunn hires Google&#39;s chief <b>privacy</b> officer to expand <b>AI</b> practice** [link](https://www.globallegalpost.com/news/gibson-dunn-hires-googles-chief-privacy-officer-to-expand-ai-practice-678987094)
+_Highlight:_ Gibson Dunn &amp; Crutcher has hired Google&#39;s former chief <b>privacy</b> officer Keith Enright to bolster its <b>artificial intelligence</b> (<b>AI</b>) and tech coverage in&nbsp;...
+
+- **3. Surging <b>AI</b> demand could cause the world&#39;s next chip shortage, research says - CNBC** [link](https://www.cnbc.com/2024/09/25/surging-ai-demand-could-cause-the-worlds-next-chip-shortage-report.html)
+_Highlight:_ A surge in demand for <b>AI</b> semiconductors and <b>AI</b>-enabled smartphones ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **4. The Ethics of <b>AI</b>: Triveni Gandhi on Building Responsible Systems - Edge Middle East** [link](https://www.edgemiddleeast.com/innovation/the-ethics-of-ai-triveni-gandhi-on-building-responsible-systems)
+_Highlight:_ ... <b>AI</b>, and how businesses can eliminate <b>bias</b> to ensure that their <b>AI</b> models are fair and effective. This is an essential read for anyone interested&nbsp;...
+
+- **5. Establishing GenAI literacy in courts: What judges and court administrators need to know** [link](https://www.thomsonreuters.com/en-us/posts/government/establishing-genai-literacy-in-courts-judges-court-administrators/)
+_Highlight:_ <b>Bias</b> and fairness — <b>AI</b> models can inadvertently perpetuate <b>biases</b> present in the data upon which they are trained. This is a critical concern in&nbsp;...
+
+- **6. Eye on <b>AI</b>: Regulating <b>artificial intelligence</b> in Wisconsin - CBS 58** [link](https://www.cbs58.com/news/eye-on-ai-regulating-artificial-intelligence-in-wisconsin)
+_Highlight:_ Their goal: protect the public from any potential <b>bias</b> or discrimination in <b>AI</b> systems and have guardrails to ensure the technology is used ethically&nbsp;...
+
+- **7. Explainable <b>AI</b> (XAI) in Security Applications - AiThority** [link](https://aithority.com/machine-learning/explainable-ai-xai-in-security-applications/)
+_Highlight:_ This ensures that cybersecurity measures are <b>fair</b> and upholds the integrity of protocols. Rising Cyber Threats. The increasing frequency of global&nbsp;...
+
+- **8. The EU&#39;s <b>AI</b> Act has transformed the role of chief privacy officer - The Parliament Magazine** [link](https://www.theparliamentmagazine.eu/news/article/the-eus-ai-act-has-transformed-the-role-of-chief-privacy-officer)
+_Highlight:_ Now we must govern enterprise <b>AI</b> systems for transparency, <b>fairness</b>, copyright compliance and data security; educate ourselves on <b>AI</b> algorithms&nbsp;...
+
+- **9. SolarWinds Report Reveals IT Concerns About <b>AI</b> Adoption - SMEStreet** [link](https://smestreet.in/technology/solarwinds-report-reveals-it-concerns-about-ai-adoption-7092230)
+_Highlight:_ “With the proper internal systems in place and by prioritizing security, <b>fairness</b>, and transparency while building <b>AI</b>, these technologies can serve as&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
