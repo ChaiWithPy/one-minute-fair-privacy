@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-09-27 One-Minute Post
+date: 2024-09-27 08:32:22 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The Labor Department releases a 10-step roadmap to avoid AI hiring discrimination, while an Australian radiology provider faces investigation for AI training privacy violations. Big Tech Alliance criticizes EU decisions on AI training and Google's NotebookLM enhances AI note-taking with YouTube and audio file sources. Additionally, Top 5 adtech tools this week include PrimeLSA.ai, a bias-breaking AI tool. Meanwhile, over a third of employees are secretly sharing work info with AI, with concerns about bias in AI technologies.
+
+## Articles we found interesting:
+
+- **1. Labor Department Provides Employers with New 10-Step Roadmap to Avoid <b>AI</b> Hiring Discrimination** [link](https://www.fisherphillips.com/en/news-insights/labor-department-provides-employers-with-new-10-step-roadmap-to-avoid-ai-hiring-discrimination.html)
+_Highlight:_ You should first identify the employment nondiscrimination, accessibility, and <b>privacy</b> laws and regulations that apply to your use of <b>artificial</b>&nbsp;...
+
+- **2. Investigation of <b>AI</b> Training by Australian Radiology Provider Provides Important Reminder ...** [link](https://www.jdsupra.com/legalnews/investigation-of-ai-training-by-8670478/)
+_Highlight:_ HIPAA regulates the <b>privacy</b> and security of protected health information (PHI), generally requiring covered entities to obtain patient consent or&nbsp;...
+
+- **3. Big Tech Alliance Criticizes EU Decisions on <b>AI</b> Training - CPO Magazine** [link](https://www.cpomagazine.com/data-protection/big-tech-alliance-criticizes-eu-decisions-on-ai-training/)
+_Highlight:_ ... <b>privacy</b> rules and EU decisions that are legally based on them. But handling certain <b>AI</b> systems, particularly the large language models (LLMs) that&nbsp;...
+
+- **4. Google&#39;s NotebookLM enhances <b>AI</b> note-taking with YouTube, audio file sources, sharable ...** [link](https://techcrunch.com/2024/09/26/googles-notebooklm-enhances-ai-note-taking-with-youtube-audio-file-sources-sharable-audio-discussions/)
+_Highlight:_ <b>AI</b> &middot; OpenAI&#39;s VP of global affairs claims o1 is &#39;virtually perfect&#39; at correcting <b>bias</b>, but the data doesn&#39;t quite back that up &middot; Kyle Wiggers. 5&nbsp;...
+
+- **5. Top 5 adtech tools this week: Adjust, Topsort, PrimeLSA.<b>ai</b>, Brandtech and Streetbees** [link](https://www.performancemarketingworld.com/article/1890143/top-5-adtech-tools-week-adjust-topsort-primelsaai-brandtech-streetbees)
+_Highlight:_ Top 5 adtech tools this week: Adjust, Topsort, PrimeLSA.<b>ai</b>, Brandtech and Streetbees. From <b>AI</b> &#39;<b>bias</b> breakers&#39; to instant Google ad compliance&nbsp;...
+
+- **6. Over a Third of Employees Secretly Sharing Work Info with <b>AI</b> - Infosecurity Magazine** [link](https://www.infosecurity-magazine.com/news/third-employees-sharing-work-info/)
+_Highlight:_ Around a third (36%) believe companies are ensuring that <b>AI</b> technologies are free of <b>bias</b> while 30% remain unconvinced. There was also an even&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
