@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-09-28 One-Minute Post
+date: 2024-09-28 08:36:12 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Microsoft re-launches 'privacy nightmare' AI screenshot tool. Signal's Meredith Whittaker sees AI as born out of surveillance. Department of Labor taps AI to support inclusive hiring, addressing biases. Ethical considerations in AI-driven access to information to ensure equitable access. AI dominated both YC Demo Day and startup news, with comments on AI bias. Engineering businesses advised to establish fairness in AI decision-making processes. AI ban ordered after child protection worker used ChatGPT in Victorian court case. AI use in policing sparks debates around the accuracy and fairness of facial recognition systems.
+
+## Articles we found interesting:
+
+- **1. Microsoft to re-launch &#39;<b>privacy</b> nightmare&#39; <b>AI</b> screenshot tool - BBC** [link](https://www.bbc.com/news/articles/c869glx8endo)
+_Highlight:_ Microsoft re-launches &#39;<b>privacy</b> nightmare&#39; <b>AI</b> screenshot tool. Just now ... It now plans to relaunch the <b>artificial intelligence</b> (<b>AI</b>) powered tool in&nbsp;...
+
+- **2. Signal&#39;s Meredith Whittaker: &#39;I see <b>AI</b> as born out of surveillance&#39; - Financial Times** [link](https://www.ft.com/content/799b4fcf-2cf7-41d2-81b4-10d9ecdd83f6)
+_Highlight:_ The head of the encrypted messaging service on why she&#39;s a <b>privacy</b> absolutist — and breaking Big Tech&#39;s hold over <b>AI</b>.
+
+- **3. How <b>AI</b> Can Collaborate With Blockchain - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/09/27/how-ai-can-collaborate-with-blockchain/)
+_Highlight:_ Here&#39;s how these two technologies can work together to create secure, efficient and <b>privacy</b>-first systems. Best Practices For Decentralized <b>AI</b>&nbsp;...
+
+- **4. Department of Labor Taps <b>AI</b> to Support Inclusive Hiring - Government Technology** [link](https://www.govtech.com/artificial-intelligence/department-of-labor-taps-ai-to-support-inclusive-hiring)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) in hiring. Organizations across ... <b>biases</b> in the hiring process; however, risks exist — including algorithmic <b>bias</b>.
+
+- **5. Ethical considerations in <b>AI</b>-driven access to information - Observer Research Foundation** [link](https://www.orfonline.org/expert-speak/ethical-considerations-in-ai-driven-access-to-information)
+_Highlight:_ Examine the ethical implications of <b>AI</b> in information access, addressing <b>bias</b>, privacy, accountability, and transparency to ensure equitable&nbsp;...
+
+- **6. <b>AI</b> dominated both YC Demo Day and startup news - TechCrunch** [link](https://techcrunch.com/2024/09/27/ai-dominated-both-yc-demo-day-and-startup-news/)
+_Highlight:_ Yes, <b>AI</b>, <b>AI</b>, <b>AI</b>. But it&#39;s more eventful than it sounds. Departures ... But comments on <b>AI bias</b> from Anna Makanju, the company&#39;s VP of global&nbsp;...
+
+- **7. How engineering businesses can harness the potential of <b>AI</b> - IMechE** [link](https://www.imeche.org/news/news-article/how-engineering-businesses-can-harness-the-potential-of-ai)
+_Highlight:_ Establish a dedicated <b>AI</b> team or appoint <b>AI</b> champions within the ... <b>fairness</b> in <b>AI</b> decision-making processes. These guidelines should be&nbsp;...
+
+- **8. <b>AI</b> ban ordered after child protection worker used ChatGPT in Victorian court case** [link](https://www.theguardian.com/australia-news/2024/sep/26/victoria-child-protection-chat-gpt-ban-ovic-report-ntwnfb)
+_Highlight:_ The Department of Families, <b>Fairness</b> and Housing reported the matter to the Office of the Victorian Information Commissioner in December last year&nbsp;...
+
+- **9. How <b>Artificial Intelligence</b> use in policing is transforming law enforcement** [link](https://emergencyservicestimes.com/2024/09/27/how-artificial-intelligence-use-in-policing-is-transforming-law-enforcement/)
+_Highlight:_ Misidentifications from facial recognition systems have sparked debates around the accuracy and <b>fairness</b> of these tools, with some demanding stricter&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
