@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2024-09-29 One-Minute Post
+date: 2024-09-29 08:11:19 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI-generated artwork copyright lawsuit, LinkedIn using data to train AI, China rejects unsafe AI, Salesforce introduces bias-free judge models, Barbados Centre for AI Innovation and Governance announced. Fairness in AI governance emphasized.
+
+## Articles we found interesting:
+
+- **1. Controversial <b>AI</b>-generated artwork the center of copyright lawsuit - 9News** [link](https://www.9news.com/article/tech/controversial-ai-generated-artwork-copyright-lawsuit/73-e430ad7b-5f90-4304-b4dc-a64ebb6a6fa6)
+_Highlight:_ A digital artist who placed first at the Colorado State Fair for his <b>AI</b>-generated artwork was denied a copyright for the art ... <b>Privacy</b> Policy &middot; Ad&nbsp;...
+
+- **2. An <b>AI</b> mentor, robots, and a model that can &#39;brainstorm&#39;: Notable <b>AI</b> launches of the week** [link](https://qz.com/ai-mentor-workera-boston-dynamics-robot-ai2-harmonic-1851659931)
+_Highlight:_ Advertising<b>Privacy</b>JobsTerms of Use. © 2024 G/O Media. Generation <b>A.I.</b>. An <b>AI</b> mentor, robots, and a model that can &#39;brainstorm&#39;: Notable <b>AI</b> launches of&nbsp;...
+
+- **3. LinkedIn Is Using Your Data to Train <b>AI</b> - Success Magazine** [link](https://www.success.com/linkedin-is-using-your-data-to-train-ai/)
+_Highlight:_ The employment-focused social media platform is training its new <b>AI</b> on your data. Find out what this means for your <b>privacy</b> and how to opt out.
+
+- **4. Unsafe, Untested &amp; Unreliable! Why China Rejects Responsible Use Of <b>Artificial Intelligence</b> ...** [link](https://www.eurasiantimes.com/unsafe-untested-unreliable-china-rejects-responsibl/)
+_Highlight:_ States should take proactive steps to minimize unintended <b>bias</b> in military <b>AI</b> capabilities. 5. States should ensure that relevant personnel&nbsp;...
+
+- **5. Salesforce <b>AI</b> Introduces SFR-Judge: A Family of Three Judge Models of 8-Billion ... - MarkTechPost** [link](https://www.marktechpost.com/2024/09/28/salesforce-ai-introduces-sfr-judge-a-family-of-three-judge-models-of-8-billion-parameters-8b-12b-and-70b-size-built-with-meta-llama-3-and-mistral-nemo/)
+_Highlight:_ One of the main limitations of using traditional LLMs as judges is their susceptibility to <b>biases</b> and inconsistencies. Many judge models, for instance&nbsp;...
+
+- **6. Minister Caddle announces new Barbados Centre for <b>AI</b> Innovation and Governance with ...** [link](https://barbadostoday.bb/2024/09/28/minister-caddle-announces-new-barbados-centre-for-ai-innovation-and-governance-with-howard-university/amp/)
+_Highlight:_ ... <b>bias</b> and misuse in <b>AI</b>. But, merely striving to be &#39;ethical&#39; is not enough. Our transnational Centre for <b>AI</b> Innovation &amp; Governance seeks to marry&nbsp;...
+
+- **7. <b>AI</b> Governance: Navigating the Complexities of <b>AI</b> Technologies with Vyoma Gajjar** [link](https://techbullion.com/ai-governance-navigating-the-complexities-of-ai-technologies-with-vyoma-gajjar/)
+_Highlight:_ <b>Fairness</b>: <b>AI</b> systems should make decisions that are free from bias or discrimination. Achieving fairness in AI requires rigorous testing of algorithms&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
