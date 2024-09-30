@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-09-30 One-Minute Post
+date: 2024-09-30 08:06:44 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California extends privacy law to include neural data, while also requiring AI training data transparency. LinkedIn faces backlash over AI training data usage. Governor Newsom vetoes strict AI bill addressing bias concerns. AI bias in society highlighted by generative AI art.
+
+## Articles we found interesting:
+
+- **1. California Passes Law Protecting Consumer Brain Data - The New York Times** [link](https://www.nytimes.com/2024/09/29/science/california-neurorights-tech-law.html)
+_Highlight:_ The state extended its current personal <b>privacy</b> law to include the neural data increasingly coveted by technology companies ... Will <b>A.I.</b> Be a&nbsp;...
+
+- **2. New California Law Requires <b>AI</b> Training Data Transparency** [link](https://news.bloomberglaw.com/ip-law/new-california-law-requires-ai-training-data-transparency)
+_Highlight:_ Another bill clarifies <b>privacy</b> rights of personal data fed to <b>AI</b>. California has enacted the most comprehensive US rules for disclosing what data&nbsp;...
+
+- **3. Users cry foul over LinkedIn update that taps personal data for <b>AI</b> training | The Straits Times** [link](https://www.straitstimes.com/tech/users-cry-foul-over-linkedin-update-that-taps-personal-data-for-ai-training)
+_Highlight:_ Singapore&#39;s <b>privacy</b> watchdog, the Personal Data Protection Commission (PDPC), said it has contacted LinkedIn for proof of user consent for <b>AI</b>&nbsp;...
+
+- **4. California Gov. Newsom vetoes <b>AI</b> safety bill that divided Silicon Valley - NPR** [link](https://www.npr.org/2024/09/20/nx-s1-5119792/newsom-ai-bill-california-sb1047-tech)
+_Highlight:_ ... <b>AI</b> could perpetuate <b>bias</b> in employment and health-care decisions, as well as other <b>AI</b>-related consumer protection concerns. Newsom has recently&nbsp;...
+
+- **5. California Gov. Newsom vetoes <b>AI</b> bill, considered strictest in nation - NPR** [link](https://www.npr.org/2024/09/29/nx-s1-5119792/california-newsom-vetoes-california-ai-bill)
+_Highlight:_ ... <b>AI</b> companies. Other states, like Colorado and Utah, have enacted laws more narrowly tailored to address how <b>AI</b> could perpetuate <b>bias</b> in employment&nbsp;...
+
+- **6. “You are what you Eat”- <b>Bias</b> Produced by Generative <b>Artificial Intelligence</b> Mirrors <b>Bias</b> in our Society** [link](https://www.europeanbusinessreview.com/you-are-what-you-eat-bias-produced-by-generative-artificial-intelligence-mirrors-bias-in-our-society/)
+_Highlight:_ <b>AI bias</b>, also called machine learning <b>bias</b> or algorithm <b>bias</b>, refers to the occurrence of <b>biased</b> results due to human <b>biases</b> that skew the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
