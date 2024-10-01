@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-10-01 One-Minute Post
+date: 2024-10-01 08:30:40 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California's legislative decisions will shape AI and privacy landscapes. Persistent acquires Arrka to advance data privacy and AI-driven business transformation. AI systems trained on biased data deepen gender divide. HR functions use gen AI to address bias in job descriptions and pay equity. Fintech innovations rely on AI as a new backbone. Well-designed AI tools are being developed to clean up toxic online spaces. IntelligentVix receives the first certification from the Korea Standards Association, recognizing its fairness pilot scheme.
+
+## Articles we found interesting:
+
+- **1. Last-minute legislative decisions to shape California&#39;s <b>AI</b>, <b>privacy</b> regimes | IAPP** [link](https://iapp.org/news/a/last-minute-legislative-decisions-shape-californias-ai-privacy-regimes)
+_Highlight:_ The results of California&#39;s 2024 legislative session will have notable impacts on the state&#39;s <b>AI</b> and <b>privacy</b> landscapes, writes IAPP News Editor&nbsp;...
+
+- **2. California governor vetoes controversial <b>AI</b> safety bill - Legal Dive** [link](https://www.legaldive.com/news/california-governor-vetoes-controversial-ai-safety-bill/728452/)
+_Highlight:_ ... <b>AI</b>, said Karen Shin, a lawyer in the <b>privacy</b>, security and data protection group at Blank Rome LLP. “That trend will continue in terms of dividing&nbsp;...
+
+- **3. Persistent advances data <b>privacy</b> and <b>AI</b>-driven business transformation with the acquisition of Arrka** [link](https://indiatechnologynews.in/persistent-advances-data-privacy-and-ai-driven-business-transformation-with-the-acquisition-of-arrka/)
+_Highlight:_ With the widespread adoption of <b>AI</b>, implementing and managing digital governance in general and data <b>privacy</b> and responsible <b>AI</b> are taking center&nbsp;...
+
+- **4. <b>AI</b> and gender: deepening the divide further? - The Express Tribune** [link](https://tribune.com.pk/story/2499798/ai-and-gender-deepening-the-divide-further)
+_Highlight:_ <b>AI</b> systems, when trained on <b>biased</b> data, can duplicate and even exacerbate pre-existing gender <b>bias</b>. Amazon, for example, discontinued their <b>AI</b>&nbsp;...
+
+- **5. <b>AI</b> communities of practice can help us face its challenges head on** [link](https://www.timeshighereducation.com/campus/ai-communities-practice-can-help-us-face-its-challenges-head)
+_Highlight:_ ... <b>bias</b> and the impact of <b>AI</b> on employment. Summaries of these discussions could be distributed through internal newsletters. A university that&nbsp;...
+
+- **6. 6 HR functions using gen <b>AI</b> in a big way - HR Executive** [link](https://hrexecutive.com/6-hr-functions-using-gen-ai-in-a-big-way/)
+_Highlight:_ DEI. gen <b>AI</b> and DEI Source: i4cp. By training the tool with a DEI lens, Oakes says, gen <b>AI</b> can find <b>bias</b> in job descriptions and employee pay equity&nbsp;...
+
+- **7. <b>AI</b> – the new backbone for fintech innovations - The Business &amp; Financial Times** [link](https://thebftonline.com/2024/09/30/ai-the-new-backbone-for-fintech-innovations/)
+_Highlight:_ By Kwami AHIABENU II. Innovations in <b>AI</b> are now thoroughly interwoven into most fintech operations. <b>AI</b> and Fintech share a common element of&nbsp;...
+
+- **8. Online spaces are rife with toxicity. Well-designed <b>AI</b> tools can help clean them up** [link](https://theconversation.com/online-spaces-are-rife-with-toxicity-well-designed-ai-tools-can-help-clean-them-up-239590)
+_Highlight:_ Our research found high rates of tech-based abuse – so our team is designing a new <b>AI</b> tool to detect and document toxic comments.
+
+- **9. IntelligentVix (CEO Choi Eun-soo, Jang Jung-hoon) announced on the 30th that it received the first c..** [link](https://www.mk.co.kr/en/it/11128573)
+_Highlight:_ The certification is the first issued by the Korea Standards Association, which recognizes KAB&#39;s pilot scheme, and demonstrated Intellibix&#39;s ability&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
