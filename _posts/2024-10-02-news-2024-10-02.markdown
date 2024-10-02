@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-10-02 One-Minute Post
+date: 2024-10-02 08:10:33 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI is transforming organizations, but concerns about data privacy and ethical issues are on the rise. The FTC issues a report on the use of consumer data by the tech industry, highlighting risks to privacy and civil rights. Meanwhile, anxiety about AI biases in healthcare is growing, with leaders in finance and health-tech expressing concerns. As AI becomes more prevalent in spreadsheets, there is a need to address issues like data accuracy, bias, and transparency. The intersection of AI and privacy is a hot topic, with Android users advised to change settings for more privacy and control over ad targeting.
+
+## Articles we found interesting:
+
+- **1. Sick of ads on Android? Change these 5 settings for more <b>privacy</b> - fast - ZDNet** [link](https://www.zdnet.com/article/sick-of-ads-on-android-change-these-5-settings-for-more-privacy/)
+_Highlight:_ How <b>AI</b> is transforming organizations everywhere &middot; The intersection of ... To disable Ad topics, go to Settings &gt; <b>Privacy</b> &gt; Ads &gt; Ad <b>Privacy</b> &gt; Ad topics.
+
+- **2. The legal complications with <b>AI</b> also came to LinkedIn - The Jerusalem Post** [link](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-822554)
+_Highlight:_ The platform&#39;s recent initiatives to leverage <b>AI</b> for enhanced user experiences have raised significant concerns about data <b>privacy</b> and the ethical&nbsp;...
+
+- **3. FTC Issues Report and Related Statements on the Use of Consumer Data by Tech Industry** [link](https://www.kirkland.com/publications/kirkland-alert/2024/10/ftc-issues-report-and-related-statements-on-use-of-consumer-data-by-tech-industry)
+_Highlight:_ ... <b>Privacy</b> Protection Act (“COPPA”).) Use “consumer-friendly ... <b>AI</b> to consumer data increases “risks to consumers&#39; <b>privacy</b> and civil rights.
+
+- **4. The Future of Money and Medicine: Will <b>AI</b> Put Your Fears to Rest? | Entrepreneur** [link](https://www.entrepreneur.com/en-in/news-and-trends/the-future-of-money-and-medicine-will-ai-put-your-fears-to/480629)
+_Highlight:_ The anxiety surrounding misdiagnosis in healthcare is also real, compounded by concerns about <b>AI biases</b>. Leaders from the finance and health-tech&nbsp;...
+
+- **5. The future of <b>AI</b>: Enhancing patient safety - Earth.com** [link](https://www.earth.com/news/the-future-of-ai-enhancing-patient-safety/)
+_Highlight:_ Generative <b>artificial intelligence</b> (Gen <b>AI</b>) is known for its ... One major challenge is the inherent <b>bias</b> present in <b>AI</b> models. Since&nbsp;...
+
+- **6. The rise of <b>AI</b> in spreadsheets: A game-changer for data management | TechRadar** [link](https://www.techradar.com/pro/the-rise-of-ai-in-spreadsheets-a-game-changer-for-data-management)
+_Highlight:_ As spreadsheets get smarter, we need to stay mindful of issues like data accuracy, <b>bias</b>, and transparency. While <b>AI</b> can boost efficiency, it&#39;s&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
