@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-10-03 One-Minute Post
+date: 2024-10-03 08:09:16 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Nvidia pushes AI mainstream, while a bias audit reveals left-leaning political bias in large language models. The IBA endorses the Council of Europe Framework Convention on AI, emphasizing fairness. Meanwhile, local authorities are warned about fairness in AI adoption, and a webinar discusses the evolving landscape of AI governance and privacy.
+
+## Articles we found interesting:
+
+- **1. Balancing the Benefits of <b>AI</b> With <b>Privacy</b> and Cybersecurity Risks - YouTube** [link](https://www.youtube.com/watch%3Fv%3DO6dR44PEqAM)
+_Highlight:_ Mike Tremblay, President - IT Cyber Solutions at Calian, Padmakumar Nair, Founder &amp; CEO of Ennoventure, and Hartej Sawhney, Founder &amp; CEO of Zokyo&nbsp;...
+
+- **2. Nvidia makes a move to take <b>AI</b> mainstream — plus, a positive call on Home Depot - CNBC** [link](https://www.cnbc.com/2024/10/02/nvidia-makes-a-move-to-take-ai-mainstream-plus-a-positive-call-on-home-depot.html)
+_Highlight:_ Nvidia makes a move to take <b>AI</b> mainstream — plus, a positive call on Home Depot ... Advertise With Us. Please Contact Us &middot; <b>Privacy</b> Policy; California&nbsp;...
+
+- **3. [Webinar] Navigating the <b>AI</b> Landscape: Governance, <b>Privacy</b>, and Compliance in a ...** [link](https://www.jdsupra.com/legalnews/webinar-navigating-the-ai-landscape-6886023/)
+_Highlight:_ Join industry experts Allison Spagnolo, Asha Muldro, and Matt Corwin as they dive into the rapidly evolving landscape of <b>AI</b> governance, <b>privacy</b>...
+
+- **4. Political <b>Bias</b> in <b>AI</b>: Research Reveals Large Language Models Are Consistently Left ... - The Debrief** [link](https://thedebrief.org/political-bias-in-ai-research-reveals-large-language-models-are-consistently-left-leaning-raising-ethical-questions/)
+_Highlight:_ Research shows that many large language models (LLMs) exhibit a consistent left-leaning political <b>bias</b>, raising ethical questions about <b>AI</b>.
+
+- **5. How Gen <b>AI</b> will boost business analytics: 3 examples - Fierce Electronics** [link](https://www.fierceelectronics.com/ai/gen-ai-will-boost-business-analytics-3-examples)
+_Highlight:_ Additionally, there is a risk of <b>biased</b> outcomes from <b>AI</b> ... Businesses must address issues such as data privacy, <b>AI bias</b>, and transparency to ensure&nbsp;...
+
+- **6. Addressing <b>AI bias</b> a moral imperative, says Prof Marwala | ITWeb** [link](https://www.itweb.co.za/article/addressing-ai-bias-a-moral-imperative-says-prof-marwala/8OKdWqDXZYWqbznQ)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) is at the heart of transformation and offers immense potential for innovation, and the capability to address the most&nbsp;...
+
+- **7. The IBA is the first association of legal practitioners to endorse the Council of Europe ...** [link](https://www.ibanet.org/The-IBA-is-the-first-association-of-legal-practitioners-to-endorse-the-Council-of-Europe-Framework-Convention-on-Artificial-Intelligence)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). The Convention aims to ensure that activities within the lifecycle of <b>AI</b> systems are fully consistent with human&nbsp;...
+
+- **8. Local authorities left behind by government in <b>AI</b> procurement, report warns - UKTN** [link](https://www.uktech.news/ai/local-government-ai-procurement-20241001)
+_Highlight:_ ... <b>fairness</b> in <b>AI</b> adoption. “Procurement can and should be a key lever in ensuring that <b>AI</b> tools being used by local government are safe, effective, <b>fair</b>&nbsp;...
+
+- **9. Double Clicking on Innovation in Consumer Finance: Responsible Use of <b>AI</b> - Goodwin** [link](https://www.goodwinlaw.com/en/insights/publications/2024/10/insights-finance-ftec-double-clicking-on-innovation-in-consumer)
+_Highlight:_ This opacity can complicate the ability to determine the <b>fairness</b> of <b>AI</b> in the credit underwriting process. Regarding specific <b>fair</b> lending&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
