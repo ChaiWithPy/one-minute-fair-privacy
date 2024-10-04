@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-10-04 One-Minute Post
+date: 2024-10-04 08:26:00 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+FCC proposes AI regulations to address privacy concerns. States enact compliance requirements for AI platforms. Efforts to address bias in AI and societal impacts of automation. IBM and Collibra offer governance platforms to evaluate AI models for accuracy and bias. Emphasizing the need for fairness in AI decision-making and transitioning to more balanced and fair AI systems for the workplace.
+
+## Articles we found interesting:
+
+- **1. FCC Proposes <b>AI</b> Regulations - Manatt, Phelps &amp; Phillips, LLP** [link](https://www.manatt.com/insights/newsletters/tcpa-connect/fcc-proposes-ai-regulations)
+_Highlight:_ In its latest move addressing <b>artificial intelligence</b> (<b>AI</b>), the ... <b>Privacy</b> Statement. Close. Cookie Settings. Your <b>Privacy</b>. Strictly Necessary&nbsp;...
+
+- **2. The Chief <b>Artificial Intelligence</b> Officer: Leading <b>AI</b> Innovation and Risk Management** [link](https://www.insurancejournal.com/news/national/2024/10/04/795662.htm)
+_Highlight:_ Multiple states have enacted bills centered on compliance requirements for those providing <b>AI</b> platforms and those using them. Global <b>privacy</b> regimes&nbsp;...
+
+- **3. From Code to Compliance: Essential Steps to Adapt to Colorado&#39;s New <b>AI</b> Law - JD Supra** [link](https://www.jdsupra.com/legalnews/from-code-to-compliance-essential-steps-4781013/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) systems. ... This assessment should include the potential impact of each <b>AI</b> system on <b>privacy</b>, fairness, and transparency.
+
+- **4. Bringing <b>AI</b> into the classroom and beyond - The Globe and Mail** [link](https://www.theglobeandmail.com/life/adv/article-bringing-ai-into-the-classroom-and-beyond/)
+_Highlight:_ ... <b>bias</b> in <b>AI</b>, data privacy and the societal impacts of automation. “Incorporating <b>AI</b> into education is not just about preparing students for future&nbsp;...
+
+- **5. How <b>artificial intelligence</b> is changing the reports US police write - The Guardian** [link](https://www.theguardian.com/technology/2024/oct/03/artificial-intelligence-police-reports)
+_Highlight:_ The potential for error or <b>bias</b> introduced by <b>AI</b> is still being studied. But, he added, law enforcement leaders have an understandable desire to&nbsp;...
+
+- **6. Credo <b>AI&#39;s</b> integrations hub automates governance for <b>AI</b> projects in Amazon, Microsoft, and more** [link](https://venturebeat.com/ai/credo-ais-integrations-hub-automates-governance-for-ai-projects-in-amazon-microsoft-and-more/)
+_Highlight:_ IBM&#39;s Watsonx suite of products includes a governance platform that lets users evaluate models for accuracy, <b>bias</b> and compliance. Collibra also&nbsp;...
+
+- **7. <b>AI</b> And Morality: Bridging The Ethical Divide - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/10/03/ai-and-morality-bridging-the-ethical-divide/)
+_Highlight:_ To prevent this, <b>fairness</b> must be ingrained at the foundational level. Start by acknowledging and confronting your own unconscious biases, as these&nbsp;...
+
+- **8. <b>AI</b>, Big Tech and privacy—how to navigate legal and ethical use of consumer data - Ad Age** [link](https://adage.com/article/opinion/ai-and-privacy-big-tech-must-navigate-legal-and-ethical-crossroads/2583801)
+_Highlight:_ Much of the broader debate around <b>AI</b> focuses on ensuring the transparency and <b>fairness</b> of <b>AI</b> decision-making, but an equally important concern is&nbsp;...
+
+- **9. From Bias to Balance: Building Inclusive <b>AI</b> for the Workplace - Analytics Insight** [link](https://www.analyticsinsight.net/podcast/from-bias-to-balance-building-inclusive-ai-for-the-workplace)
+_Highlight:_ Lokesh shares his expert insights on how organizations can transition from biased AI models to more balanced and <b>fair AI</b> systems. ... AI systems that&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
