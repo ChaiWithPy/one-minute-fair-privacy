@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-10-05 One-Minute Post
+date: 2024-10-05 08:12:51 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California enacts health AI bill and protections for neural data, while students create a way to access personal info via AI and smart glasses, raising privacy concerns. The recent flurry of AI laws in California aims to ensure AI systems adhere to the same privacy protections as other forms of data processing. Additionally, the US Department of Labor issues a framework to guide employers using AI recruiting and hiring tools, focusing on inclusive hiring. Meanwhile, AI literacy is emphasized for fostering critical thinking, ethical awareness, and responsible engagement, and the implementation of medical imaging AI raises considerations for bias and fairness.
+
+## Articles we found interesting:
+
+- **1. California Enacts Health <b>AI</b> Bill and Protections for Neural Data | Inside <b>Privacy</b>** [link](https://www.insideprivacy.com/uncategorized/california-enacts-health-ai-bill-and-protections-for-neural-data/)
+_Highlight:_ On September 28, California&#39;s governor signed a number of bills into law, including to regulate health care facilities&#39; use of <b>artificial</b>&nbsp;...
+
+- **2. Students created a way to access personal info via <b>AI</b> and smart glasses - Morning Brew** [link](https://www.morningbrew.com/daily/stories/students-access-personal-info-via-smart-glasses)
+_Highlight:_ ... <b>privacy</b> concerns that are getting unboxed with easily accessible consumer tech. In a video posted to X, AnhPhu Nguyen and Caine Ardayfio explained&nbsp;...
+
+- **3. Decoding California&#39;s Recent Flurry of <b>AI</b> Laws | Foley &amp; Lardner LLP** [link](https://www.foley.com/insights/publications/2024/10/decoding-california-recent-ai-laws/)
+_Highlight:_ The goal is to ensure that <b>AI</b> systems adhere to the same <b>privacy</b> protections that govern other forms of data processing and use. Watermarking <b>AI</b>-&nbsp;...
+
+- **4. DOL Issues Framework to Guide Employers Using <b>AI</b> Recruiting and Hiring Tools | JD Supra** [link](https://www.jdsupra.com/legalnews/dol-issues-framework-to-guide-employers-1251688/)
+_Highlight:_ On September 24, 2024, the United States Department of Labor (“DOL”) announced the publication of an <b>AI</b> &amp; Inclusive Hiring Framework (the...
+
+- **5. <b>AI</b> education revolution | The Express Tribune** [link](https://tribune.com.pk/story/2500697/ai-education-revolution)
+_Highlight:_ <b>AI</b> literacy is about more than technical knowledge; it is about fostering critical thinking, ethical awareness and responsible engagement. In Pakistan&nbsp;...
+
+- **6. Implementing Medical Imaging <b>AI</b>: Issues to Consider - HMP Global Learning Network** [link](https://www.hmpgloballearningnetwork.com/site/cathlab/news/implementing-medical-imaging-ai-issues-consider)
+_Highlight:_ As of August 7, 2024, the U.S. FDA has authorized 950 <b>AI</b>/ML-enabled medical devices; more than 100 of these were authorized this year.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
