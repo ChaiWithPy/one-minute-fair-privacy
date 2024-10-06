@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-10-06 One-Minute Post
+date: 2024-10-06 07:58:14 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI launches focus on privacy, while concerns about bias in healthcare and legal software persist. A new fair risk score for diabetes patients incorporates fairness optimization and explainable AI. IBM emphasizes bias detection and mitigation for fairness in decision making. The EU aims to reset the future for youth, recognizing the importance of intergenerational fairness in its AI strategy for cultural and creative industries.
+
+## Articles we found interesting:
+
+- **1. ChatGPT, Copilot, <b>AI</b> translator: This week in new <b>AI</b> launches - Quartz** [link](https://qz.com/chatgpt-canvas-microsoft-copilot-deepl-ai-translator-1851665862)
+_Highlight:_ ... <b>privacy</b>, it said. Advertisement. On the Mostly <b>AI</b> platform, users can upload original text data, such as emails and transcripts of customer support&nbsp;...
+
+- **2. What Is <b>Privacy</b> For? | The New Yorker** [link](https://www.newyorker.com/culture/the-weekend-essay/what-is-privacy-for)
+_Highlight:_ In recent years, groups of boys in multiple states have used generative-<b>A.I.</b> software to produce artificial naked images of female classmates. To&nbsp;...
+
+- **3. Report: Generative <b>AI</b> Taking Over SD-WAN Management - Campus Technology** [link](https://campustechnology.com/articles/2024/10/04/report-generative-ai-taking-over-sd-wan-management.aspx)
+_Highlight:_ Specifically, the assumption is that: &quot;By 2027, 70% of network operations personnel will rely on generative <b>AI</b> ... <b>Privacy</b> in Education &middot; How <b>AI</b> Is&nbsp;...
+
+- **4. Doctors worry as patients rely on <b>AI</b> for drug prescription - Punch Newspapers** [link](https://punchng.com/doctors-worry-as-patients-rely-on-ai-for-drug-prescription/)
+_Highlight:_ ... <b>AI</b> might overlook these critical elements, while its potential for algorithmic <b>bias</b> raises concerns about equitable care. They pointed out that <b>AI</b>&nbsp;...
+
+- **5. As <b>AI</b>-powered health care expands, experts warn of <b>biases</b> - Semafor** [link](https://www.semafor.com/article/10/04/2024/as-ai-powered-health-care-expands-experts-warn-of-biases)
+_Highlight:_ <b>AI</b> models are notoriously riddled with <b>bias</b> stemming from the data they&#39;re trained on, frequently compounding existing inequality related to race,&nbsp;...
+
+- **6. Mechanical Magistrates, The Gavel Comes Down On Legal Software - Forbes** [link](https://www.forbes.com/sites/adrianbridgwater/2024/10/05/mechcanical-magistrates-the-gavel-comes-down-on-legal-software/)
+_Highlight:_ As we start to examine and apply automation intelligence to this arena, the question of trustworthy <b>AI</b>, <b>bias</b> and hallucination start to take on what&nbsp;...
+
+- **7. A <b>fair</b> individualized polysocial risk score for identifying increased social risk in type 2 diabetes** [link](https://www.nature.com/articles/s41467-024-52960-9)
+_Highlight:_ ... essential to hospitalization risk in patients with Type 2 Diabetes, incorporating <b>fairness</b> optimization and explainable <b>AI</b>.
+
+- **8. Brunch &amp; Learn: unleash the power of IBM <b>AI</b> – watsonx and IBM OpenPages - TechCentral** [link](https://techcentral.co.za/power-of-ibm-ai-watsonx-and-ibm-openpages/252910/)
+_Highlight:_ Bias detection and mitigation: Identifying and mitigating bias in <b>AI</b> models is essential to ensuring <b>fairness</b> in decision making. Watsonx&nbsp;...
+
+- **9. Intergenerational <b>fairness</b>: resetting the future for Europe&#39;s youth - Yorkshire Bylines** [link](https://yorkshirebylines.co.uk/news/world/intergenerational-fairness-resetting-the-future-for-europes-youth/)
+_Highlight:_ ... <b>AI</b> strategy for cultural and creative industries. This portfolio recognises the imperative of intergenerational <b>fairness</b>. Now, the commissioner&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
