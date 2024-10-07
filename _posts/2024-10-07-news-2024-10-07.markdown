@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-10-07 One-Minute Post
+date: 2024-10-07 08:18:16 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Plumerai introduces on-device AI for home security cameras, raising privacy concerns. Grindr tests an AI 'wingman' bot, prompting privacy and safety considerations. AI and blockchain integration enhances data privacy and decentralization in the cryptocurrency space. ChatGPT's limitations include biases in its outputs. Marin schools prioritize AI literacy while addressing concerns about data privacy and bias in AI algorithms.
+
+## Articles we found interesting:
+
+- **1. Tony Fadell-backed Plumerai brings on-device <b>AI</b> to home security cameras - TechCrunch** [link](https://techcrunch.com/2024/10/06/tony-fadell-backed-plumerai-brings-on-device-ai-to-home-security-cameras/)
+_Highlight:_ The DIY project is the latest piece of news to stoke <b>privacy</b> concerns around the ubiquitous technology. As cameras become increasingly prevalent&nbsp;...
+
+- **2. Grindr is testing an <b>AI</b> &#39;wingman&#39; bot, CEO says | Mashable** [link](https://mashable.com/article/grindr-is-testing-an-artificial-intelligence-wingman-bot-ceo-says)
+_Highlight:_ For one, Grindr needs to ensure this won&#39;t be a <b>privacy</b> and safety risk in areas where it isn&#39;t safe to be outwardly gay. Furthermore, Grindr sold&nbsp;...
+
+- **3. How <b>AI</b> is Disrupting Cybercrime in the Cryptocurrency Space - Crypto News Flash** [link](https://www.crypto-news-flash.com/how-ai-is-disrupting-cybercrime-in-the-cryptocurrency-space/)
+_Highlight:_ The integration of <b>AI</b> and blockchain enhances data <b>privacy</b> and decentralization, offering a more secure digital ecosystem. One of the main highlights&nbsp;...
+
+- **4. Limitations and Ethical Considerations of ChatGPT - Blockchain Council** [link](https://www.blockchain-council.org/ai/limitations-and-ethical-considerations-of-chatgpt/)
+_Highlight:_ <b>Bias</b> in Outputs. ChatGPT is influenced by <b>biases</b> found in its ... Certified <b>Artificial Intelligence</b> (<b>AI</b>) Expert™ &middot; Certified Generative <b>AI</b>&nbsp;...
+
+- **5. Upside <b>bias</b> for stocks this week | Philstar.com** [link](https://www.philstar.com/business/2024/10/07/2390583/upside-bias-stocks-week)
+_Highlight:_ Upside <b>bias</b> for stocks this week. Richmond Mercurio - The Philippine Star ... <b>AI</b> eraser &middot; Unilab Foundation explores academic partnership with&nbsp;...
+
+- **6. Marin schools prioritize <b>AI</b> literacy ahead of state mandate - Marin Independent Journal** [link](https://www.marinij.com/2024/10/06/marin-schools-prioritize-ai-literacy-ahead-of-state-mandate/)
+_Highlight:_ McGrath added, however, that ethics concerns remain paramount. “We will emphasize the importance of data privacy, <b>bias</b> in <b>AI</b> algorithms and the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
