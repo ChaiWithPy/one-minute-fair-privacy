@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-10-08 One-Minute Post
+date: 2024-10-08 08:25:00 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California is enacting new AI legislation to address transparency and consumer privacy. Fullthrottle.ai secures a patent for SafeMatch, prioritizing privacy-first attribution in ad targeting. Concerns about AI risks to banks are raised due to biases and inaccuracies. Connecticut lawmakers are leading talks on AI regulations, including the requirement for bias audits. Globe adopts GSMA's Responsible AI Maturity Roadmap to ensure fairness, transparency, and accountability in AI applications. A study reveals that 75% of Australian university staff use AI in academics, emphasizing the importance of fairness in AI tools.
+
+## Articles we found interesting:
+
+- **1. California&#39;s Legislative Push on <b>AI</b>: A Wave of New Obligations and Prohibitions - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D004c9747-e7ee-4266-844e-c689d9e3f31f)
+_Highlight:_ Enacted <b>AI</b> Legislation: &middot; Election Integrity and Disinformation in the Age of <b>AI</b>: &middot; Transparency in <b>AI</b> Development and Use: &middot; Consumer <b>Privacy</b> and <b>AI</b>&nbsp;...
+
+- **2. fullthrottle.<b>ai</b>™️ Secures Patent for SafeMatch™️: <b>Privacy</b>-First Attribution Connecting Ad** [link](https://www.bakersfield.com/ap/news/fullthrottle-ai-secures-patent-for-safematch-privacy-first-attribution-connecting-ad/article_1e7bed0a-53e0-5fd5-bbbb-17a134513407.html)
+_Highlight:_ This patent represents a major milestone in fullthrottle.<b>ai&#39;s</b> commitment to building robust, <b>privacy</b>-centric marketing tools for a cookieless future .
+
+- **3. fullthrottle.<b>ai</b>™️ Secures Patent for SafeMatch™️: <b>Privacy</b>-First Attribution Connecting Ad ...** [link](https://finance.yahoo.com/news/fullthrottle-ai-secures-patent-safematch-133000676.html)
+_Highlight:_ Patent powers more effective household-level targeting and audience insights, furthering the company&#39;s leadership position in <b>privacy</b>-compliant,&nbsp;...
+
+- **4. eMarketer Podcast: The Banking &amp; Payments Show: <b>AI</b> risks to banks** [link](https://www.emarketer.com/content/podcast-banking-payments-show-ai-risks-banks)
+_Highlight:_ I mean, <b>AI</b> is subject to hallucinations, <b>biases</b>, inaccuracies. You name it, there&#39;s all sorts of problems. And this is scary for investments because a&nbsp;...
+
+- **5. Conn. Lawmaker Leads Large-Scale Talks on <b>AI</b> Regulations - Government Technology** [link](https://www.govtech.com/artificial-intelligence/conn-lawmaker-leads-large-scale-talks-on-ai-regulations)
+_Highlight:_ Email. <b>Ai</b>,Regulation,Symbol.,Concept,Words,<b>Ai</b>,<b>Artificial,Intelligence</b>. Shutterstock ... &quot;If we required <b>bias</b> audits or tests to determine whether <b>AI</b> is&nbsp;...
+
+- **6. Building a global <b>AI</b>-ready workforce in India: Balancing innovation and robust cybersecurity** [link](https://etedge-insights.com/technology/artificial-intelligence/building-a-global-ai-ready-workforce-in-india-balancing-innovation-and-robust-cybersecurity/)
+_Highlight:_ <b>Bias</b> in decision-making algorithms can lead to unfair outcomes and data privacy concerns. Adversarial attacks, wherein attackers exploit weaknesses in&nbsp;...
+
+- **7. First in PH: Globe adopts GSMA&#39;s Responsible <b>AI</b> Maturity Roadmap | Inquirer Technology** [link](https://technology.inquirer.net/137626/first-in-ph-globe-adopts-gsmas-responsible-ai-maturity-roadmap)
+_Highlight:_ This allows them to align their <b>AI</b> strategies with responsible practices, ensuring <b>fairness</b>, transparency, and accountability in <b>AI</b> applications.
+
+- **8. <b>Fairness</b> attitudes in children - Informationsdienst Wissenschaft** [link](https://idw-online.de/de/news840814)
+_Highlight:_ Communications Psychology 2, 89 (2024). DOI: 10.1038/s44271-024-00139-9. Bilder. How fairly do children allocate resources? (<b>AI</b>-generated&nbsp;...
+
+- **9. Study reveals 75 percent of Australian university staff use <b>AI</b> in academics - Times of India** [link](https://timesofindia.indiatimes.com/education/news/study-reveals-75-percent-of-australian-university-staff-use-ai-in-academics-what-india-can-learn-from-australias-gen-ai-framework/articleshow/114010891.cms)
+_Highlight:_ The principle of <b>fairness</b> is fundamental to the framework, ensuring that <b>AI</b> tools are used equitably. This includes making sure <b>AI</b> technologies are&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
