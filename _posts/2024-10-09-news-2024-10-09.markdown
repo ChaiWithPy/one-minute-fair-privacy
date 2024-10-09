@@ -1,0 +1,40 @@
+---
+layout: post
+title: 2024-10-09 One-Minute Post
+date: 2024-10-09 08:20:37 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The EU has approved the AI Act, focusing on fairness. Meanwhile, companies are prioritizing AI compliance for long-term privacy plans. Ethical concerns about bias and diversity in AI are being raised, as regulations on AI's risks tighten globally. The US's AI leadership is at stake due to concerns about disclosing critical information. AI experts are discussing the ethical implications of AI, including bias and privacy.
+
+## Articles we found interesting:
+
+- **1. Assessing and Governing <b>AI</b>: Our Answers to Your Questions | Osano - JDSupra** [link](https://www.jdsupra.com/legalnews/assessing-and-governing-ai-our-answers-2317567/)
+_Highlight:_ Which one best focuses on <b>AI</b> compliance so we can incorporate it into our long-term <b>privacy</b> plan? During the webinar, our audience brought up three&nbsp;...
+
+- **2. Boardrooms split on <b>AI</b> readiness, pace of adoption: Deloitte | CIO Dive** [link](https://www.ciodive.com/news/generative-ai-board-level-concern-Deloitte/729021/)
+_Highlight:_ Across the globe, data and <b>privacy</b> standards are tightening as new regulations focused on mitigating <b>AI&#39;s</b> risks gain traction. Compliance with&nbsp;...
+
+- **3. 5 <b>AI</b> hacks smart people use to accomplish more and stress less at work - CNBC** [link](https://www.cnbc.com/2024/10/08/ai-hacks-smart-people-use-at-work-to-accomplish-more-and-stress-less.html)
+_Highlight:_ Here are five <b>AI</b> hacks smart professionals use to get the most out of <b>AI</b>: ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon. Ad ChoicesCA Notice&nbsp;...
+
+- **4. EU Standardization Supporting the <b>Artificial Intelligence</b> Act | JD Supra** [link](https://www.jdsupra.com/legalnews/eu-standardization-supporting-the-4306294/)
+_Highlight:_ ... <b>bias</b> related to <b>AI</b> systems and describes measurement techniques and methods for assessing <b>bias</b>. ISO/IEC 23894:2023, published in February 2024&nbsp;...
+
+- **5. G2E: Women can&#39;t stay on the sidelines of the <b>AI</b> revolution - CDC Gaming Reports** [link](https://cdcgaming.com/g2e-women-cant-stay-on-the-sidelines-of-the-ai-revolution/)
+_Highlight:_ These experts shared their thoughts on how <b>AI</b> is not only enhancing operations, but also raising important ethical concerns about <b>bias</b>, diversity, and&nbsp;...
+
+- **6. Is generative <b>AI</b> doomed? An expert&#39;s take on the &quot;model collapse&quot; theory - PsyPost** [link](https://www.psypost.org/is-generative-ai-doomed-an-experts-take-on-the-model-collapse-theory/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) prophets and newsmongers are forecasting the ... <b>bias</b>, and ethics. The research highlights the dual nature of <b>AI</b>&nbsp;...
+
+- **7. The Harris Biden Administration Gambles U.S. Success in <b>AI</b> Leadership** [link](https://www.atr.org/the-harris-biden-administration-gambles-u-s-success-in-ai-leadership/)
+_Highlight:_ The United States&#39; position on <b>artificial intelligence</b> (<b>AI</b>) development raises significant concerns about disclosing critical information to&nbsp;...
+
+- **8. Netherlands - <b>Artificial Intelligence</b> - Law Over Borders - The Global Legal Post** [link](https://www.globallegalpost.com/lawoverborders/artificial-intelligence-1549732605/netherlands-1270214013)
+_Highlight:_ The long-awaited European Union (EU) <b>AI</b> Act was approved by the Council of the European Union on 21 May 2024, after the European Parliament voted to&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
