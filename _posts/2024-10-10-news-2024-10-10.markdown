@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-10-10 One-Minute Post
+date: 2024-10-10 08:18:37 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI is driving a surge in cyber insurance claims due to data breaches. HSBC warns of "AI success theater" in finance. The OCC seeks papers on AI's bias and disparate impacts in banking. Governor Newsom's veto of SB 1047 for software developers addresses AI bias. The world's most advanced AI robots get into a quarrel. IBM emphasizes AI compliance for transparency and fairness. NSF CAREER award focuses on centering people while advancing AI. The International Bar Association endorses the first international treaty on AI governance and human rights.
+
+## Articles we found interesting:
+
+- **1. Data and <b>Privacy</b> Breaches Fuel Cyber Insurance Claims Surge** [link](https://riskandinsurance.com/data-privacy-breaches-fuel-cyber-insurance-claims-surge/)
+_Highlight:_ Mitigating Data Breach Risks in an <b>AI</b>-Driven Landscape. The widespread adoption of <b>artificial intelligence</b> (<b>AI</b>) across industries is having a&nbsp;...
+
+- **2. Photo gallery: Compliance Week <b>AI</b> &amp; Compliance Summit | Event** [link](https://www.complianceweek.com/events/photo-gallery-compliance-week-ai-and-compliance-summit/35478.article)
+_Highlight:_ ... <b>AI</b>, including business adoption standards, ethical guardrails, and ... <b>Privacy</b> Policy &middot; Do Not Sell My Info; © 2024 Compliance Week. Connect with&nbsp;...
+
+- **3. HSBC exec says there&#39;s a lot of <b>AI</b> &#39;success theater&#39; happening in finance - CNBC** [link](https://www.cnbc.com/2024/10/09/hsbc-exec-says-theres-a-lot-of-ai-success-theater-in-finance.html)
+_Highlight:_ ... <b>AI</b>&quot; than on transformative changes like <b>AI</b>-led customer service. One ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **4. OCC seeks papers on the use of <b>artificial intelligence</b> in banking, finance** [link](https://financialregnews.com/occ-seeks-papers-on-the-use-of-artificial-intelligence-in-banking-finance/)
+_Highlight:_ ... <b>bias</b> and the disparate impacts from the use of <b>AI</b> and ML in lending; the risk of <b>AI</b>/ML in perpetrating fraud, algorithmic <b>bias</b>, and misinformation&nbsp;...
+
+- **5. The Pros and Cons of Governor Newsom&#39;s Veto of SB 1047 for Software Developers** [link](https://adtmag.com/Blogs/WatersWorks/2024/10/Pros-and-Cons-of-SB-1047-for-Devs.aspx)
+_Highlight:_ <b>Bias</b> in <b>AI</b> systems has led to real-world harm, from <b>biased</b> hiring ... SB 1047 sought to address these issues by requiring developers to assess and&nbsp;...
+
+- **6. World&#39;s most advanced <b>AI</b> robots get into couple&#39;s quarrel in bizarre video | AllSides** [link](https://www.allsides.com/news/2024-10-09-0815/technology-world-s-most-advanced-ai-robots-get-couple-s-quarrel-bizarre-video)
+_Highlight:_ New York Post (News) &middot; AllSides Media <b>Bias</b> Rating: Lean Right. AllSides Media <b>Bias</b> Rating: Lean Right &middot; agree &middot; disagree. 131839/97348. See full <b>bias</b>&nbsp;...
+
+- **7. <b>AI</b> Compliance: What It Is, Why It Matters and How to Get Started | IBM** [link](https://www.ibm.com/think/insights/ai-compliance)
+_Highlight:_ They are also about building trust with stakeholders and promoting transparency and <b>fairness</b> in decision-making. They are also essential to safety.
+
+- **8. NSF CAREER award: Centering people while advancing <b>artificial intelligence</b> - Penn State** [link](https://www.psu.edu/news/engineering/story/nsf-career-award-centering-people-while-advancing-artificial-intelligence)
+_Highlight:_ ... <b>fairness</b> and human knowledge for factuality. For example, using <b>AI</b> to summarize legal documents improves efficiency for legal practitioners to&nbsp;...
+
+- **9. International Bar Association endorses first international treaty on <b>AI</b> governance and human rights** [link](https://www.thelawyermag.com/au/news/general/international-bar-association-endorses-first-international-treaty-on-ai-governance-and-human-rights/508835)
+_Highlight:_ ... Center for <b>AI</b> and Digital Policy (CAIDP). The report highlighted the importance of the legal profession in shaping <b>AI</b> governance to promote <b>fairness</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
