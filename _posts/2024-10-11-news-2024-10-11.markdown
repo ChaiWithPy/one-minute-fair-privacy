@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-10-11 One-Minute Post
+date: 2024-10-11 08:17:28 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Texas Attorney General's Office settles with AI company over deceptive claims, while California introduces new AI legislation. Timnit Gebru challenges bias in AI, and a study reveals racial disparities in AI-based pain assessment. Europe considers more red tape for tech industry, and Malaysia focuses on AI fairness.
+
+## Articles we found interesting:
+
+- **1. Texas Attorney General&#39;s Office Reaches Settlement with <b>AI</b> Company Over Deceptive Claims** [link](https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20241010-texas-attorney-ags-office-reaches-settlement-with-ai-company-over-deceptive-claims)
+_Highlight:_ This is the latest in a series of <b>privacy</b>-related actions by that office, and it seems likely that Texas will become even more active in the&nbsp;...
+
+- **2. <b>AI</b> Needs Regulatory Guardrails in the US to Ensure Safe Use - Bloomberg Law News** [link](https://news.bloomberglaw.com/us-law-week/ai-needs-regulatory-guardrails-in-the-us-to-ensure-safe-use)
+_Highlight:_ ... <b>AI</b> regulations that focus on immediate concerns such as data <b>privacy</b>, algorithmic discrimination, and transparency. However, none of these state&nbsp;...
+
+- **3. Raft of California <b>AI</b> Legislation Adds to Growing Patchwork of US Regulation** [link](https://www.whitecase.com/insight-alert/raft-california-ai-legislation-adds-growing-patchwork-us-regulation)
+_Highlight:_ Status: Governor Newsom signed the Act into law on September 28, 2024. The Act will enter into force on January 1, 2025. <b>Privacy</b>. Assembly Bill 1008&nbsp;...
+
+- **4. <b>AI</b> in education: Moving beyond academic dishonesty - Community College Daily** [link](https://www.ccdaily.com/2024/10/ai-in-education-moving-beyond-academic-dishonesty/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) has quickly become a hot topic in conversations about education policies ... <b>Bias</b> and discrimination: <b>AI</b> tools must be&nbsp;...
+
+- **5. When Google questioned her research Timnit Gebru didn&#39;t back down - San Francisco ...** [link](https://www.bizjournals.com/sanfrancisco/news/2024/10/10/timnit-gebru-dair-ai-inspire-awards.html)
+_Highlight:_ &quot;Unfortunately, <b>AI</b> is not magic.&quot; Former Google <b>AI</b> researcher Timnit Gebru has challenged <b>bias</b> in <b>artificial intelligence</b> and big tech.
+
+- **6. <b>AI Bias</b> in Pain Assessment Reveals Racial Disparities - Mirage News** [link](https://www.miragenews.com/ai-bias-in-pain-assessment-reveals-racial-1334587/)
+_Highlight:_ It&#39;s just one example where the use of <b>artificial intelligence</b> (<b>AI</b>) was initially seen as a promising way to eliminate human <b>biases</b> from medicine,&nbsp;...
+
+- **7. Enhancing <b>fairness</b> in <b>AI</b>-enabled medical systems with the attribute neutral framework** [link](https://www.nature.com/articles/s41467-024-52930-1)
+_Highlight:_ Questions of unfairness and inequity pose critical challenges to the successful deployment of <b>artificial intelligence</b> (<b>AI</b>) in healthcare settings.
+
+- **8. Europe Might Wrap the Tech Industry in Even More Red Tape | ITIF** [link](https://itif.org/publications/2024/10/09/europe-might-wrap-the-tech-industry-in-even-more-red-tape/)
+_Highlight:_ ... (<b>AI</b>) Act in 2024—the European Commission published a “fitness check” of ... <b>fairness</b>.” Whether this report will lead to a Digital <b>Fairness</b> Act&nbsp;...
+
+- **9. RISING DEMAND AND SUPPORTIVE POLICIES KEY TO MALAYSIA <b>AI</b> MARKET GROWTH** [link](https://www.bernama.com/tv/news.php%3Fid%3D2349930)
+_Highlight:_ IBM Malaysia, <b>AI</b>, Dickson Woo, National 4IR Policy, <b>artificial intelligence</b>. ... <b>fairness</b> in <b>AI</b> deployment,&quot; Woo added. Communications Minister Fahmi&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
