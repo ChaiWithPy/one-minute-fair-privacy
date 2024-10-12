@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-10-12 One-Minute Post
+date: 2024-10-12 08:21:09 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+A new set of Differential Privacy Guidelines has been released, while federal agencies are gearing up for a bias audit. Meanwhile, a new startup is making waves in the AI fairness space.
+
+## Articles we found interesting:
+
+- **1. How to play <b>AI</b> without owning chip stocks like Nvidia: Fund manager - CNBC** [link](https://www.cnbc.com/2024/10/11/how-to-play-ai-without-owning-chip-stocks-like-nvidia-fund-manager.html)
+_Highlight:_ ... Most investors over the last couple of years have thought that the only way to play <b>AI</b> ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon; CA&nbsp;...
+
+- **2. Key Considerations for Selling <b>AI</b> Software to the Government | JD Supra** [link](https://www.jdsupra.com/legalnews/key-considerations-for-selling-ai-4037098/)
+_Highlight:_ ... <b>AI</b> acquisition, particularly given <b>AI&#39;s</b> ability to impact <b>privacy</b>, civil rights and public safety. <b>AI</b> companies bidding on federal contracts&nbsp;...
+
+- **3. OMB Issues New Guidance on Acquisition of <b>AI</b> in the Federal Government | JD Supra** [link](https://www.jdsupra.com/legalnews/omb-issues-new-guidance-on-acquisition-5685032/)
+_Highlight:_ ... <b>AI</b>, addressing issues related to <b>privacy</b>, security, data ownership, and interoperability. Promoting a Competitive <b>AI</b> Market with Innovative&nbsp;...
+
+- **4. Federal Agencies Aim to Combat Algorithmic <b>Bias</b> in <b>AI</b> | PYMNTS.com** [link](https://www.pymnts.com/artificial-intelligence-2/2024/federal-agencies-aim-to-combat-algorithmic-bias-in-ai/)
+_Highlight:_ Auditing has a role in preventing, investigating, monitoring and remedying algorithmic <b>bias</b> in <b>AI</b>, ederal agency civil rights offices said.
+
+- **5. Anthropic CEO goes full techno-optimist in 15,000-word paean to <b>AI</b> | TechCrunch** [link](https://techcrunch.com/2024/10/11/anthropic-ceo-goes-full-techno-optimist-in-15000-word-paean-to-ai/)
+_Highlight:_ “A truly mature and successful implementation of <b>AI</b> has the potential to reduce <b>bias</b> and be fairer for everyone,” Amodei writes. So, if <b>AI</b> takes over&nbsp;...
+
+- **6. How <b>artificial intelligence</b> is unmasking <b>bias</b> throughout the recruitment process - Phys.org** [link](https://phys.org/news/2024-10-artificial-intelligence-unmasking-bias.html)
+_Highlight:_ Professor Andreas Leibbrandt, from the Department of Economics, investigated how <b>artificial intelligence</b> recruitment tools affect existing <b>biases</b> in&nbsp;...
+
+- **7. Africa must be involved in global <b>AI</b> regulation — NITDA - Businessday NG** [link](https://businessday.ng/technology/article/africa-must-be-involved-in-global-ai-regulation-nitda/)
+_Highlight:_ ... <b>Artificial Intelligence</b> (<b>AI</b>) regulation. Kashifu Inuwa, the ... According to Inuwa of NITDA, issues such as algorithmic bias and <b>fairness</b> in <b>AI</b>&nbsp;...
+
+- **8. <b>AI</b>-based virtual assistant positively impacts employee engagement and perceptions of ... - The Hindu** [link](https://www.thehindu.com/news/cities/bangalore/ai-based-virtual-assistant-positively-impacts-employee-engagement-and-perceptions-of-fairness-finds-study/article68694596.ece)
+_Highlight:_ <b>AI</b>-based virtual assistant positively impacts employee engagement and perceptions of <b>fairness</b>, finds study. Published - October 11, 2024 07:00 am&nbsp;...
+
+- **9. <b>AI</b> boss appointed first chair of new Cornwall <b>Fairness</b> Commission** [link](https://www.cornwalllive.com/news/cornwall-news/ai-boss-appointed-first-chair-9623921)
+_Highlight:_ The new chair of the Cornwall and Isles of Scilly <b>Fairness</b> Commission has spoken of her excitement at starting the role and helping to deliver genuine&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
