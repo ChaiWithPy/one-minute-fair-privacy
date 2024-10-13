@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-10-13 One-Minute Post
+date: 2024-10-13 08:13:13 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+A niche AI sector experiences rapid business growth, while Hochul introduces a first-of-its-kind AI consortium. Schools use AI surveillance to curb vaping, raising privacy concerns. NITDA urges Africa's involvement in global AI regulation, emphasizing fairness and bias. Cornwall appoints an AI expert to lead the Fairness Commission. AI's underestimation of at-risk students leads to funding cuts, sparking debates on fairness and transparency.
+
+## Articles we found interesting:
+
+- **1. This niche <b>AI</b> play is seeing business growth rates that are triple the pace of the data centers** [link](https://www.cnbc.com/2024/10/12/this-niche-ai-play-is-seeing-business-growth-rates-that-are-triple-the-pace-of-the-data-centers.html)
+_Highlight:_ ... <b>Privacy</b> Policy we have received your Global <b>Privacy</b> Control signal or you have opted out from the toggle below, but there is another step. To opt&nbsp;...
+
+- **2. Hochul unveils a first-in-the-nation <b>AI</b> consortium at the University at Buffalo - WGRZ-TV** [link](https://www.wgrz.com/article/news/education/empire-ai-consortium-university-buffalo/71-e3d071c7-26f1-4196-9875-e6def51098ca)
+_Highlight:_ Hochul unveils a first-in-the-nation <b>AI</b> consortium at the University at Buffalo ... <b>Privacy</b> Policy &middot; Ad Choices &middot; EEO Public File Report &middot; FCC Online&nbsp;...
+
+- **3. Schools Are Using <b>AI</b> Surveillance to Catch Students Vaping Inside Bathrooms - Futurism** [link](https://futurism.com/the-byte/schools-ai-surveillance)
+_Highlight:_ It&#39;s a <b>privacy</b> nightmare. Oct 12, 5:30 AM EDT. Getty / Futurism. It&#39;s a <b>privacy</b> nightmare. Gotcha! A Colorado school district is using facial&nbsp;...
+
+- **4. NITDA Calls for Africa&#39;s Active Role in Global <b>AI</b> Regulation - Voice of Nigeria** [link](https://von.gov.ng/nitda-calls-for-africas-active-role-in-global-ai-regulation/)
+_Highlight:_ ... <b>Artificial Intelligence</b> (<b>AI</b>) regulation. Kashifu Inuwa, the agency&#39;s ... Inuwa also addressed concerns like algorithmic bias and <b>fairness</b> in <b>AI</b>&nbsp;...
+
+- **5. Cornwall and Isles of Scilly <b>Fairness</b> Commission chair appointed - BBC** [link](https://www.bbc.com/news/articles/cqjr9yxy1jyo)
+_Highlight:_ Tanuvi Ethunandan, who lives in Cornwall, is an <b>AI</b> product manager and previous founder of a technology start-up. The newly created commission is&nbsp;...
+
+- **6. <b>AI</b> undercounts &#39;at-risk&#39; students, causes funding cuts in US schools - NewsBytes** [link](https://www.newsbytesapp.com/news/science/nevada-s-ai-powered-school-funding-program-faces-backlash-over-controversial-results/story)
+_Highlight:_ This method has sparked debate over transparency and <b>fairness</b> in using <b>AI</b> for such critical decisions impacting student welfare and education funding.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
