@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-10-15 One-Minute Post
+date: 2024-10-15 08:14:58 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Adobe is testing Firefly AI video generator for privacy. India's central bank warns of AI's risk to financial stability. Regulatory framework for AI emphasized at ITU WTSA event. Workshop explores AI's perils in medical diagnosis and racial biases. Honeywell CEO doubts AI's productivity payoff. Salesforce discusses AI's role in workplace equity. AI Navigator Framework aims to transition from confusion to clarity. Fairness and compliance audits essential for AI in business law. AI governance in financial institutions crucial for fairness.
+
+## Articles we found interesting:
+
+- **1. Why Honeywell CEO Vimal Kapur doesn&#39;t think the <b>AI</b> payoff will come from productivity** [link](https://www.cnbc.com/2024/10/14/honeywells-ceo-says-the-big-ai-payoff-wont-come-from-productivity.html)
+_Highlight:_ ... <b>AI</b> legal expert said at the CNBC <b>AI</b> summit. She said the time is now ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **2. Adobe lets customers test Firefly <b>AI</b> video generator - Computerworld** [link](https://www.computerworld.com/article/3562828/adobe-lets-customers-test-firefly-ai-video-generator.html)
+_Highlight:_ Home<b>Artificial Intelligence</b>Adobe lets customers test Firefly <b>AI</b> video generator ... Your California <b>Privacy</b> Rights; <b>Privacy</b> Settings. Our Network. CIO&nbsp;...
+
+- **3. Insurance coverage issues, <b>artificial intelligence</b> and deepfakes - Reuters** [link](https://www.reuters.com/legal/legalindustry/insurance-coverage-issues-artificial-intelligence-deepfakes-2024-10-14/)
+_Highlight:_ If a Deepfake relies on <b>A.I.</b> that uses internet scraping functions or copyrighted works, <b>privacy</b> and intellectual property infringement issues may be&nbsp;...
+
+- **4. Regulatory framework around <b>AI</b> &#39;cannot be an afterthought,&#39; Scindia at ITU WTSA event** [link](https://timesofindia.indiatimes.com/business/india-business/regulatory-framework-around-ai-cannot-be-an-afterthought-scindia-at-itu-wtsa-event/articleshow/114225702.cms)
+_Highlight:_ Communications Minister Jyotiraditya Scindia emphasized the need for a regulatory framework on <b>AI</b>, addressing concerns of privacy and <b>bias</b>, at the ITU&nbsp;...
+
+- **5. From <b>Bias</b> to Balance: <b>AI&#39;s</b> Role in Workplace Equity | Mint** [link](https://www.livemint.com/ai/from-bias-to-balance-ais-role-in-workplace-equity-11728930933820.html)
+_Highlight:_ The latest episode of Mint&#39;s <b>AI</b> series highlighted <b>AI&#39;s</b> potential to create equitable workplaces. Salesforce leaders discussed the importance of&nbsp;...
+
+- **6. Workshop Explores the &#39;Opportunity and Perils&#39; of Using <b>AI</b> in Medical Diagnosis** [link](https://www.nationalacademies.org/news/2024/10/workshop-explores-the-opportunity-and-perils-of-using-ai-in-medical-diagnosis)
+_Highlight:_ Mitigating <b>bias</b> and advancing health equity. The workshop also explored another challenge with using <b>AI</b> — racial and ethnic <b>biases</b> in data and&nbsp;...
+
+- **7. Governor of India&#39;s central bank says <b>AI</b> poses risk to financial stability** [link](https://nationaltechnology.co.uk/Governor_of_indias_central_bank_says_ai_poses_risk_to_financial_stability.php)
+_Highlight:_ ... <b>AI</b> governance in financial institutions, stressing the importance of explainable <b>AI</b> to ensure <b>fairness</b> and warning how <b>AI</b> could disrupt digital&nbsp;...
+
+- **8. <b>AI</b> And Business Law: Essential Guide For Wisconsin Entrepreneurs - New Technology** [link](https://www.mondaq.com/unitedstates/new-technology/1529322/ai-and-business-law-essential-guide-for-wisconsin-entrepreneurs)
+_Highlight:_ <b>AI</b> in hiring: Ensuring <b>fair</b> practices and ... Takeaway: Regularly audit your <b>AI</b> for <b>fairness</b> and compliance with anti-discrimination laws.
+
+- **9. <b>AI</b> Navigator Framework: How To Transition From Confusion To Clarity - Forbes** [link](https://www.forbes.com/councils/forbesbusinesscouncil/2024/10/14/ai-navigator-framework-how-to-transition-from-confusion-to-clarity/)
+_Highlight:_ Introduce generative <b>AI</b> fundamentals and responsible <b>AI</b> practices, emphasizing ethical considerations to ensure <b>fairness</b> and transparency in <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
