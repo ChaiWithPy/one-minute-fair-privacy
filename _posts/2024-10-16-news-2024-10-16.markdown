@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-10-16 One-Minute Post
+date: 2024-10-16 08:02:15 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+LinkedIn is using user data for AI training, while in-cab AI technology raises privacy concerns. Mitigating the risk of generative AI is crucial for privacy. The World Economic Forum emphasizes fairer data systems, and healthcare AI must address biases. Developing trustworthy AI requires addressing biases embedded in training data.
+
+## Articles we found interesting:
+
+- **1. Five ways to stop companies from using your data in new ways - Washington Post** [link](https://www.washingtonpost.com/technology/2024/10/15/meta-ai-linkedin-paypal-user-data/)
+_Highlight:_ For LinkedIn using your posts to train its <b>AI</b>: Log into your LinkedIn account and tap or click on your headshot and select Settings → Data <b>privacy</b> →&nbsp;...
+
+- **2. Advancements in In-Cab Technology Leads to <b>Privacy</b> Concerns and Litigation | JD Supra** [link](https://www.jdsupra.com/legalnews/advancements-in-in-cab-technology-leads-7154737/)
+_Highlight:_ However, with the advancement of <b>artificial intelligence</b> (<b>AI</b>) ... Drivers are making claims that, without proper disclosure and consent, <b>AI</b>-enabled dash&nbsp;...
+
+- **3. Technical Considerations for Business Leaders Operationalizing Gen <b>AI</b>** [link](https://hbr.org/sponsored/2024/10/technical-considerations-for-business-leaders-operationalizing-gen-ai)
+_Highlight:_ Mitigating the risk of generative <b>AI</b> means implementing technologies and employing techniques that help ensure security, <b>privacy</b>, and responsible <b>AI</b>&nbsp;...
+
+- **4. A framework for advancing data equity in a digital world | World Economic Forum** [link](https://www.weforum.org/agenda/2024/10/digital-technology-framework-advancing-data-equity/)
+_Highlight:_ As technologies like machine learning and generative <b>artificial intelligence</b> (<b>AI</b>) ... Building fairer data systems: Lessons from addressing racial <b>bias</b>&nbsp;...
+
+- **5. <b>Bias</b> Awareness helps bridge the gap between human and <b>AI</b> healthcare - News-Medical** [link](https://www.news-medical.net/news/20241015/Bias-Awareness-helps-bridge-the-gap-between-human-and-AI-healthcare.aspx)
+_Highlight:_ ... <b>biases</b> in mind at all stages of <b>AI</b> proliferation, from development to adoption. Developers of <b>AI</b> systems should both aim to minimize <b>bias</b> inherent&nbsp;...
+
+- **6. KAVI PATHER: Can we develop <b>AI</b> that everyone can trust? - BusinessLIVE** [link](https://www.businesslive.co.za/bd/opinion/2024-10-16-kavi-pather-can-we-develop-ai-that-everyone-can-trust/)
+_Highlight:_ <b>AI bias</b> refers to the tendency of <b>AI</b> systems to produce skewed outcomes that reflect <b>biases</b> embedded in the data used to train them or in the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
