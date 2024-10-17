@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-10-17 One-Minute Post
+date: 2024-10-17 08:03:12 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Mistral releases new AI models optimized for edge devices, focusing on privacy. OSFI-FCAC report highlights the complexity of addressing bias in AI. SpaceX sues California agency for political bias. Forbes discusses the AI trust gap and the need to address bias. EU regulations are reshaping the AI landscape, emphasizing fairness and transparency in AI-driven financial decisions.
+
+## Articles we found interesting:
+
+- **1. Mistral releases new <b>AI</b> models optimized for laptops and phones - TechCrunch** [link](https://techcrunch.com/2024/10/16/mistral-releases-new-ai-models-optimized-for-edge-devices/)
+_Highlight:_ “Our most innovative customers and partners have increasingly been asking for local, <b>privacy</b> ... <b>AI</b>, <b>AI</b>, Generative <b>AI</b>, les ministraux ... This Week in <b>AI</b>&nbsp;...
+
+- **2. The <b>AI</b> Pricing Debate: Balancing Retail Innovation and Consumer Trust** [link](https://www.retailtouchpoints.com/features/executive-viewpoints/the-ai-pricing-debate-balancing-retail-innovation-and-consumer-trust)
+_Highlight:_ ... <b>AI</b> and consumer protection, <b>privacy</b>, and fair practices. The Rise of <b>AI</b> in Retail Pricing. The adoption of <b>AI</b> in retail pricing is accelerating. A&nbsp;...
+
+- **3. Mistral <b>AI&#39;s</b> new language models bring <b>AI</b> power to your phone and laptop | VentureBeat** [link](https://venturebeat.com/business/mistral-ai-new-language-models-bring-ai-power-to-your-phone-and-laptop/)
+_Highlight:_ This shift towards edge computing could make advanced <b>AI</b> capabilities more accessible, bringing them closer to end-users and addressing <b>privacy</b>&nbsp;...
+
+- **4. OSFI-FCAC Risk Report - <b>AI</b> Uses and Risks at Federally Regulated Financial Institutions** [link](https://www.osfi-bsif.gc.ca/en/about-osfi/reports-publications/osfi-fcac-risk-report-ai-uses-risks-federally-regulated-financial-institutions)
+_Highlight:_ As advances in <b>artificial intelligence</b> (<b>AI</b>) continue with ... <b>Bias</b> is a complex and nuanced topic that can be difficult to address in&nbsp;...
+
+- **5. SpaceX sues California agency, alleging political <b>bias</b> against Musk and regulatory overreach** [link](https://techcrunch.com/2024/10/16/spacex-sues-california-agency-alleging-political-bias-against-musk-and-regulatory-overreach/)
+_Highlight:_ SpaceX sues California agency, alleging political <b>bias</b> against ... After selling Drift, ex-HubSpot exec launches <b>AI</b> for customer success managers.
+
+- **6. How To Bridge The <b>AI</b> Trust Gap - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/10/16/how-to-bridge-the-ai-trust-gap/)
+_Highlight:_ <b>AI</b> systems are prone to <b>bias</b> due to the quality and representativeness of the data utilized in training. <b>AI bias</b> can result in unfair outcomes, such&nbsp;...
+
+- **7. Elon Musk&#39;s X dodges EU&#39;s DMA as bloc decides platform isn&#39;t important enough for <b>fairness</b> controls** [link](https://techcrunch.com/2024/10/16/elon-musks-x-dodges-eus-dma-as-bloc-decides-platform-isnt-important-enough-for-fairness-controls/)
+_Highlight:_ ... <b>fairness</b> controls. Natasha Lomas. 5:08 AM ... <b>AI</b> &middot; LatticeFlow&#39;s LLM framework takes a first stab at benchmarking Big <b>AI&#39;s</b> compliance with EU <b>AI</b> Act.
+
+- **8. Fintech Meets <b>AI</b>: Key Concepts Of A Data-Driven Financial Revolution - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/10/16/fintech-meets-ai-key-concepts-of-a-data-driven-financial-revolution/)
+_Highlight:_ This increased transparency will continue to be critical in meeting regulatory requirements and ensuring <b>fairness</b> in <b>AI</b>-driven financial decisions.
+
+- **9. Threat or Ally? How EU Regulations Are Reshaping the <b>AI</b> Landscape - India Herald** [link](https://www.indiaherald.com/Technology/Read/994754747/Threat-or-Ally-How-EU-Regulations-Are-Reshaping-the-AI-Landscape)
+_Highlight:_ ... <b>fairness</b>. Recognizing the importance of regulating <b>AI</b>, the European ... <b>Artificial intelligence</b> (<b>AI</b>) is rapidly becoming a part of our&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
