@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-10-18 One-Minute Post
+date: 2024-10-18 08:03:51 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The Next Administration is urged to fund healthcare AI programs and pursue data privacy protections. Meanwhile, organizations are facing a wider regulatory gap between conflicting data privacy and security laws. In the AI and cybersecurity realm, there is a deep dive into what healthcare security leaders need to know. On the bias front, there are concerns about potential platform bias with AI tools, and Microsoft is collaborating to improve accessible AI and address disability data desert, which limits utility and reinforces bias. Additionally, ChatGPT is criticized for lacking kid suitability due to gender bias and overly biased content.
+
+## Articles we found interesting:
+
+- **1. NAIAC: Next Admin Must Fund Health Care <b>AI</b> Programs, Pursue Data <b>Privacy</b> Protections** [link](https://insidehealthpolicy.com/inside-telehealth-daily-news/naiac-next-admin-must-fund-health-care-ai-programs-pursue-data-privacy)
+_Highlight:_ The plan comes as Congress has failed to pass national <b>AI</b> and <b>privacy</b> bills, forcing agencies to fill the legislative void. The committee released&nbsp;...
+
+- **2. Workplace Law After &#39;Loper&#39;: Will Organizations Face a Wider Regulatory Gap Between ...** [link](https://www.jacksonlewis.com/insights/workplace-law-after-loper-will-organizations-face-wider-regulatory-gap-between-conflicting-data-privacy-and-security-laws)
+_Highlight:_ ... <b>privacy</b> realm and <b>AI</b> just generally. Yang. For sure. I just want to make a contrast to what you just said: In Europe, they have the <b>AI</b> Act and the&nbsp;...
+
+- **3. IEEE deep dive: What you really need to know about <b>AI</b> and cybersecurity** [link](https://www.healthcareitnews.com/news/ieee-deep-dive-what-you-really-need-know-about-ai-and-cybersecurity)
+_Highlight:_ To help CISOs, CIOs and other healthcare security leaders wrap their hands around this, we spoke with IEEE Member Rebecca Herold, CEO of <b>privacy</b> and&nbsp;...
+
+- **4. <b>AI</b> Briefing: Media Buying Summit highlights judicious adoption of <b>AI</b> ad tools - Digiday** [link](https://digiday.com/media-buying/ai-briefing-media-buying-summit-highlights-judicious-adoption-of-ai-ad-tools/)
+_Highlight:_ There&#39;s also the challenge of potential platform <b>bias</b> with <b>AI</b> tools. Asked about the revelations from the Google ad tech antitrust case, Snowman&nbsp;...
+
+- **5. Microsoft Expands Collaboration with Be My Eyes to Improve Accessible <b>AI</b> - Maginative** [link](https://www.maginative.com/article/microsoft-expands-collaboration-with-be-my-eyes-to-improve-accessible-ai/)
+_Highlight:_ This so-called &quot;disability data desert&quot; leads to <b>AI</b> systems missing essential context, which ultimately limits their utility and reinforces <b>bias</b>.
+
+- **6. ChatGPT lacks kid suitability - App Developer Magazine** [link](https://appdevelopermagazine.com/chatgpt-lacks-kid-suitability/)
+_Highlight:_ ... <b>AI</b> by HeyQQ GmbH, is designed to address the challenges posed by models like ChatGPT. ChatGPT lacks kid suitability due to gender <b>bias</b> and overly&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
