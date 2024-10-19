@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2024-10-19 One-Minute Post
+date: 2024-10-19 07:55:26 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI deepfakes are a top concern for election officials, while the VA updates its AI suicide risk model. Biases in AI and fairness are under scrutiny, with a focus on building trustworthy AI systems through ethics courses. Additionally, AI fairness is being associated with everyday tasks, such as judging individuals based on their names.
+
+## Articles we found interesting:
+
+- **1. Ransomware, <b>AI</b>, <b>privacy</b> suits, and more: A recap of the NetDiligence 2024 Cyber Risk Summit** [link](https://www.jdsupra.com/legalnews/ransomware-ai-privacy-suits-and-more-a-5630671/)
+_Highlight:_ The NetDiligence Cyber Risk Summit, which was held September 30-October 2 in Philadelphia, featured panels focused on the latest developments and.
+
+- **2. <b>AI</b> deepfakes a top concern for election officials with voting underway - ABC News** [link](https://abcnews.go.com/Politics/ai-deepfakes-top-concern-election-officials-voting-underway/story%3Fid%3D114202574)
+_Highlight:_ State election officials in political battleground states say they are bracing for the unpredictable and emergent threat posed by <b>artificial</b>&nbsp;...
+
+- **3. VA is updating its <b>AI</b> suicide risk model to reach more women - Nextgov/FCW** [link](http://www.fcw.com/artificial-intelligence/2024/10/va-updating-its-ai-suicide-risk-model-reach-more-women/400377/%3Foref%3Dng-homepage-river)
+_Highlight:_ The department is looking to add military sexual trauma and intimate partner violence as risk factors for suicide in its predictive model for&nbsp;...
+
+- **4. <b>Biases</b> in <b>AI</b>: The Good, the Bad, and the Ugly | by Louis-François Bouchard - Medium** [link](https://medium.com/towards-artificial-intelligence/biases-in-ai-the-good-the-bad-and-the-ugly-65314254a647)
+_Highlight:_ <b>AI</b> systems learn from the data we feed them, and if that data is tainted with human <b>biases</b> — no matter how subtle — those <b>biases</b> become part of the&nbsp;...
+
+- **5. <b>AI</b> and Bias: How Do We Build <b>Fairness</b> into Algorithms? - CXOToday.com** [link](https://cxotoday.com/story/ai-and-bias-how-do-we-build-fairness-into-algorithms/)
+_Highlight:_ By Aashish Washikar. <b>Artificial intelligence</b> (<b>AI</b>) has entered our everyday lives subtly and quietly, curating our feeds on social media,&nbsp;...
+
+- **6. 6 <b>AI</b> Ethics Courses to Build Trustworthy <b>AI</b> Systems for Policy Makers - Shiksha** [link](https://www.shiksha.com/online-courses/articles/ai-ethics-courses-to-build-trustworthy-ai-systems-for-policy-makers-blogId-180201)
+_Highlight:_ By enrolling in <b>AI</b> ethics courses tailored to professionals, you can gain a deep understanding of key ethical principles—<b>fairness</b>, transparency,&nbsp;...
+
+- **7. ChatGPT is judging you based on your name, and here&#39;s what you can do about it** [link](https://www.techradar.com/computing/artificial-intelligence/chatgpt-is-judging-you-based-on-your-name-and-heres-what-you-can-do-about-it)
+_Highlight:_ <b>AI fairness</b> is typically associated with tasks like screening resumes or credit scoring, but this piece of research was more about the everyday&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
