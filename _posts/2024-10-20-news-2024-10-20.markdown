@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-10-20 One-Minute Post
+date: 2024-10-20 07:55:35 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+X will share user data with third-party platforms, raising privacy concerns. Anthropic's AI models called Claude are gaining attention, while tech companies tout healthcare AI tools at a conference. Vulnerabilities in deep learning for remote sensing expose AI's "blind spot," and political bias in AI raises ethical questions. Controversy surrounds the unveiling of AI CoEs, and AI's impact on equality is under scrutiny.
+
+## Articles we found interesting:
+
+- **1. X is the latest social media site letting 3rd parties use your data to train <b>AI</b> models - CBC** [link](https://www.cbc.ca/news/business/x-third-parties-user-data-1.7356152)
+_Highlight:_ Starting Nov. 15, X will share user data — including posts, likes, bookmarks and reposts — with third-party platforms that may use the information&nbsp;...
+
+- **2. Claude: Everything you need to know about Anthropic&#39;s <b>AI</b> - TechCrunch** [link](https://techcrunch.com/2024/10/19/claude-everything-you-need-to-know-about-anthropics-ai/)
+_Highlight:_ Anthropic, the <b>AI</b> vendor second in size only to OpenAI, has a powerful family of generative <b>AI</b> models called Claude. These models can perform a&nbsp;...
+
+- **3. Nvidia, Google, Microsoft and more head to Las Vegas to tout health-care <b>AI</b> tools - CNBC** [link](https://www.cnbc.com/2024/10/19/hlth-2024-tech-companies-head-to-las-vegas-to-tout-health-ai-tools-.html)
+_Highlight:_ Tech companies are in Las Vegas this week to talk health-care <b>AI</b> at the HLTH conference.
+
+- **4. Vulnerabilities in Deep Learning for Remote Sensing Expose <b>AI&#39;s</b> &quot;Blind Spot&quot; - The Debrief** [link](https://thedebrief.org/vulnerabilities-in-deep-learning-for-remote-sensing-expose-ais-blind-spot/)
+_Highlight:_ Political <b>Bias</b> in <b>AI</b>: Research Reveals Large Language Models Are Consistently Left-Leaning, Raising Ethical Questions &middot; Breaking NewsTechUncategorized.
+
+- **5. Mohandas Pai Trends on Google Amid <b>AI</b> Centre Controversy - TICE News** [link](https://www.tice.news/tice-trending/mohandas-pai-trends-on-google-amid-ai-centre-controversy-7339884)
+_Highlight:_ ... <b>bias</b>. The controversy began when the Union Government unveiled plans for three <b>AI</b> CoEs focusing on healthcare, agriculture, and sustainable cities.
+
+- **6. <b>AI&#39;s</b> dark secret: It is rolling back progress on equality - Frontline - The Hindu** [link](https://frontline.thehindu.com/news/artificial-intelligence-chatgpt-gender-bias-tech-discrimination-inequality-minority-groups/article68772305.ece)
+_Highlight:_ <b>AI</b> systems all function the same way, by identifying patterns. The truth is that machine learning systems struggle with difference. &middot; <b>Bias</b> is the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
