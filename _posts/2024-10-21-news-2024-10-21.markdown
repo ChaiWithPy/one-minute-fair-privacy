@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-10-21 One-Minute Post
+date: 2024-10-21 07:46:21 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OAIC in Australia has released guides for privacy laws in AI projects, emphasizing transparency. Meanwhile, insurers are cautious about AI, monitoring for biases. In the US, Governor Youngkin has announced an AI Task Force focusing on fairness and safety. Europe is regulating AI to ensure diversity, non-discrimination, and fairness. Additionally, synthetic data is being used to address bias in AI, and AI is being leveraged to fight sex and gender bias in healthcare.
+
+## Articles we found interesting:
+
+- **1. How to set up security and <b>privacy</b> in MapMyRun - Kaspersky** [link](https://www.kaspersky.com/blog/running-apps-privacy-settings-part4-mapmyrun/52454/)
+_Highlight:_ Where to find <b>privacy</b> settings in MapMyRun: ••• → Settings → <b>Privacy</b> ... <b>AI</b> has dozens of applications in cybersecurity. Which ones are the most&nbsp;...
+
+- **2. OAIC creates guides to ensure <b>privacy</b> laws for <b>AI</b> projects - ARNnet** [link](https://www.arnnet.com.au/article/3572391/oaic-creates-guides-to-ensure-privacy-laws-for-ai-projects.html)
+_Highlight:_ The Office of the Australian Information Commissioner has created two guides to help businesses navigate how Australian <b>privacy</b> law applies to <b>AI</b>&nbsp;...
+
+- **3. Australia&#39;s <b>Privacy</b> Watchdog Publishes Guidance on <b>AI</b> Products - Infosecurity Magazine** [link](https://www.infosecurity-magazine.com/news/australia-privacy-guidance-ai/)
+_Highlight:_ Businesses in Australia must update their <b>privacy</b> policies with clear and transparent information about their use of <b>AI</b>, said the regulator.
+
+- **4. Insurers take &#39;measured approach&#39; to <b>AI</b> - Insurance News - insuranceNEWS.com.au** [link](https://www.insurancenews.com.au/insurtech/insurers-take-measured-approach-to-ai)
+_Highlight:_ ... <b>bias</b> and regulatory compliance,” Ms Leong said. ... Monitoring is constant, to ensure <b>AI</b> is not creating <b>biases</b> with the data used to train models.
+
+- **5. Strategies for the use of synthetic data - FutureCIO** [link](https://futurecio.tech/strategies-for-the-use-of-synthetic-data/)
+_Highlight:_ Alexander Linden, VP analyst at Gartner, says synthetic data makes <b>AI</b> possible where lack of data makes <b>AI</b> unusable due to <b>bias</b> or inability to&nbsp;...
+
+- **6. Sex and gender <b>bias</b> is prevalent in healthcare. Could <b>AI</b> be the solution? - Tatler Asia** [link](https://www.tatlerasia.com/power-purpose/innovation/can-ai-fight-sex-and-gender-bias-in-healthcare)
+_Highlight:_ The <b>AI</b> revolution can be leveraged to strengthen sex and gender health equity, rather than reinforce <b>bias</b>. From assisting doctors with diagnoses&nbsp;...
+
+- **7. Governor Glenn Youngkin announces new <b>Artificial Intelligence</b> Task Force - WVEC** [link](https://www.13newsnow.com/article/news/local/virginia/governor-glenn-youngkin-announces-new-artificial-intelligence-task-force/291-1151728a-e5e3-43b0-8da6-a889561a0353)
+_Highlight:_ ... <b>fairness</b> and safety.” The <b>AI</b> Task Force will meet twice a year. It will give advice and share input with the executive and legislative branches on&nbsp;...
+
+- **8. How Europe is Regulating <b>AI</b> Technology - ICOdesk** [link](https://icodesk.io/news/how-europe-is-regulating-ai-technology/14757/)
+_Highlight:_ ... AI systems to ensure informed decision-making. Diversity, Non-Discrimination, and <b>Fairness</b>: <b>AI</b> should avoid biases and promote inclusivity and&nbsp;...
+
+- **9. Natural8 India: Leveraging Technology for a Secure, <b>Fair</b>, and Engaging Gaming Experience** [link](https://cxotoday.com/interviews/natural8-india-leveraging-technology-for-a-secure-fair-and-engaging-gaming-experience/)
+_Highlight:_ Bridging Data and Insights: How Generative <b>AI</b> Transforms Analysis Beyond Conventional Methods ... CXOToday has engaged in an exclusive interview with Mr&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
