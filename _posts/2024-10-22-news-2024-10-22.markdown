@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-10-22 One-Minute Post
+date: 2024-10-22 07:54:20 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple's commitment to AI trust, Nava Benefits' privacy-focused AI assistant, and Murdoch firms suing Perplexity AI highlight the importance of privacy in AI. Meanwhile, concerns about AI bias persist, with Gesund.ai open-sourcing an evaluation library to standardize AI performance and bias, and Wired warning about the dangers of AI perpetuating discrimination. As AI continues to transform various industries, ensuring privacy and fairness remains a critical focus.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> needs Apple, which is why time is on its side - Computerworld** [link](https://www.computerworld.com/article/3574222/ai-needs-apple-which-is-why-time-is-on-its-side.html)
+_Highlight:_ A guide to trust in <b>AI</b>. The company&#39;s years-long commitments to security and <b>privacy</b>, and its decades of high consumer satisfaction mean it has that&nbsp;...
+
+- **2. Nava Benefits Launches <b>AI</b>-Powered Benefits Assistant, Powered by OpenAI - Yahoo Finance** [link](https://finance.yahoo.com/news/nava-benefits-launches-ai-powered-170000618.html)
+_Highlight:_ &quot;The Nava Benefits Assistant showcases how <b>AI</b> can deliver personalized, <b>privacy</b>-focused assistance, empowering users with the information they&nbsp;...
+
+- **3. Murdoch firms Dow Jones and New York Post sue Perplexity <b>AI</b> - CNBC** [link](https://www.cnbc.com/2024/10/21/murdoch-firms-dow-jones-and-new-york-post-sue-perplexity-ai.html)
+_Highlight:_ ... <b>AI</b> startup engages in a &quot;massive amount of illegal copying ... Advertise With Us. Please Contact Us &middot; <b>Privacy</b> Policy; California Consumer <b>Privacy</b> Act (&nbsp;...
+
+- **4. A Trump Win Could Unleash Dangerous <b>AI</b> - WIRED** [link](https://www.wired.com/story/donald-trump-ai-safety-regulation/)
+_Highlight:_ Studies and investigations have repeatedly shown that <b>AI</b> models contain <b>biases</b> that perpetuate discrimination, including in hiring, policing, and&nbsp;...
+
+- **5. Gesund.<b>ai</b> Open Sources Evaluation Library to Standardize Performance and Safety of Clinical <b>AI</b>** [link](https://www.webwire.com/ViewPressRel.asp%3FaId%3D328504)
+_Highlight:_ ... <b>AI</b> performance and potential <b>bias</b> across patient cohorts for the FDA-regulated <b>AI</b> solutions on the market. As part of its mission to standardize <b>AI</b>&nbsp;...
+
+- **6. <b>AI</b> is set to transform science – but will we understand the results? - The Conversation** [link](https://theconversation.com/ai-is-set-to-transform-science-but-will-we-understand-the-results-241760)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) has taken centre stage in basic science. ... Scientists may believe <b>AI</b> models are free from <b>bias</b>, or that they can account&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
