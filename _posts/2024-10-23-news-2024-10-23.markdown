@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-10-23 One-Minute Post
+date: 2024-10-23 07:59:22 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OAIC releases new AI guidance for Australian businesses, while Apple's Craig Federighi emphasizes caution with AI to protect privacy. Quantum computing's ethical risks, AI bias prevention, and Holistic AI's open-source library for responsible AI are making waves. Hong Kong is exploring a new model framework for AI fairness, and Acuity Insights reveals skepticism about AI fairness in college admissions.
+
+## Articles we found interesting:
+
+- **1. OAIC&#39;s New <b>AI</b> Guidance: Navigating the <b>Privacy</b> Landscape for Australian Businesses** [link](https://www.herbertsmithfreehills.com/insights/2024-10/oaic-new-ai-guidance-navigating-the-privacy-landscape-for-australian-businesses)
+_Highlight:_ In a landmark move, the Office of the Australian Information Commissioner (OAIC) has released new guidance on <b>privacy</b> and <b>artificial intelligence</b> (<b>AI</b>)&nbsp;...
+
+- **2. &#39;We want to get it right&#39;: Inside Craig Federighi&#39;s vision for Siri, <b>privacy</b> and Apple&#39;s cautious ...** [link](https://www.businesstoday.in/technology/news/story/we-want-to-get-it-right-inside-craig-federighis-vision-for-siri-privacy-and-apples-cautious-leap-into-ai-451221-2024-10-23)
+_Highlight:_ Apple&#39;s software chief Craig Federighi explained why the company is being cautious as it ramps up its <b>AI</b> capabilities, especially with Siri,&nbsp;...
+
+- **3. Are humans reading your <b>AI</b> conversations? - Computerworld** [link](https://www.computerworld.com/article/3574984/are-humans-reading-your-ai-conversations.html)
+_Highlight:_ Think twice before sharing sensitive business data or private personal details. <b>privacy</b> breach hacked vulnerability binary eye. Credit: Thinkstock.
+
+- **4. Consider the ethical impacts of quantum technologies in defence — before it&#39;s too late** [link](https://www.nature.com/articles/d41586-024-03376-4)
+_Highlight:_ Quantum computing could enhance the performance of <b>AI</b>, exacerbating its existing ethical risks, such as <b>bias</b>, lack of transparency and problems with&nbsp;...
+
+- **5. Showing <b>AI</b> users diversity in training data boosts perceived fairness and trust | ScienceDaily** [link](https://www.sciencedaily.com/releases/2024/10/241022104448.htm)
+_Highlight:_ ... <b>bias</b>, and user feedback on <b>AI</b> trust. Human–Computer Interaction, 2024 ... <b>biases</b> in sets of images used to train <b>artificial intelligence</b> (<b>AI</b>) systems.
+
+- **6. <b>AI Bias</b>: What It Is and How to Prevent It | Built In** [link](https://builtin.com/artificial-intelligence/ai-bias)
+_Highlight:_ <b>AI bias</b> occurs when an <b>artificial intelligence</b> system makes imbalanced or unfair decisions. These systems learn from large datasets, and if that&nbsp;...
+
+- **7. Holistic <b>AI</b> Launches Open-Source Library to Advance Responsible <b>AI</b> - Morningstar** [link](https://www.morningstar.com/news/business-wire/20241022936311/holistic-ai-launches-open-source-library-to-advance-responsible-ai)
+_Highlight:_ ... <b>fair</b> and responsible <b>AI</b> systems. <b>AI</b> architects and developers can now ... <b>fairness</b> is paramount. It is essential that algorithms do not&nbsp;...
+
+- **8. Hong Kong&#39;s <b>AI</b> Leap: Exploring the New Model Framework - Regulation Asia** [link](https://www.regulationasia.com/hong-kongs-ai-leap-exploring-the-new-model-framework/)
+_Highlight:_ Testing and validating the <b>AI</b> models to ensure the <b>AI</b> models&#39; reliability, robustness and <b>fairness</b>;; Minimising the risk of attacks against machine&nbsp;...
+
+- **9. Acuity Insights Reveals Key Findings on Applicants&#39; <b>AI</b> Usage and Perceptions in College ...** [link](https://www.morningstar.com/news/globe-newswire/9259336/acuity-insights-reveals-key-findings-on-applicants-ai-usage-and-perceptions-in-college-admissions)
+_Highlight:_ Skepticism About <b>AI&#39;s Fairness</b> Despite the growing use of <b>AI</b>, 65% of respondents chose not to use these tools when applying, citing concerns about&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
