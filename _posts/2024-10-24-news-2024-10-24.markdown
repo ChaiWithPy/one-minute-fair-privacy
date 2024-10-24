@@ -1,0 +1,25 @@
+---
+layout: post
+title: 2024-10-24 One-Minute Post
+date: 2024-10-24 07:52:06 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+DuckDuckGo to invest in privacy-focused startups, while AI in waste management raises privacy concerns. Organizations urged to craft comprehensive GenAI policy to protect data privacy and secure AI systems from cyber threats.
+
+## Articles we found interesting:
+
+- **1. Why Your Organization Needs to Craft a Comprehensive GenAI Policy Now | JD Supra** [link](https://www.jdsupra.com/legalnews/why-your-organization-needs-to-craft-a-6793904/)
+_Highlight:_ Security and <b>Privacy</b>. A policy should outline measures to protect data <b>privacy</b> and secure <b>AI</b> systems from cyber threats. Many free <b>AI</b> products&nbsp;...
+
+- **2. DuckDuckGo will be making more early-stage investments in <b>privacy</b>-focused startups** [link](https://techcrunch.com/2024/10/23/duckduckgo-will-be-making-more-early-stage-investments-in-privacy-focused-startups/)
+_Highlight:_ ... <b>AI</b> model training platform called EverArt. While consumer <b>privacy</b> tech will be a large focus for its investments, DuckDuckGo also said it will be&nbsp;...
+
+- **3. <b>AI</b> in waste management raises <b>privacy</b> concerns | Digital Watch Observatory** [link](https://dig.watch/updates/ai-in-waste-management-raises-privacy-concerns)
+_Highlight:_ <b>AI</b> in waste management raises <b>privacy</b> concerns. East Lansing uses <b>AI</b> to reduce recycling contamination.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
