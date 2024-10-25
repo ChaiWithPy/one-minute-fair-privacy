@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-10-25 One-Minute Post
+date: 2024-10-25 07:52:56 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple offers $1 million for hacking its private AI cloud, emphasizing its commitment to user privacy. The Biden-Harris Administration outlines a coordinated approach to address AI risks related to privacy and bias. A report stresses the need for transparency in the privacy policies of generative AI tools. Meanwhile, businesses are urged to consider the impact of AI on data governance, particularly in addressing biases. Cybersecurity teams are being excluded from AI implementation discussions, raising concerns about bias and privacy. To build trustworthy AI systems, developers are advised to focus on fairness, interpretability, privacy, safety, and security. Additionally, accountants are encouraged to seek fairness-promoting companies when using AI, while efforts are made to enhance transparency and fairness in automated credit decisions using AI.
+
+## Articles we found interesting:
+
+- **1. Apple Intelligence bug bounty invites researchers to test its <b>privacy</b> claims - The Verge** [link](https://www.theverge.com/2024/10/24/24278881/apple-intelligence-bug-bounty-security-researchers-private-cloud-compute)
+_Highlight:_ Apple, of course, has made a big deal over the years about how much it cares about user <b>privacy</b>, so poorly designed cloud servers for <b>AI</b> could poke a&nbsp;...
+
+- **2. Apple will pay security researchers up to $1 million to hack its private <b>AI</b> cloud | TechCrunch** [link](https://techcrunch.com/2024/10/24/apple-will-pay-security-researchers-up-to-1-million-to-hack-its-private-ai-cloud/)
+_Highlight:_ ... <b>AI</b> model, dubbed Apple Intelligence, which can handle far heavier-lift <b>AI</b> tasks in a way that Apple says preserves the customers&#39; <b>privacy</b>. Topics.
+
+- **3. Transparency needed for risks, <b>privacy</b> policies of generative <b>AI</b> tools, report says** [link](https://www.biometricupdate.com/202410/transparency-needed-for-risks-privacy-policies-of-generative-ai-tools-report-says)
+_Highlight:_ The need for transparency about the potential benefits, risks, and data <b>privacy</b> policies associated with generative <b>AI</b> tools is needed now more&nbsp;...
+
+- **4. FACT SHEET: Biden-Harris Administration Outlines Coordinated Approach to Harness ...** [link](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-biden-harris-administration-outlines-coordinated-approach-to-harness-power-of-ai-for-u-s-national-security/)
+_Highlight:_ These requirements require agencies to monitor, assess, and mitigate <b>AI</b> risks related to invasions of privacy, <b>bias</b> and discrimination, the safety of&nbsp;...
+
+- **5. Business Data Privacy Standards And The Impact Of <b>Artificial Intelligence</b> On Data Governance** [link](https://www.mondaq.com/unitedstates/privacy-protection/1534674/business-data-privacy-standards-and-the-impact-of-artificial-intelligence-on-data-governance)
+_Highlight:_ Data Quality and <b>Bias</b>: <b>AI</b> models are only as good as the data they are trained on. Biases inherent in training data can perpetuate inequalities or&nbsp;...
+
+- **6. Cybersecurity teams being excluded from <b>AI</b> implementation discussions, ISACA study shows** [link](https://www.itsecurityguru.org/2024/10/24/cybersecurity-teams-being-excluded-from-ai-implementation-discussions-isaca-study-shows/)
+_Highlight:_ ... <b>bias</b> in <b>AI</b> algorithms, and can come with ethical and privacy concerns. Other developments, including research into integrating <b>AI</b> with quantum&nbsp;...
+
+- **7. Four Cornerstones For Building A Future Where We Can Trust <b>AI</b> - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/10/24/four-cornerstones-for-building-a-future-where-we-can-trust-ai/)
+_Highlight:_ To build trustworthy <b>AI</b> systems, developers should focus on <b>fairness</b>, interpretability, privacy, safety and security—the pillars of responsible&nbsp;...
+
+- **8. How can accountants safely use <b>AI</b> in practice?** [link](https://www.accountancyage.com/2024/10/24/how-can-accountants-safely-use-ai-in-practice/)
+_Highlight:_ <b>Fairness</b>: Always search for companies that promote <b>fairness</b> in their large language models (LLMs) or machine learning (ML) models, as <b>AI</b> should not&nbsp;...
+
+- **9. Enhancing transparency and <b>fairness</b> in automated credit decisions: an explainable novel ... - Nature** [link](https://www.nature.com/articles/s41598-024-75026-8)
+_Highlight:_ As highlighted, integrating <b>Artificial Intelligence</b> (<b>AI</b>) in credit scoring improves predictive accuracy but also raises concerns regarding&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
