@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-10-26 One-Minute Post
+date: 2024-10-26 07:49:29 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple is leading in cloud-based AI security and privacy, offering up to $1 million for privacy flaws. Meanwhile, the banking industry is focusing on compliance and addressing AI bias. In Illinois, companies are working on balancing innovation and ethics in AI, particularly in addressing bias and fairness. Additionally, controversies around transgender athletes and competitive fairness are being discussed, while concerns about fairness and potential bias are leading to hesitancy around using AI in the college application process.
+
+## Articles we found interesting:
+
+- **1. Apple&#39;s &#39;Groundbreaking&#39; New iPhone Update—What Does Samsung Do Now? - Forbes** [link](https://www.forbes.com/sites/zakdoffman/2024/10/25/apples-ios-182-and-iphone-16-pro-vs-samsung-galaxy-ai-s25-ultra-and-android-15/)
+_Highlight:_ ... <b>AI</b> in a box and Galaxy <b>AI</b> dominating Samsung&#39;s marketing messages and device updates. But there&#39;s a serious security and <b>privacy</b> issue that has&nbsp;...
+
+- **2. Apple defines what we should expect from cloud-based <b>AI</b> security - Computerworld** [link](https://www.computerworld.com/article/3589175/apple-defines-what-we-should-expect-from-cloud-based-ai-security.html)
+_Highlight:_ ... <b>privacy</b> for requests made of <b>AI</b> using Apple&#39;s cloud. It&#39;s an industry-leading move and is already delighting security researchers. Why is that&nbsp;...
+
+- **3. Apple will pay up to $1 million to anyone who finds a <b>privacy</b> flaw inside Apple Intelligence** [link](https://www.tomsguide.com/ai/apple-intelligence/apple-will-pay-up-to-usd1-million-to-anyone-who-finds-a-privacy-flaw-inside-apple-intelligence)
+_Highlight:_ PCC is Apple&#39;s attempt to fix that issue, and offer cloud-based <b>AI</b> processing without compromising on data security and user <b>privacy</b>. But clearly&nbsp;...
+
+- **4. Compliance is banking&#39;s superpower; that goes double in an era of <b>AI</b> | American Banker** [link](https://www.americanbanker.com/opinion/compliance-is-bankings-superpower-that-goes-double-in-an-era-of-ai)
+_Highlight:_ ... <b>Artificial intelligence</b> &middot; Don&#39;t blame vendors for <b>AI bias</b>, Adrienne Harris tells bankers. At the Most Powerful Women in Banking conference this week&nbsp;...
+
+- **5. NYDFS Speaks Out on <b>AI</b> and its Cybersecurity Risks | JD Supra** [link](https://www.jdsupra.com/legalnews/nydfs-speaks-out-on-ai-and-its-6910406/)
+_Highlight:_ ... <b>AI</b> (here, the cybersecurity risks). Other guidance has largely focused on other types of harm from <b>AI</b> such as <b>bias</b> and discrimination. It also&nbsp;...
+
+- **6. Copyright Office Declines to Bless Hacking to Study <b>AI Bias</b> (1) - Bloomberg Law News** [link](https://news.bloomberglaw.com/ip-law/copyright-office-rejects-hacking-exemption-for-ai-bias-research)
+_Highlight:_ ... <b>artificial intelligence</b> models for <b>bias</b> and discrimination ... <b>AI</b> models for <b>bias</b> would boost transparency and trust in the polarizing technology.
+
+- **7. Balancing Innovation and Ethics in Illinois&#39;s Tech Industry - TechBullion** [link](https://techbullion.com/balancing-innovation-and-ethics-in-illinoiss-tech-industry/)
+_Highlight:_ Bias and <b>Fairness</b> in <b>AI</b>. Many companies in Illinois are leveraging <b>AI</b> to improve decision-making, but <b>AI</b> algorithms often reflect biases inherent&nbsp;...
+
+- **8. Controversies surrounding transgender athletes and competitive <b>fairness</b> [PODCAST]** [link](https://www.kevinmd.com/2024/10/controversies-surrounding-transgender-athletes-and-competitive-fairness-podcast.html)
+_Highlight:_ ... <b>fairness</b> in competitive sports ... Help restore your work-life balance with DAX Copilot, your <b>AI</b> assistant for automated clinical documentation and&nbsp;...
+
+- **9. Should <b>AI</b> be allowed in the college application process? - EdScoop** [link](https://edscoop.com/ai-college-application-survey-higher-education-2024/)
+_Highlight:_ As for the admissions process, 65% of those surveyed said they didn&#39;t use <b>AI</b> while applying because of concerns about <b>fairness</b> and the potential for&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
