@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-10-27 One-Minute Post
+date: 2024-10-27 07:44:35 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google, Adobe, and IBM are teaming up to promote AI literacy while also prioritizing data privacy. Meanwhile, a US official claims Tesla's AI system shows bias by recognizing everyone as tall white men. Additionally, OpenAI emphasizes the importance of the US maintaining leadership in AI development for national security. Microsoft, BlackRock, and the UAE have unveiled a $100 billion AI infrastructure fund, aiming to transform AI and broaden the security ecosystem. Algorithmic bias is cautioned against, and AI code reviews are highlighted as crucial for mitigating biases learned from training data.
+
+## Articles we found interesting:
+
+- **1. Cohere&#39;s multilingual models, Denmark&#39;s supercomputer, and legal <b>AI</b> agents - Quartz** [link](https://qz.com/cohere-ai-nvidia-denmark-supercomputer-legal-agents-1851681945)
+_Highlight:_ Wound <b>AI</b> can integrate into existing Electronic Health Records, “and is built on a federated <b>AI</b> model that prioritizes data <b>privacy</b> and security while&nbsp;...
+
+- **2. Researchers say an <b>AI</b>-powered transcription tool used in hospitals invents things no one ever said** [link](https://abcnews.go.com/US/wireStory/researchers-ai-powered-transcription-tool-hospitals-invents-things-115170291)
+_Highlight:_ John Muir Health spokesman Ben Drew said the health system complies with state and federal <b>privacy</b> laws. ___. Schellmann reported from New York. ___.
+
+- **3. Google, Adobe and IBM aiming to help millions gain <b>AI</b> skills - CNBC** [link](https://www.cnbc.com/2024/10/25/google-adobe-and-ibm-aiming-to-help-millions-gain-ai-skills.html)
+_Highlight:_ ... <b>AI</b> and increase <b>AI</b> literacy. Additionally, the center plans to offer ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices.
+
+- **4. Leading U.S. Official On <b>AI</b> Policy Claims Tesla <b>AI</b> &#39;Recognizes Everybody As Tall White Men ...** [link](https://www.benzinga.com/startups/24/10/41561204/leading-u-s-official-on-ai-policy-claims-tesla-ai-recognizes-everybody-as-tall-white-men-says-shell)
+_Highlight:_ In an open discussion, Vidal revealed her encounter with the <b>AI</b> in her Tesla, implying a significant <b>bias</b> in the system that, in her opinion, was far&nbsp;...
+
+- **5. Developing global <b>AI</b> governance framework highlighted at WLA forum - Chinadaily.com.cn** [link](https://www.chinadaily.com.cn/a/202410/27/WS671d9f2ca310f1265a1c9d55.html)
+_Highlight:_ Jon Kleinberg, recipient of the 2024 WLA Prize in Computer Science or Mathematics, cautioned against algorithmic <b>bias</b> in his address, &quot;Daily Life in&nbsp;...
+
+- **6. What <b>AI</b> code reviews should look Like - TechTalks** [link](https://bdtechtalks.com/2024/10/26/ai-code-reviews/)
+_Highlight:_ Hence, <b>bias</b> mitigation is crucial in <b>AI</b> code reviews. <b>AI</b> models can inadvertently learn <b>biases</b> from training data, leading to unfair or discriminatory&nbsp;...
+
+- **7. OpenAI outlines national security approach** [link](https://thehill.com/policy/technology/4953192-openai-commitment-to-ai-safety/)
+_Highlight:_ OpenAI doubled down on the importance of the U.S. maintaining leadership on <b>artificial intelligence</b> (<b>AI</b>) development in a new outline of the&nbsp;...
+
+- **8. Microsoft, BlackRock, UAE Unveil $100B <b>AI</b> Infrastructure Fund - MSN** [link](http://www.msn.com/en-us/money/other/microsoft-blackrock-uae-unveil-100b-ai-infrastructure-fund/ar-AA1sU9q9%3Fapiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1)
+_Highlight:_ In a groundbreaking collaboration, Microsoft, BlackRock, and the United Arab Emirates have announced the launch of a $100 billion <b>AI</b>.
+
+- **9. Microsoft Set To Transform <b>AI</b>, Broaden Security Ecosystem With SFI** [link](https://independent.ng/microsoft-set-to-transform-ai-broaden-security-ecosystem-with-sfi/)
+_Highlight:_ This was part of the highlights during a virtual Microsoft Africa <b>AI</b> Journalist Academy held early this week. The changing threat landscape, and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
