@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2024-10-28 One-Minute Post
+date: 2024-10-28 07:40:34 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+25% of smartphone owners express privacy concerns as Apple's AI capabilities draw near. Google is reportedly developing an AI agent for web browsing, raising further privacy questions. OpenAI denies releasing a model called 'Orion' this year. The Philippines is considering a 'Superbody' to address AI technology concerns, including privacy protection and bias prevention. Technology perpetuates societal biases, with 65% of employers expected to use AI for candidate rejection in 2025. A lawmaker renews the call for an agency to regulate AI, emphasizing the need for transparency and fairness in AI development and usage.
+
+## Articles we found interesting:
+
+- **1. 25% of Smartphone Owners Don&#39;t Want <b>AI</b> as Apple Intelligence Draws Near - CNET** [link](https://www.cnet.com/tech/mobile/25-of-smartphone-owners-dont-want-ai-as-apple-intelligence-draws-near/)
+_Highlight:_ ... <b>AI</b> capabilities and 34% have <b>privacy</b> concerns. ... Tech giants have placed a growing emphasis on <b>privacy</b> considerations during their <b>AI</b>-focused keynotes&nbsp;...
+
+- **2. Google is reportedly developing &#39;Jarvis&#39; <b>AI</b> that could take over your web browser** [link](https://www.engadget.com/ai/google-is-reportedly-developing-jarvis-ai-that-could-take-over-your-web-browser-163404705.html)
+_Highlight:_ Google may be close to unveiling an <b>AI</b> agent that can operate a web browser to help users automate everyday tasks. ... Terms and <b>Privacy</b> Policy&nbsp;...
+
+- **3. OpenAI denies it&#39;s releasing a model called &#39;Orion&#39; this year | TechCrunch** [link](https://techcrunch.com/2024/10/26/openai-denies-its-releasing-a-model-called-orion-this-year/)
+_Highlight:_ The Verge noted this week that OpenAI is reportedly planning to release its next frontier <b>AI</b> model, code-named Orion, by December. ... <b>privacy</b> policies,&nbsp;...
+
+- **4. &#39;Superbody&#39; eyed to handle <b>AI</b> technology concerns in Philippines | Philstar.com** [link](https://www.philstar.com/headlines/2024/10/28/2395806/superbody-eyed-handle-ai-technology-concerns-philippines)
+_Highlight:_ The bill, he said, includes provisions to protect people&#39;s privacy and personal data to prevent discrimination and <b>bias</b> in <b>AI</b> technologies, as&nbsp;...
+
+- **5. Tech today perpetuates colonialism, inequality, and societal <b>biases</b>. Here&#39;s how. - Rappler** [link](https://www.rappler.com/moveph/social-good-summit/how-technology-perpetuates-colonialism-inequality-societal-biases/)
+_Highlight:_ ... <b>biases</b> are integrated into data and tools powered by <b>artificial intelligence</b>. For instance, the 2020 documentary Coded <b>Bias</b> tackled researcher Joy&nbsp;...
+
+- **6. 65% Of Employers To Use <b>AI</b> To Reject Candidates In 2025 - Forbes** [link](https://www.forbes.com/sites/rachelwells/2024/10/27/65-of-employers-to-use-ai-to-reject-candidates-in-2025/)
+_Highlight:_ ... <b>AI</b> tools in hiring are subject to <b>bias</b> and discrimination. And hiring managers know it. Nearly all of the survey respondents agreed that <b>AI</b> always&nbsp;...
+
+- **7. Lawmaker renews call for agency to regulate <b>AI</b> | The Manila Times** [link](https://www.manilatimes.net/2024/10/28/news/lawmaker-renews-call-for-agency-to-regulate-ai/1992137)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) ... &quot;It outlines the principles of responsible <b>AI</b> usage and development, which include transparency, <b>fairness</b>,&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
