@@ -1,0 +1,28 @@
+---
+layout: post
+title: 2024-10-29 One-Minute Post
+date: 2024-10-29 07:33:12 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+US AI Regulation: States Take the Lead - CEPA reports on Europe's swift action on privacy and AI with the AI Act. Meanwhile, AI Governance in Health Systems emphasizes the need to address privacy concerns. Google's AI advancements raise questions about online privacy. Leveraging AI in Business highlights concerns about data privacy and bias in AI systems.
+
+## Articles we found interesting:
+
+- **1. US <b>AI</b> Regulation: States Take the Lead - CEPA** [link](https://cepa.org/article/us-ai-regulation-states-take-the-lead/)
+_Highlight:_ In contrast, Europe has moved quickly on <b>privacy</b>, competition, and <b>artificial intelligence</b>, most recently with the ambitious <b>AI</b> Act. California and&nbsp;...
+
+- **2. <b>AI</b> Governance in Health Systems: Aligning Innovation, Accountability, and Trust** [link](https://healthpolicy.duke.edu/publications/ai-governance-health-systems-aligning-innovation-accountability-and-trust)
+_Highlight:_ Tools enabled by <b>artificial intelligence</b> (<b>AI</b>) have the potential to ... <b>privacy</b> concerns and other legal issues. But <b>AI</b> governance is a&nbsp;...
+
+- **3. How Google&#39;s <b>AI</b> Plans to Take Over Computers | Technology Magazine** [link](https://technologymagazine.com/articles/how-googles-ai-plans-to-take-over-computers)
+_Highlight:_ However, as these <b>AI</b> systems become more sophisticated, they raise questions about the future of web browsing, online <b>privacy</b> and the role of human&nbsp;...
+
+- **4. Leveraging <b>AI</b> in Business: Legal Implications and Best Practices | JD Supra** [link](https://www.jdsupra.com/legalnews/leveraging-ai-in-business-legal-5321062/)
+_Highlight:_ Data Privacy: <b>AI</b> systems often require vast amounts of data, raising concerns about compliance with data protection laws like GDPR and CCPA. <b>Bias</b> and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
