@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-10-30 One-Minute Post
+date: 2024-10-30 07:35:08 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple's 'Apple Intelligence' AI prioritizes privacy. RBI warns of bias in AI implementation. Regulator calls for quick work on AI governance. FMA emphasizes fairness and compliance in AI integration.
+
+## Articles we found interesting:
+
+- **1. Ask the expert: Technology regulation proves key issue in election | MSUToday** [link](https://msutoday.msu.edu/news/2024/ask-the-expert-technology-regulation-proves-key-issue-in-election)
+_Highlight:_ ... <b>AI</b> technologies to uphold “civil liberties, <b>privacy</b> and American values.” The order did not mention how existing <b>privacy</b> protections would be enforced&nbsp;...
+
+- **2. How &#39;Apple Intelligence&#39; is Disrupting <b>AI</b> - Technology Magazine** [link](https://technologymagazine.com/articles/how-apple-intelligence-is-disrupting-ai)
+_Highlight:_ Apple&#39;s &#39;Apple Intelligence&#39; <b>AI</b> aims to enhance user experience &amp; productivity while prioritising <b>privacy</b> across iPhone, iPad and Mac platforms.
+
+- **3. A Fragmented Landscape Is No Excuse for Global Companies Serious About Responsible <b>AI</b>** [link](https://sloanreview.mit.edu/article/a-fragmented-landscape-is-no-excuse-for-global-companies-serious-about-responsible-ai/)
+_Highlight:_ Data <b>Privacy</b> Brasil&#39;s Bruno Bioni contends that “these multilateral policy forums play a critical role in setting agendas, implementing principles,&nbsp;...
+
+- **4. How <b>AI</b> is shaping the future of the healthcare industry - DataScienceCentral.com** [link](https://www.datasciencecentral.com/how-ai-is-shaping-the-future-of-the-healthcare-industry/)
+_Highlight:_ ... <b>AI</b> tools to prevent the associated algorithm <b>bias</b>. Conclusion. There is a need for research and development towards the development of more <b>AI</b>&nbsp;...
+
+- **5. RBI Bulletin: <b>AI</b> revolutionizes Indian banking | Capital Market News - Business Standard** [link](https://www.business-standard.com/markets/capital-market-news/rbi-bulletin-ai-revolutionizes-indian-banking-124103000199_1.html)
+_Highlight:_ However, the RBI also cautioned about the potential challenges associated with <b>AI</b> implementation. One of the primary concerns is the risk of <b>bias</b>&nbsp;...
+
+- **6. Microsoft, Be My Eyes Announce New Joint Venture To &#39;Drive <b>AI</b> Innovation&#39; - Forbes** [link](https://www.forbes.com/sites/stevenaquino/2024/10/29/microsoft-be-my-eyes-announce-new-joint-venture-to-drive-ai-innovation/)
+_Highlight:_ The lack of data, the company added, poses great risk of what it characterized as an “<b>AI</b>-prevalent future of inherent <b>bias</b> and inaccessibility&nbsp;...
+
+- **7. Regulator calls for &#39;quick work&#39; on <b>AI</b> governance - Insurance News** [link](https://www.insurancenews.com.au/daily/regulator-calls-for-quick-work-on-ai-governance)
+_Highlight:_ ... <b>AI</b>-specific regulations to be introduced, the industry watchdog says. An ... Only 12 had policies in place for <b>AI</b> that referenced <b>fairness</b> or&nbsp;...
+
+- **8. <b>AI</b> might scare us, but can we scare it? - ScienceBlog.com** [link](https://scienceblog.com/548984/ai-might-scare-us-but-can-we-scare-it/)
+_Highlight:_ Amid these advances, machines evoke powerful reactions from humans—sparking concerns about control, <b>fairness</b>, and the potential for misuse. Many&nbsp;...
+
+- **9. FMA tackles <b>fairness</b> and compliance in 2024 annual report - Insurance Business America** [link](https://www.insurancebusinessmag.com/nz/news/breaking-news/fma-tackles-fairness-and-compliance-in-2024-annual-report-511607.aspx)
+_Highlight:_ FMA tackles <b>fairness</b> and compliance in 2024 annual report ... FMA highlights opportunities and risks of <b>AI</b> integration across financial services sector.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
