@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-11-01 One-Minute Post
+date: 2024-11-01 07:39:23 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+CIOs are addressing data governance for generative AI, while AI-powered visuals in healthcare prioritize patient privacy. Dubai is pioneering a future-ready city with AI, focusing on mitigating bias in AI models. IBM's Granite 3.0 introduces guardrails to detect social bias in AI, and companies are strategizing to mitigate AI risks, including data privacy and bias. AI security cameras raise concerns about privacy, prompting discussions on how to maintain privacy while leveraging AI features.
+
+## Articles we found interesting:
+
+- **1. How CIOs Can Fix Data Governance For Generative <b>AI</b> - Forbes** [link](https://www.forbes.com/sites/cio/2024/10/31/how-cios-can-fix-data-governance-for-generative-ai/)
+_Highlight:_ ... <b>AI</b> In National Security, Consumers Are Engaged With Online <b>Privacy</b>. Megan Poinski. Forbes Staff. I&#39;m the writer for the Forbes C-Suite newsletter&nbsp;...
+
+- **2. <b>AI</b>-powered visuals boost doctor-patient communication - IO - Innovation Origins** [link](https://innovationorigins.com/en/ai-powered-visuals-boost-doctor-patient-communication/)
+_Highlight:_ With a focus on <b>privacy</b> and patient control, this project could mark a significant leap forward in healthcare communication and decision-making.
+
+- **3. What Is an <b>AI</b> Security Camera? - CNET** [link](https://www.cnet.com/home/security/what-is-an-ai-security-camera/)
+_Highlight:_ SwannBuddy is the latest conversational <b>AI</b> to arrive at the smart home. Swann Security. Do these <b>AI</b> features compromise my <b>privacy</b>? Generic object&nbsp;...
+
+- **4. Dubai&#39;s <b>AI</b> Blueprint: Pioneering a Future-Ready City - Edge Middle East** [link](https://www.edgemiddleeast.com/ai/dubais-ai-blueprint-pioneering-a-future-ready-city)
+_Highlight:_ Dubai is pursuing an ambitious vision for <b>artificial intelligence</b>, integrating <b>AI</b> ... <b>bias</b> in <b>AI</b> models. “Our <b>AI</b> framework is designed to uphold&nbsp;...
+
+- **5. IBM Granite 3.0: Boosting <b>AI</b> ROI with efficiency and safety - SiliconANGLE** [link](https://siliconangle.com/2024/10/31/ibm-granite-3-boosts-ai-roi-efficiency-safety-ibmarforum/)
+_Highlight:_ To further optimize ROI, Granite 3.0 introduces new guardrails through the Granite Guardian models, which detect risks such as social <b>bias</b>, profanity&nbsp;...
+
+- **6. How to Build a Strategy to Mitigate <b>AI</b> Risks | Guidepost Solutions LLC - JDSupra** [link](https://www.jdsupra.com/legalnews/how-to-build-a-strategy-to-mitigate-ai-3607821/)
+_Highlight:_ ... <b>AI</b>, such as data privacy and <b>bias</b>, and emphasize taking a risk-based approach with adequate controls to mitigate company-specific risk. Data theft&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
