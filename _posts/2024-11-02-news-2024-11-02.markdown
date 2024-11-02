@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-02 One-Minute Post
+date: 2024-11-02 07:39:52 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+IndiaFOSS 2024 highlights <b>privacy</b> concerns in AI. White House <b>AI</b> strategy criticized for neglecting ethics. AIs exhibit <b>bias</b> against Black and female resumes. New York issues guidance on <b>fairness</b> and bias in <b>AI</b>. Algorithm developed for <b>fairer</b> shortlisting using <b>AI</b>.
+
+## Articles we found interesting:
+
+- **1. Bridging Tech and Policy: Insights on <b>Privacy</b> and <b>AI</b> from IndiaFOSS 2024** [link](https://www.techpolicy.press/bridging-tech-and-policy-insights-on-privacy-and-ai-from-indiafoss-2024)
+_Highlight:_ This delay means that India still lacks any <b>privacy</b> protections. The rapid advancement of <b>AI</b> exacerbates <b>privacy</b> concerns, particularly issues like&nbsp;...
+
+- **2. State to develop new <b>AI</b> marketplace for staff - Nextgov/FCW** [link](http://www.fcw.com/artificial-intelligence/2024/11/state-develop-new-ai-marketplace-staff/400750/%3Foref%3Dng-homepage-river)
+_Highlight:_ Your <b>Privacy</b> Choices; Exercise Your <b>Privacy</b> Rights &middot; Officials across the ... Further down the road, State is working on creating a new <b>AI</b> marketplace&nbsp;...
+
+- **3. Discussing <b>AI</b>, Data, and Cyber Regulation in Europe With Sidley&#39;s William Long | Insights** [link](https://www.sidley.com/en/insights/podcasts/2024/11/discussing-ai-data-and-cyber-regulation-in-europe-with-sidley-william-long)
+_Highlight:_ This week on Mutual Fund Minute, Sidley partner Jay Baris talks with William Long, the global co-chair of Sidley&#39;s <b>Privacy</b> and Cybersecurity practice&nbsp;...
+
+- **4. White House <b>AI</b> Strategy Makes Ethics An Afterthought - Forbes** [link](https://www.forbes.com/sites/jillgoldenziel/2024/10/31/white-house-ai-strategy-makes-ethics-an-afterthought/)
+_Highlight:_ The National Security Memorandum on <b>AI</b> pays insufficient attention to ethics. Civil liberties and public trust are at stake.
+
+- **5. AIs show distinct <b>bias</b> against Black and female résumés in new study - Ars Technica** [link](https://arstechnica.com/ai/2024/11/study-ais-prefer-white-male-names-on-resumes-just-like-humans/)
+_Highlight:_ Language models seem to treat “masculine and White concepts… as the &#39;default&#39; value.”…
+
+- **6. The Risks of <b>Bias</b> in Technology Evaluations - Telecoms.com** [link](https://www.telecoms.com/network-software/the-risks-of-bias-in-technology-evaluations)
+_Highlight:_ Trust has long been the bedrock of the technology industry. For decades, Gartner&#39;s Magic Quadrant reports have served as a crucial compass for&nbsp;...
+
+- **7. New York Department of Financial Services Issues New Guidance on Cybersecurity Risks ...** [link](https://www.jdsupra.com/legalnews/new-york-department-of-financial-3040223/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). The guidance purportedly aims to assist ... <b>AI</b> assessments to validate accuracy, <b>fairness</b>, bias, and safety.
+
+- **8. Regulation of <b>AI</b> in Healthcare Utilization Management and Prior Authorization Increases** [link](https://www.hklaw.com/en/insights/publications/2024/10/regulation-of-ai-in-healthcare-utilization-management)
+_Highlight:_ ... <b>fairness</b> of their <b>AI</b> systems and disclose any identified defects to system users. ... Additionally, the act requires insurers to notify individuals of&nbsp;...
+
+- **9. New algorithm picks fairer shortlist when applicants abound - Tech Xplore** [link](https://techxplore.com/news/2024-10-algorithm-fairer-shortlist-applicants-abound.html)
+_Highlight:_ <b>AI</b>-powered hiring process perceived as more <b>fair</b> when ... Study: When allocating scarce resources with <b>AI</b>, randomization can improve <b>fairness</b>.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
