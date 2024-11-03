@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-11-03 One-Minute Post
+date: 2024-11-03 06:39:51 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Slack's CEO emphasizes AI transparency, safety, and trust. Armenia's surveillance bill raises international concern over privacy rights. Meanwhile, harmful effects of AI include perpetuating biases and unfair outcomes. In India, AI's potential role in shaping the startup ecosystem is highlighted, but the need to address bias in decision-making processes is emphasized. Additionally, China's People's Liberation Army is weaponizing Meta's AI, underscoring the importance of human oversight to mitigate risks like confirmation bias.
+
+## Articles we found interesting:
+
+- **1. Slack is evolving how people work in the age of <b>AI</b>:CEO - Yahoo Finance** [link](https://finance.yahoo.com/video/slack-evolving-people-age-ai-170037505.html)
+_Highlight:_ ... <b>AI</b> 00:05:18 <b>AI</b> transparency, safety, and trust 00:08:49 Agentforce on Salesforce platform 00:10:44 Competition among <b>AI</b> tool makers 00:12:29 <b>Privacy</b>&nbsp;...
+
+- **2. The &#39;world&#39;s thinnest&#39; wafers, <b>AI</b> agents, and Apple&#39;s surprise: This week in new <b>AI</b> launches** [link](https://qz.com/infineon-wafer-ai-agent-apple-pixelmator-bret-taylor-1851687584)
+_Highlight:_ ... Français. Explore our other sites. kotaku &middot; quartz &middot; theroot &middot; theinventory &middot; Advertising<b>Privacy</b>JobsTerms of Use. © 2024 G/O Media. Generation <b>A.I.</b>&nbsp;...
+
+- **3. Armenia surveillance bill spurs international concern over <b>privacy</b> rights - JURIST - News** [link](https://www.jurist.org/news/2024/11/armenia-surveillance-bill-spurs-international-concern-over-privacy-rights/)
+_Highlight:_ The rights group added that the incorporation of <b>AI</b> analytics only amplifies these risks. HRW&#39;s Associate Director for Europe and Central Asia Giorgi&nbsp;...
+
+- **4. The Harmful Effects of <b>Artificial Intelligence</b> (<b>AI</b>) And Projected Future Implications** [link](https://www.techbusinessnews.com.au/blog/the-harmful-effects-of-artificial-intelligence-ai-and-projected-future-implications/)
+_Highlight:_ <b>Bias</b> and Discrimination: Algorithms can perpetuate existing <b>biases</b> or introduce new ones, leading to unfair outcomes in hiring, judicial, and&nbsp;...
+
+- **5. Unlocking Potential: <b>AI&#39;s</b> Role in Shaping the Indian Startup Ecosystem - Bizz Buzz** [link](https://www.bizzbuzz.news/technology/ai/unlocking-potential-ais-role-in-shaping-the-indian-startup-ecosystem-1341032)
+_Highlight:_ If <b>AI</b> systems are not properly planned and supervised, they may inject <b>bias</b> into decision-making processes. Businesses must deal with ethical issues&nbsp;...
+
+- **6. China&#39;s People&#39;s Liberation Army weaponizing Meta&#39;s <b>AI</b> - Asia Times** [link](https://asiatimes.com/2024/11/chinas-peoples-liberation-army-weaponizing-metas-ai/)
+_Highlight:_ However, Jensen and Tadross stress the importance of critical thinking and human oversight to mitigate risks like confirmation <b>bias</b> and <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
