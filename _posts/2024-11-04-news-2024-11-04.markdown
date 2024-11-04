@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2024-11-04 One-Minute Post
+date: 2024-11-04 06:25:28 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Lenovo emphasizes AI security and privacy responsibilities. Organizations must anticipate legal challenges related to AI privacy. GenAI advises companies to focus on smaller, specific goals. TECNO's #ToneProud campaign aims to end skin tone bias in imaging technology. Microsoft India head prioritizes bias mitigation in AI development. IBM highlights the need to address AI bias to prevent harmful outcomes. Ireland designates authorities to safeguard fundamental rights under the EU AI Act, ensuring fair and transparent AI systems.
+
+## Articles we found interesting:
+
+- **1. An interview with Lenovo on <b>AI</b> security and the future of its technologies - Windows Central** [link](https://www.windowscentral.com/lenovo-tech-world-24-interview-daryl-cromer-discussing-ai)
+_Highlight:_ <b>AI</b> security and <b>privacy</b> — Lenovo&#39;s responsibility to its customers; Our &quot;digital wardrobe&quot; is going to continue to expand. Last week, I attended the&nbsp;...
+
+- **2. How to Navigate the <b>AI</b> Minefield - Inc. Magazine** [link](https://www.inc.com/stu-sjouwerman/how-to-navigate-the-ai-minefield/90998714)
+_Highlight:_ Organizations involved in the development or use of <b>AI</b> technologies must anticipate legal challenges related to <b>privacy</b>, data protection, liability,&nbsp;...
+
+- **3. GenAI suffers from data overload, so companies should focus on smaller, specific goals | TechCrunch** [link](https://techcrunch.com/2024/11/03/genai-suffers-from-data-overload-so-companies-should-focus-on-smaller-specific-goals/)
+_Highlight:_ The advice for companies looking to jump into the dizzying world of generative <b>AI</b> ... By submitting your email, you agree to our Terms and <b>Privacy</b>&nbsp;...
+
+- **4. TECNO&#39;s #ToneProud Campaign Aspires to End Skin Tone <b>Bias</b> in Imaging Technology to ...** [link](https://finance.yahoo.com/news/tecnos-toneproud-campaign-aspires-end-020000684.html)
+_Highlight:_ In a world where technology and <b>AI</b> shapes perceptions, are smartphones truly capturing the full spectrum and beauty of human diversity,&nbsp;...
+
+- **5. Microsoft India head Puneet Chandok: It is job number one ..., above everything else** [link](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-india-head-puneet-chandok-it-is-job-number-one-above-everything-else/articleshow/114920671.cms)
+_Highlight:_ ... <b>bias</b> mitigation in <b>AI</b> development. Microsoft is actively working to ensure that its <b>AI</b> technologies are developed and used ethically. He said that&nbsp;...
+
+- **6. Democratizing <b>AI</b> - IBM** [link](https://www.ibm.com/think/insights/democratizing-ai)
+_Highlight:_ <b>AI bias</b> can produce outcomes that are unhelpful or even harmful to people from underrepresented groups, hindering their ability to participate in the&nbsp;...
+
+- **7. Ireland Designates Nine Authorities to Safeguard Fundamental Rights Under the EU <b>AI</b> Act** [link](https://www.williamfry.com/knowledge/ireland-designates-nine-authorities-to-safeguard-fundamental-rights-under-the-eu-ai-act/)
+_Highlight:_ This oversight might involve ensuring that <b>AI</b> systems affecting children are <b>fair</b>, transparent, and designed with consideration for children&#39;s privacy&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
