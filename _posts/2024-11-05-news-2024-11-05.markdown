@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2024-11-05 One-Minute Post
+date: 2024-11-05 06:31:09 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Elon Musk suggests Grok AI's role in healthcare, raising privacy concerns. Apple's AI strategy emphasizes privacy and security. OSI defines open source AI, focusing on data privacy. Biased AI images impact our perceptions, prompting concerns about fairness. AI integration in insurance faces challenges related to bias. Implementing AI responsibly requires vigilant oversight to maintain technological fairness.
+
+## Articles we found interesting:
+
+- **1. Elon Musk suggests Grok <b>AI</b> has a role in healthcare** [link](https://www.healthcareitnews.com/news/elon-musk-suggests-grok-ai-has-role-healthcare)
+_Highlight:_ Uploading medical data through a social media platform raises questions about <b>privacy</b>. Some in healthcare have already tested the large language model&nbsp;...
+
+- **2. Apple <b>AI</b> iPhone and PC Brief 2024: Key Aspects of Apple&#39;s <b>AI</b> Strategy, Cautious Approach ...** [link](https://finance.yahoo.com/news/apple-ai-iphone-pc-brief-154700961.html)
+_Highlight:_ Additionally, it discusses the role of <b>privacy</b> and security in Apple&#39;s <b>AI</b> development, how iOS 18 enhances user experience, and how Apple&#39;s&nbsp;...
+
+- **3. Opening up about <b>AI</b>: OSI defines open source <b>AI</b> - Eversheds Sutherland** [link](https://www.eversheds-sutherland.com/en/united-states/insights/opening-up-about-ai-osi-defines-open-source-ai)
+_Highlight:_ To view the full disclaimer, see our Terms and Conditions or Disclaimer section in the footer. Services. Data <b>Privacy</b>, Security and Technology&nbsp;...
+
+- **4. How online photos and videos alter the way you think - BBC** [link](https://www.bbc.com/future/article/20241101-how-online-photos-and-videos-alter-the-way-you-think)
+_Highlight:_ The more <b>biased</b> images <b>AI</b> models themselves spit out, the more we see; the more we see, the more implicitly <b>biased</b> we become ourselves. The latest&nbsp;...
+
+- **5. Seeking truth in a barrage of <b>biases</b> - Deccan Herald** [link](https://www.deccanherald.com/opinion/seeking-truth-in-a-barrage-of-biases-3261856)
+_Highlight:_ As we rely more on <b>Artificial Intelligence</b> to personalise our digital experiences, these algorithms have become channels for <b>bias</b> that constructs our&nbsp;...
+
+- **6. Understanding the Challenges and Concerns of <b>AI</b> Integration in Insurance** [link](https://www.insuranceciooutlook.com/news/understanding-the-challenges-and-concerns-of-ai-integration-in-insurance-nid-1573.html)
+_Highlight:_ Understanding AI <b>Bias</b>: <b>AI</b> bias refers to the systematic and unfair ... Measures to Mitigate Bias in AI Systems: To address concerns related to AI bias&nbsp;...
+
+- **7. Discover the Invisible Tech Revolution: Are You Using <b>AI</b> Without Knowing It? - elblog.pl** [link](https://elblog.pl/2024/11/04/discover-the-invisible-tech-revolution-are-you-using-ai-without-knowing-it/)
+_Highlight:_ Are algorithms <b>fair</b>, and how are they audited? Implementing <b>AI</b> responsibly requires vigilant oversight to maintain technological <b>fairness</b>.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
