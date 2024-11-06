@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-06 One-Minute Post
+date: 2024-11-06 06:32:31 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California is leading in regulating AI and privacy. Meta offers Llama AI for national security. OAIC AI guidance sharpens Privacy Act rules. House bill aims to eliminate bias in AI systems. ChatGPT accused of political bias. Meta collaborates with the US military for AI model. Rahul Mangharam leads a team for trustworthy AI in transportation. Newsweek focuses on speed and fairness in US election coverage. The ethical landscape of AI in academia is under scrutiny.
+
+## Articles we found interesting:
+
+- **1. A View From California: One Important <b>Artificial Intelligence</b> Bill Down, 17 Others Good To Go** [link](https://www.clarkhill.com/news-events/news/a-view-from-california-one-important-artificial-intelligence-bill-down-17-others-good-to-go/)
+_Highlight:_ As it did with data <b>privacy</b>, California seeks to lead the charge when it comes to regulating the use and deployment of <b>Artificial Intelligence</b>&nbsp;...
+
+- **2. Meta offers Llama <b>AI</b> to US government for national security | CIO** [link](https://www.cio.com/article/3599448/meta-offers-llama-ai-to-us-government-for-national-security.html)
+_Highlight:_ Meta&#39;s move comes at a strategic moment, as <b>AI</b> companies contend with mounting regulatory challenges and <b>privacy</b> concerns. It also unfolds amid&nbsp;...
+
+- **3. New OAIC <b>AI</b> Guidance Sharpens <b>Privacy</b> Act Rules, Applies to All Organizations** [link](https://www.cpomagazine.com/data-protection/new-oaic-ai-guidance-sharpens-privacy-act-rules-applies-to-all-organizations/)
+_Highlight:_ ... respect for or protection of <b>privacy</b> to enter personal information into an <b>AI</b> system, unless that <b>AI</b> has been expressly designed for this.
+
+- **4. House Bill Aims to Eliminate <b>Bias</b> in <b>AI</b> Systems - ExecutiveGov** [link](https://executivegov.com/2024/11/house-bill-ai-bias/)
+_Highlight:_ Learn about the proposed actions to combat <b>bias</b> and discrimination in <b>artificial intelligence</b> systems used in critical sectors.
+
+- **5. Is ChatGPT <b>biased</b>? Users claim <b>AI</b> encourages support for Kamala Harris over Donald Trump** [link](https://timesofindia.indiatimes.com/world/us/is-chatgpt-biased-users-claim-ai-encourages-support-for-kamala-harris-over-donald-trump/articleshow/114971557.cms)
+_Highlight:_ US News: On the eve of the 2024 US Presidential election, OpenAI&#39;s ChatGPT is facing allegations of political <b>bias</b>. Users claim the <b>AI</b> chatbot&nbsp;...
+
+- **6. Meta is letting the US military use its Llama <b>AI</b> model for &#39;national security applications&#39;** [link](https://www.techradar.com/pro/meta-is-letting-the-us-military-use-its-llama-ai-model-for-national-security-applications)
+_Highlight:_ Meta will now work with government agencies to develop military applications &middot; Concerns have been raised about security risks for <b>AI</b> &middot; Researchers find&nbsp;...
+
+- **7. Rahul Mangharam Leads Team on $1.2 Million NSF Award for Trustworthy <b>AI</b> in ...** [link](https://almanac.upenn.edu/articles/rahul-mangharam-leads-team-on-12-million-nsf-award-for-trustworthy-ai-in-transportation-cyber-physical-systems)
+_Highlight:_ Society&#39;s widespread adoption of self-driving cars is just around the corner. But while these vehicles have the potential to provide significant&nbsp;...
+
+- **8. US election: Speed and <b>fairness</b> are key tactics for fast-growing Newsweek - Press Gazette** [link](https://pressgazette.co.uk/north-america/newsweek-us-election/)
+_Highlight:_ Fast-growing media brand Newseek says it wants to use speed and <b>fairness</b> to help it stand out in the race for readers during the US election.
+
+- **9. Ethical landscape of <b>AI</b> in academia - THE NEW INDIAN** [link](https://www.newindian.in/ethical-landscape-of-ai-in-academia/)
+_Highlight:_ The recent case involving Kaustubh Shakkarwar, a postgraduate law student at O.P. Jindal Global University, has brought to the forefront a&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
