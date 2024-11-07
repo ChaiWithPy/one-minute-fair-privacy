@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-07 One-Minute Post
+date: 2024-11-07 06:28:49 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Tech policy is set for changes post-election, with a focus on AI and data privacy standards. Trump 2.0 is expected to revamp AI and pull back on antitrust, while ASIC urges financial firms to strengthen governance as AI adoption accelerates. Ethical AI in marketing and the need for fairness, transparency, and ethical guidelines in AI adoption are also in the spotlight. Additionally, a groundbreaking partnership between an AI tech giant and Tokyo University aims to revolutionize education while promoting fairness in AI algorithms. The push for responsible AI usage and guarding against bias in AI models is evident, with a focus on addressing issues of privacy and bias in regulated industries.
+
+## Articles we found interesting:
+
+- **1. Tech policy likely set for changes after election - Roll Call** [link](https://rollcall.com/2024/11/06/tech-policy-likely-set-for-changes-after-election/)
+_Highlight:_ ... <b>artificial intelligence</b>, data <b>privacy</b> and other areas of ... <b>AI</b>, as well as bipartisan legislation to create a federal data <b>privacy</b> standard.
+
+- **2. <b>AI</b> Helped Me: Creating a tool for marketing briefs in minutes in a regulated industry** [link](https://www.prdaily.com/ai-helped-me-creating-a-tool-for-marketing-briefs-in-minutes-in-a-regulated-industry/)
+_Highlight:_ Obviously regulatory needs were top of mind. Data <b>privacy</b>, I&#39;m sure, was a huge issue. Walk me through how you addressed some of those issues. Barr:&nbsp;...
+
+- **3. Making sure <b>AI</b> is used responsibly at NSF - Nextgov/FCW** [link](http://www.fcw.com/artificial-intelligence/2024/11/making-sure-ai-used-responsibly-nsf/400880/%3Foref%3Dng-homepage-river)
+_Highlight:_ Meet Dorothy Aronson, the division director and chief data officer serving as the assistant chief information officer for <b>AI</b> at the National&nbsp;...
+
+- **4. Tech Giants Brace for <b>AI</b> Revamp, Antitrust Pullback in Trump 2.0 - Bloomberg** [link](https://www.bloomberg.com/news/articles/2024-11-06/tech-giants-gird-for-ai-revamp-antitrust-pullback-in-trump-2-0)
+_Highlight:_ He&#39;s also supported open-source technology to guard against perceived left-wing <b>bias</b> in <b>AI</b> models. Antitrust Enforcement. A second Trump&nbsp;...
+
+- **5. ASIC urges financial firms to strengthen governance as <b>AI</b> adoption accelerates** [link](https://www.thelawyermag.com/au/practice-areas/tmt-telecoms-media-technology/asic-urges-financial-firms-to-strengthen-governance-as-ai-adoption-accelerates/512775)
+_Highlight:_ ... <b>bias</b>, and an even smaller number have frameworks in place to inform consumers about <b>AI</b> usage. Longo warned that insufficient governance in these&nbsp;...
+
+- **6. Ethical <b>AI</b> In Marketing: Balancing Automation With Human Values - Forbes** [link](https://www.forbes.com/councils/forbescoachescouncil/2024/11/06/ethical-ai-in-marketing-balancing-automation-with-human-values/)
+_Highlight:_ <b>Bias</b> And Discrimination. <b>AI</b> algorithms leverage datasets provided by the programmer to learn and train how to respond to new inquiries. The&nbsp;...
+
+- **7. <b>AI</b> adoption and Ethical Considerations - Industry News | The Financial Express** [link](https://www.financialexpress.com/business/industry-ai-adoption-and-ethical-considerations-3657800/)
+_Highlight:_ &quot;As AGI technology evolves, companies must prioritize <b>fairness</b>, transparency, and ethical guidelines, with clear actions at every stage of <b>AI</b>&nbsp;...
+
+- **8. Groundbreaking Partnership: <b>AI</b> Tech Giant Teams Up with Tokyo University to ... - elblog.pl** [link](https://elblog.pl/2024/11/06/groundbreaking-partnership-ai-tech-giant-teams-up-with-tokyo-university-to-revolutionize-education/)
+_Highlight:_ This involves safeguarding student data and promoting <b>fairness</b> in <b>AI</b> algorithms. – Future Prospects: According to a recent report, the <b>AI</b> education&nbsp;...
+
+- **9. Your Resume Rejected by <b>AI</b>? - The Himalayan Times** [link](https://thehimalayantimes.com/lifestyle/your-resume-rejected-by-ai)
+_Highlight:_ ... <b>fairness</b> in the <b>AI</b> training itself. For instance, AIF360 (<b>AI Fairness</b> 360) is a toolkit developed by IBM that facilitates bias mitigation&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
