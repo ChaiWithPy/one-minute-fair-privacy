@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-08 One-Minute Post
+date: 2024-11-08 06:23:17 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+NYDFS issues industry guidance on risks arising from AI, while iDox.ai's redaction technology transforms data privacy compliance. Medical testing inequities contribute to racial bias in AI, and Salesforce's Jackie Chambers De Freitas details ways to prevent bias in generative AI. TECNO launches #ToneProud campaign to combat skin tone bias in AI-driven imaging systems. Siegfried & Jensen announce new Truth, Justice, and Fairness Scholarship, and HCLTech and Inspeq AI partner to bring responsible AI development to global enterprises, focusing on fairness, robustness, explainability, privacy, and transparency.
+
+## Articles we found interesting:
+
+- **1. NYDFS Issues Industry Guidance on Risks Arising from <b>Artificial Intelligence</b> | Inside <b>Privacy</b>** [link](https://www.insideprivacy.com/artificial-intelligence/nydfs-issues-industry-guidance-on-risks-arising-from-artificial-intelligence/)
+_Highlight:_ <b>AI</b>-Related Risks: The Guidance notes that threat actors have a “lower barrier to entry” to conduct cyber attacks as a result of <b>AI</b> and identifies four&nbsp;...
+
+- **2. These health systems are using <b>AI</b> to make meaningful change** [link](https://www.ama-assn.org/practice-management/digital/these-health-systems-are-using-ai-make-meaningful-change)
+_Highlight:_ Physician liability for use of <b>AI</b>-enabled technologies. <b>AI</b> data <b>privacy</b> and cybersecurity. Payer use of <b>AI</b> and automated decision-making systems.
+
+- **3. Safeguarding The Future: How iDox.<b>ai&#39;s</b> Redaction Technology Is Transforming Data ...** [link](https://www.ibtimes.co.uk/safeguarding-future-how-idoxais-redaction-technology-transforming-data-privacy-compliance-1728268)
+_Highlight:_ iDox.<b>ai</b> helps organizations automatically identify and redact sensitive data &middot; The Growing Imperative for Data <b>Privacy</b> &middot; Why Redaction Technology&nbsp;...
+
+- **4. Medical testing inequities contribute to racial <b>bias</b> in <b>AI</b> - TechTarget** [link](https://www.techtarget.com/healthtechanalytics/news/366615332/Medical-testing-inequities-contribute-to-racial-bias-in-AI)
+_Highlight:_ Learn how inequitable diagnostic testing can create racial <b>biases</b> in the data used to train healthcare <b>AI</b> and perpetuate care disparities.
+
+- **5. Salesforce&#39;s Jackie Chambers De Freitas Details Ways To Prevent <b>Bias</b> In Generative <b>AI</b> ...** [link](https://afrotech.com/salesforces-jackie-chambers-de-freitas-ai-trust-gap)
+_Highlight:_ Highlighting <b>bias</b> in <b>artificial intelligence</b> (<b>AI</b>) is essential, but equally important is educating people on ways to prevent it.
+
+- **6. 268 Skin Tones: TECNO&#39;s Push For Inclusive Imaging - People of Color in Tech** [link](https://peopleofcolorintech.com/articles/268-skin-tones-tecnos-push-for-inclusive-imaging/)
+_Highlight:_ TECNO, a leader in smartphone technology, has launched the #ToneProud campaign to combat skin tone <b>bias</b> in <b>AI</b>-driven imaging systems.
+
+- **7. Siegfried &amp; Jensen Announce New Truth, Justice, and <b>Fairness</b> Scholarship - Accesswire** [link](https://www.accesswire.com/939749/siegfried-jensen-announce-new-truth-justice-and-fairness-scholarship)
+_Highlight:_ Wrongful use of <b>AI</b> will result in the user&#39;s disqualification from the applicant pool. Applicants have until April 15, 2025, to complete their videos&nbsp;...
+
+- **8. IIT-M study pushes for participatory approaches in <b>AI</b> development - Deccan Herald** [link](https://www.deccanherald.com/india/tamil-nadu/iit-m-study-exhorts-need-for-participatory-approaches-in-ai-development-3266785)
+_Highlight:_ ... <b>AI</b> algorithm as well as enhance the <b>fairness</b> of the process. ADVERTISEMENT. “The widespread adoption of <b>AI</b> technologies in the public and private&nbsp;...
+
+- **9. HCLTech and Inspeq <b>AI</b> partner to bring responsible <b>AI</b> development to global enterprises** [link](https://www.expresscomputer.in/news/hcltech-and-inspeq-ai-partner-to-bring-responsible-ai-development-to-global-enterprises/118474/)
+_Highlight:_ ... <b>AI</b>: <b>Fairness</b>, Robustness, Explainability, Privacy and Transparency. For example, it empowers financial services teams, like a leading European&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
