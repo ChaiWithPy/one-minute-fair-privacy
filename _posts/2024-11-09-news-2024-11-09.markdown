@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-11-09 One-Minute Post
+date: 2024-11-09 06:20:39 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Trump aims to repeal Biden's controversial AI executive order, while LCO and Ontario Human Rights Commission collaborate on a Canadian human rights law-based AI impact assessment tool. Additionally, bills have been introduced in Congress to oversee agency use of AI and establish dedicated civil rights offices. Concerns arise over AI-assisted recruiting aids screening out federal workers with disabilities, prompting the need for bias audits. Trump's unpredictable AI policy plans, influenced by advisors like Elon Musk, add further complexity to the landscape.
+
+## Articles we found interesting:
+
+- **1. Trump promised to repeal Biden&#39;s <b>AI</b> executive order — here&#39;s what to expect next** [link](https://www.nextgov.com/artificial-intelligence/2024/11/trump-promised-repeal-bidens-ai-executive-order-heres-what-expect-next/400934/)
+_Highlight:_ Parts of President Joe Biden&#39;s October 2023 executive order on <b>AI</b> have proven controversial among Republicans.
+
+- **2. LCO teams up with Ontario Human Rights Commission on <b>AI</b> impact assessment tool** [link](https://www.canadianlawyermag.com/practice-areas/privacy-and-data/lco-teams-up-with-ontario-human-rights-commission-on-ai-impact-assessment-tool/389634)
+_Highlight:_ This is the first HRIA founded specifically on Canadian human rights law.
+
+- **3. Trump promised to repeal Biden&#39;s <b>AI</b> executive order — here&#39;s what to expect next** [link](http://www.fcw.com/artificial-intelligence/2024/11/trump-promised-repeal-bidens-ai-executive-order-heres-what-expect-next/400934/%3Foref%3Dng-homepage-river)
+_Highlight:_ ... <b>AI</b> in Government Act of 2020 and the Advancing American <b>AI</b> Act. For ... <b>privacy</b>, civil rights and civil liberties,” Comer said in a statement.
+
+- **4. Bills Offered on Oversight of Agency Use of <b>AI</b>, Other Issues - FEDweek** [link](https://www.fedweek.com/federal-managers-daily-report/bills-offered-on-oversight-of-agency-use-of-ai-other-issues/)
+_Highlight:_ Among bills recently introduced in Congress is HR-10092, to require each federal agency to have a dedicated civil rights office to “identify,&nbsp;...
+
+- **5. What&#39;s to Stop Algorithm-Driven Recruiters From Rejecting Able Federal Workers With ...** [link](https://www.justsecurity.org/104604/algorithm-driven-recruiter-federal-workers/)
+_Highlight:_ The U.S. government has bought <b>AI</b>-assisted recruiting aids, which tend to &quot;screen out&quot; those with developmental or learning disabilities.
+
+- **6. Think Donald Trump&#39;s <b>AI</b> policy plans are predictable? Prepare to be surprised - Fortune** [link](https://fortune.com/2024/11/08/trump-ai-policy-elon-musk-tariffs-china/)
+_Highlight:_ Another wildcard is the chorus of voices advising Trump on technology and <b>AI</b> policy, including billionaire Elon Musk, who campaigned for Trump and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
