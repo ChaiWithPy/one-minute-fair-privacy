@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-10 One-Minute Post
+date: 2024-11-10 06:18:57 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+HR professionals express concerns over lack of AI policies, with 63% worried about data privacy and 49% citing biases and ethical issues. Onix introduces AI solutions prioritizing privacy and security. Deloitte study highlights AI agents' effectiveness and warns about potential bias in AI algorithms. Non-tech AI career paths include AI ethics consultant to address algorithmic bias. IIT Madras emphasizes a participatory approach in AI governance, while PA Times explores AI-driven superpowers for fairness. Navigating the Future stresses the importance of mastering dynamic information governance with AI to meet stringent privacy requirements.
+
+## Articles we found interesting:
+
+- **1. Report: 40% of HR professionals say their companies lack <b>AI</b> policies - BenefitsPro** [link](https://www.benefitspro.com/2024/11/09/report-40-of-hr-professionals-say-their-companies-lack-ai-policies/)
+_Highlight:_ Almost two-thirds (63%) of HR professionals are worried about data <b>privacy</b>, and 49% cited biases and ethical issues in <b>AI</b> usage. It&#39;s crucial to&nbsp;...
+
+- **2. Onix Unveils the Future of Data and <b>AI</b> with Two Cutting-Edge Solutions - Express Computer** [link](https://www.expresscomputer.in/artificial-intelligence-ai/onix-unveils-the-future-of-data-and-ai-with-two-cutting-edge-solutions/118598/)
+_Highlight:_ ... <b>AI</b> more rapidly than ever before.” Kingfisher is a groundbreaking <b>AI</b>-powered product designed for today&#39;s stringent data <b>privacy</b> and security demands.
+
+- **3. Onix Introduces Solutions in Synthetic Data and <b>AI</b>-Driven Business Intelligence** [link](https://www.dqindia.com/news/onix-introduces-solutions-in-synthetic-data-and-ai-driven-business-intelligence-7567014)
+_Highlight:_ Kingfisher provides secure synthetic data generation for <b>privacy</b>-compliant <b>AI</b> development, together, they empower enterprises to innovate responsibly&nbsp;...
+
+- **4. <b>AI</b> agents more effective than GenAI for enterprise productivity: Deloitte Study - ANI News** [link](https://www.aninews.in/news/business/ai-agents-more-effective-than-genai-for-enterprise-productivity-deloitte-study20241110092918)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) agents can be a more effective tool ... &quot;A significant risk is potential <b>bias</b> in <b>AI</b>. algorithms and training&nbsp;...
+
+- **5. Top <b>AI</b> Career Paths for Non-Tech Professionals in 2025 - Analytics Insight** [link](https://www.analyticsinsight.net/artificial-intelligence/top-ai-career-paths-for-non-tech-professionals-in-2025)
+_Highlight:_ 2. <b>AI</b> Ethics Consultant. As <b>AI</b> systems become more prevalent, questions surrounding data privacy, algorithmic <b>bias</b>, and ethics are growing. <b>AI</b>&nbsp;...
+
+- **6. IP Rights and <b>AI</b> Regulation: Finding the Right Balance | Patently-O** [link](https://patentlyo.com/patent/2024/11/regulation-finding-balance.html)
+_Highlight:_ ... <b>AI bias</b>, as well as Mark Lemley and Bryan Casey, whose research on “fair learning” has shaped our understanding of <b>AI</b> training and copyright. My&nbsp;...
+
+- **7. IIT Madras: Participatory Approach in <b>AI</b> Governance - OpenGov Asia** [link](https://opengovasia.com/2024/11/09/iit-madras-participatory-approach-in-ai-governance/)
+_Highlight:_ Their findings are published as Pre-Print Papers on &#39;arXiv.&#39; As <b>AI</b> technologies increasingly automate decision-making in various sectors, the&nbsp;...
+
+- **8. Superpowers for Public Servants in the Age of <b>Artificial Intelligence</b>. Part II - PA Times** [link](https://patimes.org/superpowers-for-public-servants-in-the-age-of-artificial-intelligence-part-ii/)
+_Highlight:_ In this second part, we&#39;ll explore three additional <b>AI</b>-driven superpowers: superhuman efficiency, algorithmic justice and predictive governance, which&nbsp;...
+
+- **9. Navigating the Future: Mastering Dynamic Information Governance with <b>AI</b> | FutureScot** [link](https://futurescot.com/navigating-the-future-mastering-dynamic-information-governance-with-ai/)
+_Highlight:_ The stakes are high. Security breaches and exposure risks are escalating, with increasingly stringent legislative and privacy requirements. Many&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
