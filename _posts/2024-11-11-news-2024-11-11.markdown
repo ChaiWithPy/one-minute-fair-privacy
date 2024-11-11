@@ -1,0 +1,40 @@
+---
+layout: post
+title: 2024-11-11 One-Minute Post
+date: 2024-11-11 06:14:08 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+A16z VC Martin Casado explains why many AI regulations are wrong, emphasizing the need for better understanding of AI risks. Google's integration of AI security in Chrome raises privacy concerns. IBM aims to accelerate Thailand's AI adoption while addressing bias issues. The evolving role of Indian CISOs focuses on bridging cybersecurity and bias prevention. The second Trump administration prioritizes fairness and inclusivity in AI, and Turkey's first lady demands gender balance and fairness in the tech sector, highlighting the importance of ethical AI development.
+
+## Articles we found interesting:
+
+- **1. a16z VC Martin Casado explains why so many <b>AI</b> regulations are so wrong | TechCrunch** [link](https://techcrunch.com/2024/11/10/a16z-vc-martin-casado-explains-why-so-many-ai-regulations-are-so-wrong/)
+_Highlight:_ <b>Privacy</b> &middot; Robotics &middot; Security &middot; Social &middot; Space &middot; Startups &middot; TikTok &middot; Transportation ... <b>AI</b> experience, instead of truly understanding the new risks <b>AI</b>&nbsp;...
+
+- **2. An introduction to fine-tuning LLMs at home with Axolotl - The Register** [link](https://www.theregister.com/2024/11/10/llm_finetuning_guide/)
+_Highlight:_ <b>AI</b> + ML &middot; comment bubble on black. Everything you need to know to start fine-tuning LLMs in the <b>privacy</b> of your home. comment bubble on black. Got a&nbsp;...
+
+- **3. Google Integrates <b>AI</b> Security in Chrome, Raising Concerns About Data <b>Privacy</b> - WinBuzzer** [link](https://winbuzzer.com/2024/11/10/google-integrates-ai-security-in-chrome-raising-concerns-about-data-privacy-xcxwbn/)
+_Highlight:_ Chrome&#39;s <b>AI</b> security features boost user safety, but data handling practices prompt renewed <b>privacy</b> concerns.
+
+- **4. IBM to accelerate Thailand&#39;s <b>AI</b> adoption - Bangkok Post** [link](https://www.bangkokpost.com/business/general/2899897/ibm-to-accelerate-thailands-ai-adoption)
+_Highlight:_ IBM Thailand wants to bring Thai organisations to the next frontier of <b>artificial intelligence</b> (<b>AI</b>) by removing obstacles to adoption ... <b>bias</b>, an issue&nbsp;...
+
+- **5. The Cyber World Poses a Threat to the Safety and Dignity of Women - Brighter Kashmir** [link](https://brighterkashmir.com/the-cyber-world-poses-a-threat-to-the-safety-and-dignity-of-women)
+_Highlight:_ ... <b>bias</b> and prevents misuse of <b>artificial intelligence</b> tools for harmful purposes. The Google <b>artificial intelligence</b> principles highlight the&nbsp;...
+
+- **6. The Evolving Role of Indian CISOs: Bridging Cybersecurity and Data Privacy** [link](https://indiatechnologynews.in/the-evolving-role-of-indian-cisos-bridging-cybersecurity-and-data-privacy/)
+_Highlight:_ ... <b>bias</b> prevention. <b>AI</b> ethics now stands as a ... IBM recently released a new report called <b>AI</b> in Action that highlights <b>artificial intelligence</b> ...
+
+- **7. America First in <b>AI</b>: The Second Trump Administration Approach to a Competitive ... - BBN Times** [link](https://www.bbntimes.com/technology/america-first-in-ai-the-second-trump-administration-approach-to-a-competitive-deregulated-future-in-tech)
+_Highlight:_ ... <b>AI</b> usage, <b>fairness</b>, and inclusivity. Instead, a renewed Trump White House would likely focus on further reducing barriers to private sector <b>AI</b>&nbsp;...
+
+- **8. Türkiye&#39;s first lady demands gender balance, <b>fairness</b> in tech sector - TRT Afrika** [link](https://trtafrika.com/turkey/turkiyes-first-lady-demands-gender-balance-fairness-in-tech-sector-18230392)
+_Highlight:_ ... <b>AI</b> on various sectors, including healthcare, education, and business. Erdogan referred to research findings on how <b>AI</b>, developed without ethical&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
