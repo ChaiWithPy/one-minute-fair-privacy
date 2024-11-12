@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-12 One-Minute Post
+date: 2024-11-12 06:25:16 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+GPA emphasizes data protection laws in AI scraping. Meanwhile, a study reveals AI resume screeners favor white male candidates. FAI3 wins top spot in ICP EU Hackathon for promoting AI transparency and fairness. AI is transforming educational application processes, ensuring efficiency and fairness.
+
+## Articles we found interesting:
+
+- **1. GPA&#39;s Statement on Data Scraping and <b>Privacy</b> Protection - The National Law Review** [link](https://natlawreview.com/article/navigating-intersection-data-scraping-and-artificial-intelligence-global-data)
+_Highlight:_ The GPA&#39;s Joint statement emphasizes the importance of complying with data protection laws when scraping publicly accessible data, especially in&nbsp;...
+
+- **2. Will <b>AI</b> Replace Cybersecurity Professionals? - autogpt** [link](https://autogpt.net/will-ai-replace-cybersecurity-professionals/)
+_Highlight:_ The Role of <b>Artificial Intelligence</b> in Cybersecurity &middot; How <b>AI</b> Is Changing the Game in Threat Detection &middot; <b>AI</b>-Powered Malware Detection &middot; <b>AI&#39;s</b> Breach&nbsp;...
+
+- **3. [Webinar] <b>Privacy</b> and <b>AI</b> in the Trump 2.0 Era - November 13th, 2:00 pm - JD Supra** [link](https://www.jdsupra.com/legalnews/webinar-privacy-and-ai-in-the-trump-2-0-9188875/)
+_Highlight:_ Join Kelley Drye <b>privacy</b> attorneys for an upcoming webinar, &quot;<b>Privacy</b> and <b>AI</b> in the Trump 2.0 Era.&quot; This session will explore the potential shifts&nbsp;...
+
+- **4. New Study Shows <b>AI</b> Resume Screeners Prefer White Male Candidates - Fisher Phillips** [link](https://www.fisherphillips.com/en/news-insights/ai-resume-screeners.html)
+_Highlight:_ The University of Washington Information School study found that <b>AI</b> resume screening may inadvertently replicate – or even amplify – existing <b>biases</b>&nbsp;...
+
+- **5. “<b>AI</b> ethics in tomorrow&#39;s finance” | Delano News** [link](https://delano.lu/article/ai-ethics-in-tomorrow-s-financ)
+_Highlight:_ Transparency and the fight against algorithmic <b>bias</b> will play a major role: banks are committed to guaranteeing non-discrimination through regular&nbsp;...
+
+- **6. <b>AI</b> Tool for Long COVID Detection Reduces <b>Bias</b> and Expands Patient Reach - MSN** [link](https://www.msn.com/en-gb/health/other/ai-tool-for-long-covid-detection-reduces-bias-and-expands-patient-reach/ar-AA1tSHBc)
+_Highlight:_ This innovative <b>AI</b> tool enhances long COVID diagnosis by using precision phenotyping, offering a clearer understanding of the condition&#39;s&nbsp;...
+
+- **7. FAI3 Wins Top Spot in ICP EU Hackathon&#39;s <b>AI</b> Track: Bringing Transparency to <b>AI</b>** [link](https://blockonomi.com/fai3-wins-top-spot-in-icp-eu-hackathons-ai-track-bringing-transparency-to-ai/)
+_Highlight:_ FAI3, a team committed to building trust in <b>AI</b> through transparency and <b>fairness</b>, has emerged as the winner of the <b>AI</b> track at the ICP EU&nbsp;...
+
+- **8. Making <b>AI</b> Fairer: Inside FAI3&#39;s Mission for Everyday Users | Bitcoinist.com** [link](https://bitcoinist.com/inside-fai3s-mission-for-everyday-users/)
+_Highlight:_ FAI3 is on a mission to make <b>AI</b> trustworthy by certifying <b>AI</b> models on key metrics like <b>fairness</b>, accuracy, and transparency using blockchain&nbsp;...
+
+- **9. <b>AI</b> as an aid in educational application processes - Hindustan Times** [link](https://www.hindustantimes.com/ht-insight/future-tech/ai-as-an-aid-in-educational-application-processes-101731304043062.html)
+_Highlight:_ <b>AI</b> is transforming the application process at educational institutions, providing several benefits such as efficiency, personalisation, and <b>fairness</b>.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
