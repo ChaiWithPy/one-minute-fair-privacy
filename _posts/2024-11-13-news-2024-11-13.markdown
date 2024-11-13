@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-13 One-Minute Post
+date: 2024-11-13 06:26:20 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Brazil's National Data Protection Agency opens consultation on AI and data protection. Red Hat launches AI 2.15 with bias detection, while the government partners with industry to develop AI assurance tools for bias checking. Proposed law on workplace fairness tabled in parliament to protect workers from discrimination. Elon Musk's AI nightmares could blunt Donald Trump's tech ambitions, and the future of open-source AI is up for debate in a soft-on-regulation Trump administration.
+
+## Articles we found interesting:
+
+- **1. Brazilian Government Opens Consultation on <b>Artificial Intelligence</b> and Data Protection** [link](https://www.insideglobaltech.com/2024/11/11/brazilian-government-opens-consultation-on-artificial-intelligence-and-data-protection/)
+_Highlight:_ Brazil&#39;s National Data Protection Agency (“ANPD”) initiated a public consultation on the relationship between <b>artificial intelligence</b> (<b>AI</b>) and&nbsp;...
+
+- **2. <b>AI</b> Regulation: Too Much Too Soon, Or Not Enough? - Forbes** [link](https://www.forbes.com/sites/joemckendrick/2024/11/12/ai-regulation-too-much-too-soon-or-not-enough/)
+_Highlight:_ There have been many calls — along with many forms of legislation drafted — for governments to establish guardrails to keep <b>AI</b> in check.
+
+- **3. Data <b>Privacy</b> And Security With Gen <b>AI</b> Models - Above the Law** [link](https://abovethelaw.com/2024/11/data-privacy-and-security-with-gen-ai-models/)
+_Highlight:_ Examining data <b>privacy</b> and data security concerns with the emergence of generative <b>artificial intelligence</b> (Gen <b>AI</b>) tools in the legal industry&nbsp;...
+
+- **4. Government launches <b>AI</b> assurance tools for businesses - PublicTechnology** [link](https://www.publictechnology.net/2024/11/12/business-and-industry/government-launches-ai-assurance-tools-for-businesses/)
+_Highlight:_ ... <b>AI</b> systems to check for <b>bias</b>. It will also see the government partnering with industry to develop a roadmap which it is hoped will help&nbsp;...
+
+- **5. Red Hat OpenShift <b>AI</b> 2.15 comes with model registry and <b>bias</b> detection - Techzine** [link](https://www.techzine.eu/news/infrastructure/126141/red-hat-openshift-ai-2-15-comes-with-model-registry-and-bias-detection/)
+_Highlight:_ This platform targets data scientists and <b>AI</b> engineers, who can better address increasing confidence by monitoring a model&#39;s <b>bias</b>. The platform&nbsp;...
+
+- **6. Red Hat revs up <b>AI</b> workloads with latest OpenShift platform enhancements - SiliconANGLE** [link](https://siliconangle.com/2024/11/12/red-hat-revs-ai-workloads-latest-openshift-platform-enhancements/)
+_Highlight:_ This is a common problem for <b>AI</b> models. For instance, an <b>AI</b> that&#39;s tasked with filtering job applicants might exhibit <b>bias</b> against candidates of a&nbsp;...
+
+- **7. Proposed law on workplace <b>fairness</b> tabled in parliament to protect workers from discrimination** [link](https://www.channelnewsasia.com/singapore/workplace-fairness-bill-law-discrimination-manpower-ministry-4740771)
+_Highlight:_ The workplace <b>fairness</b> legislation will be introduced through two Bills, with the second one expected to be tabled in parliament next year.
+
+- **8. Elon Musk&#39;s <b>AI</b> nightmares could blunt Donald Trump&#39;s tech ambitions - Business Standard** [link](https://www.business-standard.com/world-news/elon-musk-s-ai-nightmares-could-blunt-donald-trump-s-tech-ambitions-124111200547_1.html)
+_Highlight:_ Musk went on to found Neuralink in part to help humans stay ahead of any artificial superintelligence that might wipe us out.
+
+- **9. What the Trump win means for open source <b>AI</b> - Fierce Network** [link](https://www.fierce-network.com/cloud/trump-and-future-open-source-ai-who-stands-gain)
+_Highlight:_ In a soft-on-regulation Trump administration, the future of open-source <b>AI</b> is up for debate.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
