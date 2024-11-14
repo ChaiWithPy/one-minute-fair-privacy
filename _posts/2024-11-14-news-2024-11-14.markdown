@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-14 One-Minute Post
+date: 2024-11-14 06:32:48 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California Privacy Protection Agency (CPPA) advances rulemaking on AI and cybersecurity audits. Tech leaders struggle with deploying AI due to data readiness. AdvaMed itemizes AI imperatives for the entire healthcare ecosystem, emphasizing the need to address bias in AI/ML-enabled medical technologies. SC plans to establish AI framework for judiciary, focusing on fairness, privacy, and societal benefit. Forbes highlights the importance of fairness and reliability of AI decisions in financial services. Meanwhile, concerns about algorithmic and coded bias in AI have been raised, emphasizing the potential to perpetuate discrimination. Additionally, initiatives like the OECD AI Principles and UNESCO's Recommendation on AI Ethics are establishing broad guidelines emphasizing fairness and accountability in AI and data ethics.
+
+## Articles we found interesting:
+
+- **1. California <b>Privacy</b> Protection Agency Advances Rulemaking on <b>AI</b> and Cybersecurity Audits** [link](https://www.jdsupra.com/legalnews/california-privacy-protection-agency-8351982/)
+_Highlight:_ On November 8, 2024, the California <b>Privacy</b> Protection Agency (CPPA) voted to proceed with formal rulemaking regarding <b>artificial intelligence</b>&nbsp;...
+
+- **2. The hardest part of deploying gen <b>AI</b> for most companies is having data that&#39;s ready - CNBC** [link](https://www.cnbc.com/2024/11/13/the-hardest-part-of-deploying-gen-ai-for-most-companies.html)
+_Highlight:_ The challenge that&#39;s preventing tech leaders from deploying <b>AI</b> is not actually generating a model, it&#39;s having data that&#39;s ready.
+
+- **3. Unpacking the Role of <b>AI</b> in Media Measurement - Comscore, Inc.** [link](https://www.comscore.com/Insights/Blog/Unpacking-the-Role-of-AI-in-Media-Measurement)
+_Highlight:_ In the past year, ChatGPT and other generative <b>artificial intelligence</b> (<b>AI</b>) large language models (LLMs) have become ubiquitous.
+
+- **4. AdvaMed itemizes <b>AI</b> imperatives for &#39;the entire healthcare ecosystem&#39;** [link](https://aiin.healthcare/topics/artificial-intelligence/advamed-itemizes-ai-imperatives-entire-healthcare-ecosystem)
+_Highlight:_ ... <b>bias</b> in <b>AI</b>/ML-enabled medical technologies. To identify and address potential unwanted <b>bias</b> in <b>AI</b>-enabled devices, “high-quality and&nbsp;...
+
+- **5. Digital surveillance capitalism and cities: data, democracy and activism - Nature** [link](https://www.nature.com/articles/s41599-024-03941-2)
+_Highlight:_ Algorithmic and coded <b>bias</b> in machine learning and <b>artificial intelligence</b> (<b>AI</b>) has the potential to perpetuate discrimination, reinforce&nbsp;...
+
+- **6. ID Tech Digest – November 13, 2024 - FindBiometrics** [link](https://idtechwire.com/id-tech-digest-november-13-2024/)
+_Highlight:_ Integrating IDVerse&#39;s Zero <b>Bias AI</b>, which boasts 99.998 percent accuracy in customer authentication, the collaboration aims to protect against&nbsp;...
+
+- **7. SC to establish <b>AI</b> framework for judiciary - Panay News** [link](https://www.panaynews.net/sc-to-establish-ai-framework-for-judiciary/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) into judicial processes. The framework will ... <b>fairness</b>, privacy, human oversight, security, societal benefit&nbsp;...
+
+- **8. Five Key <b>AI</b> Considerations For Financial Services Companies - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/11/13/five-key-ai-considerations-for-financial-services-companies/)
+_Highlight:_ ... <b>fairness</b> and reliability of <b>AI</b> decisions. Incorporate risk management and compliance teams early in the <b>AI</b> development process. <b>AI</b> projects should&nbsp;...
+
+- **9. <b>AI</b> and data ethics: Navigating the complexities of digital transformation - Express Computer** [link](https://www.expresscomputer.in/guest-blogs/ai-and-data-ethics-navigating-the-complexities-of-digital-transformation/118764/)
+_Highlight:_ Other initiatives like the OECD <b>AI</b> Principles and UNESCO&#39;s Recommendation on <b>AI</b> Ethics establish broad guidelines emphasising <b>fairness</b>, accountability&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
