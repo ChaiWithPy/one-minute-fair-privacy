@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-15 One-Minute Post
+date: 2024-11-15 06:22:06 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+European AI is concerned about Trump's return and potential lack of regulation, while Homeland Security releases AI framework. Pharma and legal sectors are focusing on AI bias and privacy, with a surge in generative AI adoption. Singapore is monitoring AI use in HR for fairness, and introducing a new workplace fairness bill to safeguard workers against discrimination. AI governance is shifting from burden to benefit, with a focus on mitigating bias and discrimination in AI decisions.
+
+## Articles we found interesting:
+
+- **1. European <b>AI</b> watches Trump&#39;s return with a mix of fear and hope | Fortune** [link](https://fortune.com/2024/11/14/europe-ai-trump-regulation-musk-talent/)
+_Highlight:_ If Trump does steer clear of regulating <b>AI</b>, that would create an even greater gap between the U.S. and the European Union, where <b>privacy</b> laws limit&nbsp;...
+
+- **2. Homeland Security Department releases framework for using <b>AI</b> in critical infrastructure** [link](https://abcnews.go.com/Technology/wireStory/homeland-security-department-releases-framework-ai-critical-infrastructure-115866559)
+_Highlight:_ ... <b>Privacy</b> Rights section, for more information about your rights and our <b>privacy</b> practices. Manage Consent Preferences. Technically Necessary. Always&nbsp;...
+
+- **3. Turning <b>AI</b> Governance From Burden To Benefit - Forbes** [link](https://www.forbes.com/sites/garydrenik/2024/11/14/turning-ai-governance-from-burden-to-benefit/)
+_Highlight:_ However, fears about data <b>privacy</b> are just the tip of the iceberg – badly governed <b>AI</b> applications can tarnish corporate reputations, incur regulatory&nbsp;...
+
+- **4. The Leap Forward: Practical Gains for Pharma <b>AI</b> Use - Pharmaceutical Executive** [link](https://www.pharmexec.com/view/practical-gains-for-pharma-ai-use)
+_Highlight:_ Enterprise artificial intelligence (AI) offers an unprecedented opportunity to ... <b>bias</b>. <b>AI</b> is already disrupting existing business processes&nbsp;...
+
+- **5. Wecht Symposium to Explore <b>AI&#39;s</b> Impact on Criminal Justice - Duquesne University** [link](https://www.duq.edu/news-and-stories/releases/wecht-symposium-2024.php)
+_Highlight:_ From its role in predictive policing to ethical issues pertaining to privacy and <b>bias</b>, generative <b>AI</b> has become a focal point for policymakers, law&nbsp;...
+
+- **6. Generative <b>AI</b> adoption in legal sector expected to surge, new study finds - Emerging Europe** [link](https://emerging-europe.com/community-content/generative-ai-adoption-in-legal-sector-expected-to-surge-new-study-finds/)
+_Highlight:_ Concerns over data privacy and <b>bias</b>. With increased GenAI adoption, legal teams also highlight concerns over data privacy and potential <b>biases</b> in <b>AI</b>&nbsp;...
+
+- **7. When <b>Artificial Intelligence</b> Must Decide - KBA News** [link](https://kbanews.com/pilihan-redaksi/when-artificial-intelligence-must-decide/)
+_Highlight:_ One pressing issue is <b>AI fairness</b>, which seeks to mitigate the potential negative impacts of <b>AI</b> decisions by reducing bias and discrimination&nbsp;...
+
+- **8. Govt monitoring <b>AI</b> use in HR to ensure regulations remain adequate: Tan See Leng** [link](https://www.singaporelawwatch.sg/Headlines/govt-monitoring-ai-use-in-hr-to-ensure-regulations-remain-adequate-tan-see-leng)
+_Highlight:_ Singapore&#39;s <b>fair</b> employment watchdog has not received any complaint of discrimination against workers by employers who use human resources (HR)...
+
+- **9. Singapore&#39;s new workplace <b>fairness</b> bill to safeguard workers against discrimination - hrsea** [link](https://hrsea.economictimes.indiatimes.com/amp/news/industry/singapores-new-workplace-fairness-bill-to-safeguard-workers-against-discrimination/115252628)
+_Highlight:_ Singapore Workplace <b>Fairness</b> Bill: The proposed legislation is divided into two parts. The first bill highlights the fundamentals of employee&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
