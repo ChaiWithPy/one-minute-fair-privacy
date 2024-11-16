@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-11-16 One-Minute Post
+date: 2024-11-16 06:20:09 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The EU AI Act sets technical requirements for high-risk AI systems, prioritizing human rights and privacy. California Privacy Protection Agency adopts new rules for data brokers and proposes AI regulations. Concerns arise over AI collecting children's data, prompting FTC's Holyoak to address AI privacy practices. Trump plans to overhaul Biden's proposed AI policy, raising concerns about exacerbating bias and leaving technology vulnerable. Princeton's Arvind Narayanan warns about AI's significant risks, including biases in generative AI trained primarily on Western data. The interaction with AI chatbots is evolving, with a focus on addressing harmful biases and stereotypes amplified by generative AI systems.
+
+## Articles we found interesting:
+
+- **1. How <b>AI</b>-Driven Organizations Can Bridge ISO 42001 And The EU <b>AI</b> Act - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/11/15/how-ai-driven-organizations-can-bridge-iso-42001-and-the-eu-ai-act/)
+_Highlight:_ The EU <b>AI</b> Act is a regulatory framework within the EU, specifying technical requirements for &quot;high-risk&quot; <b>AI</b> systems, which puts human rights, <b>privacy</b>&nbsp;...
+
+- **2. &#39;The Front Line of Regulating <b>AI</b>&#39;: Manatt&#39;s Brandon Reilly on CPPA&#39;s Move to Adopt New ...** [link](https://www.law.com/therecorder/2024/11/15/the-front-line-of-regulating-ai-manatts-brandon-reilly-on-cppas-move-to-adopt-new-data-broker-and-ai-rules/)
+_Highlight:_ On Nov. 8, the California <b>Privacy</b> Protection Agency (CPPA) Board voted to adopt new rules for data brokers and advance a raft of proposed rules&nbsp;...
+
+- **3. FTC&#39;s Holyoak concerned <b>AI</b> collecting children&#39;s data - Yahoo Finance** [link](https://finance.yahoo.com/news/ftcs-holyoak-concerned-ai-collecting-220300205.html)
+_Highlight:_ ... <b>AI privacy</b> practices regarding children. The former Utah solicitor general gave the example of kids using <b>AI</b> services in the way older generations&nbsp;...
+
+- **4. Trump to overhaul Biden&#39;s proposed <b>AI</b> policy, promote private sector - Straight Arrow News** [link](https://san.com/cc/trump-to-overhaul-bidens-proposed-ai-policy-promote-private-sector/)
+_Highlight:_ Critics of Trump&#39;s plan warn that deregulation could lead to dangerous flaws in <b>AI</b> systems, exacerbate <b>bias</b> or leave the technology vulnerable to&nbsp;...
+
+- **5. &#39;<b>AI</b> brings many benefits, but also significant risks,&#39; warns Princeton&#39;s Arvind Narayanan at HTLS 2024** [link](https://www.hindustantimes.com/india-news/htls-2024-ai-brings-many-benefits-but-also-significant-risks-warns-princeton-s-arvind-narayanan-101731673977197.html)
+_Highlight:_ For instance, one type of <b>bias</b> occurs when generative <b>AI</b> is primarily trained on text and images from the Western world. As a result, it may not&nbsp;...
+
+- **6. The Way We Interact With <b>AI</b> Chatbots Is Changing - BNN Bloomberg** [link](https://www.bnnbloomberg.ca/business/technology/2024/11/15/the-way-we-interact-with-ai-chatbots-is-changing/)
+_Highlight:_ Generative <b>AI</b> systems also amplify harmful <b>biases</b> and stereotypes ... <b>AI</b> companies have struggled to address the <b>bias</b> problem: Google, for&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
