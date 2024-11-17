@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-17 One-Minute Post
+date: 2024-11-17 06:15:34 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+India aims to craft an AI policy for all, aligning with global ethical standards. Kentucky task force recommends AI regulation to protect elections and privacy. Minister Ashwini Vaishnaw highlights challenges of fake news, algorithmic bias, AI, and fair compensation in media. Altman counters Musk's allegations of left-wing bias in ChatGPT, demonstrating its low bias scores in a comparison with Grok. AI divide could deepen existing disparities, warns study. The roadmap aims to guide the telecom sector on the path to adopting AI ethically, prioritizing fairness, transparency, and inclusivity.
+
+## Articles we found interesting:
+
+- **1. India aims to craft an <b>AI</b> policy that envisions &quot;<b>AI</b> for All,&quot; aligning with global ethical ... - PIB** [link](https://pib.gov.in/PressReleaseIframePage.aspx%3FPRID%3D2073920)
+_Highlight:_ The UNESCO South Asia Regional Office, in collaboration with the Ministry of Electronics and Information Technology (MeitY) and Ikigai Law as the&nbsp;...
+
+- **2. Kentucky task force recommends <b>AI</b> regulation to protect elections, <b>privacy</b> - LINK nky** [link](https://linknky.com/news/2024/11/16/ai-task-force-recommendations-kentucky/)
+_Highlight:_ Lawmakers urge steps to protect elections and <b>privacy</b> in <b>AI</b> use. Recommendations include legislation and review of laws related to <b>AI</b> and&nbsp;...
+
+- **3. The Impact of <b>Artificial Intelligence</b> on the 2024 Election - Government Technology** [link](https://www.govtech.com/artificial-intelligence/the-impact-of-artificial-intelligence-on-the-2024-election)
+_Highlight:_ Experts at a Congressional Internet Caucus Academy briefing this week explored the role <b>artificial intelligence</b> played in the 2024 election,&nbsp;...
+
+- **4. Minister Ashwini Vaishnaw Spotlights 4 Key Challenges Before Media - NDTV** [link](https://www.ndtv.com/india-news/information-minister-ashwini-vaishnaw-spotlights-4-key-challenges-before-media-7035830)
+_Highlight:_ Fake news, algorithmic <b>bias</b>, <b>artificial intelligence</b> and fair compensation are the four challenges before the media, spotlighted Union Minister of&nbsp;...
+
+- **5. Sam Altman hits back at Elon Musk over Grok vs ChatGPT debate: &#39;Which is the left-wing machine?&#39;** [link](https://www.livemint.com/technology/tech-news/openai-ceo-sam-altman-takes-a-dig-at-elon-musks-grok-ai-says-chatgpt-least-biased-ai-in-us-election-donald-trump-11731722767281.html)
+_Highlight:_ Altman countered Musk&#39;s allegations of left-wing <b>bias</b> in ChatGPT, demonstrating its low <b>bias</b> scores in a comparison with Grok.
+
+- **6. Safe harbour clause for platforms needs a revisit, says Vaishnaw - The Indian Express** [link](https://indianexpress.com/article/business/safe-harbour-clause-for-platforms-needs-a-revisit-says-vaishnaw-9673392/)
+_Highlight:_ Vaishnaw said globally, debates are intensifying over whether the safe harbour provisions are still appropriate, given their role in enabling the&nbsp;...
+
+- **7. <b>AI</b> divide could deepen existing disparities, warns study - Cities Today** [link](https://cities-today.com/ai-divide-could-deepen-existing-disparities-warns-study/)
+_Highlight:_ ... <b>AI</b> tools for potential biases, helping ensure that <b>AI</b> supports <b>fairness</b> across all communities. Such frameworks are deemed essential, as they&nbsp;...
+
+- **8. How <b>AI</b> is reshaping GRC and what to do about it - ITWeb** [link](https://www.itweb.co.za/article/how-ai-is-reshaping-grc-and-what-to-do-about-it/rxP3jMBEQP47A2ye)
+_Highlight:_ ... <b>fairness</b>, and ethical use. Nerushka Bowan, <b>AI</b>, tech and privacy law expert and founder of the LITT Institute, has confirmed her attendance as MC.
+
+- **9. Toward a people-centered digital world - Chinadaily.com.cn** [link](http://epaper.chinadaily.com.cn/a/202411/15/WS673677a0a3105c25b38edc01.html)
+_Highlight:_ The roadmap aims to guide the telecom sector on the path to adopting <b>AI</b> ethically, prioritizing <b>fairness</b>, transparency and inclusivity, so that&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
