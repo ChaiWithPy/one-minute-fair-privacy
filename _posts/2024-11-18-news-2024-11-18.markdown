@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-18 One-Minute Post
+date: 2024-11-18 06:11:08 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI experts are concerned about privacy breaches and dataset bias. Biden and Xi agree on human control of nuclear arms. In finance, AI fairness is a priority. Businesses are accountable for AI integrity to mitigate biases. Challenges faced by news media include AI algorithmic bias. Stakeholder consultations in India emphasize AI ethics and fairness aligned with global standards. UNESCO and IT Ministry collaborate on AI safety and ethics in India, focusing on transparency and inclusiveness. India's AI vision prioritizes ethical standards and global alignment, promoting fairness and inclusiveness.
+
+## Articles we found interesting:
+
+- **1. Experts raise concerns over <b>AI</b> and data <b>privacy</b> breaches - Punch Newspapers** [link](https://punchng.com/experts-raise-concerns-over-ai-and-data-privacy-breaches/)
+_Highlight:_ As Nigeria grapples with the rapid advancement of <b>Artificial Intelligence</b>, the intersection of technology and data protection has become&nbsp;...
+
+- **2. Responsible <b>AI</b>: Researchers put forth framework to assess datasets &#39;responsibility&#39; in project** [link](https://www.deccanherald.com/technology/responsible-ai-researchers-put-forth-framework-to-assess-datasets-responsibility-in-project-3280066)
+_Highlight:_ <b>AI</b> experts have consistently voiced concerns around the use of western datasets in developing <b>AI</b>-systems. These tend to induce a bias in results,&nbsp;...
+
+- **3. Biden, Xi agree that humans, not <b>AI</b>, should control nuclear arms - CNBC** [link](https://www.cnbc.com/2024/11/17/biden-xi-agree-that-humans-not-ai-should-control-nuclear-arms.html)
+_Highlight:_ U.S. President Joe Biden and Chinese President Xi Jinping agreed human beings should make decisions on the use of nuclear weapons, according to&nbsp;...
+
+- **4. <b>AI</b> in finance: Promise and perils of technology | Policy Circle** [link](https://www.policycircle.org/opinion/ai-policy-in-finance-markets/)
+_Highlight:_ As <b>AI</b> becomes integral to investment strategies, ensuring fairness and inclusivity should be a top priority. Regulators must stand against <b>biases</b>&nbsp;...
+
+- **5. In <b>AI</b> Businesses Trust—But Are Still Accountable For Integrity Lapses - Forbes** [link](https://www.forbes.com/sites/hamiltonmann/2024/11/17/in-ai-businesses-trust-but-are-still-accountable-for-integrity-lapses/)
+_Highlight:_ Takeaway: Artificial integrity in <b>AI</b>-powered policing applications can mitigate the risks of <b>biased</b> outcomes, ensuring fairer, more accountable&nbsp;...
+
+- **6. Ashwini Vaishnaw highlights four major challenges faced by news media: Watch – India TV** [link](https://www.indiatvnews.com/news/india/ashwini-vaishnaw-highlights-four-major-challenges-faced-by-news-media-ai-algorithmic-baise-2024-11-17-962072)
+_Highlight:_ These are fake news, algorithmic <b>bias</b>, fair compensation, and <b>artificial intelligence</b> (<b>AI</b>). While speaking at an event organised by the Press&nbsp;...
+
+- **7. Stakeholder Consultation on Safety and Ethics in <b>AI</b> Held in New Delhi - Observer Voice** [link](https://observervoice.com/stakeholder-consultation-on-safety-and-ethics-in-ai-held-in-new-delhi-75635/)
+_Highlight:_ The consultations emphasize transparency, inclusiveness, and <b>fairness</b>, aligning with UNESCO&#39;s Global Recommendation on the Ethics of <b>AI</b>. The <b>AI</b> RAM&nbsp;...
+
+- **8. UNESCO and IT Ministry Collaborate on <b>AI</b> Safety and Ethics Consultation in India** [link](https://www.goodreturns.in/news/unesco-it-ministry-consultation-safety-ethics-ai-011-1388613.html)
+_Highlight:_ ... <b>AI</b> across various sectors. The goal is to align India&#39;s <b>AI</b> policy with global ethical standards, promoting transparency, inclusiveness, and <b>fairness</b>.
+
+- **9. India&#39;s <b>AI</b> Vision: Ethical Standards and Global Alignment | Technology - Devdiscourse** [link](https://www.devdiscourse.com/article/technology/3160181-indias-ai-vision-ethical-standards-and-global-alignment)
+_Highlight:_ ... AI sector with UNESCO&#39;s global standards. Focusing on transparency, inclusiveness, and <b>fairness</b>, <b>AI</b> RAM will provide actionable insights to&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
