@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-11-19 One-Minute Post
+date: 2024-11-19 06:12:58 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta is introducing AI features to Ray-Ban Meta glasses in Europe, while also addressing GDPR privacy law concerns. California is undergoing formal CCPA rulemaking related to AI and privacy. Lawmakers are focusing on fostering AI growth while safeguarding privacy and fairness. The Department of Labor has released an AI & Inclusive Hiring Framework to combat algorithmic bias. Virtual Staffing Careers is revolutionizing hiring with an AI-driven, bias-free process. Forbes discusses the impact of AI on healthcare and the pressing concern of bias in AI adoption.
+
+## Articles we found interesting:
+
+- **1. Meta brings certain <b>AI</b> features to Ray-Ban Meta glasses in Europe - TechCrunch** [link](https://techcrunch.com/2024/11/18/meta-brings-certain-ai-features-to-ray-ban-meta-glasses-in/)
+_Highlight:_ Also at issue for the company are provisions in the GDPR, the EU&#39;s <b>privacy</b> law, pertaining to <b>AI</b> training. Meta trains <b>AI</b> models, including the&nbsp;...
+
+- **2. California&#39;s <b>Privacy</b> Regulatory Odyssey Continues: Formal CCPA Rulemaking on ... - Wilson Sonsini** [link](https://www.wsgr.com/en/insights/californias-privacy-regulatory-odyssey-continues-formal-ccpa-rulemaking-on-the-horizon-amidst-expanded-data-broker-requirements.html)
+_Highlight:_ ... <b>Privacy</b> Act (CCPA) regulations related to cybersecurity audits, automated decision-making technology (e.g., <b>artificial intelligence</b> (<b>AI</b>)), <b>privacy</b>&nbsp;...
+
+- **3. After passing a few <b>AI</b> laws in 2024, this state&#39;s legislature might have more in store next session** [link](https://www.route-fifty.com/emerging-tech/2024/11/after-passing-few-ai-laws-2024-states-legislature-might-have-more-store-next-session/401105/%3Foref%3Drf-homepage-river)
+_Highlight:_ As lawmakers, it is our duty to foster an environment where <b>AI</b> can thrive while safeguarding against risks that could undermine <b>privacy</b>, fairness and&nbsp;...
+
+- **4. DOL&#39;s <b>AI</b> Hiring Framework Offers Employers Helpful Guidance on Combatting Algorithmic <b>Bias</b>** [link](https://www.jdsupra.com/legalnews/dol-s-ai-hiring-framework-offers-4502968/)
+_Highlight:_ On 24 September 2024, the Department of Labor (DOL) announced the publication of the “<b>AI</b> &amp; Inclusive Hiring Framework” (Framework) to “support the&nbsp;...
+
+- **5. Virtual Staffing Careers Partners with Micro1 to Revolutionize Hiring with Fully <b>AI</b>-Driven Process** [link](https://www.globenewswire.com/news-release/2024/11/18/2983095/0/en/Virtual-Staffing-Careers-Partners-with-Micro1-to-Revolutionize-Hiring-with-Fully-AI-Driven-Process.html)
+_Highlight:_ Skill and Behavioral Matching: <b>AI</b> technology assesses candidates for skill compatibility and company value alignment. <b>Bias</b>-Free Selection: <b>AI</b>&nbsp;...
+
+- **6. Generative <b>AI</b> Meets CQL: Four Ways <b>AI</b> Can Impact Healthcare - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/11/18/generative-ai-meets-cql-four-ways-ai-can-impact-healthcare/)
+_Highlight:_ One of the most pressing concerns in <b>AI</b> adoption is <b>bias</b>, particularly in healthcare, where disparities can have severe consequences. Integrating CQL&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
