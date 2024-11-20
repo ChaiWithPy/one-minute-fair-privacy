@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-20 One-Minute Post
+date: 2024-11-20 06:15:16 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Elon Musk's Grok raises privacy concerns with health data. US Patent Office bans in-house use of Generative AI due to bias and unpredictability. Indian researchers emphasize the need for ethical AI regulation to address privacy, fairness, and safety risks.
+
+## Articles we found interesting:
+
+- **1. <b>Privacy</b> concerns mount as Elon Musk&#39;s Grok takes on health data** [link](https://www.beckershospitalreview.com/disruptors/privacy-concerns-mount-as-elon-musks-grok-takes-on-health-data.html)
+_Highlight:_ &quot;Discover the latest developments on X, formerly Twitter, as users submit medical images to <b>AI</b> chatbot Grok for diagnoses. <b>Privacy</b> concerns arise&nbsp;...
+
+- **2. Navigating the complexities of <b>AI</b> content safety: insights from China&#39;s Basic Requirements ...** [link](https://www.taylorwessing.com/en/insights-and-events/insights/2024/11/navigating-the-complexities-of-ai-content-safety)
+_Highlight:_ <b>Privacy</b> opt-out. Additionally, the document introduces the concept of &#39;opt-out&#39; consent for utilising user-generated content in <b>AI</b> training which&nbsp;...
+
+- **3. Tech Policy in a Second Trump Administration: <b>AI</b> Promotion and Further Decoupling from China** [link](https://www.insideglobaltech.com/2024/11/19/tech-policy-in-a-second-trump-administration-ai-promotion-and-further-decoupling-from-china/)
+_Highlight:_ Meanwhile, states will work in parallel to regulate <b>AI</b> and <b>privacy</b>, as we view preemptive federal legislation to be unlikely. Even though high-profile&nbsp;...
+
+- **4. The US Patent and Trademark Office Banned Staff From Using Generative <b>AI</b> - WIRED** [link](https://www.wired.com/story/us-patent-trademark-office-internally-banned-generative-ai/)
+_Highlight:_ ... <b>bias</b>, unpredictability, and malicious behavior,” according to an April 2023 internal guidance memo obtained by WIRED through a public records request.
+
+- **5. US Patent Office Bans In-House GenAI Use - PYMNTS.com** [link](https://www.pymnts.com/artificial-intelligence-2/2024/us-patent-office-bans-in-house-genai-use/)
+_Highlight:_ Experts at that gathering said that auditing can play a role in preventing, investigating, monitoring and remedying algorithmic <b>bias</b> in <b>AI</b>.
+
+- **6. University researchers tackle <b>bias</b> in facial recognition from several angles** [link](https://www.biometricupdate.com/202411/university-researchers-tackle-bias-in-facial-recognition-from-several-angles)
+_Highlight:_ As <b>AI</b> applications in facial recognition expand globally, researchers from Southern Methodist University (SMU) and West Virginia University (WVU) are&nbsp;...
+
+- **7. <b>AI</b> regulation: India needs a blueprint for ethical innovation | Policy Circle** [link](https://www.policycircle.org/policy/roadmap-for-ai-regulation-in-india/)
+_Highlight:_ Imperative for ethical oversight. Unregulated <b>AI</b> poses risks to privacy, <b>fairness</b>, and safety. Biases embedded in algorithms can magnify societal&nbsp;...
+
+- **8. The tale of two algorithms: Why responsible <b>AI</b> matters - Times of India** [link](https://timesofindia.indiatimes.com/blogs/ai-musings/the-tale-of-two-algorithms-why-responsible-ai-matters/)
+_Highlight:_ It optimized every process to maximize profits, but it did so without regard for <b>fairness</b>, transparency, or ethics. Ad. While CareAI improved lives&nbsp;...
+
+- **9. Reducing bias in radiology with topological data analysis - EurekAlert!** [link](https://www.eurekalert.org/news-releases/1065205)
+_Highlight:_ ... <b>fairness</b> of radiological assessments.” BUFFALO, NY - November 18, 2024 ... <b>AI</b> systems used for medical diagnosis. By addressing issues of&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
