@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2024-11-21 One-Minute Post
+date: 2024-11-21 06:11:26 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+aiOla has released an open-source AI audio transcription model that obscures sensitive information in real-time, aiming to enhance privacy. BigID is revolutionizing privacy operations with AI automation. A class action lawsuit on AI-related discrimination has reached a final settlement, while the Biden administration has released guidance on how AI in schools can be racist and anti-trans. Central Oregon police agencies are working on rules for using AI, and discussions are ongoing on ensuring fairness in NLP models for ethical AI.
+
+## Articles we found interesting:
+
+- **1. aiOla unveils open source <b>AI</b> audio transcription model that obscures sensitive info in realtime** [link](https://venturebeat.com/ai/aiola-unveils-open-source-ai-audio-transcription-model-that-obscures-sensitive-info-in-realtime/)
+_Highlight:_ It integrates automatic speech recognition (ASR) with named entity recognition (NER). This innovation aims to enhance <b>privacy</b> by automatically&nbsp;...
+
+- **2. BigID Redefines <b>Privacy</b> Operations with <b>AI</b> Automation - Yahoo Finance** [link](https://finance.yahoo.com/news/bigid-redefines-privacy-operations-ai-154000849.html)
+_Highlight:_ BigID, the leader in data security, <b>privacy</b>, compliance, and <b>AI</b> data management, is revolutionizing how organizations address <b>privacy</b> and&nbsp;...
+
+- **3. <b>AI</b> tools in hiring ICOs recommendations for recruiters - Dentons** [link](https://www.dentons.com/en/insights/articles/2024/november/20/ai-tools-in-hiring-icos-recommendations-for-recruiters)
+_Highlight:_ ... <b>privacy</b> information. <b>AI</b> providers should supply technical details about <b>AI</b> logic to recruiters to aid with this, and contracts between recruiters&nbsp;...
+
+- **4. Class action lawsuit on <b>AI</b>-related discrimination reaches final settlement | AP News** [link](https://apnews.com/article/artificial-intelligence-ai-lawsuit-discrimination-bias-1bc785c24a1b88bd425a8fa367ab2b23)
+_Highlight:_ A federal judge has signed off on a settlement agreement Wednesday in a class action lawsuit alleging that an algorithm designed to score rental&nbsp;...
+
+- **5. Biden admin guidance lays out how <b>AI</b> in schools can be racist, anti-trans | Fox News** [link](https://www.foxnews.com/politics/biden-admin-guidance-how-ai-schools-can-racist-anti-trans-investigation)
+_Highlight:_ The Department of Education&#39;s Office of Civil Rights released presidentially-mandated guidance on Tuesday laying out how the use of <b>artificial</b>&nbsp;...
+
+- **6. Central Oregon police agencies are working on rules for using <b>AI</b> - Bend Bulletin** [link](https://www.bendbulletin.com/localstate/central-oregon-police-agencies-are-working-on-rules-for-using-ai/article_387ccc6c-a760-11ef-b374-af37e843c676.html)
+_Highlight:_ <b>Artificial intelligence</b> technology has opened an ocean of possibilities, and many sectors — from education to politics to public safety — are&nbsp;...
+
+- **7. Ethical <b>AI</b>: How Should We Ensure <b>Fairness</b> in NLP Models? - Hugging Face Forums** [link](https://discuss.huggingface.co/t/ethical-ai-how-should-we-ensure-fairness-in-nlp-models/125960)
+_Highlight:_ Ensuring <b>fairness</b> in NLP models is a critical aspect of developing ethical <b>AI</b> systems. As NLP models are trained on large datasets,&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
