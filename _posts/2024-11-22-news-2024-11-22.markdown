@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-22 One-Minute Post
+date: 2024-11-22 06:12:34 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+NIST forms task force to test AI models for national security. California's AI regulation could impact tech dominance. Class action lawsuit on AI-related discrimination reaches settlement. JPMorgan Chase CEO addresses bias within AI models. Sapia.ai upgrades tech to detect AI-generated interview responses for fair hiring. Tech leaders emphasize inclusivity and fairness in AI governance. India advocates responsible and fair use of AI for development.
+
+## Articles we found interesting:
+
+- **1. NIST sets up new task force on <b>AI</b> and national security - Nextgov/FCW** [link](http://www.fcw.com/artificial-intelligence/2024/11/nist-sets-new-task-force-ai-and-national-security/401214/%3Foref%3Dng-homepage-river)
+_Highlight:_ The Testing Risks of <b>AI</b> for National Security Taskforce will bring federal expertise to test <b>artificial intelligence</b> models in critical use cases.
+
+- **2. How <b>AI</b> regulation in California, Colorado and beyond could threaten U.S. tech dominance** [link](https://www.cnbc.com/2024/11/21/how-ai-laws-in-california-states-threaten-us-tech-dominance.html)
+_Highlight:_ California&#39;s recently vetoed state bill on safe and secure <b>artificial intelligence</b> systems could put the state&#39;s status as a technology hub at&nbsp;...
+
+- **3. <b>Artificial intelligence</b> in UK financial services - 2024 | Bank of England** [link](https://www.bankofengland.co.uk/report/2024/artificial-intelligence-in-uk-financial-services-2024)
+_Highlight:_ Use and adoption &middot; 75% of firms are already using <b>artificial intelligence</b> (<b>AI</b>), with a further 10% planning to use <b>AI</b> over the next three years.
+
+- **4. Class action lawsuit on <b>AI</b>-related discrimination reaches final settlement - The Miami Times** [link](https://www.miamitimesonline.com/news/latest_reports/class-action-lawsuit-on-ai-related-discrimination-reaches-final-settlement/article_e1d6201c-a817-11ef-a1fe-971f80d69212.html)
+_Highlight:_ Class Action Lawsuit Against <b>Ai</b> Screening &middot; Racial <b>Bias</b> In Rental Algorithms &middot; Housing Inequality And <b>Ai</b> Systems &middot; Tenant Screening <b>Ai</b> Regulations&nbsp;...
+
+- **5. Jamie Dimon on <b>AI</b>: What He Gets Right, and What He Leaves Out - MarketingProfs** [link](https://www.marketingprofs.com/articles/2024/52388/ai-what-jamie-dimon-gets-right-and-leaves-out)
+_Highlight:_ JPMorgan Chase CEO Jamie Dimon has had much to say on the subject of <b>artificial intelligence</b> (<b>AI</b>). ... <b>Bias</b> within <b>AI</b> models, data privacy issues, and&nbsp;...
+
+- **6. The Ethics of Digital Doppelgangers: When <b>AI</b> Reasons Like Us - <b>AI</b> Business** [link](https://aibusiness.com/responsible-ai/the-ethics-of-digital-doppelgangers-when-ai-reasons-like-us)
+_Highlight:_ The <b>Bias</b> Question Isn&#39;t What You Think. There&#39;s a common misconception that <b>AI</b> needs to separate itself from human reasoning by removing <b>bias</b>.
+
+- **7. Sapia.<b>ai</b> Upgrades Technology to Detect <b>AI</b>-Generated Interview Responses | Business Wire** [link](https://www.businesswire.com/news/home/20241121321323/en/Sapia.ai-Upgrades-Technology-to-Detect-AI-Generated-Interview-Responses)
+_Highlight:_ Sapia.<b>ai</b> upgrades its <b>AI</b> detection, achieving 98% accuracy in spotting <b>AI</b>-generated interview answers, ensuring <b>fair</b> and authentic hiring&nbsp;...
+
+- **8. Tech strategy leaders on inclusivity, ethics and responsibility - The World Economic Forum** [link](https://www.weforum.org/stories/2024/11/tech-strategy-leaders-inclusivity-ethics-responsibility/)
+_Highlight:_ We follow a structured <b>AI</b> governance model anchored on the principles of <b>fairness</b> ... <b>fair</b> and transparent <b>AI</b>-driven transformation. Our&nbsp;...
+
+- **9. Jitendra Singh Advocates Responsible Use of <b>AI</b> for Greater Good - eGov Magazine** [link](https://egov.eletsonline.com/2024/11/jitendra-singh-advocates-responsible-use-of-ai-for-greater-good/)
+_Highlight:_ <b>Artificial Intelligence</b> (<b>AI</b>) is an indispensable tool for development but ... Reiterating India&#39;s commitment to transparency and <b>fairness</b> in <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
