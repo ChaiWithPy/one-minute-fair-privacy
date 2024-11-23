@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-23 One-Minute Post
+date: 2024-11-23 06:17:04 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+ASIC highlights risks of AI adoption for financial licensees. Peak Defence uses AI for cybersecurity audits while maintaining privacy. USPTO expresses bias concerns with generative AI. WIZ emphasizes AI security best practices to address biases. Yale study identifies biases in medical AI. Singapore leads in embracing fairness and ethics in AI. Skadden discusses reconciling AI with fair lending and consumer protection. AI has the potential to transform layoffs with a focus on fairness and dignity for employees.
+
+## Articles we found interesting:
+
+- **1. ASIC Issues <b>AI</b> Governance Report Highlighting Risks for AFS Licen** [link](https://natlawreview.com/article/ai-and-your-obligations-licensee)
+_Highlight:_ As <b>Artificial intelligence</b> (<b>AI</b>) continues to be adopted and used by ... <b>Privacy</b> Policy before using the National Law Review website. The&nbsp;...
+
+- **2. Peak Defence Leverages Generative <b>AI</b> to Transform Cybersecurity Audits - AWS** [link](https://aws.amazon.com/partners/success/peak-defence-neurons-lab/)
+_Highlight:_ It aimed to leverage <b>AI</b> to provide timely insights, enhance security measures, and streamline compliance, all while maintaining strict <b>privacy</b>&nbsp;...
+
+- **3. Buying with bots: <b>AI</b> search raises the bar for tailored shopping and transparency - Digiday** [link](https://digiday.com/media-buying/buying-with-bots-ai-search-raises-the-bar-for-tailored-shopping-and-transparency/)
+_Highlight:_ With <b>AI</b> platforms like Perplexity adding new ways to shop with generative <b>AI</b> ... Why the convergence of <b>AI</b>, <b>privacy</b> and cookie deprecation in 2024 will&nbsp;...
+
+- **4. <b>AI</b> Usage by USPTO Employees | Robinson+Cole Data Privacy + Security Insider - JD Supra** [link](https://www.jdsupra.com/legalnews/ai-usage-by-uspto-employees-8150350/)
+_Highlight:_ The memo, authored by USPTO chief information officer Jamie Holcombe, expressed security and <b>bias</b> concerns associated with generative <b>AI</b>. However, the&nbsp;...
+
+- **5. 5 <b>AI</b> Security Best Practices for Organizations, WIZ says - Taipei Times** [link](https://www.taipeitimes.com/News/biz/archives/2024/11/23/2003827337)
+_Highlight:_ <b>Biases</b> in <b>AI</b> algorithms create security vulnerabilities, leading to misidentification or missed threats. Regularly monitoring the <b>AI</b> systems for <b>bias</b>&nbsp;...
+
+- **6. &#39;<b>Bias</b> In, <b>Bias</b> Out&#39;: Yale Study Identifies <b>Bias</b> in Medical <b>AI</b> | Newswise** [link](https://www.newswise.com/articles/bias-in-bias-out-yale-study-identifies-bias-in-medical-ai)
+_Highlight:_ In a new review, Yale researchers provide an in-depth analysis of how <b>biases</b> at different stages of <b>AI</b> development can lead to poor clinical&nbsp;...
+
+- **7. Singapore Leads With Principles-Based Approach To <b>AI</b> in Financial Services** [link](https://www.legalbusinessonline.com/features/singapore-leads-principles-based-approach-ai-financial-services)
+_Highlight:_ Singapore&#39;s financial sector is at the forefront of embracing <b>Artificial Intelligence</b> (<b>AI</b>), particularly Generative <b>AI</b> (Gen <b>AI</b>), as ... <b>Fairness</b>, Ethics&nbsp;...
+
+- **8. Reconciling <b>AI</b> With <b>Fair</b> Lending and Consumer Protection | Insights** [link](https://www.skadden.com/insights/podcasts/2024/11/reconciling-ai-with-fair-lending-and-consumer-protection)
+_Highlight:_ Consumer financial services partner Darren Welch joined Joseph Kamyar for the latest episode of “Fintech Focus” to discuss <b>AI</b> safety in the <b>fair</b>&nbsp;...
+
+- **9. Humanity meets technology: <b>AI&#39;s</b> potential to transform layoffs - ETHRWorld.com** [link](https://hr.economictimes.indiatimes.com/news/trends/ai-in-hr/humanity-meets-technology-ais-potential-to-transform-layoffs/115538034)
+_Highlight:_ It involves clear communication, providing support resources, <b>fair</b> decision-making criteria, and treating employees with dignity. By using <b>AI</b>-driven&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
