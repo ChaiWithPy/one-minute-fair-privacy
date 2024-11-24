@@ -1,0 +1,40 @@
+---
+layout: post
+title: 2024-11-24 One-Minute Post
+date: 2024-11-24 05:57:08 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Nations are discussing AI ahead of new U.S. leadership, while Arizona's AI policy evolves with technology. DHS unveils a framework for safe AI deployment in critical infrastructure, emphasizing privacy and bias testing. OpenAI funds research to help AI navigate moral dilemmas, addressing biases in training data. The US Patent Office bans generative AI tools due to bias and unpredictability concerns. Senator Luján presses experts on language preference in AI, highlighting bias issues. A new meme coin combines AI and blockchain for verifiable fairness, and companies are leading new AI developments with a focus on fairness and bias in data use.
+
+## Articles we found interesting:
+
+- **1. Nations Discuss <b>AI</b>, Ahead of New Presidential Administration - Government Technology** [link](https://www.govtech.com/artificial-intelligence/nations-discuss-ai-ahead-of-new-presidential-administration)
+_Highlight:_ ... <b>AI</b>, and the risk new U.S. leadership could move the nation to act ... <b>Privacy</b> &amp; <b>AI</b> &middot; gov-footer-logo-2024.png &middot; gt-footer-logo.png &middot; ii-footer-logo&nbsp;...
+
+- **2. Arizona&#39;s <b>AI</b> Policy Is Evolving Along With the Technology** [link](https://www.govtech.com/artificial-intelligence/arizonas-ai-policy-is-evolving-along-with-the-technology)
+_Highlight:_ ... <b>privacy</b>. The updates are intended to address rapid advancements in <b>AI</b> technology. According to Beach, these changes were made through a process in&nbsp;...
+
+- **3. DHS unveils new framework for the safe and secure deployment of <b>AI</b> in critical infrastructure** [link](https://www.securityinfowatch.com/critical-infrastructure/press-release/55245537/dhs-unveils-new-framework-for-the-safe-and-secure-deployment-of-ai-in-critical-infrastructure)
+_Highlight:_ The Framework further encourages <b>AI</b> developers to implement strong <b>privacy</b> practices, conduct evaluations that test for possible biases, failure modes&nbsp;...
+
+- **4. OpenAI Funds Research to Help <b>AI</b> Navigate Moral Dilemmas by 2025 - PUNE.NEWS** [link](https://pune.news/business/openai-funds-research-to-help-ai-navigate-moral-dilemmas-by-2025-271082/)
+_Highlight:_ ... <b>biases</b> in <b>AI</b> training data. Leadership: The project is led by Walter Sinnott-Armstrong, an expert in applied ethics, and Jana Schaich Borg, with a&nbsp;...
+
+- **5. Why the US Patent Office Banned Generative <b>AI</b> Tools for Staff - eWEEK** [link](https://www.eweek.com/news/us-patent-office-bans-generative-ai-tools/)
+_Highlight:_ ... <b>bias</b>, unpredictability, and malicious behavior. USPTO&#39;s Chief Information Officer Jamie Holcombe emphasized the agency&#39;s commitment to innovation&nbsp;...
+
+- **6. Luján Presses Experts On Language Preference In <b>AI</b> - YouTube** [link](https://www.youtube.com/watch%3Fv%3DXiqJk-A1jk8)
+_Highlight:_ During Tuesday&#39;s Senate Commerce and Transportation Committee hearing Sen. Ben Ray Luján (D-NM) questioned witnesses about the <b>bias</b> in <b>AI</b>&nbsp;...
+
+- **7. Race To A Billion: New Meme Coin Combines Racing With High Staking Rewards** [link](https://www.techopedia.com/race-to-a-billion-new-meme-coin-combines-racing-with-high-staking-rewards)
+_Highlight:_ The combination of <b>AI</b> and blockchain technology creates verifiable <b>fairness</b>. While <b>AI</b> handles race mechanics and animations, smart contracts&nbsp;...
+
+- **8. New <b>AI</b> Developments! Find out which companies are leading the charge.** [link](https://www.jomfruland.net/new-ai-developments-find-out-which-companies-are-leading-the-charge/)
+_Highlight:_ The fine line between beneficial data use and intrusive surveillance is contentious. 2. Bias and <b>Fairness</b> – <b>AI</b> models can perpetuate existing societal&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
