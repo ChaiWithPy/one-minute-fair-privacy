@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-11-25 One-Minute Post
+date: 2024-11-25 05:57:25 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI's scientific advancements are building trust, while the government plans a new legal framework for data privacy. Meanwhile, a publicly traded AI infrastructure startup, Nebius, has caught attention. Asticom is leading AI-powered workforce transformation, and the National Academies report highlights the potential of collaborative human-AI systems in enhancing productivity and job satisfaction.
+
+## Articles we found interesting:
+
+- **1. <b>AI&#39;s</b> scientific path to trust - Axios** [link](https://www.axios.com/2024/11/24/artificial-intelligence-science-google-deepmind-trust)
+_Highlight:_ Discoveries using <b>AI</b>, like new drugs or better disaster forecasting, offer a way to win people&#39;s trust in the technology, top researchers said&nbsp;...
+
+- **2. Govt To Roll Out New Legal Framework For Data <b>Privacy</b>, Free Data Flow: Goyal** [link](https://bwmarketingworld.com/article/govt-to-roll-out-new-legal-framework-for-data-privacy-free-data-flow-goyal-540064-540142)
+_Highlight:_ The minister stated this during his address at the UK India Business Council&#39;s &#39;UK-India Technology Futures Conference&#39; held in New Delhi on Thursday.
+
+- **3. What Protection Would A Federal <b>Privacy</b> Standard Provide With <b>AI</b>? - YouTube** [link](https://www.youtube.com/watch%3Fv%3DZo1pfHm8AQg)
+_Highlight:_ During Tuesday&#39;s Senate Commerce and Transportation Committee hearing Sen. Marsha Blackburn (R-TN) questioned witnesses on protecting consumers&nbsp;...
+
+- **4. The curious case of Nebius, the publicly traded <b>AI</b> infrastructure &#39;startup&#39; - AllSides** [link](https://www.allsides.com/news/2024-11-24-0600/business-curious-case-nebius-publicly-traded-ai-infrastructure-startup)
+_Highlight:_ On October 21, a new ticker opened to Nasdaq traders: NBIS, a truncation of Nebius, a fledgling player in the <b>AI</b> cloud infrastructure space.
+
+- **5. Asticom leads <b>AI</b>-powered transformation for future-ready workforce - Punto! Central Luzon** [link](https://punto.com.ph/asticom-leads-ai-powered-transformation-for-future-ready-workforce/)
+_Highlight:_ Asticom Technology Inc. tackles the integration of <b>artificial intelligence</b> (<b>AI</b>) within human resources (HR) at the 61st Annual Conference of the&nbsp;...
+
+- **6. National Academies Report on <b>Artificial Intelligence</b> and the Future of Work: Key Takeaways** [link](https://oodaloop.com/analysis/disruptive-technology/national-academies-report-on-artificial-intelligence-and-the-future-of-work-key-takeaways/)
+_Highlight:_ Collaborative human-<b>AI</b> systems are likely to enhance productivity and job satisfaction. Educational Implications: Education systems must adapt to&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
