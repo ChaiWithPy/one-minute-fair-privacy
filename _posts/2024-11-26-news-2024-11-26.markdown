@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-26 One-Minute Post
+date: 2024-11-26 06:15:49 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California Privacy Protection Agency (CPPA) advances regulations for AI oversight. Legal scholar warns of AI harm to privacy. Concerns arise over bias in generative AI. AdvaMed releases AI white paper addressing bias mitigation. National Institutes of Health develops AI algorithm to address bias in clinical trials. China launches initiative to enhance online fairness. ProRata.ai and DPCMO collaborate for fair credit in generative AI era. Globe emphasizes ethical AI development prioritizing fairness and transparency.
+
+## Articles we found interesting:
+
+- **1. California <b>Privacy</b> Protection Agency Updates: New Data Broker Regulations, ADMT ... - JD Supra** [link](https://www.jdsupra.com/legalnews/california-privacy-protection-agency-9296582/)
+_Highlight:_ The CPPA advanced its much-anticipated ADMT regulations to formal rulemaking, signaling further regulatory oversight of <b>artificial intelligence</b> (<b>AI</b>)&nbsp;...
+
+- **2. Future of <b>Privacy</b>: Pace Event Explores the Intersection Between Tech and Law** [link](https://www.pace.edu/news/future-of-privacy-pace-event-explores-intersection-between-tech-and-law)
+_Highlight:_ Emilie&#39;s expertise includes <b>privacy</b> regulations, cybersecurity, and the evolving field of <b>AI</b> compliance, while she also engages in thought&nbsp;...
+
+- **3. <b>AI</b> harm is often behind the scenes and builds over time—legal scholar explains how law ...** [link](https://techxplore.com/news/2024-11-ai-scenes-legal-scholar-law.html)
+_Highlight:_ By the time you grasp the full scope, it&#39;s too late—your <b>privacy</b> has been breached, your opportunities shaped by biased algorithms, and the safety of&nbsp;...
+
+- **4. 10 big trends driving generative <b>AI</b> and the workforce: Report - The World Economic Forum** [link](https://www.weforum.org/stories/2024/11/generative-ai-workforce-trends-early-adopters/)
+_Highlight:_ From concerns around accuracy to the potential existence of <b>bias</b> and the ethics of replacing human work with that of GenAI, employees have many&nbsp;...
+
+- **5. AdvaMed, Releases <b>AI</b> White Paper | Akin Gump Strauss Hauer &amp; Feld LLP** [link](https://www.akingump.com/en/insights/blogs/eye-on-fda/advamed-releases-ai-white-paper)
+_Highlight:_ ... <b>AI</b> models, including for adaptive models and approaches to mitigating <b>bias</b>. AdvaMed endorses FDA&#39;s use of “Predetermined Change Control Plans&nbsp;...
+
+- **6. National Institutes of Health Develops <b>AI</b> Algorithm to Identify Potential Volunteers for Clinical Trials** [link](https://www.akingump.com/en/insights/blogs/eye-on-fda/national-institutes-of-health-develops-ai-algorithm-to-identify-potential-volunteers-for-clinical-trials)
+_Highlight:_ ... <b>bias</b> in <b>AI</b>/ML-based medical devices. Perhaps another <b>AI</b> tool that helps to identify suitable study participants from underrepresented populations&nbsp;...
+
+- **7. China launches initiative to enhance online <b>fairness</b> - Tech in Asia** [link](https://www.techinasia.com/news/china-launches-initiative-enhance-online-fairness)
+_Highlight:_ All content is created by our <b>AI</b> Author using various sources and our data for extra context. ... China launches initiative to enhance online <b>fairness</b>.
+
+- **8. ProRata.<b>ai</b> and DPCMO Sign LOI to Enhance Content Consent, Credit, and Compensation ...** [link](https://www.businesswire.com/news/home/20241125818129/en/ProRata.ai-and-DPCMO-Sign-LOI-to-Enhance-Content-Consent-Credit-and-Compensation-in-the-Age-of-Generative-AI)
+_Highlight:_ ProRata.<b>ai</b> and DPCMO signed a LOI to explore collaborative opportunities aimed at ensuring <b>fair</b> credit and compensation in the era of generative&nbsp;...
+
+- **9. Globe teaches students digital safety, ethical <b>AI</b> - Daily Tribune** [link](https://tribune.net.ph/2024/11/24/globe-teaches-students-digital-safety-ethical-ai)
+_Highlight:_ To harness its potential responsibly, <b>AI</b> development must prioritize <b>fairness</b>, transparency and accountability. Strong ethical guidelines are&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
