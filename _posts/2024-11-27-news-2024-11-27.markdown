@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-11-27 One-Minute Post
+date: 2024-11-27 06:00:06 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California's CPPA is moving to regulate AI in employment decisions, while the EU AI Act impacts HR activities. WhatsApp is battling EU privacy regulations, and ethical AI practices are being emphasized to address biases. Additionally, a BigLaw firm settles an age bias lawsuit, and strategies for navigating AI regulation chaos are being discussed, focusing on addressing biases and ensuring transparency.
+
+## Articles we found interesting:
+
+- **1. California Takes Steps to Regulate the Use of <b>AI</b> for Significant Employment Decisions** [link](https://natlawreview.com/article/california-takes-steps-regulate-use-ai-significant-employment-decisions)
+_Highlight:_ On November 8, 2024, the California <b>Privacy</b> Protection Agency (CPPA) voted 4-1 to proceed with formal rulemaking regarding automated&nbsp;...
+
+- **2. The Impact of the EU <b>AI</b> Act on Human Resources Activities** [link](https://www.huntonak.com/insights/legal/the-impact-of-the-eu-ai-act-on-human-resources-activities)
+_Highlight:_ On August 1, 2024, the EU <b>Artificial Intelligence</b> Act (“<b>AI</b> Act”) entered into force. ... <b>AI</b> and data <b>privacy</b>: How can HR remain compliant? 3 Minute Read.
+
+- **3. WhatsApp takes EU <b>privacy</b> board battle to top European court - Reuters** [link](https://www.reuters.com/technology/whatsapp-takes-eu-privacy-board-battle-top-european-court-2024-11-26/)
+_Highlight:_ ... <b>privacy</b> watchdog. <b>Artificial Intelligence</b>category &middot; Orange enlists Meta and OpenAI to develop <b>AI</b> language models in Africa. 16 hours ago. Illustration&nbsp;...
+
+- **4. Ethical <b>AI</b> in data practices: Balancing innovation and privacy - Data Science Central** [link](https://www.datasciencecentral.com/ethical-ai-in-data-practices-balancing-innovation-and-privacy/)
+_Highlight:_ Missteps in <b>AI</b> usage can perpetuate <b>biases</b>, undermine fair practices, and intrude on personal privacy, leading to consequences that could damage trust&nbsp;...
+
+- **5. BigLaw firm and ex-partner who sued for age <b>bias</b> agree on dismissal - ABA Journal** [link](https://www.abajournal.com/news/article/biglaw-firm-and-ex-partner-who-sued-for-age-bias-agree-on-dismissal)
+_Highlight:_ ... <b>bias</b> lawsuit against the law firm. (Photo from Shutterstock). A former ... We should focus on—and invest in—<b>AI</b> that serves people without lawyers.
+
+- **6. Trump&#39;s <b>AI</b> Czar and the Wild West of <b>AI</b> regulation: Strategies for enterprises to navigate the chaos** [link](https://venturebeat.com/ai/trumps-ai-czar-and-the-wild-west-of-ai-regulation-strategies-for-enterprises-to-navigate-the-chaos/)
+_Highlight:_ Implement robust compliance programs: Develop comprehensive <b>AI</b> governance frameworks that address potential <b>biases</b>, ensure transparency, and comply&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
