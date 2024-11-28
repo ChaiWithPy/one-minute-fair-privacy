@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-28 One-Minute Post
+date: 2024-11-28 08:45:27 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+FCC adopts rules for C-V2X technology, while the EU AI Act impacts medical devices. SingularityNET partners with Mina for privacy-focused decentralized AI. Biden admin proposes crackdown on biased AI in healthcare. AI's double-edged sword in military warfare and business. Victoria's courts and tribunals focus on safe and responsible AI. UBC reshapes AI development paradigm for fairness. Pioneering ethical AI and data privacy for regulatory compliance and trust.
+
+## Articles we found interesting:
+
+- **1. FCC Adopts Rules Facilitating the Transition to C-V2X Technology for the ... - Inside Global Tech** [link](https://www.insideglobaltech.com/2024/11/27/fcc-adopts-rules-facilitating-the-transition-to-c-v2x-technology-for-the-connected-vehicle-ecosystem/)
+_Highlight:_ ... Artificial Intelligence (AI) ... Conor Kane advises clients on a broad range of <b>privacy</b>, <b>artificial intelligence</b>, telecommunications, and emerging&nbsp;...
+
+- **2. EU <b>AI</b> Act Brings New Rules for <b>AI</b>-Enabled Medical Devices - The National Law Review** [link](https://natlawreview.com/article/impact-eu-ai-act-development-and-use-medical-devices)
+_Highlight:_ On August 1, 2024, the EU <b>Artificial Intelligence</b> Act (<b>AI</b> Act) entered into force. ... <b>Privacy</b> Policy before using the National Law Review website. The&nbsp;...
+
+- **3. SingularityNET partners with Mina for <b>privacy</b>-focused decentralized <b>AI</b> - Cointelegraph** [link](https://cointelegraph.com/news/singularitynet-mina-zero-knowledge-ai-partnership)
+_Highlight:_ SingularityNET and Mina Foundation join forces to enhance decentralized <b>AI</b> using zero-knowledge proofs for secure, <b>privacy</b>-preserving innovations.
+
+- **4. <b>Biased AI</b> in health care faces crackdown in sweeping Biden admin proposals** [link](https://arstechnica.com/health/2024/11/biden-proposes-guardrails-on-health-care-ai-upping-weight-loss-drug-access/)
+_Highlight:_ The flashiest of the proposals is to reinterpret existing law in such a way as to allow Medicare and Medicaid coverage of anti-obesity drugs—&nbsp;...
+
+- **5. Opinion: &#39;Double-edged sword&#39; risk in <b>AI</b> military warfare - The Mainichi** [link](https://mainichi.jp/english/articles/20241127/p2g/00m/0op/030000c)
+_Highlight:_ By Michael Raska SINGAPORE (Kyodo) -- The development of <b>artificial intelligence</b> is revolutionizing the military, aiming to reduce casualties&nbsp;...
+
+- **6. <b>AI</b>: A Double-Edged Sword In Business And Law - Forbes** [link](https://www.forbes.com/councils/forbesbusinesscouncil/2024/11/27/ai-a-double-edged-sword-in-business-and-law/)
+_Highlight:_ Phillip Greer is the CEO of Best Lawyers®, a respected Purely Peer Review® legal research and marketing company.
+
+- **7. Watch: When <b>AI</b> Takes the Stand: Safe and Responsible <b>AI</b> in Victoria&#39;s Courts and Tribunals** [link](https://law.unimelb.edu.au/news/adms/watch-when-ai-takes-the-stand-safe-and-responsible-ai-in-victorias-courts-and-tribunals)
+_Highlight:_ The use of <b>AI</b> tools carries both risks and opportunities for <b>fairness</b>, accountability, transparency and privacy as well as improvements to&nbsp;...
+
+- **8. <b>AI</b>+MEME welcomes a new player UBC: Market value exceeded 100 million within 48 hours ...** [link](https://www.chaincatcher.com/en/article/2154013)
+_Highlight:_ ... <b>fairness</b> of <b>AI</b> resources. PANews. 2024-11-27 03:44:15. Collection. This article will deeply analyze how UBC reshapes the <b>AI</b> development paradigm from&nbsp;...
+
+- **9. Pioneering Ethical <b>AI</b> and Data Privacy: Designing Systems for Regulatory Compliance and Trust** [link](https://www.india.com/business/pioneering-ethical-ai-and-data-privacy-designing-systems-for-regulatory-compliance-and-trust-7425281/)
+_Highlight:_ Joshi&#39;s approach to ethical <b>AI</b> is rooted in transparency, <b>fairness</b>, and accountability. He has led projects that focus on building <b>AI</b> systems that&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
