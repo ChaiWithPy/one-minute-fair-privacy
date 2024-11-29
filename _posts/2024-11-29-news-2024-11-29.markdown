@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-11-29 One-Minute Post
+date: 2024-11-29 08:41:17 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The US is working on broader AI regulation to protect privacy. Meanwhile, Lehigh professors uncover AI racial bias in mortgage approvals, raising concerns about fairness. Romania orders an election recount after TikTok bias claims, highlighting the impact of AI bias on important decisions.
+
+## Articles we found interesting:
+
+- **1. United States: broader <b>AI</b> regulation is in the pipeline - Ashurst** [link](https://www.ashurst.com/en/insights/united-states-broader-ai-regulation-is-in-the-pipeline/)
+_Highlight:_ Health Insurance Portability and Accountability Act – protecting the <b>privacy</b> and security of health information, which can be relevant for <b>AI</b> systems&nbsp;...
+
+- **2. Regulatory Sandbox, RegTech Firms and Financial Institutions Collaborations ... - Business Wire** [link](https://www.businesswire.com/news/home/20241128101764/en/Japan-Regulatory-Technology-Business-Report-2024-2029-Regulatory-Sandbox-RegTech-Firms-and-Financial-Institutions-Collaborations-Cybersecurity-and-Data-Privacy-Influence-on-the-375-Million-Market---ResearchAndMarkets.com)
+_Highlight:_ ... <b>Privacy</b> Influence on the $375+ Million Market - ResearchAndMarkets.com ... <b>Artificial Intelligence</b> (<b>AI</b>) Technology and Type of Products. Identity&nbsp;...
+
+- **3. Tech Mahindra and AWS collaborate on <b>AI</b>-powered network operations | VanillaPlus** [link](https://www.vanillaplus.com/2024/11/28/87971-tech-mahindra-and-aws-collaborate-on-ai-powered-network-operations/)
+_Highlight:_ ... <b>AI</b> enterprises via a single API. It offers essential capabilities for building GenAI applications with security, <b>privacy</b> and responsible <b>AI</b> practices.
+
+- **4. How generative <b>AI</b> affects our jobs today - RBC-Ukraine** [link](https://newsukraine.rbc.ua/news/how-generative-ai-affects-our-jobs-today-1732793696.html)
+_Highlight:_ Generative <b>artificial intelligence</b> (<b>AI</b>) ... Employees express concerns about the accuracy, potential for <b>bias</b>, and ethics of replacing human labor with&nbsp;...
+
+- **5. Lehigh professors uncover <b>AI</b> racial <b>bias</b> in mortgage approvals - The Brown and White** [link](https://thebrownandwhite.com/2024/11/28/lehigh-professors-uncover-ai-racial-bias-in-mortgage-approvals/)
+_Highlight:_ Three Lehigh professors and a Babson professor conducted a study in April 2024 that found racial <b>bias</b> in mortgage approval ratings produced by&nbsp;...
+
+- **6. Romania orders election recount after TikTok <b>bias</b> claims - BBC** [link](https://www.bbc.com/news/articles/cx2n83vgxxjo)
+_Highlight:_ <b>Artificial Intelligence</b> &middot; <b>AI</b> v the Mind &middot; Culture &middot; Film &amp; TV &middot; Music &middot; Art &amp; Design &middot; Style &middot; Books &middot; Entertainment News &middot; Arts &middot; Arts in Motion.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
