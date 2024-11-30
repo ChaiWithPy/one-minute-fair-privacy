@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-11-30 One-Minute Post
+date: 2024-11-30 08:11:49 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+SingularityNET and Mina partner for AI privacy and decentralization. African judiciaries rely on AI to mitigate bias. Government and Google focus on fair AI development. Ethical considerations of AI in criminal justice systems are under scrutiny. Zupee integrates blockchain for fairness in online gaming.
+
+## Articles we found interesting:
+
+- **1. SingularityNET and Mina Partner to Shape the Future of <b>AI</b> with <b>Privacy</b> and Decentralization** [link](https://www.binance.com/en/square/post/16894508709330)
+_Highlight:_ As <b>artificial intelligence</b> (<b>AI</b>) becomes increasingly integrated into our daily lives, concerns over data <b>privacy</b> and security continue to grow.
+
+- **2. <b>AI</b> for Social Good: Innovating for a Brighter, More Inclusive Future | Today News - Mint** [link](https://www.livemint.com/news/india/ai-for-social-good-innovating-for-a-brighter-more-inclusive-future-11732964090052.html)
+_Highlight:_ Mint&#39;s All About <b>AI</b> Tech4Good Awards recognised impactful <b>AI</b> solutions at the Jio World Centre in Mumbai. The event emphasised purpose-driven&nbsp;...
+
+- **3. Embracing <b>AI</b> Devices in the Workplace: Navigating the Ethical Challenges - insideAI News** [link](https://insideainews.com/2024/11/29/embracing-ai-devices-in-the-workplace-navigating-the-ethical-challenges/)
+_Highlight:_ <b>AI</b> devices—assistants, wearables, and cameras—are no longer visions of the future; they&#39;re reshaping the way we work, collaborate,&nbsp;...
+
+- **4. African Judiciaries Relying on <b>AI</b> to Expedite Court Processes - Law.com** [link](https://www.law.com/international-edition/2024/11/29/african-judiciaries-relying-on-ai-to-expedite-court-processes/)
+_Highlight:_ Nairobi&#39;s Munywoki also believes that the planned <b>AI</b> policy will address critical issues such as <b>bias</b> mitigation in <b>AI</b> algorithms, transparency in&nbsp;...
+
+- **5. Robust regulatory frameworks needed to safeguard equity as <b>AI</b> systems proliferate** [link](https://futureofgood.co/robust-regulatory-frameworks-needed-to-safeguard-equity-as-ai-systems-proliferate/)
+_Highlight:_ Robust regulatory frameworks needed to safeguard equity as <b>AI</b> systems proliferate ... Legal recourse must be available for those facing <b>bias</b>,&nbsp;...
+
+- **6. What Are the Ethical Considerations of <b>AI</b> in Criminal Justice Systems? - TechRound** [link](https://techround.co.uk/tech/what-are-the-ethical-considerations-of-ai-in-criminal-justice-systems/)
+_Highlight:_ Bias and Fairness ... One of the most pressing concerns, which tends to be an issue whenever AI is concerned, is <b>bias</b>. <b>AI</b> systems are only as good as&nbsp;...
+
+- **7. Govt for <b>fair AI</b> development; Google in CCI crosshairs - The Economic Times** [link](https://m.economictimes.com/tech/newsletters/morning-dispatch/govt-for-fair-ai-development-google-in-cci-crosshairs/articleshow/115787398.cms)
+_Highlight:_ MeitY, DoT at work on projects for <b>fair AI</b> development. Unesco MeitY partner to assess gaps in ethical AI use in India ... AI systems for fairness. The&nbsp;...
+
+- **8. What Are the Ethical Considerations of <b>AI</b> in Criminal Justice Systems? - TechRound** [link](https://techround.co.uk/tech/what-are-the-ethical-considerations-of-ai-in-criminal-justice-systems/amp/)
+_Highlight:_ Bias and <b>Fairness</b>. One of the most pressing concerns, which tends to be an issue whenever <b>AI</b> is concerned, is bias. <b>AI</b> systems are only as good as&nbsp;...
+
+- **9. Zupee Integrates Blockchain To Ensure <b>Fairness</b> In Online Gaming - BW BusinessWorld** [link](https://www.businessworld.in/article/zupee-integrates-blockchain-to-ensure-fairness-in-online-gaming-540689)
+_Highlight:_ <b>AI</b> &amp; Automation &middot; Enterprise Tech &middot; Consumer Tech &middot; Opinion &middot; Industry Experts ... Zupee, a skill-based Ludo platform in India&#39;s real money gaming (RMG)&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
