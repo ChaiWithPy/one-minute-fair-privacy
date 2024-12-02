@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-12-02 One-Minute Post
+date: 2024-12-02 08:22:18 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Italy's data watchdog warns GEDI about OpenAI agreement, while OpenAI faces questions about its influence. Noxtua, 'Europe's First Sovereign Legal AI', partners with ClauseBase. Donald Trump's administration plans to regulate AI in healthcare. NDIC urges Nigerian financial institutions to deploy AI for fraud detection. AI is revolutionizing banking, but concerns about bias persist.
+
+## Articles we found interesting:
+
+- **1. Italy data watchdog forewarns GEDI about OpenAI agreement - Tech Monitor** [link](https://www.techmonitor.ai/digital-economy/ai-and-automation/italy-openai-gedi-data-sharing)
+_Highlight:_ Regulatory pressures on <b>AI</b> development in Europe &middot; Read more: What is the EU <b>AI</b> Act? &middot; More Relevant &middot; Thank you for subscribing &middot; <b>Privacy</b> Preference&nbsp;...
+
+- **2. Is OpenAI still the enterprise tech influencer it once was? - CIO Dive** [link](https://www.ciodive.com/news/OpenAI-enterprise-tech-stack-vendors-generative-AI/734179/)
+_Highlight:_ “An <b>AI</b> model is not a business model,” Rowan Curran, senior analyst at Forrester, told CIO Dive. Left with security and <b>privacy</b> concerns, companies&nbsp;...
+
+- **3. Noxtua &#39;Europe&#39;s First Sovereign Legal <b>AI</b>&#39; Partners With ClauseBase - Artificial Lawyer** [link](https://www.artificiallawyer.com/2024/12/02/noxtua-europes-first-sovereign-legal-ai-partners-with-clausebase/)
+_Highlight:_ It is also one of the only solutions on the market made completely in Europe, with particular attention being paid to its unique <b>privacy</b> and security&nbsp;...
+
+- **4. What are Donald Trump&#39;s plans for <b>AI</b> regulation in healthcare in 2025? - EconoTimes** [link](https://econotimes.com/What-are-Donald-Trumps-plans-for-AI-regulation-in-healthcare-in-2025-1695621)
+_Highlight:_ As Donald Trump prepares to return to the White House in January 2025, his administration has revealed ambitious plans to regulate and expand the&nbsp;...
+
+- **5. NDIC urges Nigerian financial institutions to deploy <b>AI</b> for fraud detection - Nairametrics** [link](https://nairametrics.com/2024/12/01/ndic-urges-nigerian-financial-institutions-to-deploy-ai-for-fraud-detection/)
+_Highlight:_ The Managing Director and Chief Executive Officer of the Nigeria Deposit Insurance Corporation (NDIC), Mr. Bello Hassan, has called for the&nbsp;...
+
+- **6. Banking on <b>AI</b> - The Promises and Pitfalls of an <b>AI</b> Revolution - Epigram - Bristol** [link](https://epigram.org.uk/banking-on-ai-the-promises-and-pitfalls-of-an-ai-revolution/)
+_Highlight:_ More recently, <b>AI</b> has brought huge change in functionalities like customer service, fraud prevention and management of legislative and regulatory&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
