@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-12-03 One-Minute Post
+date: 2024-12-03 08:42:31 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Agentic AI poses new cybersecurity risks, emphasizing the need for privacy protection. Meanwhile, bias in AI algorithms is being addressed in healthcare and benefits technology. OpenAI's shift towards profit-making raises concerns about fairness and safety. Gender equity in AI-driven hiring is highlighted as crucial for ethical and responsible AI.
+
+## Articles we found interesting:
+
+- **1. Agentic <b>AI</b> Set to Rise, With New Cybersecurity Risks: Gartner - <b>AI</b> Business** [link](https://aibusiness.com/automation/agentic-ai-set-to-rise-with-new-cybersecurity-risks-gartner)
+_Highlight:_ <b>AI</b> robot using cyber security to protect information <b>privacy</b>. Getty Images. Agentic <b>AI</b> could dramatically improve <b>AI&#39;s</b> potential and could be&nbsp;...
+
+- **2. <b>AI</b>, huge hacks leave consumers facing perfect storm of <b>privacy</b> perils - The Washington Post** [link](https://www.washingtonpost.com/technology/2024/12/03/privacy-hackers-cfpb-data-brokers/)
+_Highlight:_ TechHelp Desk<b>Artificial Intelligence</b>Internet CultureSpaceTech Policy. <b>AI</b>, huge hacks leave consumers facing perfect storm of <b>privacy</b> perils. Nearly&nbsp;...
+
+- **3. What Role Should <b>AI</b> Play in Advancing Workplace Safety? - EHS Today** [link](https://www.ehstoday.com/safety-technology/news/55246742/what-role-should-ai-play-in-advancing-workplace-safety)
+_Highlight:_ But we also know that the use of <b>AI</b> introduces challenges, including <b>privacy</b> risks and the need to manage emerging hazards. As with any new&nbsp;...
+
+- **4. Driving Equitable Healthcare Innovations through an <b>AI</b> for Medicaid (AIM) Initiative** [link](https://fas.org/publication/ai-for-medicaid-initiative/)
+_Highlight:_ Algorithms in general are often trained on datasets that do not represent the underlying population – in many cases, these training <b>biases</b> result in&nbsp;...
+
+- **5. Taking the Garbage Out: Addressing <b>AI Bias</b> in Quality Measurement** [link](https://www.hmpgloballearningnetwork.com/site/jcp/perspectives/taking-garbage-out-addressing-ai-bias-quality-measurement)
+_Highlight:_ This article explores the use of <b>artificial intelligence</b> (<b>AI</b>) in health care quality measurement and tactics to mitigate <b>bias</b> in <b>AI</b>-enhanced&nbsp;...
+
+- **6. Is <b>bias</b> hiding in your benefits technology? - BenefitsPro** [link](https://www.benefitspro.com/2024/12/02/is-bias-hiding-in-your-benefits-technology/)
+_Highlight:_ But in reality, there are many ways that unintended <b>bias</b> can infiltrate data-driven technology. The powerful tools of business today—like <b>AI</b>—have&nbsp;...
+
+- **7. Elon Musk vs. Sam Altman: What the Legal Feud With OpenAI Means for <b>AI&#39;s</b> Future** [link](https://getmoneyrich.com/elon-musk-vs-sam-altman-what-the-legal-feud-with-openai-means-for-ais-future/)
+_Highlight:_ OpenAI&#39;s shift toward profit-making might prioritize money over safety and <b>fairness</b>, which goes against its founding purpose. Competition in <b>AI</b>:&nbsp;...
+
+- **8. How <b>AI</b> is driving precision and personalisation | Intelligent Insurer** [link](https://www.intelligentinsurer.com/how-ai-is-driving-precision-and-personalisation)
+_Highlight:_ Papapg/shutterstock.com_2140473907. 2 December 2024Technology. How <b>AI</b> is driving precision and personalisation.
+
+- **9. Advancing Gender Equity in <b>AI</b>-Driven Hiring: A Step Toward Ethical and Responsible <b>AI</b>** [link](https://amp.ibtimes.sg/advancing-gender-equity-ai-driven-hiring-step-toward-ethical-responsible-ai-77168)
+_Highlight:_ <b>AI</b> technologies become increasingly prevalent in hiring, ensuring <b>fairness</b> and transparency is critical. Tyagi&#39;s research marks an important step&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
