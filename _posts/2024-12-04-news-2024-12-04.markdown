@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-12-04 One-Minute Post
+date: 2024-12-04 08:17:35 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Biden administration aims to set global standards for AI development supporting privacy and human rights. Georgia lawmakers push for accountability of deepfake AI developers. ChatGPT's David Mayer glitch raises concerns about AI privacy. Consumers increasingly concerned about AI bias risks. Lightchain AI's decentralized approach aims to mitigate bias and promote fairness. SuperBots revolutionizing crypto trading with fairness and innovation. Principles for responsible use of zero-shot AI approaches include fairness, bias mitigation, and privacy.
+
+## Articles we found interesting:
+
+- **1. Biden Administration&#39;s National Security Memorandum on <b>AI</b> Advance** [link](https://natlawreview.com/article/ai-national-security-memorandum-scopes-key-priorities)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). ... The U.S. aims to work alongside allies to set global standards for <b>AI</b> development that support <b>privacy</b>, human rights,&nbsp;...
+
+- **2. Georgia lawmakers say deepfake <b>AI</b> developers should be held accountable - Axios Atlanta** [link](https://www.axios.com/local/atlanta/2024/12/04/georgia-ai-study-committee-deepfakes)
+_Highlight:_ ... <b>AI</b> regulation without stifling innovation.&quot; Perhaps most important: the heady task of legally defining <b>AI</b>, adopting a statewide data <b>privacy</b> law&nbsp;...
+
+- **3. ChatGPT&#39;s David Mayer Glitch: A <b>Privacy</b> and <b>AI</b> Dilemma - CEO Today** [link](https://www.ceotodaymagazine.com/2024/12/chatgpts-david-mayer-glitch-a-privacy-and-ai-dilemma/)
+_Highlight:_ The David Mayer glitch in ChatGPT raised questions about <b>AI privacy</b> and the right to be forgotten. Learn more about the incident and its&nbsp;...
+
+- **4. Free ebook: Understand <b>AI</b> governance best practice - SmartCompany** [link](https://www.smartcompany.com.au/partner-content/ebook-understand-ai-governance-best-practice/)
+_Highlight:_ Consumers are increasingly concerned about the potential risks of <b>AI</b> systems due to their perceived opacity, complexity, potential for <b>bias</b>,&nbsp;...
+
+- **5. Impact of Demographic Modifiers on Readability of Myopia Education Materials Generated ...** [link](http://www.dovepress.com/impact-of-demographic-modifiers-on-readability-of-myopia-education-mat-peer-reviewed-fulltext-article-OPTH)
+_Highlight:_ As reflected in a study by the Pew Research Center, 51% of Americans who perceive racial and ethnic <b>bias</b> in healthcare believe <b>artificial intelligence</b>&nbsp;...
+
+- **6. How <b>AI</b> May Escalate Geopolitical Conflicts – Interview with Jim Rickards | Financial Sense** [link](https://www.financialsense.com/blog/21104/how-ai-may-escalate-geopolitical-conflicts-interview-jim-rickards)
+_Highlight:_ <b>AI</b>, <b>Bias</b>, and Propaganda. Rickards also addresses the <b>biases</b> inherent in <b>AI</b> systems, particularly large language models like GPT. He explains how&nbsp;...
+
+- **7. A Deep Dive into the Light Chain Protocol <b>AI</b> and its <b>Artificial Intelligence</b> Virtual Machine (AIVM)** [link](https://techbullion.com/the-future-of-ai-and-blockchain-a-deep-dive-into-the-light-chain-protocol-ai-and-its-artificial-intelligence-virtual-machine-aivm/)
+_Highlight:_ Lightchain <b>AI&#39;s</b> Decentralized Approach: Enabling <b>Fairness</b> and Inclusivity. 1. Mitigating Bias through Decentralized Learning. Lightchain <b>AI</b>&nbsp;...
+
+- **8. Revolutionising Crypto Trading with <b>Fairness</b> and Innovation: SuperBots - TechBullion** [link](https://techbullion.com/revolutionising-crypto-trading-with-fairness-and-innovation-superbots/)
+_Highlight:_ We&#39;re developing <b>AI</b> features to add to the user experience on both the onboarding and trading side. We have mobile apps dropping very soon. We have a&nbsp;...
+
+- **9. Examining the responsible use of zero-shot <b>AI</b> approaches to scoring essays - Nature** [link](https://www.nature.com/articles/s41598-024-79208-2)
+_Highlight:_ Our principles include <b>fairness</b> and bias mitigation; privacy &amp; security; transparency, explainability, and accountability; educational impact &amp;&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
