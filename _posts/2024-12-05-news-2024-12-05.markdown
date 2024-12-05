@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-12-05 One-Minute Post
+date: 2024-12-05 08:13:28 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Georgia lawmakers propose sweeping AI policies, privacy and ethics laws. Kaspersky predicts AI normalization and privacy focus will shape 2025 cybersecurity landscape. Cincinnati survey shows 54% believe AI can help mental health crisis, with concerns about privacy violations and biased results. The EU AI Act could inspire Kenya to create its own AI regulations focused on fairness. AI tools are challenging the boundaries of privacy, fairness, and individual rights. While the discourse around artificial intelligence has coincided with concerns regarding bias, especially as it pertains to the Black community.
+
+## Articles we found interesting:
+
+- **1. Georgia lawmakers propose sweeping <b>AI</b> policies, <b>privacy</b> and ethics laws - WABE** [link](https://www.wabe.org/georgia-lawmakers-propose-sweeping-ai-policies-privacy-and-ethics-laws/)
+_Highlight:_ The bipartisan Georgia Senate Committee on <b>Artificial Intelligence</b>, chaired by Republican State Sen. John Albers, released its final report on Tuesday&nbsp;...
+
+- **2. Ethics &amp; Challenges of <b>AI</b> in Cyber security: Navigating the Moral Maze - Banking Frontiers** [link](https://bankingfrontiers.com/ethics-challenges-of-ai-in-cyber-security-navigating-the-moral-maze/)
+_Highlight:_ Explore ethical challenges in <b>AI</b>-driven cybersecurity, focusing on <b>privacy</b>, transparency, bias, and responsible innovation.
+
+- **3. Kaspersky Predicts <b>AI</b> Normalization and <b>Privacy</b> Focus Will Shape 2025 Cybersecurity Landscape** [link](https://techafricanews.com/2024/12/05/kaspersky-predicts-ai-normalization-and-privacy-focus-will-shape-2025-cybersecurity-landscape/)
+_Highlight:_ Kaspersky predicts <b>AI</b> normalization, deepfake risks, gaming scams, and evolving <b>privacy</b> regulations to dominate 2025.
+
+- **4. 54% think <b>AI</b> can help mental health crisis, Cincinnati survey shows** [link](https://www.cincinnati.com/story/news/2024/12/04/54-think-ai-can-help-mental-health-crisis-cincinnati-survey-shows/76702121007/)
+_Highlight:_ Many said their biggest concerns about using <b>AI</b> this way were protecting students from privacy violations and <b>biased</b> results. “My concern would be&nbsp;...
+
+- **5. CFA Embraces <b>Artificial Intelligence</b> - LMU Newsroom - Loyola Marymount University** [link](https://newsroom.lmu.edu/campusnews/cfa-embraces-artificial-intelligence/)
+_Highlight:_ ... <b>bias</b> while harnessing the creative potential <b>AI</b> presents. Computer Science Clinical Professor Anna Farzindar explored <b>AI</b> at the intersection of&nbsp;...
+
+- **6. AFROTECH™ 2024 — Microsoft And Keith Lee Join Forces To Scale Black-Owned ...** [link](https://afrotech.com/keith-lee-partners-with-microsoft-at-afrotech-conference-2024)
+_Highlight:_ While the discourse around <b>artificial intelligence</b> (<b>AI</b>) has coincided with concerns regarding <b>bias</b> — especially as it pertains to the Black&nbsp;...
+
+- **7. What the new EU <b>AI</b> Act means for Kenya - Business Daily** [link](https://www.businessdailyafrica.com/bd/opinion-analysis/columnists/what-the-new-eu-ai-act-means-for-kenya-4844796)
+_Highlight:_ EU flag, stock graph and &quot;<b>AI Artificial Intelligence</b>&quot; words. ... The EU <b>AI</b> Act could inspire Kenya to create its own <b>AI</b> regulations focused on <b>fairness</b>,&nbsp;...
+
+- **8. <b>AI&#39;s</b> Ethical And Legal Dilemmas: Personal Rights, Power Imbalances, And Accountability** [link](https://www.mondaq.com/southafrica/new-technology/1553428/ais-ethical-and-legal-dilemmas-personal-rights-power-imbalances-and-accountability)
+_Highlight:_ From mimicking human voices to appropriating personal likenesses, <b>AI</b> tools are challenging the boundaries of privacy, <b>fairness</b>, and individual rights.
+
+- **9. EU: The impact of <b>artificial intelligence</b> on Europe&#39;s creative communities - IFJ** [link](https://www.ifj.org/media-centre/news/detail/category/europe/article/eu-the-impact-of-artificial-intelligence-on-europes-creative-communities)
+_Highlight:_ ... <b>Fairness</b>, Youth, Culture and Sport. The letter addresses today&#39;s ... <b>fair</b> use of <b>AI</b>. We also look forward to collaborating with you and your&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
