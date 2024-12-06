@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-12-06 One-Minute Post
+date: 2024-12-06 08:38:38 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Microsoft launches Copilot Vision, emphasizing data deletion for AI privacy. Meanwhile, LA Times owner plans to introduce an AI-powered "bias meter" for news stories, sparking newsroom backlash. Additionally, Trump appoints David Sacks as White House AI and cryptocurrency czar to address Big Tech bias and censorship. These developments highlight the intersection of AI, privacy, and bias in various sectors.
+
+## Articles we found interesting:
+
+- **1. The Top Three Misconceptions About Facial Recognition Technology - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/12/06/the-top-three-misconceptions-about-facial-recognition-technology/)
+_Highlight:_ From fears about <b>privacy</b> invasions to the role of <b>AI</b>, these misunderstandings can overshadow the actual benefits and safeguards of the technology.
+
+- **2. Cloud and <b>AI</b> are &#39;fundamentally changing&#39; ability to forecast weather, NOAA chief says** [link](https://www.nextgov.com/digital-government/2024/12/cloud-and-ai-are-fundamentally-changing-ability-forecast-weather-noaa-chief-says/401453/)
+_Highlight:_ Your <b>Privacy</b> Choices; Exercise Your <b>Privacy</b> Rights &middot; Rep. Jay Obernolte, R ... <b>AI</b> applications, or what we call &#39;<b>AI</b> for numerical weather prediction.
+
+- **3. Copilot Vision, Microsoft&#39;s <b>AI</b> tool that can read your screen, launches in preview** [link](https://techcrunch.com/2024/12/05/copilot-vision-microsofts-ai-tool-that-can-read-your-screen-launches-in-preview/)
+_Highlight:_ No doubt eager to avoid more bad press from <b>AI privacy</b> fumbles, Microsoft is stressing that Copilot Vision deletes data following every session.
+
+- **4. Trump names David Sacks as White House <b>AI</b> and cryptocurrency czar - NY Post** [link](https://nypost.com/2024/12/05/business/trump-names-david-sacks-as-white-house-ai-and-cryptocurrency-czar/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) and cryptocurrency czar ... “He will safeguard Free Speech online, and steer us away from Big Tech <b>bias</b> and censorship,” he&nbsp;...
+
+- **5. LA Times owner announces planned <b>AI</b>-powered &#39;<b>bias</b> meter&#39; for stories, columns** [link](https://www.foxbusiness.com/media/la-times-owner-announces-planned-ai-powered-bias-meter-stories-columns)
+_Highlight:_ The Los Angeles Times is preparing to introduce an <b>AI</b>-backed &quot;<b>bias</b> meter&quot; as soon as January, the latest shakeup as owner Patrick Soon-Shiong&nbsp;...
+
+- **6. LA Times owner plans to add <b>AI</b>-powered &#39;<b>bias</b> meter&#39; on news stories, sparking newsroom backlash** [link](https://www.cnn.com/2024/12/05/media/la-times-soon-shiong-ai-bias-meter-opinion/index.html)
+_Highlight:_ Los Angeles Times owner Patrick Soon-Shiong, who blocked the newspaper&#39;s endorsement of Kamala Harris and plans to overhaul its editorial board,&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
