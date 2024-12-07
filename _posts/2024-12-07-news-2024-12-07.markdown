@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-12-07 One-Minute Post
+date: 2024-12-07 08:19:37 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+CFPB imposes supervisory authority over Google, while Warren Davidson questions finance sector innovations in privacy. AI friendships raise concerns over privacy and LA Times faces backlash over AI bias meter. FPT supports Vietnam's push for ethical AI innovation, and Trump announces new AI and crypto czar focusing on fairness. The industry emphasizes fairness and bias detection in AI models, with a focus on responsible AI development and transparency.
+
+## Articles we found interesting:
+
+- **1. CCIA Statement Responding to CFPB Imposing Supervisory Authority over Google** [link](https://ccianet.org/news/2024/12/ccia-statement-responding-to-cfpb-imposing-supervisory-authority-over-google/)
+_Highlight:_ Washington – The Consumer Financial Protection Bureau has issued an order that establishes federal supervisory authority over Google.
+
+- **2. Warren Davidson Presses Witnesses On Innovations In <b>Privacy</b> As <b>AI</b> Enters Into The ... - YouTube** [link](https://www.youtube.com/watch%3Fv%3Dx3XcynmA6oM)
+_Highlight:_ During Wednesday&#39;s House Financial Services Committee hearing, Rep. Warren Davidson (R-OH) questioned witnesses about finance sector innovations&nbsp;...
+
+- **3. <b>AI</b> friendships claim to cure loneliness. Some are ending in suicide. - Washington Post** [link](https://www.washingtonpost.com/technology/2024/12/06/ai-companion-chai-research-character-ai/)
+_Highlight:_ Researchers have long warned of the dangers of building relationships with chatbots. But millions of people spend hours a day bonding with <b>AI</b>&nbsp;...
+
+- **4. LA Times Sparks Outrage With <b>AI Bias</b> Meter Plan - The Pinnacle Gazette** [link](https://evrimagaci.org/tpg/la-times-sparks-outrage-with-ai-bias-meter-plan-79968)
+_Highlight:_ LA Times Sparks Outrage With <b>AI Bias</b> Meter Plan. Patrick Soon-Shiong faces backlash after announcing controversial feature to assess news article <b>bias</b>.
+
+- **5. <b>AI</b> Service Meshes: A New Frontier In <b>AI</b> Observability - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2024/12/06/ai-service-meshes-a-new-frontier-in-ai-observability/)
+_Highlight:_ As <b>artificial intelligence</b> (<b>AI</b>) ... Fairness And <b>Bias</b> Detection: You need to be able to identify and mitigate <b>bias</b> in <b>AI</b> models, ensuring equitable&nbsp;...
+
+- **6. LA Times Introduces <b>AI Bias</b> Meter As Controversy Mounts - The Pinnacle Gazette** [link](https://evrimagaci.org/tpg/la-times-introduces-ai-bias-meter-as-controversy-mounts-79069)
+_Highlight:_ Los Angeles Times owner Patrick Soon-Shiong is shaking things up at the esteemed newsroom with the introduction of an <b>AI</b>-powered &quot;<b>bias</b> meter&quot;&nbsp;...
+
+- **7. FPT to Support Vietnam&#39;s Push for Ethical and Responsible <b>AI</b> Innovation | Business Wire** [link](https://www.businesswire.com/news/home/20241205099452/en/FPT-to-Support-Vietnam%25E2%2580%2599s-Push-for-Ethical-and-Responsible-AI-Innovation)
+_Highlight:_ ... <b>AI</b> recommendations are setting critical benchmarks for transparency, accountability, and <b>fairness</b> in <b>AI</b> governance. The committee underscores&nbsp;...
+
+- **8. Donald Trump Announces New <b>AI</b> and Crypto Czar: What We Know - Newsweek** [link](https://www.newsweek.com/donald-trump-announces-new-ai-crypto-czar-what-we-know-1996473)
+_Highlight:_ With respect to economic policy, foreign policy, border policy, and legal <b>fairness</b>, Trump performed better. He is the President who deserves a second&nbsp;...
+
+- **9. Developing Responsible <b>AI</b> In 2025: The Path To Trust And Compliance** [link](https://informationsecuritybuzz.com/developing-responsible-ai-2025-trust/)
+_Highlight:_ Voluntary frameworks, like NIST&#39;s, emphasize transparency, accountability, and <b>fairness</b> in <b>AI</b> systems in line with OECD&#39;s <b>AI</b> Principles. 3. China&#39;s&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
