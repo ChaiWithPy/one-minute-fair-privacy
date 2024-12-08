@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-12-08 One-Minute Post
+date: 2024-12-08 08:25:32 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Gov tech officials have joined the GovAI Coalition to shape AI policies. DOJ reports a man pleaded guilty to producing AI-generated child sex abuse material. Middle East sees progress in AI, while India faces AI bias risks. Perplexity CEO advises extreme bias for action in hiring. Fairgo's AI avatars aim to reduce bias in interviews.
+
+## Articles we found interesting:
+
+- **1. In New <b>AI</b> Coalition, Government Thought Leaders Plan Ahead** [link](https://www.govtech.com/artificial-intelligence/in-new-ai-coalition-government-thought-leaders-plan-ahead)
+_Highlight:_ Gov tech officials have joined the GovAI Coalition, formed late last year, to collectively shape policies and best practices for introducing&nbsp;...
+
+- **2. DOJ: Oldsmar man accused of producing thousands of child sex abuse material, some <b>AI</b>-generated** [link](https://www.wtsp.com/article/news/local/pinellascounty/florida-oldsmar-pinellas-co-man-pleads-guilty-child-sex-abuse-material-ai/67-13d4865c-1af4-4657-8655-2a39e56099da)
+_Highlight:_ The Department of Justice said an Oldsmar man pleaded guilty to producing, distributing and owning thousands of child sex abuse photos and videos.
+
+- **3. Over 3,000 local and global tech experts, academics and entrepreneurs joined inaugural <b>AI</b> ...** [link](https://www.prnewswire.com/news-releases/over-3-000-local-and-global-tech-experts-academics-and-entrepreneurs-joined-inaugural-ai-week-hosted-by-qatar-foundations-qstp-302324782.html)
+_Highlight:_ PRNewswire/ -- Middle East has seen significant progress and investment in <b>Artificial Intelligence</b> (<b>AI</b>) and its applications particularly in the&nbsp;...
+
+- **4. The <b>AI</b> Revolution: Promise and Peril for India&#39;s Future - Sunday Guardian** [link](https://sundayguardianlive.com/business/the-ai-revolution-promise-and-peril-for-indias-future)
+_Highlight:_ <b>AI</b> systems are not immune to <b>bias</b>, a problem that poses serious risks in India&#39;s socio-cultural context. Algorithms often reflect the <b>biases</b>&nbsp;...
+
+- **5. Perplexity <b>AI</b> CEO shares his advice to startup founders on building a team** [link](https://www.businessinsider.com/perplexity-ceo-aravind-srinivas-advice-startup-founders-building-team-hiring-2024-12)
+_Highlight:_ Perplexity CEO Aravind Srinivas spoke of having &quot;an extreme <b>bias</b> for action&quot; and taking chances on hiring people with &quot;some chips on their&nbsp;...
+
+- **6. Interviewee Finds Out His Red-Headed Interviewer Is Actually <b>AI</b> - TwistedSifter** [link](https://twistedsifter.com/2024/12/interviewee-shocked-when-he-finds-out-his-red-headed-interviewer-is-actually-ai/)
+_Highlight:_ While Fairgo suggest that being interviewed by <b>AI</b> avatars is an enjoyable and fair experience, reducing the natural <b>bias</b> that a human interviewer&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
