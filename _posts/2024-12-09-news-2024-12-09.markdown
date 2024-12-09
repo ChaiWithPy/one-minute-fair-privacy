@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-12-09 One-Minute Post
+date: 2024-12-09 08:41:05 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google CEO Sundar Pichai says AI development is slowing down. Australian health tech startup addresses privacy concerns. Organizations face limitations in using AI for fraud management due to privacy issues. Forbes warns of the AI bias time bomb and the need for ethical AI. Innover monitors AI applications to prevent biases. Georgia aims to embrace AI while ensuring fairness. The ethical debate arises on whether latency arbitrage is fair play or market manipulation. AI is being used for legal work, with a call for inclusivity and fairness.
+
+## Articles we found interesting:
+
+- **1. Google CEO: <b>AI</b> development is finally slowing down—&#39;the low-hanging fruit is gone - CNBC** [link](https://www.cnbc.com/2024/12/08/google-ceo-sundar-pichai-ai-development-is-finally-slowing-down.html)
+_Highlight:_ When OpenAI launched ChatGPT two years ago, generative <b>AI</b> quickly captured the imagination of users around the world. ... California Consumer <b>Privacy</b>&nbsp;...
+
+- **2. Company caught up in I-Med <b>privacy</b> scare plots US land grab - The Sydney Morning Herald** [link](https://www.smh.com.au/technology/company-caught-up-in-i-med-privacy-scare-plots-us-land-grab-20241206-p5kwcg.html)
+_Highlight:_ One of the hottest health technology start-up in Australia has hosed down concerns about how patient data is treated to train its <b>AI</b> platform.
+
+- **3. Fighting Online Fraud in Banking With <b>Privacy</b>-First Collaborative <b>AI</b> | CDOTrends** [link](https://www.cdotrends.com/story/4339/fighting-online-fraud-banking-privacy-first-collaborative-ai)
+_Highlight:_ However, 3 key factors limit organizations from using <b>AI</b> for building systems for continuous fraud management. These pertain to quality data, <b>privacy</b>&nbsp;...
+
+- **4. The <b>AI Bias</b> Time Bomb: Why Business Leaders Must Act Now To Shape Ethical <b>AI</b> - Forbes** [link](https://www.forbes.com/sites/geekgirlrising/2024/12/08/the-ai-bias-time-bomb-why-business-leaders-must-act-now-to-shape-ethical-ai-development/)
+_Highlight:_ According to <b>AI</b> researcher Nathalie Salles-Olivier, who studies <b>bias</b> in HR systems, &quot;61% of performance feedback reflects the evaluator more than the&nbsp;...
+
+- **5. Unlocking Enterprise Potential: How <b>AI</b> Drives Operational Efficiency and Innovation** [link](https://cxotoday.com/interviews/unlocking-enterprise-potential-how-ai-drives-operational-efficiency-and-innovation/)
+_Highlight:_ At Innover, the approach includes monitoring <b>AI</b> applications to prevent <b>biases</b> ... For instance, in customer service applications, <b>bias</b> in <b>AI</b> algorithms&nbsp;...
+
+- **6. Trump Crypto/<b>AI</b> Czar Pick Is Longtime Critic of Regulation | PYMNTS.com** [link](https://www.pymnts.com/news/regulation/2024/trump-crypto-ai-czar-pick-is-longtime-critic-of-regulation/)
+_Highlight:_ ... <b>bias</b>.” Sacks, the report said, has made just a handful of crypto and <b>AI</b> bets, though he has invested in Elon Musk&#39;s xAI. As the founder of venture&nbsp;...
+
+- **7. Georgia to embrace <b>artificial intelligence</b> to grow industries - Big News Network.com** [link](https://www.bignewsnetwork.com/news/274831919/georgia-to-embrace-artificial-intelligence-to-grow-industries)
+_Highlight:_ ... <b>fairness</b>. The committee chair, Sen. John Albers, R-Roswell, said examining <b>AI&#39;s</b> impact is critical for the state&#39;s progress and workforce. &quot;It&#39;s&nbsp;...
+
+- **8. The Ethical Quandary: Is Latency Arbitrage <b>Fair</b> Play or Market Manipulation?** [link](https://programminginsider.com/the-ethical-quandary-is-latency-arbitrage-fair-play-or-market-manipulation/)
+_Highlight:_ Explore the ethical debates in trading with perspectives from https://bitalpha-<b>ai</b>.com/ professional network. The Fine Line Between Arbitrage and&nbsp;...
+
+- **9. <b>AI</b> is being used for some legal work: Clarke - FBC News** [link](https://www.fbcnews.com.fj/news/ai-is-being-used-for-some-legal-work-clarke/)
+_Highlight:_ Attorney General calls for inclusivity and <b>fairness</b> &middot; Sustainability at heart this festive season &middot; Seruiratu reveals laxity in tackling drug crisis&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
