@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-12-10 One-Minute Post
+date: 2024-12-10 08:55:10 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI-powered image anonymization ensures patient privacy in medical records, while employers are changing messaging due to AI integration scrutiny. There's a call for more protections for individual privacy in the AI marketplace. LA Times owner plans to implement a bias meter using AI, sparking backlash. Canadian capital markets are considering bias and fairness in AI systems. AI tools' accountability requires probing for bias. AI bias has been uncovered in the UK welfare system, and the UN's new plastics treaty must address fairness flaws. ATU and AU highlight AI's role in achieving Agenda 2063 goals, emphasizing reliability and fairness standards in the AI market.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b>-Powered Image Anonymization API for Medical Records - Medium** [link](https://medium.com/%40API4AI/ai-powered-image-anonymization-api-for-medical-records-e3331c83842b)
+_Highlight:_ Discover how <b>AI</b>-powered image anonymization ensures patient <b>privacy</b>, supports compliance with HIPAA and GDPR and transforms medical data workflows&nbsp;...
+
+- **2. <b>AI</b> stigma, fatigue have employers changing messaging - WorkLife** [link](https://www.worklife.news/technology/ai-stigma-fatigue-have-employers-changing-messaging/)
+_Highlight:_ ... <b>AI</b> integration, as scrutiny around the tools, their effectiveness, and <b>privacy</b> and legal risks become more apparent, according to workplace experts.
+
+- **3. There are too few protections for individual <b>privacy</b> in the <b>artificial intelligence</b> marketplace** [link](https://idahocapitalsun.com/2024/12/10/there-are-too-few-protections-for-individual-privacy-in-the-artificial-intelligence-marketplace/)
+_Highlight:_ Federal and state lawmakers should focus on protecting citizen <b>privacy</b> and scale back the accelerationist approach to <b>AI</b>, writes Spencer Reed.
+
+- **4. &#39;This is just madness&#39;: LA Times owner&#39;s <b>AI</b> plans spark backlash within newsroom** [link](https://www.youtube.com/watch%3Fv%3D4ABFlSIqBQ0)
+_Highlight:_ Los Angeles Times owner Patrick Soon-Shiong claims he will implement <b>AI</b>-powered “<b>bias</b> metre” on news stories, which has caused backlash within the&nbsp;...
+
+- **5. Use of <b>artificial intelligence</b> in Canadian capital markets | Lexpert** [link](https://www.lexpert.ca/news/legal-insights/use-of-artificial-intelligence-in-canadian-capital-markets/390198)
+_Highlight:_ Regulatory considerations. <b>Bias</b> and fairness: <b>AI</b> systems may unintentionally produce <b>biased</b> outcomes, necessitating ongoing monitoring and mitigation&nbsp;...
+
+- **6. How I Reported on <b>AI</b> Tools That Can Help or Hinder People With Disabilities** [link](https://pulitzercenter.org/how-i-reported-ai-tools-can-help-or-hinder-people-disabilities)
+_Highlight:_ <b>AI</b> accountability requires probing each of these steps where <b>bias</b> can creep in. Part of challenging <b>AI</b> starts with who is responsible and included in&nbsp;...
+
+- **7. <b>AI</b> bias uncovered in UK welfare system - Computing UK** [link](https://www.computing.co.uk/news/2024/ai/ai-bias-uncovered-in-uk-welfare-system)
+_Highlight:_ ... <b>AI</b> system designed to streamline the process of verifying universal credit claims. A &quot;<b>fairness</b> analysis&quot; conducted by the DWP uncovered&nbsp;...
+
+- **8. 5 <b>fairness</b> flaws the UN&#39;s new plastics treaty must change - Bizcommunity** [link](https://www.bizcommunity.com/article/5-fairness-flaws-the-uns-new-plastics-treaty-must-change-697951a)
+_Highlight:_ <b>AI</b>: A ... 5 <b>fairness</b> flaws the UN&#39;s new plastics treaty must change. By Anna&nbsp;...
+
+- **9. ATU and AU Highlight <b>AI&#39;s</b> Role in Achieving Agenda 2063 Goals - TechAfrica News** [link](https://techafricanews.com/2024/12/09/atu-and-au-highlight-ais-role-in-achieving-agenda-2063-goals/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) market, which is valued at USD 16.5 trillion. ... These standards aim to further reliability, <b>fairness</b>, security, and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
