@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2024-12-11 One-Minute Post
+date: 2024-12-11 08:25:41 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+IAB predicts digital ad future with AI and privacy tech. ZoomInfo's chief privacy strategist discusses UK's unique path in AI regulation. Racial bias in AI raises concerns in medical-risk calculations. Language reward models exhibit political bias. AI in UK benefits system brings bias and hunger.
+
+## Articles we found interesting:
+
+- **1. Director of R&amp;D Data <b>Privacy</b> &amp; <b>AI</b> Compliance - The Copenhagen Post** [link](https://cphpost.dk/job/director-of-rd-data-privacy-ai-compliance/)
+_Highlight:_ Søborg, Capital Region of Denmark, DK. Are you ready to lead up our Data <b>Privacy</b> &amp; <b>AI</b> Compliance team in R&amp;D? Do you have a passion for ensuring&nbsp;...
+
+- **2. Opinion: ZoomInfo&#39;s chief <b>privacy</b> strategist on UK&#39;s unique path through <b>AI</b> regulation** [link](https://finance.yahoo.com/news/opinion-zoominfo-chief-privacy-strategist-120350030.html)
+_Highlight:_ ZoomInfo&#39;s chief strategist of <b>privacy</b> and compliance Simon McDougall talks about how the UK can navigate the shifting global landscape of <b>AI</b>&nbsp;...
+
+- **3. IAB&#39;s 2025 digital ad predictions—<b>AI</b> and <b>privacy</b>-enhancing tech take center stage | Ad Age** [link](https://adage.com/article/opinion/iabs-2025-digital-ad-predictions-ai-and-privacy-enhancing-tech-take-center-stage/2594716)
+_Highlight:_ Ongoing developments in consumer <b>privacy</b> and data security, the explosive growth of CTV, and the evolution of <b>artificial intelligence</b>, to name a few&nbsp;...
+
+- **4. Racial <b>bias</b> in <b>AI</b> should be the immediate concern - Policy Options** [link](https://policyoptions.irpp.org/magazines/december-2024/ai-racial-bias/)
+_Highlight:_ This was caused by a racially <b>biased</b> algorithm used in medical-risk calculations. Some <b>artificial intelligence</b> (<b>AI</b>) tools in the medical field apply “&nbsp;...
+
+- **5. <b>AI</b> was supposed to make the UK benefits system more efficient. Instead it&#39;s brought <b>bias</b> and hunger.** [link](https://theconversation.com/ai-was-supposed-to-make-the-uk-benefits-system-more-efficient-instead-its-brought-bias-and-hunger-245616)
+_Highlight:_ The government is accused of a &#39;hurt first, fix later&#39; approach to welfare.
+
+- **6. Study: Some language reward models exhibit political <b>bias</b> | MIT News** [link](https://news.mit.edu/2024/study-some-language-reward-models-exhibit-political-bias-1210)
+_Highlight:_ Large language models (LLMs) that drive generative <b>artificial intelligence</b> apps, such as ChatGPT, have been proliferating at lightning speed and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
