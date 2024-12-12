@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2024-12-12 One-Minute Post
+date: 2024-12-12 08:30:40 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Canada is making strides in AI privacy regulations. Samsung's One UI 7 prioritizes privacy in the age of AI. Governments are concerned about AI algorithms perpetuating biases. LexisNexis acquires IDVerse for its Zero Bias AI technology. IndiaAI launches an Expression of Interest for safe and fair AI projects. Trump criticizes Biden's AI equity agenda for reshaping federal agencies. AI ethical certification framework and tools for assessing fairness of AI models are being developed in India. Forbes highlights the ethical challenges of AI, including bias and discrimination.
+
+## Articles we found interesting:
+
+- **1. Top Five <b>Privacy</b> Developments in Canada: A Year in Review 2024 - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3Da49ab45a-b896-44d6-b75b-1413618da427)
+_Highlight:_ While 2024 is nearing its end, global efforts to regulate <b>artificial intelligence</b> (“<b>AI</b>”) and <b>privacy</b> are only getting started. As technology…
+
+- **2. Tech, <b>AI</b> &amp; <b>Privacy</b>: Add These Terms To Your 2025 Media Industry Bingo Card - B&amp;T** [link](https://www.bandt.com.au/tech-ai-privacy-add-these-terms-to-your-2025-media-industry-bingo-card/)
+_Highlight:_ We&#39;re anticipating a broad scale increase in technology and <b>AI</b> uptake, along with the prioritisation of <b>privacy</b> and consumer data. Technology in&nbsp;...
+
+- **3. Samsung One UI 7 enhances security, <b>privacy</b> in age of <b>AI</b>,giving users greater transparency** [link](https://www.myjoyonline.com/samsung-one-ui-7-enhances-security-privacy-in-age-of-aigiving-users-greater-transparency/)
+_Highlight:_ One UI 7 is the next step in Samsung&#39;s commitment to <b>privacy</b> in <b>AI</b>, introducing advanced security features to ensure complete protection in the era of&nbsp;...
+
+- **4. How Will Regulations Impact Your Current and Future <b>AI</b> Plans? | Dice.com Career Advice** [link](https://www.dice.com/career-advice/how-will-regulations-impact-your-current-and-future-ai-plans)
+_Highlight:_ Algorithmic <b>bias</b>: Governments are concerned about the potential for <b>AI</b> algorithms to perpetuate or amplify existing <b>biases</b>. Initiatives are under&nbsp;...
+
+- **5. LexisNexis Risk Solutions Agrees to Acquire IDVerse - Finovate** [link](https://finovate.com/lexisnexis-risk-solutions-agrees-to-acquire-idverse/)
+_Highlight:_ The company&#39;s Zero <b>Bias AI</b> technology puts regenerative AI to work to ... In addition to enhancing the ability to combat fraud and deepfakes, IDVerse&#39;s&nbsp;...
+
+- **6. Will <b>AI</b> Save Or Harm Us? 3 Ethical Challenges For Businesses In 2025 - Forbes** [link](https://www.forbes.com/sites/bruceweinstein/2024/12/11/will-ai-save-or-harm-us-3-ethical-challenges-for-businesses-in-2025/)
+_Highlight:_ ... <b>AI</b> risks that continue to grow. Examples of <b>AI</b>-caused harm. Some of the grievous harms <b>AI</b> can cause include: <b>Bias</b> and discrimination, in which <b>AI</b>&nbsp;...
+
+- **7. Trump&#39;s <b>AI</b> vision: End Biden&#39;s tyranny, restore <b>fairness</b> in tech | Blaze Media** [link](https://www.theblaze.com/columns/opinion/trumps-ai-vision-end-bidens-tyranny-restore-fairness-in-tech)
+_Highlight:_ Joe Biden&#39;s <b>artificial intelligence</b> &#39;equity agenda&#39; reshaped federal agencies and advanced censorship of conservative views.
+
+- **8. Union Minister of Electronics and Information Technology Sh. Ashwini Vaishnaw ... - PIB** [link](https://pib.gov.in/PressReleasePage.aspx%3FPRID%3D2083192)
+_Highlight:_ <b>AI</b> Ethical Certification Framework. IIIT Delhi and. Telecommunication Engineering Center (TEC). Tools for assessing <b>fairness</b> of <b>AI</b> model. 8. <b>AI</b>&nbsp;...
+
+- **9. IndiaAI Launches Expression of Interest for Safe &amp; Trusted <b>AI</b> Projects under IndiaAI Mission** [link](https://indiaai.gov.in/article/indiaai-launches-expression-of-interest-for-safe-trusted-ai-projects-under-indiaai-mission)
+_Highlight:_ ... individuals and organizations to lead <b>AI</b> development projects that foster accountability, mitigate <b>AI</b> harms, and promote <b>fairness</b> in <b>AI</b> practices.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
