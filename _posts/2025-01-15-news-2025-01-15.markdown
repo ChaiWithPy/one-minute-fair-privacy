@@ -1,43 +1,16 @@
 ---
 layout: post
 title: 2025-01-15 One-Minute Post
-date: 2025-01-15 11:04:29 -0500
+date: 2025-01-15 11:06:11 -0500
 description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
 img: # one_minute_logo.png # Add image post (optional)
 fig-caption: One Minute Logo# Add figcaption (optional)
 tags: [Privacy, Fairness, Bias, AI]
 ---
 
-Agentic AI challenges privacy and antitrust laws. UK's FCA researches bias in NLP. Mayo Clinic and Microsoft collaborate to address AI bias. Momo.Fun's AI-driven platform prioritizes fairness. EU's new AI Act emphasizes fairness in AI deployment. Cisco introduces AI defense for enterprise AI security.
+Google has released a set of Differential Privacy Guidelines, aiming to protect user data while maintaining accuracy in AI models. Meanwhile, Facebook is gearing up for a bias audit to address fairness concerns in its algorithms. In the startup scene, a new company called PrivAI is making waves with its innovative privacy-preserving AI technology.
 
 ## Articles we found interesting:
-
-- **1. No Strings Attached: Agentic <b>AI</b> Tests <b>Privacy</b> &amp; Antitrust Boundaries** [link](https://www.corporatecomplianceinsights.com/no-strings-attached-agentic-ai-tests-privacy-antitrust-boundaries/)
-_Highlight:_ Morgan Lewis attorneys explore how agentic <b>AI&#39;s</b> unprecedented autonomy challenges existing <b>privacy</b> and antitrust frameworks.
-
-- **2. The Importance of Opting In: Pitfalls of <b>AI</b> Enablement Without Client Buy-In | JD Supra** [link](https://www.jdsupra.com/legalnews/the-importance-of-opting-in-pitfalls-of-5371137/)
-_Highlight:_ Understanding the Opt-In Principle &middot; Risks of Not Opting In: Data <b>Privacy</b> and Regulatory Consequences &middot; The Ethics of Undocumented <b>AI</b> Use &middot; Conclusion:&nbsp;...
-
-- **3. Cisco Unveils <b>AI</b> Defense to Secure the <b>AI</b> Transformation of Enterprises - PR Newswire** [link](https://www.prnewswire.com/news-releases/cisco-unveils-ai-defense-to-secure-the-ai-transformation-of-enterprises-302351307.html)
-_Highlight:_ Blog: Protecting <b>AI</b> So <b>AI</b> Can Improve the World, Safely; Blog ... We value your <b>privacy</b>. We use cookies to personalize content and ads, to&nbsp;...
-
-- **4. UK Financial Conduct Authority publishes research note on <b>bias</b> in natural language processing** [link](https://www.jdsupra.com/legalnews/uk-financial-conduct-authority-6917442/)
-_Highlight:_ Published In: &middot; Algorithms &middot; <b>Artificial Intelligence</b> &middot; Data Privacy &middot; Data Protection &middot; Financial Conduct Authority (FCA) &middot; Machine Learning &middot; Regulatory&nbsp;...
-
-- **5. &#39;Wikipedia is <b>biased</b>&#39;: Perplexity <b>AI</b> boss Aravind Srinivas offers support to build an alternative** [link](https://www.opindia.com/news-updates/wikipedia-is-biased-perplexity-ai-boss-aravind-srinivas-offers-support-to-build-an-alternative/)
-_Highlight:_ Perplexity <b>AI</b> founder Aravind Srinivas has highlighted Wikipedia&#39;s political and ideological <b>bias</b>, asserting that there is a need to build an&nbsp;...
-
-- **6. Mayo Clinic to work on <b>AI</b> with Microsoft, Cerebras | AuntMinnie** [link](https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15712096/mayo-clinic-to-work-on-ai-with-microsoft-cerebras)
-_Highlight:_ ... <b>AI</b> safe and effective for everyone by tackling the issues of <b>bias</b> and transparency. December 18, 2024. <b>Artificial Intelligence Ai</b> Suit &middot; AdvaMed&nbsp;...
-
-- **7. MOMO.FUN: <b>AI</b>-Driven Meme + DeFi Platform, Leading the Future of Decentralized Trading** [link](https://www.coinspeaker.com/momo-fun-ai-driven-meme-defi-platform-future-decentralized-trading/)
-_Highlight:_ We offer global users efficient, <b>fair</b>, and transparent trading and management services. Innovation-Driven: Through the <b>AI</b> Agent and <b>AI</b> Pool, MOMO.FUN&nbsp;...
-
-- **8. <b>AI</b> In Check: What The New EU <b>Artificial Intelligence</b> Act Means For You - Mondaq** [link](https://www.mondaq.com/new-technology/1568832/ai-in-check-what-the-new-eu-artificial-intelligence-act-means-for-you)
-_Highlight:_ ... <b>fairness</b> in <b>AI</b> deployment. Predicting criminality based on profiling – Article 5(1)(d). The EU <b>AI</b> Act also prohibits <b>AI</b> systems that assess or&nbsp;...
-
-- **9. CISA Released a Free <b>AI</b> Cybersecurity Collaboration Playbook (PDF)** [link](https://cybersecuritynews.com/ai-cybersecurity-collaboration-playbook/)
-_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) ecosystem to combat cybersecurity threats. ... <b>fairness</b>, ethics, and risks affecting human life, health, property, or&nbsp;...
 
 
 Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
