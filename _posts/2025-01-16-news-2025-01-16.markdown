@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-01-16 One-Minute Post
+date: 2025-01-16 07:54:48 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+CARV and Phala Network are collaborating to enhance AI privacy with blockchain solutions. Meanwhile, concerns are rising about the potential privacy violations stemming from urban surveillance and AI technologies. Additionally, the FDA is taking steps to address bias in AI healthcare devices, aiming to increase transparency. On the legal front, consumers are increasingly dissatisfied with AI decisions and may start suing companies, while experts suggest a cautious approach to law enforcement AI to combat errors and bias.
+
+## Articles we found interesting:
+
+- **1. How <b>Privacy</b> Concerns Are Shaping the Future of City Surveillance - Private Internet Access** [link](https://www.privateinternetaccess.com/blog/urban-surveillance-privacy-concerns/)
+_Highlight:_ With its help, facial recognition and <b>AI</b> have transformed basic cameras into powerful tools capable of analyzing behavior and quantifying it. This&nbsp;...
+
+- **2. CARV and Phala Network Join Forces to Boost Web3 <b>AI Privacy</b> - CoinTrust** [link](https://www.cointrust.com/market-news/carv-and-phala-network-join-forces-to-boost-web3-ai-privacy)
+_Highlight:_ Revolutionizing <b>AI</b> Applications with <b>Privacy</b>-Focused Blockchain Solutions ... CARV has revealed a strategic partnership with Phala Network, announcing&nbsp;...
+
+- **3. The Dawn of <b>AI</b> Litigation: What CCaas and UCaas Implementors Need to Know - No Jitter** [link](https://www.nojitter.com/ccaas/the-dawn-of-ai-litigation-what-ccaas-and-ucaas-implementors-need-to-know)
+_Highlight:_ The first area of concern involves how these technologies have the potential to jeopardize individual <b>privacy</b> rights. An ad for a now frowned-upon&nbsp;...
+
+- **4. Top healthcare technology trends in 2025** [link](https://www.healthcaredive.com/news/healthcare-technology-outlook-predictions-2025/736720/)
+_Highlight:_ FDA aims to stem <b>AI</b> device <b>bias</b>, boost transparency in draft guidance &middot; Want to see more stories in Health IT? Read More ➔. The Trump administration&nbsp;...
+
+- **5. Unhappy consumers will drive the next wave of <b>AI</b> lawsuits | Legal Dive** [link](https://www.legaldive.com/news/consumers-drive-wave-ai-lawsuits-crowell-moring-warrington-parker/737464/)
+_Highlight:_ license. <b>AI</b> litigation, hiring <b>bias</b>. Consumers unhappy with <b>AI</b> decisions could start suing companies. Vertigo3d via Getty Images. In-house lawyers&nbsp;...
+
+- **6. Slow approach to law enforcement <b>AI</b> could combat errors and <b>bias</b>, experts say - Route Fifty** [link](https://www.route-fifty.com/artificial-intelligence/2025/01/slow-approach-law-enforcement-ai-could-combat-errors-and-bias-experts-say/402213/%3Foref%3Drf-homepage-river)
+_Highlight:_ The ACLU white paper also highlights the risk of introducing <b>bias</b> into <b>AI</b>-enabled police reports “because LLMs are trained on something close to&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
