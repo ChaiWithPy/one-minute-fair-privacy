@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-01-17 One-Minute Post
+date: 2025-01-17 08:18:09 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple halts AI feature due to hallucination errors, while New Jersey AG releases guidance on AI bias. Facial recognition AI found racially biased, as efforts to advance gender equality in AI continue. SEC focuses on AI-related disclosures and privacy laws.
+
+## Articles we found interesting:
+
+- **1. Apple halts <b>AI</b> feature that made iPhones hallucinate about news - The Washington Post** [link](https://www.washingtonpost.com/technology/2025/01/16/apple-intelligence-hallucination/)
+_Highlight:_ The <b>AI</b> summarization feature was intended to help users catch up ... Data and <b>Privacy</b>: A guide to every <b>privacy</b> setting you should change now.
+
+- **2. SEC Comment Letter Trend: <b>AI</b>-Related Disclosures** [link](https://corpgov.law.harvard.edu/2025/01/16/sec-comment-letter-trend-ai-related-disclosures/)
+_Highlight:_ SEC officials have declared <b>artificial intelligence</b> (“<b>AI</b>”) “ ... <b>privacy</b> laws. Please clarify whether you are referring specifically to&nbsp;...
+
+- **3. Apple pauses <b>AI</b>-generated news alerts after headline notification errors - Axios** [link](https://www.axios.com/2025/01/17/apple-ai-news-alerts-fake-headlines)
+_Highlight:_ ... <b>privacy</b> experts. Google paused <b>AI</b> image generation last February following complaints about diversity. Driving the news: Following the BBC false&nbsp;...
+
+- **4. New Jersey AG Platkin Announces New Guidance on <b>AI</b> Use | Regulatory Oversight** [link](https://www.regulatoryoversight.com/2025/01/new-jersey-ag-platkin-announces-new-guidance-on-ai-use/)
+_Highlight:_ ... <b>bias</b> associated with <b>artificial intelligence</b> (<b>AI</b>) and other decision-making technologies. The announcement is one of many recent examples of AG&#39;s&nbsp;...
+
+- **5. Advancing Gender Equality through Partnerships for Gender-Responsive <b>Artificial Intelligence</b>** [link](https://reliefweb.int/report/world/advancing-gender-equality-through-partnerships-gender-responsive-artificial-intelligence)
+_Highlight:_ ... <b>biases</b> in <b>AI</b>, promoting diversity and complying with legal standards. ... Priorities include addressing gender <b>bias</b> in <b>AI</b> systems, combatting the&nbsp;...
+
+- **6. Facial recognition <b>AI</b> is flawed and racially <b>biased</b>. Police keep using it any way. | Fortune** [link](https://fortune.com/2025/01/16/police-continue-to-use-facial-recognition-software-despite-evidence-of-racial-bias-and-false-arrests/)
+_Highlight:_ <b>AI</b> technology has improved over the years, but that&#39;s a significant <b>bias</b>, and there&#39;s no evidence that it&#39;s been adequately improved. ... This is the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
