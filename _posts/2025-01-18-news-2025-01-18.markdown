@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-01-18 One-Minute Post
+date: 2025-01-18 07:59:04 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Generative AI settles deceptive trade practices in healthcare. New Jersey AG addresses algorithmic discrimination. Texas HB 1709 introduces AI hiring transparency. Indonesia sets global minimum tax for fairness. Federal agencies urged to adopt AI ethically and securely.
+
+## Articles we found interesting:
+
+- **1. Novel Settlement Reached in Generative <b>AI</b> Deceptive Trade Practices Healthcare Investigation** [link](https://www.hklaw.com/en/insights/publications/2025/01/novel-settlement-reached-in-generative-ai-deceptive-trade-practices)
+_Highlight:_ ... Security &amp; <b>Privacy</b> Compliance Services Consumer Protection Defense and Compliance. Related Industries. Healthcare &amp; Life Sciences Technology&nbsp;...
+
+- **2. Opportunities and risks of <b>AI</b> in the court system - ASU News - Arizona State University** [link](https://news.asu.edu/20250117-university-news-opportunities-and-risks-ai-court-system)
+_Highlight:_ ... <b>privacy</b>, policy and regulations; and new and emerging research and programs. ... <b>AI</b> and generative <b>AI</b>. “We need to leave the word &#39;hype&#39; out of&nbsp;...
+
+- **3. Stakes raised on student data <b>privacy</b> as Trump plans greater immigration enforcement** [link](https://statescoop.com/k12-student-data-ice-immigration-enforcement-trump-2025/)
+_Highlight:_ ... <b>privacy</b> with legal compliance to authorities. The ... Memphis piloting <b>AI</b> video tech equipped on city trucks to find, fix infrastructure issues.
+
+- **4. What Does The 2025 <b>Artificial Intelligence</b> Legislative And Regulatory Landscape Look Like ...** [link](https://www.mondaq.com/unitedstates/employee-rights-labour-relations/1570976/what-does-the-2025-artificial-intelligence-legislative-and-regulatory-landscape-look-like-for-employers)
+_Highlight:_ In the absence of federal regulation, several states have either passed or are considering legislation aimed at mitigating the risk of an&nbsp;...
+
+- **5. New Jersey AG Says Anti-Discrimination Law Covers Algorithmic Discrimination | JD Supra** [link](https://www.jdsupra.com/legalnews/new-jersey-ag-says-anti-discrimination-7862813/)
+_Highlight:_ Last week, New Jersey Attorney General Matthew Platkin announced new guidance that the New Jersey Law Against Discrimination (LAD) applies to...
+
+- **6. Memo to Trump: Develop specific <b>AI</b> guidelines for nuclear command and control** [link](https://thebulletin.org/2025/01/memo-to-trump-develop-specific-ai-guidelines-for-nuclear-command-and-control/)
+_Highlight:_ The US should incorporate specific governance for <b>AI</b> in nuclear systems to enhance nuclear safety and security.
+
+- **7. Texas HB 1709: The <b>AI</b> Law Every Employer Needs To Know About - Forbes** [link](https://www.forbes.com/sites/alonzomartinez/2025/01/17/texas-hb-1709-the-ai-law-every-employer-needs-to-know-about/)
+_Highlight:_ Discover how Texas HB 1709 may transform employer use of <b>AI</b> in hiring with new transparency, oversight, and compliance rules.
+
+- **8. Indonesia sets global minimum tax at 15 pct to promote <b>fairness</b>, investment competitiveness** [link](https://en.inform.kz/news/indonesia-sets-global-minimum-tax-at-15-pct-to-promote-fairness-investment-competitiveness-2e5ab2/)
+_Highlight:_ &quot;This initiative aims to minimize unhealthy tax rate competition (race to the bottom) by ensuring that multinational companies with a minimum&nbsp;...
+
+- **9. 4 Principles to Help Federal Agencies Adopt <b>AI</b> Ethically and Securely | FedTech Magazine** [link](https://fedtechmagazine.com/article/2025/01/4-principles-help-federal-agencies-adopt-ai-ethically-and-securely)
+_Highlight:_ In a white paper, SolarWinds frames the challenge in terms of privacy, accountability, transparency and simplicity.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
