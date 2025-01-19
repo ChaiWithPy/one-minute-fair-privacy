@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-01-19 One-Minute Post
+date: 2025-01-19 07:49:14 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google Researcher Saptarashmi Bandyopadhyay focuses on AI privacy. Phound offers a privacy-driven communication service. California Attorney General issues advisories on AI and privacy laws. Lightchain AI addresses bias for Dogecoin and Shiba Inu traders. Quantifind secures $22M for AI-based financial crime platform, addressing AI bias. Study finds AI systems amplify human biases, emphasizing the circular path of bias reinforcement.
+
+## Articles we found interesting:
+
+- **1. Saptarashmi Bandyopadhyay - Google Research** [link](https://research.google/people/saptarashmibandyopadhyay/)
+_Highlight:_ ... <b>AI</b> alignment, Game Theory, Multilingual <b>AI</b> Agents (specially low-resource languages) &amp; <b>AI privacy</b> among others. Before joining as a Student&nbsp;...
+
+- **2. Phound: Revolutionizing Communication in a <b>Privacy</b>-Driven World - Telecom Reseller** [link](https://telecomreseller.com/2025/01/17/phound-revolutionizing-communication-in-a-privacy-driven-world/)
+_Highlight:_ Phound is a trusted communication service that combines advanced contact management, government-backed identity verification, and <b>AI</b>-powered spam-&nbsp;...
+
+- **3. California Attorney General Issues Two Advisories Summarizing Law Applicable to <b>AI</b>** [link](https://www.jdsupra.com/legalnews/california-attorney-general-issues-two-3958548/)
+_Highlight:_ ... <b>privacy</b> laws. The second advisory focuses on healthcare entities. “<b>AI</b> might be changing, innovating, and evolving quickly, but the fifth largest&nbsp;...
+
+- **4. Dogecoin (DOGE) and Shiba Inu (SHIB) Traders Turn to Lightchain <b>AI</b> for a Fast 3150% ROI ...** [link](https://cryptodaily.co.uk/2025/01/dogecoin-doge-and-shiba-inu-shib-traders-turn-to-lightchain-ai-for-a-fast-3150-roi-as-utility-dominates-in-2025)
+_Highlight:_ By addressing key issues like privacy, scalability, and <b>bias</b>, the ecosystem ensures sustainable growth and long-term value for investors. Traders&nbsp;...
+
+- **5. Quantifind: $22 Million Secured For <b>AI</b>-Based Financial Crime Intelligence Platform** [link](https://pulse2.com/quantifind-22-million-secured-for-ai-based-financial-crime-intelligence-platform/)
+_Highlight:_ From monitoring against <b>AI bias</b> to detecting model drift, Graphyte&#39;s machine learning operations (ML-Ops) are category-defining and provide&nbsp;...
+
+- **6. <b>AI</b> systems aren&#39;t just copying our <b>biases</b> — they&#39;re making them worse - Study Finds** [link](https://studyfinds.org/ai-systems-amplify-human-bias/)
+_Highlight:_ <b>AI bias</b> is not a one-way street but rather a circular path where human and machine <b>biases</b> reinforce each other. Understanding this dynamic is crucial&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
