@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-01-20 One-Minute Post
+date: 2025-01-20 08:05:24 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Bernards Township School District to lead discussion on AI, emphasizing the importance of training students to retain agency, use AI safely, protect privacy, and spot bias. Ethical concerns on the use of AI demand robust safeguards, addressing algorithm bias, misinformation, and privacy risks. Election Commission of India embraces AI ethics in campaigning, aiming to enhance transparency and ensure a fair electoral process. Bringing fairness to the ring, AI is set to transform boxing by offering consistency and fairness without compromising tradition.
+
+## Articles we found interesting:
+
+- **1. Bernards Township School District to Lead Discussion on <b>AI</b> | Basking Ridge, NJ News TAPinto** [link](https://www.tapinto.net/towns/basking-ridge/articles/bernards-township-school-district-to-lead-discussion-on-ai)
+_Highlight:_ <b>artificial intelligence AI</b> circuit board. ... This site is protected by reCAPTCHA and the Google <b>Privacy</b> Policy and Terms of Service apply.
+
+- **2. Let&#39;s Talk Schools: <b>AI</b> is here to stay, let&#39;s embrace it - The Jewish Chronicle** [link](https://www.thejc.com/family-and-education/lets-talk-schools-ai-is-here-to-stay-lets-embrace-it-f9k76mpw)
+_Highlight:_ Our discussions emphasised the importance of training students to retain agency, use <b>AI</b> safely, protect <b>privacy</b> and spot bias and discrimination.
+
+- **3. Behind the Curtain — Coming soon: Ph.D.-level super-agents - Axios** [link](https://www.axios.com/2025/01/19/ai-superagent-openai-meta)
+_Highlight:_ Why it matters: The expected advancements help explain why Meta&#39;s Mark Zuckerberg and others have talked publicly about <b>AI</b> replacing mid-level&nbsp;...
+
+- **4. Ethical concerns on use of <b>AI</b> demand robust safeguards: LS secy general | Tech News** [link](https://www.business-standard.com/technology/tech-news/ethical-concerns-on-use-of-ai-demand-robust-safeguards-ls-secy-general-125012000002_1.html)
+_Highlight:_ ... <b>AI</b>, such as algorithm <b>bias</b>, misinformation and privacy risks, demand robust safeguards. Advertisement. <b>Artificial intelligence</b>, <b>AI</b>. Globally&nbsp;...
+
+- **5. Finding voices with <b>AI</b>: a call to developers, administrators, and corporations to support ...** [link](https://kevinmd.com/2025/01/finding-voices-with-ai-a-call-to-developers-administrators-and-corporations-to-support-ethical-speech-therapy.html)
+_Highlight:_ <b>AI</b> in speech therapy must prioritize ethical implementation to ... Algorithmic <b>bias</b>: If <b>AI</b> systems are trained on <b>biased</b> or incomplete&nbsp;...
+
+- **6. If Universities Don&#39;t Change Their Conduct, Trump Will Cut Off Funding - The Free Press** [link](https://www.thefp.com/p/if-universities-dont-change-their)
+_Highlight:_ Sam Altman on His Feud with Elon Musk—and the Battle for <b>AI&#39;s</b> Future &middot; Also: <b>AI bias</b> and censorship; why he donated $1 million to Trump&#39;s inaugural&nbsp;...
+
+- **7. Election commission of India embraces <b>AI</b> ethics in campaigning: Advisory on labelling <b>AI</b> ...** [link](https://indiaai.gov.in/article/election-commission-of-india-embraces-ai-ethics-in-campaigning-advisory-on-labelling-ai-generated-content)
+_Highlight:_ This move aims to enhance transparency, combat misinformation, and ensure a <b>fair</b> electoral process in the face of rapidly advancing <b>AI</b> technologies.
+
+- **8. Bringing <b>fairness</b> to the ring: How <b>AI</b> can transform boxing - Wion** [link](https://www.wionews.com/sports/bringing-fairness-to-the-ring-how-ai-can-transform-boxing-8632408)
+_Highlight:_ Unlike sports like football or cricket, which use technology to support clear rules, boxing relies on human judgment. Judges assess fighters based&nbsp;...
+
+- **9. The Knockout Punch: Can <b>AI</b> Transform Boxing&#39;s Future? | Entertainment - Devdiscourse** [link](https://www.devdiscourse.com/article/entertainment/3229652-the-knockout-punch-can-ai-transform-boxings-future)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) in modernizing the sport. <b>AI</b> promises a solution by offering consistency and <b>fairness</b> without compromising tradition.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
