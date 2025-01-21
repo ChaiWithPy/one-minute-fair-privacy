@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-01-21 One-Minute Post
+date: 2025-01-21 08:25:08 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+A global benchmark for AI regulation emphasizing privacy, while data privacy professionals face severe underfunding. HR's use of AI raises ethical concerns about fairness and privacy. Recent employment law updates highlight the potential for biased outcomes. AI's trust problem is linked to bias, with healthcare facing challenges of AI bias and health inequity.
+
+## Articles we found interesting:
+
+- **1. Protect your company&#39;s data <b>privacy</b> in the age of <b>AI</b> - Technical.ly** [link](https://technical.ly/civic-news/data-privacy-day-ai-regulation-guest-post/)
+_Highlight:_ Taken together, these landmark pieces of legislation set a global benchmark for <b>AI</b> regulation that emphasizes the need for <b>privacy</b>-preserving&nbsp;...
+
+- **2. Data <b>privacy</b> professionals are severely underfunded – and it&#39;s only going to get worse** [link](https://www.itpro.com/security/privacy/data-privacy-professionals-are-severely-underfunded-and-its-only-going-to-get-worse)
+_Highlight:_ ... <b>AI</b> Act. “As the threat landscape continues to evolve in complexity, <b>privacy</b> is becoming a sector which is increasingly difficult to operate in&nbsp;...
+
+- **3. The ethics of <b>AI</b> in HR: Balancing efficiency with fairness and <b>privacy</b> - People Matters** [link](https://www.peoplematters.in/article/hr-technology/the-ethics-of-ai-in-hr-balancing-efficiency-with-fairness-and-privacy-44039)
+_Highlight:_ The use of <b>AI</b> in HR raises significant ethical concerns, especially regarding fairness, <b>privacy</b>, and transparency. HR professionals must carefully&nbsp;...
+
+- **4. Recent Employment Law Updates in <b>Artificial Intelligence</b> | Lerch, Early &amp; Brewer - JDSupra** [link](https://www.jdsupra.com/legalnews/recent-employment-law-updates-in-5863197/)
+_Highlight:_ Inputs and models may embed assumptions and datasets that disparately impacts certain protected classes or produce <b>biased</b> outcomes in ways that are&nbsp;...
+
+- **5. Using Blockchain to Build Customer Trust in <b>AI</b> - Harvard Business Review** [link](https://hbr.org/2025/01/using-blockchain-to-build-customer-trust-in-ai)
+_Highlight:_ And <b>bias</b> is just one of a multitude of reasons why <b>AI</b> is considered a “black box” with a trust problem. Last year Pew Research found that 52% of&nbsp;...
+
+- **6. How to Make Healthcare With <b>AI</b> More Equitable - Gastroenterology &amp; Endoscopy News** [link](https://www.gastroendonews.com/Technology-Spotlight/Article/01-25/AI-Healthcare-Equity-Challenges/75952)
+_Highlight:_ ... <b>AI</b> into healthcare practice is <b>AI bias</b> and health inequity, Dr. Hightower said “<b>bias</b> occurs throughout the <b>AI</b> life cycle.” Clinicians involved in&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
