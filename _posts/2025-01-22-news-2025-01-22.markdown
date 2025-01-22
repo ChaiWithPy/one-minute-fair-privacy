@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-01-22 One-Minute Post
+date: 2025-01-22 07:54:32 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Canadian Parliament's Bill C-27, containing new AI and privacy reforms, has been halted. Higher education is embracing AI agents, raising concerns about privacy and bias. Companies are turning to privacy-enhanced technologies to protect data confidentiality. Trump has canceled Biden's executive order on AI safety, impacting the regulation of bias in AI models. AI is now screening medical school applications to reduce personal bias. AI-powered frameworks are revolutionizing workforce development, emphasizing transparency and fairness. GEMA is suing Suno Inc. for fair remuneration in AI-generated audio content. Generative AI is transforming manufacturing, with a focus on addressing fairness, transparency, and privacy concerns.
+
+## Articles we found interesting:
+
+- **1. Looking Ahead: The Canadian <b>Privacy</b> And <b>AI</b> Landscape Without Bill C-27 - Mondaq** [link](https://www.mondaq.com/canada/new-technology/1572168/looking-ahead-the-canadian-privacy-and-ai-landscape-without-bill-c-27)
+_Highlight:_ With the prorogation of Parliament last week, Bill C-27, including the new <b>AI</b> law and proposed <b>privacy</b> reforms it contained, &quot;died&quot;.
+
+- **2. <b>AI</b> Agents Are Coming to Higher Education - Government Technology** [link](https://www.govtech.com/education/higher-ed/ai-agents-are-coming-to-higher-education)
+_Highlight:_ ... <b>privacy</b> and algorithmic bias. Now a new variation on the technology — the <b>AI</b> agent — promises to bring even more agency to autonomous education&nbsp;...
+
+- **3. House Bipartisan Task Force on <b>Artificial Intelligence</b> Report | HUB - K&amp;L Gates** [link](https://www.klgates.com/House-Bipartisan-Task-Force-on-Artificial-Intelligence-Report-1-21-2025)
+_Highlight:_ It notes that in response, “some companies are turning to <b>privacy</b>-enhanced technologies, which seek to protect the <b>privacy</b> and <b>confidentiality</b> of data&nbsp;...
+
+- **4. Why Trump dashed Biden&#39;s <b>AI</b> executive order, and why it matters - Fast Company** [link](https://www.fastcompany.com/91264691/why-trump-dashed-bidens-ai-executive-order-and-why-it-matters)
+_Highlight:_ ... <b>bias</b>) in <b>AI</b> models. That work is well down the road and is likely to continue, a Washington source says. “[A]gencies have invested significant&nbsp;...
+
+- **5. Trump cancels Biden executive order on <b>AI</b> safety - Fierce Biotech** [link](https://www.fiercebiotech.com/medtech/trump-cancels-biden-executive-order-ai-safety)
+_Highlight:_ ... <b>AI</b> models before public release and protecting against <b>bias</b>—among other guidelines for employing <b>AI</b> in biotech research and development, such as&nbsp;...
+
+- **6. <b>AI</b> will now read your medical school application | AAMC** [link](https://www.aamc.org/news/ai-will-now-read-your-medical-school-application)
+_Highlight:_ Just as important, Woldenberg says, is that using one <b>AI</b> tool to initially screen every application can remove much of the personal <b>bias</b> and&nbsp;...
+
+- **7. The future of talent: How <b>AI</b>-powered frameworks are revolutionising workforce development** [link](https://www.expresscomputer.in/guest-blogs/the-future-of-talent-how-ai-powered-frameworks-are-revolutionising-workforce-development/121234/)
+_Highlight:_ These skills-based frameworks are empowered by <b>Artificial Intelligence</b> (<b>AI</b>) ... The organisations should therefore emphasise transparency and <b>fairness</b> in&nbsp;...
+
+- **8. <b>Fair</b> remuneration demanded: GEMA files lawsuit against Suno Inc. | Region | bdtonline.com** [link](https://www.bdtonline.com/region/fair-remuneration-demanded-gema-files-lawsuit-against-suno-inc/article_1107ead2-1e73-5987-a161-932f373c0486.html)
+_Highlight:_ GEMA is taking legal action against Suno Inc., an American provider of <b>AI</b>-generated audio content. It is accusing the company of processing&nbsp;...
+
+- **9. Transforming Manufacturing with Generative <b>AI</b> - CII Blog** [link](https://ciiblog.in/transforming-manufacturing-with-generative-ai/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) ... Ethical <b>AI</b> Practices: Address <b>fairness</b>, transparency, and privacy concerns to foster trust in <b>AI</b> systems.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
