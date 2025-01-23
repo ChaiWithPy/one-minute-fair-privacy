@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-01-23 One-Minute Post
+date: 2025-01-23 08:04:44 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The EU has released the first general AI legislation, while Microsoft's LinkedIn faces a lawsuit for using customer data to train AI models. Workplace AI implementation raises privacy concerns, and Generative AI development faces challenges in addressing bias. The FDA aims to address AI device bias, and India holds consultations on ethical AI governance. Meanwhile, Trump advocates for tariffs on the EU for fairness, and AI is proposed to improve fairness in boxing judgments.
+
+## Articles we found interesting:
+
+- **1. ARTICLE | Cécile Martin – IAPP 2025 Global Legislative Predictions – Data <b>Privacy</b> | France** [link](https://ogletree.fr/publications/article-cecile-martin-iapp-2025-global-legislative-predictions-data-privacy-france/)
+_Highlight:_ <b>AI</b> is, of course, another point of attention after the 12 July 2024 publication of the EU <b>AI</b> Act — the first general <b>AI</b> legislation in the world.
+
+- **2. Microsoft&#39;s LinkedIn sued for disclosing customer information to train <b>AI</b> models** [link](https://finance.yahoo.com/news/microsofts-linkedin-sued-disclosing-customer-162806181.html)
+_Highlight:_ Customers said LinkedIn then discreetly updated its <b>privacy</b> policy on Sept. 18, 2024 to say data could be used to train <b>AI</b> models, and in a &quot;&nbsp;...
+
+- **3. <b>Privacy</b> is &#39;biggest concern in workplace when implementing <b>AI</b>&#39; | Facilitate Magazine** [link](https://www.facilitatemagazine.com/content/news/2025/01/22/privacy-biggest-concern-workplace-when-implementing-ai)
+_Highlight:_ Data <b>privacy</b> is the biggest concern surrounding the implementation of <b>AI</b> in the workplace. A survey by recruitment website CareersinAudit.com reveals&nbsp;...
+
+- **4. Six key challenges in developing Generative <b>AI</b> solutions - YourStory.com** [link](https://yourstory.com/2025/01/6-key-challenges-when-developing-generative-ai)
+_Highlight:_ Tackling <b>bias</b> in Generative <b>AI</b> is crucial for maintaining fairness and trustworthiness in <b>AI</b> systems. <b>Bias</b> occurs when <b>AI</b> models make skewed&nbsp;...
+
+- **5. <b>AI</b> models struggle with expert-level global history knowledge - PsyPost** [link](https://www.psypost.org/ai-models-struggle-with-expert-level-global-history-knowledge/)
+_Highlight:_ The researchers acknowledged several limitations in their study. The Seshat Databank, while comprehensive, reflects the <b>biases</b> of its sources, which&nbsp;...
+
+- **6. <b>AI</b> in medtech is taking off. Here are 4 trends to watch in 2025.** [link](https://www.medtechdive.com/news/ai-medtech-outlook-4-trends-2025/737942/)
+_Highlight:_ FDA aims to stem <b>AI</b> device <b>bias</b>, boost transparency in draft guidance By Elise Reuter • Jan. 7, 2025. Post to LinkedIn &middot; Share on Facebook &middot; Post to X&nbsp;...
+
+- **7. Shaping India&#39;s <b>AI</b> Future: Consultation on Ethical <b>AI</b> Governance - OpenGov Asia** [link](https://opengovasia.com/2025/01/22/shaping-indias-ai-future-consultation-on-ethical-ai-governance/)
+_Highlight:_ This consultation marked the second of five consultations under the <b>AI</b> RAM initiative. UNESCO and MeitY aim to create an India-specific <b>AI</b> policy&nbsp;...
+
+- **8. Tariffs on EU only way to get <b>fairness</b>: Trump - The News International** [link](https://www.thenews.com.pk/latest/1274804-tariffs-on-eu-only-way-to-get-fairness-trump)
+_Highlight:_ WASHINGTON: US President Donald Trump has said that Washington will impose tariffs on the European Union and that his administration was&nbsp;...
+
+- **9. <b>AI</b> Can Help Consolidate Boxing&#39;s Rich Traditions And Remove Human Errors In Judgements** [link](https://www.bizzbuzz.news/technology/ai/ai-can-help-consolidate-boxings-rich-traditions-and-remove-human-errors-in-judgements-1349433)
+_Highlight:_ Sensors and <b>AI</b> can track punch accuracy, power and placement. This data will give judges a factual layer to complement their scoring.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
