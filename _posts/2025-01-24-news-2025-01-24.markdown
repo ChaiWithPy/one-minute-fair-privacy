@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-01-24 One-Minute Post
+date: 2025-01-24 08:22:49 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+LinkedIn is facing a lawsuit for using private messages to train AI models without consent. Meanwhile, Trump signed an executive order to promote AI dominance free from bias. In Nottinghamshire, there's a call to maintain empathy and fairness during AI services trials. Additionally, CodeSignal has launched AI-powered interviewer training to ensure fairness and minimize bias in interviews.
+
+## Articles we found interesting:
+
+- **1. LinkedIn sued over <b>privacy</b> violations, data collection for <b>AI</b> models - Straight Arrow News** [link](https://san.com/cc/linkedin-sued-over-privacy-violations-data-collection-for-ai-models/)
+_Highlight:_ LinkedIn users have filed a class action lawsuit in a California federal court, accusing the platform of harvesting their private messages to&nbsp;...
+
+- **2. LinkedIn used private DMs to train <b>AI</b>, lawsuit says - Quartz** [link](https://qz.com/linkedin-lawsuit-ai-training-data-dm-1851746554)
+_Highlight:_ Premium users claim LinkedIn shared their private messages for <b>AI</b> without consent.
+
+- **3. E&amp;C Chair Guthrie talks TikTok, <b>AI</b>, <b>privacy</b> - Live Updates - POLITICO** [link](https://www.politico.com/live-updates/2025/01/23/congress/e-c-chair-guthrie-talks-tiktok-ai-privacy-00200367)
+_Highlight:_ Rep. Brett Guthrie (R-Ky.) is in the early days of taking over the powerful House Energy and Commerce Committee.
+
+- **4. Trump signs executive order to boost US global <b>AI</b> dominance &#39;free from ideological <b>bias</b>&#39;** [link](https://timesofindia.indiatimes.com/world/us/trump-signs-executive-order-to-boost-us-global-ai-dominance-free-from-ideological-bias/articleshow/117503094.cms)
+_Highlight:_ US News: US President Donald Trump signed an executive order to enhance America&#39;s dominance in <b>artificial intelligence</b>. The order aims to&nbsp;...
+
+- **5. Trump signs executive order on developing <b>artificial intelligence</b> &#39;free from ideological <b>bias</b>&#39;** [link](https://apnews.com/article/trump-ai-artificial-intelligence-executive-order-eef1e5b9bec861eaf9b36217d547929c)
+_Highlight:_ President Donald Trump signed an executive order on <b>artificial intelligence</b> Thursday that will revoke past government policies his order says “act&nbsp;...
+
+- **6. Trump signs <b>AI</b> executive order - Nextgov/FCW** [link](http://www.fcw.com/artificial-intelligence/2025/01/trump-signs-ai-executive-order/402465/%3Foref%3Dng-homepage-river)
+_Highlight:_ President Donald Trump speaks to reporters after signing a series of executive orders in the Oval Office of the White House on January 23,&nbsp;...
+
+- **7. Call for council to keep human “empathy and <b>fairness</b>” during <b>AI</b> services trial - Notts TV** [link](https://nottstv.com/call-for-council-to-keep-human-empathy-and-fairness-during-ai-services-trial/)
+_Highlight:_ <b>Artificial Intelligence</b> technology being used in Nottinghamshire council services should not replace “empathy and <b>fairness</b>” for residents,&nbsp;...
+
+- **8. Integrating Ethical <b>AI</b> Practices by <b>AI</b> Stakeholders – Part 1 - Businessday NG** [link](https://businessday.ng/news/legal-business/article/integrating-ethical-ai-practices-by-ai-stakeholders-part-1/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) has seamlessly integrated into many aspects of our daily lives, becoming a driving force behind significant...
+
+- **9. CodeSignal Launches <b>AI</b>-Powered Interviewer Training to Revolutionize How Teams ... - Morningstar** [link](https://www.morningstar.com/news/pr-newswire/20250123sf02598/codesignal-launches-ai-powered-interviewer-training-to-revolutionize-how-teams-conduct-interviews-across-technical-and-business-roles)
+_Highlight:_ Ensure <b>Fairness</b> and Focus on Skills: Ask structured, skills-focused questions and minimize bias. Predict Hiring Success: Conduct interviews that&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
