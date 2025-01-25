@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-01-25 One-Minute Post
+date: 2025-01-25 07:59:33 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Trump's executive order shifts focus from AI privacy to leadership, revoking past policies. Meanwhile, Erica Goven joins a legal panel on AI, emphasizing the need for ethical safeguards. Additionally, the Treasury's report highlights the importance of regulatory compliance for AI in financial services. On the bias front, Trump's order aims for AI development "free from ideological bias," signaling a shift in the US approach.
+
+## Articles we found interesting:
+
+- **1. Trump&#39;s new executive order on <b>AI</b> underemphasizes <b>privacy</b>, security issues** [link](https://www.biometricupdate.com/202501/trumps-new-executive-order-on-ai-underemphasizes-privacy-security-issues)
+_Highlight:_ The order marks a reversal of policies implemented by the Biden administration which emphasized regulation, transparency, and ethical safeguards in <b>AI</b>&nbsp;...
+
+- **2. Erica Goven to Participate in Creighton Law Panel on <b>AI</b> - Kutak Rock** [link](https://www.kutakrock.com/newspublications/news/2025/january/erica-goven-to-speak-at-creighton-law-panel-on-ai)
+_Highlight:_ Kutak Rock partner Erica Goven will participate in Creighton Law&#39;s symposium “From Algorithm to Advocacy: Forging a Path for Legal Profess...
+
+- **3. Treasury&#39;s Post-2024 RFI Report on <b>AI</b> in Financial Services – Uses, Opportunities, and Risks | 2025** [link](https://www.debevoise.com/insights/publications/2025/01/treasurys-post-2024-rfi-report-on-ai-in-financial)
+_Highlight:_ Firms should consider requiring a regulatory compliance review for any higher-risk generative <b>AI</b> use cases that are moving into production,&nbsp;...
+
+- **4. Trump&#39;s Executive Order Calls for <b>AI</b> Action Plan - ExecutiveGov** [link](https://executivegov.com/2025/01/trump-executive-order-ai-action-plan/)
+_Highlight:_ President Donald Trump has signed an executive order that directs the development of an action plan aiming to retain U.S. leadership in <b>artificial</b>&nbsp;...
+
+- **5. Trump Signs Executive Order On Developing <b>Artificial Intelligence</b> &#39;free From Ideological <b>Bias</b>&#39;** [link](https://www.dtnpf.com/agriculture/web/ag/news/world-policy/article/2025/01/24/trump-signs-executive-order-free)
+_Highlight:_ (AP) -- President Donald Trump signed an executive order on <b>artificial intelligence</b> Thursday that will revoke past government policies his order&nbsp;...
+
+- **6. Trump signs executive order to develop <b>artificial intelligence</b> “free from ideological <b>bias</b>”** [link](https://mezha.media/en/2025/01/24/trump-signs-executive-order-to-develop-artificial-intelligence-free-from-ideological-bias/)
+_Highlight:_ President Donald Trump has signed an executive order to change the US approach to the development of <b>artificial intelligence</b>,&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
