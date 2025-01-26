@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-01-26 One-Minute Post
+date: 2025-01-26 07:59:34 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Paul McCartney fears AI copyright infringement, while states push for AI regulation. Digital India seeks privacy protection. Trump signs AI policy order. AI bias affects teenagers. Generative AI in healthcare faces biases. Europe leads in AI fairness regulations. Lightchain AI promotes fairness in crypto. ChainGPT founder expects AI to transform finance with fairness.
+
+## Articles we found interesting:
+
+- **1. Paul McCartney says he fears <b>AI</b> will rip off artists - ABC News** [link](https://abcnews.go.com/Entertainment/wireStory/paul-mccartney-fears-ai-rip-off-artists-118095186)
+_Highlight:_ Paul McCartney has urged the British government not to make a change to copyright laws that he says could let <b>artificial intelligence</b> companies&nbsp;...
+
+- **2. Will states lead the way on <b>AI</b> regulation? - TechCrunch** [link](https://techcrunch.com/2025/01/25/will-states-lead-the-way-on-ai-regulation/)
+_Highlight:_ Last year was a busy time for lawmakers and lobbyists concerned about <b>AI</b> — most notably in California, where Gavin Newsom signed 18 new <b>AI</b> laws&nbsp;...
+
+- **3. Witerati | Phir bhi <b>AI</b> overkill hai Hindustani - Hindustan Times** [link](https://www.hindustantimes.com/cities/chandigarh-news/witerati-phir-bhi-ai-overkill-hai-hindustani-101737835613316.html)
+_Highlight:_ Little surprise then that the new freedoms Digital India could be craving for are these --- freedom from the invasion of <b>privacy</b>, freedom from an&nbsp;...
+
+- **4. President Trump Signs Executive Order on <b>Artificial Intelligence</b> Policy, Charting a Path for ...** [link](https://www.hstoday.us/subject-matter-areas/ai-and-advanced-tech/president-trump-signs-executive-order-on-artificial-intelligence-policy-charting-a-path-for-u-s-ai-leadership/)
+_Highlight:_ President Trump has signed an executive order aimed at reshaping the United States&#39; approach to <b>artificial intelligence</b> (<b>AI</b>) policy.
+
+- **5. Teenagers misunderstood? The <b>AI bias</b> shaping a generation | Technology - Devdiscourse** [link](https://www.devdiscourse.com/article/technology/3234300-teenagers-misunderstood-the-ai-bias-shaping-a-generation)
+_Highlight:_ <b>AI</b> systems derive their knowledge from massive datasets, often curated from news, social media, and other public sources.
+
+- **6. Retrieval-augmented generation for generative <b>artificial intelligence</b> in health care - Nature** [link](https://www.nature.com/articles/s44401-024-00004-1)
+_Highlight:_ Despite this, it is crucial to acknowledge the inherent limitations of generative <b>AI</b> models, which include susceptibility to <b>biases</b> from pre-training&nbsp;...
+
+- **7. What Happens When Humanity Meets <b>AI</b>? A Digital Dilemma Awaits! - DSA** [link](https://dsa.si/uncategorised/what-happens-when-humanity-meets-ai-a-digital-dilemma-awaits/7796/)
+_Highlight:_ Europe is already leading the charge with regulations aimed at ensuring transparency, security, and <b>fairness</b> in <b>AI</b> systems, setting a potential global&nbsp;...
+
+- **8. Donald and Melania&#39;s Crypto Projects Face Backlash While Lightchain <b>AI</b> Offers Stability** [link](https://newswatchtv.com/2025/01/24/donald-and-melanias-crypto-projects-face-backlash-while-lightchain-ai-offers-stability/)
+_Highlight:_ ... <b>AI</b> model training, enabling diverse contributions from nodes. This approach promotes <b>fairness</b> and inclusivity in <b>AI</b> development. Furthermore&nbsp;...
+
+- **9. ChainGPT Founder Expects <b>AI</b> Agent Adoption to Transform Crypto and Blockchain** [link](https://beincrypto.com/ai-agent-adoption-in-crypto/)
+_Highlight:_ They can enhance intelligence, adaptability, and <b>fairness</b> in financial mechanisms. Unlike <b>AI</b> bots, <b>AI</b> agents adapt to tasks and handle multi-step&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
