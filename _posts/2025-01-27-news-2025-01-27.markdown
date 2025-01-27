@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-01-27 One-Minute Post
+date: 2025-01-27 08:04:38 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google is focusing on AI training amidst privacy scrutiny. EU is addressing AI facial recognition and privacy conflicts. Texas is establishing an AI Council for accountability. Generative AI is revolutionizing cybersecurity. AI governance challenges are emerging.
+
+## Articles we found interesting:
+
+- **1. Google plans <b>AI</b>-focused training to prepare workers for evolving industries - Tech Monitor** [link](https://www.techmonitor.ai/digital-economy/big-tech/google-ai-focused-training-to-prepare-workers-for-evolving-industries)
+_Highlight:_ ... <b>AI</b>, its potential for misuse, and its impact on <b>privacy</b> and competition. The company&#39;s focus on <b>AI</b> comes as it faces scrutiny not only for its new&nbsp;...
+
+- **2. What is EU doing on <b>AI</b> facial-scraping recognition — and is it enough? - EUobserver** [link](https://euobserver.com/digital/ar4c69411a)
+_Highlight:_ Scraping fundamentally conflicts with <b>privacy</b> principles such as consent, transparency, purpose limitation and data minimisation.
+
+- **3. Lexis Leverages Henchman to Launch Create+ In MS 365 - Artificial Lawyer** [link](https://www.artificiallawyer.com/2025/01/27/lexis-leverages-henchman-to-launch-create-in-ms-365/)
+_Highlight:_ &#39;Document Management System (DMS) &middot; Seamless access to trusted content &middot; Integrated <b>AI</b> capabilities &middot; Data <b>privacy</b> and security&nbsp;...
+
+- **4. Texas&#39;s <b>AI</b> Law Won&#39;t Deliver the Accountability It Promises - Center for Data Innovation** [link](https://datainnovation.org/2025/01/texass-ai-law-wont-deliver-the-accountability-it-promises/)
+_Highlight:_ Compounding this comprehensive approach, the bill would establish a Texas <b>AI</b> Council—a new centralized authority with powers to issue ethical&nbsp;...
+
+- **5. Generative <b>AI</b> to Combat Cyber Security Threats - TechBullion** [link](https://techbullion.com/generative-ai-to-combat-cyber-security-threats/)
+_Highlight:_ Generative <b>AI</b> is transforming cybersecurity by offering advanced tools for threat detection, analysis, and response. Leveraging technologies such&nbsp;...
+
+- **6. <b>AI</b> Agents: RIP Autonomy - by Luiza Jarovsky - Substack** [link](https://substack.com/home/post/p-155752559%3Futm_campaign%3Dpost%26utm_medium%3Dweb)
+_Highlight:_ Emerging <b>AI</b> Governance Challenges | Paid Subscriber Edition | #165.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
