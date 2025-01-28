@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2025-01-28 One-Minute Post
+date: 2025-01-28 08:38:12 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+North Carolina to pilot AI School Safety Program, raising privacy concerns. Microsoft Purview aims to fast-track generative AI security. California Attorney General issues legal advisories on AI bias and data abuse. Trump administration emphasizes the need for AI systems free from ideological bias. Chinese DeepSeek AI gains popularity in the US market, highlighting fairness in AI competition.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> security program to roll out in NC schools as parents, lawmakers grapple with <b>privacy</b> and ...** [link](https://www.carolinajournal.com/ai-security-program-to-roll-out-in-nc-schools-as-parents-lawmakers-grapple-with-privacy-and-safety-concerns/)
+_Highlight:_ Two counties in North Carolina have been selected to pilot an <b>Artificial Intelligence</b> (<b>AI</b>) School Safety Program that could soon be installed in&nbsp;...
+
+- **2. Fast-track generative <b>AI</b> security with Microsoft Purview** [link](https://www.microsoft.com/en-us/security/blog/2025/01/27/fast-track-generative-ai-security-with-microsoft-purview/)
+_Highlight:_ Fast-track generative <b>AI</b> security with Microsoft Purview. By Steve Vandenberg, Principal Global Black Belt, Security, Compliance and <b>Privacy</b>.
+
+- **3. <b>AI</b> in dentistry: Strategies for managing risks and potential for malpractice claims - CDA** [link](https://www.cda.org/newsroom/practice-management/ai-in-dentistry-strategies-for-managing-risks-and-potential-for-malpractice-claims/)
+_Highlight:_ Data <b>privacy</b> concerns. <b>AI</b> systems require vast amounts of patient data to learn and function effectively. This can raise significant data <b>privacy</b>&nbsp;...
+
+- **4. Day Three of Trump&#39;s Presidency Provides Additional Clarity on the Administration&#39;s Stance on <b>AI</b>** [link](https://www.jdsupra.com/legalnews/day-three-of-trump-s-presidency-5310569/)
+_Highlight:_ ... <b>Artificial Intelligence</b>,” which aims to maintain the nation&#39;s leadership in <b>AI</b> that “is free from ideological <b>bias</b> or engineered social agendas.
+
+- **5. Fact Sheet: President Donald J. Trump Takes Action to Enhance America&#39;s <b>AI</b> Leadership** [link](https://sg.usembassy.gov/fact-sheet-president-donald-j-trump-takes-action-to-enhance-americas-ai-leadership/)
+_Highlight:_ American development of <b>AI</b> systems must be free from ideological <b>bias</b> or engineered social agendas. With the right government policies, the United&nbsp;...
+
+- **6. California Attorney General Issues New Legal Advisories on <b>Artificial Intelligence</b> | Insights** [link](https://www.hklaw.com/en/insights/publications/2025/01/california-attorney-general-issues-new-legal-advisories)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). The first advisory applies to the use of ... <b>bias</b> and abuse of data. Furthermore, in line with growing public&nbsp;...
+
+- **7. What Is DeepSeek <b>AI</b>? All About Chinese ChatGPT Rival - Newsweek** [link](https://www.newsweek.com/what-deepseek-chinese-chatgpt-rival-2021208)
+_Highlight:_ DeepSeek has boomed in popularity after its successful launch, breaking into the U.S. <b>artificial intelligence</b> market from China.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
