@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-01-29 One-Minute Post
+date: 2025-01-29 08:11:47 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+DeepSeek, a Chinese AI model, raises privacy concerns globally. Meanwhile, ex-MP David TC Davies claims biased AI rejected his job applications. On the other hand, Paul McCartney emphasizes fair compensation for artists amidst AI exploitation worries. Additionally, experts discuss aligning AI initiatives with business objectives and establishing ethical guidelines for fairness.
+
+## Articles we found interesting:
+
+- **1. Experts warn of <b>privacy</b> and security risks with Chinese <b>AI</b> model DeepSeek** [link](https://www.businesstoday.in/technology/news/story/experts-warn-of-privacy-and-security-risks-with-chinese-ai-model-deepseek-462338-2025-01-29)
+_Highlight:_ As DeepSeek, a Chinese <b>AI</b> model, becomes popular globally, experts raise concerns about <b>privacy</b> and potential data misuse.
+
+- **2. &#39;Be careful&#39;: Australian ministers urge caution over <b>AI</b> app DeepSeek - SBS** [link](https://www.sbs.com.au/news/article/australian-ministers-urge-caution-deepseek/1k52lfqfg)
+_Highlight:_ Federal ministers Ed Husic and Clare O&#39;Neil have expressed raised <b>privacy</b> concerns over the <b>AI</b> chatbot, which has surged in popularity.
+
+- **3. Is DeepSeek Safe? <b>Privacy</b> fears grow as popular <b>AI</b> app sends data to China** [link](https://www.standard.co.uk/news/tech/is-deepseek-safe-data-privacy-ai-china-b1207793.html)
+_Highlight:_ The viral Chinese <b>AI</b> service reportedly tracks data that can be used to &#39;biometrically&#39; identify users.
+
+- **4. <b>Biased AI</b> rejected my job applications, says ex-MP David TC Davies - BBC** [link](https://www.bbc.com/news/articles/c0m14m3kg7no)
+_Highlight:_ A former cabinet minister who lost his seat at the general election claims he has been automatically rejected for jobs by <b>Artificial Intelligence</b>&nbsp;...
+
+- **5. Experts urge caution over use of Chinese <b>AI</b> DeepSeek - The Guardian** [link](https://www.theguardian.com/technology/2025/jan/28/experts-urge-caution-over-use-of-chinese-ai-deepseek)
+_Highlight:_ UK officials say they are monitoring any national security threat to data from the new <b>AI</b>.
+
+- **6. <b>Artificial Intelligence</b> and the Moral Arc: Justice in the Digital Age Keynote - Sonia Gipson Rankin** [link](https://www.youtube.com/watch%3Fv%3DfkVjpLNL2WA)
+_Highlight:_ ... <b>bias</b> in <b>artificial intelligence</b> and discussing how to address <b>AI bias</b> through law, technology and society. For more about Dr. MLK Jr. Celebration&nbsp;...
+
+- **7. Paul McCartney raises concerns over <b>artificial intelligence&#39;s</b> potential to exploit artists** [link](https://pop.inquirer.net/373519/paul-mccartney-raises-concerns-over-artificial-intelligences-potential-to-exploit-artists)
+_Highlight:_ McCartney then emphasized letting these artists receive <b>fair</b> compensation for their hard work and effort instead of letting <b>AI</b> companies take over&nbsp;...
+
+- **8. Leveraging Real and Synthetic Data to Power <b>AI</b>, Machine Learning, and Generative <b>AI</b>** [link](https://tdwi.org/Events/Seminars/Virtual-Live/2025/Apr/ADV-ALL-ARCH-ALL-14W1A-Data-Foundations-for-AI.aspx)
+_Highlight:_ Gokula Mishra will cover how to align <b>AI</b> initiatives with business objectives, manage <b>AI</b> risks, and establish ethical guidelines that ensure <b>fairness</b>,&nbsp;...
+
+- **9. Ethics In <b>AI</b>: Can Machines Be Truly <b>Fair</b>? | Youth Ki Awaaz** [link](https://www.youthkiawaaz.com/2025/01/ethics-in-ai-can-machines-be-truly-fair/)
+_Highlight:_ Why <b>Fairness</b> in <b>AI</b> is Complicated ... <b>Fairness</b> is not a one-size-fits-all concept. It varies by context, culture, and purpose. For example: In&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
