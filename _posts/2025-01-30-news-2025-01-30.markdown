@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-01-30 One-Minute Post
+date: 2025-01-30 07:51:06 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Thailand is shaping AI and data privacy initiatives, while a new international report on AI safety is launched. Amazon discontinued biased AI hiring algorithms and European AI Act compliance is not causing panic. The Athena Research Center explores AI fairness, and there's a community discussion on the risks of AI detection tools for creators and platforms.
+
+## Articles we found interesting:
+
+- **1. Is DeepSeek <b>AI</b> safe to use? Think twice before you download DeepSeek for the time being** [link](https://www.techradar.com/computing/cyber-security/is-deepseek-ai-safe-or-is-it-just-a-data-minefield-waiting-to-blow-up)
+_Highlight:_ The <b>privacy</b> policy outlines the data can be used to &quot;Review, improve, and develop the Service&quot; as well as &quot;Comply with our legal obligations, or as&nbsp;...
+
+- **2. From <b>AI</b> to Data <b>Privacy</b>: Themes in Healthcare Law - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D0ac70a7c-51a2-4c7c-96dd-789924598744)
+_Highlight:_ Written by - Torben Welch &middot; Stronger scrutiny around <b>AI</b> &middot; Larger focus on data <b>privacy</b> and security &middot; Telehealth regulations will continue to evolve.
+
+- **3. Thailand: Global <b>AI</b> Ethics and Data <b>Privacy</b> Initiatives - OpenGov Asia** [link](https://opengovasia.com/2025/01/30/thailand-global-ai-ethics-and-data-privacy-initiatives/)
+_Highlight:_ Thailand is set to play a prominent role in shaping the future of <b>Artificial Intelligence</b> (<b>AI</b>) and data protection as the country prepares for two&nbsp;...
+
+- **4. The First International Report on <b>AI</b> Safety chaired by Yoshua Bengio launched** [link](https://nouvelles.umontreal.ca/en/article/2025/01/29/the-first-international-report-on-ai-safety-is-launched/)
+_Highlight:_ Chaired by UdeM computer-science professor Yoshua Bengio, the report released today is intended as a guide for policymakers worldwide.
+
+- **5. Integrating Health Equity in <b>Artificial Intelligence</b> for Public Health in Canada - Frontiers** [link](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1524616/abstract)
+_Highlight:_ ... <b>AI</b> epistemology, algorithmic <b>bias</b>, accessibility of <b>AI</b> technologies, ethical and privacy concerns, unrepresentative training datasets, lack of&nbsp;...
+
+- **6. <b>AI</b> Accountability: How Doing The Right Thing Builds A Better Business - Forbes** [link](https://www.forbes.com/sites/bruceweinstein/2025/01/29/ai-accountability-how-doing-the-right-thing-builds-a-better-business/)
+_Highlight:_ Monitor and audit. After identifying <b>bias</b> in its <b>AI</b> hiring algorithms, Amazon discontinued their use and implemented measures to prevent&nbsp;...
+
+- **7. <b>Artificial intelligence</b> can be <b>fair</b> | eKathimerini.com** [link](https://www.ekathimerini.com/in-depth/interviews-in-depth/1259976/artificial-intelligence-can-be-fair/)
+_Highlight:_ From bias to sustainability, head of the Athena Research Center explores transformative potential of <b>AI</b> and our responsibility in its evolution.
+
+- **8. Invitation to a Community Discussion on the Risks of <b>AI</b> Detection Tools for Creators and Platforms** [link](https://substack.com/home/post/p-155919647%3Futm_campaign%3Dpost%26utm_medium%3Dweb)
+_Highlight:_ The Hidden Impact of <b>AI</b> Detection Tools on Writers, Platforms, and <b>Fairness</b>.
+
+- **9. OCT Medical Devices 2025: European <b>AI</b> Act compliance &#39;not a cause for panic&#39; - MSN** [link](https://www.msn.com/en-us/news/technology/oct-medical-devices-2025-european-ai-act-compliance-not-a-cause-for-panic/ar-AA1y1fFt)
+_Highlight:_ ... <b>fairness</b>, and respect for human rights.” “At a high level, new transparencies required under the Act relate to safety, which was already there in&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
