@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-01-31 One-Minute Post
+date: 2025-01-31 08:07:55 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+French privacy watchdog to question DeepSeek on AI, data protection. Italy bans Chinese DeepSeek AI over privacy and ethical concerns. US government's automation raises concerns about bias in AI systems. India to launch indigenous affordable, secure AI model with bias mitigation. Ethical AI and recruitment fairness challenges discussed. India calls for proposals for building foundational AI models with robust mechanisms for bias mitigation and fairness.
+
+## Articles we found interesting:
+
+- **1. French <b>privacy</b> watchdog to quiz DeepSeek on <b>AI</b>, data protection - CNA** [link](https://www.channelnewsasia.com/business/deepseek-quizzed-french-privacy-watchdog-ai-data-protection-4906961)
+_Highlight:_ BRUSSELS: France&#39;s <b>privacy</b> watchdog said on Thursday (Jan 30) it will question DeepSeek to gain a better idea of how the Chinese startup&#39;s <b>AI</b>&nbsp;...
+
+- **2. Italy&#39;s Watchdog Blocks <b>AI</b> App DeepSeek Over Data-<b>Privacy</b> Concerns, Launches Probe** [link](https://www.wsj.com/tech/ai/italys-watchdog-blocks-ai-app-deepseek-over-data-privacy-concerns-launches-probe-e766eb52)
+_Highlight:_ The Italian Data Protection Authority said it blocked access to Chinese <b>artificial intelligence</b> application DeepSeek with immediate effect amid&nbsp;...
+
+- **3. Italy Bans Chinese DeepSeek <b>AI</b> Over Data <b>Privacy</b> and Ethical Concerns** [link](https://thehackernews.com/2025/01/italy-bans-chinese-deepseek-ai-over.html)
+_Highlight:_ Italy bans DeepSeek <b>AI</b> over <b>privacy</b> issues, citing lack of data transparency and cybersecurity risks.
+
+- **4. How federal furloughs set the stage for greater privatization and automation of the U.S. government** [link](https://www.brookings.edu/articles/how-federal-furloughs-set-the-stage-for-greater-privatization-and-automation-of-the-u-s-government/)
+_Highlight:_ Influenced by Big Tech leaders, these changes raise concerns about data security, <b>bias</b> in <b>AI</b> systems, and the digital divide, which could leave many&nbsp;...
+
+- **5. DeepSeek Has More To Offer Beyond Efficiency: Explainable <b>AI</b> - Forbes** [link](https://www.forbes.com/sites/geruiwang/2025/01/30/deepseek-redefines-ai-with-explainable-reasoning-and-open-innovation/)
+_Highlight:_ ... <b>AI</b> race. ... GPT-4o, trained with OpenAI&#39;s “safety layers,” will occasionally flag issues like data <b>bias</b> but tends to bury ethical caveats in verbose&nbsp;...
+
+- **6. India to Launch Indigenous Affordable, Secure <b>AI</b> Model - OpenGov Asia** [link](https://opengovasia.com/2025/01/31/india-to-launch-indigenous-affordable-secure-ai-model/)
+_Highlight:_ ... <b>bias</b> mitigation. Notable projects include Machine Unlearning at IIT Jodhpur, <b>AI Bias</b> Mitigation Strategies at NIT Raipur, and Explainable <b>AI</b>&nbsp;...
+
+- **7. DeepSeek not the only Chinese model to upset <b>AI</b>-pple cart; here&#39;s dozen more - Sify** [link](https://www.sify.com/ai-analytics/cheap-efficient-chinese-models-are-coming-to-upend-the-gen-ai-pple-cart/)
+_Highlight:_ ... <b>AI</b>-pple cart; here&#39;s dozen more. As <b>AI</b> grows, so do the ethical questions: How can we ensure <b>fairness</b> and accountability in <b>AI</b> systems? <b>AI</b> Analytics&nbsp;...
+
+- **8. Balancing the Scales: Ethical <b>AI</b> and Recruitment <b>Fairness</b> in the Modern Job Market** [link](https://officechai.com/miscellaneous/balancing-the-scales-ethical-ai-and-recruitment-fairness-in-the-modern-job-market/)
+_Highlight:_ Challenges to Recruitment <b>Fairness</b>. While <b>AI</b> brings efficiency to hiring, it&#39;s not without its hiccups. One big concern is the potential for&nbsp;...
+
+- **9. Call for proposals for building India&#39;s foundational <b>AI</b> models - IndiaAI** [link](https://indiaai.gov.in/article/call-for-proposals-for-building-india-s-foundational-ai-models)
+_Highlight:_ Incorporate robust mechanisms for bias mitigation, <b>fairness</b>, and ethical <b>AI</b> principles. IP for the model will remain with the entity with a&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
