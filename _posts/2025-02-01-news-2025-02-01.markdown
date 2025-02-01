@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-02-01 One-Minute Post
+date: 2025-02-01 08:11:49 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+NASA and Italy block China's DeepSeek over privacy concerns. Legal battles over AI privacy and data protection laws intensify. Illinois Supreme Court announces policy on AI to address bias. DeepSeek's AI model found to be highly biased and likely to generate harmful content.
+
+## Articles we found interesting:
+
+- **1. NASA becomes latest federal agency to block China&#39;s DeepSeek - CNBC** [link](https://www.cnbc.com/2025/01/31/nasa-becomes-latest-federal-agency-to-block-chinas-deepseek.html)
+_Highlight:_ <b>AI</b> at Work &middot; <b>AI</b> Age &middot; <b>AI</b> Insights &middot; <b>AI</b> Effect. NASA becomes latest federal agency to block China&#39;s DeepSeek on &#39;security and <b>privacy</b> concerns&#39;.
+
+- **2. A Deep-See On DeepSeek: How Italy&#39;s Ban Might Shape <b>AI</b> Oversight - Forbes** [link](https://www.forbes.com/sites/nizangpackin/2025/01/31/a-deep-see-on-deepseek-how-italys-ban-might-shape-ai-oversight/)
+_Highlight:_ An Italian regulator abruptly bans DeepSeek, a rising Chinese <b>AI</b> platform, over data <b>privacy</b> issues—mirroring ChatGPT&#39;s troubles and heightening&nbsp;...
+
+- **3. <b>AI&#39;s</b> Legal Storm: The Three Battles That Will Shape Its Future - Forbes** [link](https://www.forbes.com/sites/digital-assets/2025/01/31/ais-legal-storm-the-three-battles-that-will-shape-its-future/)
+_Highlight:_ <b>Privacy</b> &amp; Data Protection Lawsuits: Who controls personal and sensitive data in <b>AI</b>? Ethical &amp; Liability Lawsuits: Who is responsible when <b>AI</b> causes&nbsp;...
+
+- **4. Illinois Supreme Court Announces Policy on <b>Artificial Intelligence</b> | JD Supra** [link](https://www.jdsupra.com/legalnews/illinois-supreme-court-announces-policy-2595863/)
+_Highlight:_ Unsubstantiated or deliberately misleading <b>AI</b> generated content that perpetuates <b>bias</b>, prejudices litigants, or obscures truth-finding and decision-&nbsp;...
+
+- **5. Here&#39;s How DeepSeek Censorship Actually Works—and How to Get Around It | WIRED** [link](https://www.wired.com/story/deepseek-censorship/)
+_Highlight:_ A 2023 regulation on generative <b>AI</b> specified that <b>AI</b> models in China ... Pre-training <b>bias</b> happens when a model is trained on <b>biased</b> or incomplete data.
+
+- **6. DeepSeek-R1 <b>AI</b> Model 11x More Likely to Generate Harmful Content, Security Research Finds** [link](https://www.globenewswire.com/news-release/2025/01/31/3018811/0/en/DeepSeek-R1-AI-Model-11x-More-Likely-to-Generate-Harmful-Content-Security-Research-Finds.html)
+_Highlight:_ The analysis found the model to be highly <b>biased</b> and susceptible to generating insecure code, as well as producing harmful and toxic content,&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
