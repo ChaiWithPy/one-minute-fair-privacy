@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-02 One-Minute Post
+date: 2025-02-02 07:46:45 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Italy bans Chinese AI model DeepSeek due to privacy concerns. Meanwhile, LSU's AI policies spark fairness debate. Also, ethical risks and biases in AI systems are under scrutiny.
+
+## Articles we found interesting:
+
+- **1. South Korea <b>privacy</b> watchdog to ask DeepSeek about personal information use | Reuters** [link](https://www.reuters.com/technology/artificial-intelligence/south-korea-privacy-watchdog-ask-deepseek-about-personal-information-use-2025-01-31/)
+_Highlight:_ The U.S. Commerce Department is looking into whether DeepSeek - the Chinese company whose <b>AI</b> model&#39;s performance rocked the tech world - has been&nbsp;...
+
+- **2. Italy Bans Chinese <b>AI</b> Model DeepSeek Amid <b>Privacy</b> Issues - The Pinnacle Gazette** [link](https://evrimagaci.org/tpg/italy-bans-chinese-ai-model-deepseek-amid-privacy-issues-175622)
+_Highlight:_ Italy has taken the bold step of banning the Chinese <b>AI</b> model known as DeepSeek, following significant <b>privacy</b> concerns raised by the Italian Data&nbsp;...
+
+- **3. N.D. State Committee Sets Stage for <b>AI</b> Court Transcriptions** [link](https://www.govtech.com/artificial-intelligence/n-d-state-committee-sets-stage-for-ai-court-transcriptions)
+_Highlight:_ Critics, however, contend the move jeopardizes accuracy, <b>privacy</b> and reliability, raising concerns about the potential mishandling of confidential&nbsp;...
+
+- **4. The Dark Side of <b>AI</b>: Exploring Risks and Ethical Dilemmas - Analytics Insight** [link](https://www.analyticsinsight.net/artificial-intelligence/the-dark-side-of-ai-exploring-risks-and-ethical-dilemmas)
+_Highlight:_ Ethical Risks and <b>Bias</b>. <b>AI</b> systems are only as good as the data used to train them. If the dataset contains <b>biases</b>, the <b>AI</b> is likely&nbsp;...
+
+- **5. <b>Artificial intelligence</b>: How the rise of <b>AI</b> is changing the investment game - AFR** [link](https://www.afr.com/markets/equity-markets/how-the-rise-of-ai-is-changing-the-investment-game-20250123-p5l6tp)
+_Highlight:_ Nobel laureate Daniel Kahneman, whose ground-breaking work on behavioural finance has illuminated the cognitive <b>biases</b> and the “noise” that often&nbsp;...
+
+- **6. Newspaper headlines: &#39;New doubt over Letby guilt&#39; and &#39;crackdown on <b>AI</b> child abuse&#39;** [link](https://www.allsides.com/news/2025-02-01-1700/general-news-newspaper-headlines-new-doubt-over-letby-guilt-and-crackdown-ai)
+_Highlight:_ disagree. 136609/99831. See full <b>bias</b> rating for BBC News &middot; Learn about ... <b>artificial intelligence</b> (<b>AI</b>). It says Labour vowed to crackdown on&nbsp;...
+
+- **7. LSU&#39;s <b>AI</b> Policies Stir Debate Over <b>Fairness</b> - Reveille** [link](https://lsureveille.com/247626/news/tigertvnews/lsus-ai-policies-stir-debate-over-fairness/)
+_Highlight:_ BATON ROUGE, La. — Although some may see <b>artificial intelligence</b> as the new frontier of education, students at LSU say the university&#39;s <b>AI</b>&nbsp;...
+
+- **8. India gets into <b>AI</b> mode, plans to build own LLM | Domain-b.com** [link](https://www.domain-b.com/technology/artificial-intelligence/india-gets-into-ai-mode-plans-to-build-own-llm)
+_Highlight:_ They should also have robust mechanisms for bias mitigation, <b>fairness</b>, and ethical <b>AI</b> principles. The Intellectual Property (IP) rights for the&nbsp;...
+
+- **9. University of Bradford expert: How <b>AI</b> could change boxing - Yahoo News UK** [link](https://uk.news.yahoo.com/university-bradford-expert-ai-could-050000342.html)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) could help bring <b>fairness</b> and consistency to boxing. Dr Kamran Mahroof, programme leader for MSc Applied <b>AI</b> and Data&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
