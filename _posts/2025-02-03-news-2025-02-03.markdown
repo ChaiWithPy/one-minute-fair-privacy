@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-03 One-Minute Post
+date: 2025-02-03 08:07:19 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+SoftBank and OpenAI join forces to advance AI services, while the EU enforces landmark AI regulations. President Trump signs an executive order for AI development without bias. Investree sues Indonesian financial regulator, highlighting the urgent need to address AI biases. Manila Bulletin emphasizes fairness, accuracy, and impartiality in AI reporting. Additionally, the FTC shifts priorities to protect consumer data privacy, and Congress monitors fairness in Delhi's elections. These developments underscore the growing emphasis on privacy, bias, and fairness in the AI landscape.
+
+## Articles we found interesting:
+
+- **1. SoftBank and OpenAI set up joint company to push <b>artificial intelligence</b> services** [link](https://abcnews.go.com/Business/wireStory/softbank-openai-set-joint-company-push-artificial-intelligence-118389651)
+_Highlight:_ Son, holding a shiny blue crystal ball as a symbolic prop, said its <b>AI</b> ... <b>Privacy</b> Rights section, for more information about your rights and our&nbsp;...
+
+- **2. EU kicks off landmark <b>AI</b> law enforcement as first batch of restrictions enter into force - CNBC** [link](https://www.cnbc.com/2025/02/03/eu-kicks-off-landmark-ai-act-enforcement-as-first-restrictions-apply.html)
+_Highlight:_ That&#39;s higher than the fines possible under the GDPR, Europe&#39;s strict digital <b>privacy</b> law. Companies face fines of up to 20 million euros or 4% of&nbsp;...
+
+- **3. What Advertisers Need To Know About The FTC&#39;s Shifting Priorities And Evolving Enforcement** [link](https://www.adexchanger.com/data-driven-thinking/what-advertisers-need-to-know-about-the-ftcs-shifting-priorities-and-evolving-enforcement/)
+_Highlight:_ The new leadership believes regulatory efforts should protect consumer data <b>privacy</b> from the outset. <b>AI</b> regulation. Expect a shift in how the FTC&nbsp;...
+
+- **4. President Trump&#39;s <b>AI</b> Executive Orders: Fewer Rules, More Influence From Silicon Valley** [link](https://www.ccn.com/news/technology/president-trumps-ai-executive-order-fewer-rules-more-influence-silicon-valley/)
+_Highlight:_ On Jan. 23, President Trump signed an executive order calling for <b>AI</b> development without “ideological <b>bias</b>.” The government claims it will track down&nbsp;...
+
+- **5. Investree sues Indonesian financial regulator ⚖️, global <b>AI</b> mobile apps hit $2B revenue ...** [link](https://dailysocial.id/p/investree-sues-indonesian-financial)
+_Highlight:_ <b>Bias</b> &amp; Ethics – Many <b>AI</b> models exhibit inherent <b>biases</b> due to flawed training data, risking discrimination and misinformation. The Urgent Need for&nbsp;...
+
+- **6. &#39;<b>AI</b> can transform nation&#39;s healthcare industry&#39;** [link](https://thesun.my/malaysia-news/ai-can-transform-nation-s-healthcare-industry-HE13607451)
+_Highlight:_ “<b>AI bias</b> arises when training data lack diversity, so ensuring diverse, high-quality datasets and focusing on &#39;Explainable <b>AI</b>&#39; is critical for&nbsp;...
+
+- **7. Staying true to its core values of fairness, accuracy, and impartiality - Manila Bulletin at 125** [link](https://mb.com.ph/2025/2/1/manila-bulletin-at-125-staying-true-to-its-core-values-of-fairness-accuracy-and-impartiality)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). Looking ahead, the Manila Bulletin — which now delivers news through print, online, video, and social media&nbsp;...
+
+- **8. Building Data Integrity Frameworks for <b>AI</b>-Driven Enterprise Environments - AiThority** [link](https://aithority.com/machine-learning/building-data-integrity-frameworks-for-ai-driven-enterprise-environments/)
+_Highlight:_ ... <b>fairness</b> of <b>AI</b> models, leading to significant operational risks. Building a comprehensive data integrity framework for <b>AI</b>-driven enterprise&nbsp;...
+
+- **9. Congress panel to keep &#39;eagle eye&#39; on <b>fairness</b> in Delhi poll - Yes Punjab News** [link](https://yespunjab.com/congress-panel-to-keep-eagle-eye-on-fairness-in-delhi-poll/)
+_Highlight:_ Congress panel to keep &#39;eagle eye&#39; on <b>fairness</b> in Delhi poll ... <b>Artificial-intelligence</b>-<b>AI</b>-logo &middot; Sharing <b>AI&#39;s</b> benefits equitably remains&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
