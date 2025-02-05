@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-05 One-Minute Post
+date: 2025-02-05 08:08:38 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Kakao bans Chinese AI model DeepSeek due to privacy concerns. ChatGPT's left-leaning bias highlighted in a study, prompting discussions on AI fairness. Meanwhile, businesses are urged to focus on building ethical AI and ensuring fairness in the evolving regulatory environment. EESC and ILO collaborate to shape a fair and inclusive AI-driven future, emphasizing the need for collective action.
+
+## Articles we found interesting:
+
+- **1. Kakao Bans Chinese <b>AI</b> Model DeepSeek, Citing <b>Privacy</b> Concerns and OpenAI Partnership** [link](https://www.businesskorea.co.kr/news/articleView.html%3Fidxno%3D234833)
+_Highlight:_ Kakao has banned the use of DeepSeek, an <b>AI</b> model from a Chinese startup, for internal business purposes. The decision, announced on Feb.
+
+- **2. Chinese <b>AI</b> DeepSeek has big <b>privacy</b> and security problems - here&#39;s what it knows about you** [link](https://www.startupdaily.net/topic/chinese-ai-deepseek-has-big-privacy-and-security-problems-heres-what-it-knows-about-you/)
+_Highlight:_ DeepSeek stores information it collects “in secure servers located in the People&#39;s Republic of China”, one of the world&#39;s most cyber crime-prone&nbsp;...
+
+- **3. DeepSeek&#39;s <b>AI</b> boom raises security risks for companies - The CFO** [link](https://the-cfo.io/2025/02/05/deepseeks-ai-boom-raises-security-risks-for-companies/)
+_Highlight:_ ... <b>privacy</b> policies insufficient. For CFOs operating in regulated industries, compliance risks loom large. The evolving regulatory landscape surrounding&nbsp;...
+
+- **4. Study says ChatGPT <b>bias</b> is real — and it&#39;s tilting left; Elon Musk responds - Times of India** [link](https://timesofindia.indiatimes.com/technology/tech-news/study-says-chatgpt-bias-is-real-and-its-tilting-left-elon-musk-responds/articleshow/117922596.cms)
+_Highlight:_ The research highlights a systematic tendency of the <b>AI</b> chatbot to generate content with left-wing perspectives, with right-leaning prompts frequently&nbsp;...
+
+- **5. Rethinking <b>AI</b> in Higher Ed: How a GW Professor is Using <b>AI</b> to Foster Critical Thinking in the ...** [link](https://www.newswise.com/articles/rethinking-ai-in-higher-ed-how-a-gw-professor-is-using-ai-to-foster-critical-thinking-in-the-humanities)
+_Highlight:_ ... <b>bias</b> detection, and prompt engineering. “<b>AI</b> can simulate fluency, but it doesn&#39;t inherently think. It&#39;s up to educators to ensure students&nbsp;...
+
+- **6. <b>AI</b> Governance: The CEO&#39;s Ethical Imperative In 2025 - Forbes** [link](https://www.forbes.com/sites/committeeof200/2025/02/04/ai-governance-the-ceos-ethical-imperative-in-2025/)
+_Highlight:_ However, without clear governance structures, these technologies can perpetuate <b>bias</b>, compromise privacy, and undermine public trust. It&#39;s clear that&nbsp;...
+
+- **7. Key <b>AI</b> Regulations 2025: What Businesses Need to Know - Siliconindia** [link](https://www.siliconindia.com/news/general/key-ai-regulations-2025-what-businesses-need-to-know-nid-234221-cid-1.html)
+_Highlight:_ To stay ahead in this evolving regulatory environment, businesses need to focus on the following areas: Building Ethical <b>AI</b>: Transparency, <b>fairness</b>,&nbsp;...
+
+- **8. EESC and ILO join forces to shape a <b>fair</b> and inclusive <b>AI</b>-driven future at high-level conference** [link](https://www.eesc.europa.eu/en/news-media/press-releases/eesc-and-ilo-join-forces-shape-fair-and-inclusive-ai-driven-future-high-level-conference)
+_Highlight:_ A <b>fair</b> and human-centric <b>AI</b> future requires collective action—from policymakers to social partners and civil society – to ensure that technology works&nbsp;...
+
+- **9. Programming humanity: Infusing <b>AI</b> with timeless ethical values - Opinion - MySinchew** [link](https://mysinchew.sinchew.com.my/news/20250204/mysinchew/6265591)
+_Highlight:_ ... <b>fairness</b>, and foster a more inclusive digital future. Recognizing <b>AI&#39;s</b> profound role in shaping modern socio-economic life, Anwar Ibrahim has&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
