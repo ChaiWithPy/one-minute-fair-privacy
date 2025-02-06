@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-06 One-Minute Post
+date: 2025-02-06 07:56:25 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California AG issues legal advisories on AI privacy violations. DeepSeek app raises privacy concerns. ADL launches institute to combat AI bias. Treasury Committee calls for evidence on AI bias in financial services. UN Women addresses gender bias in AI. Commission vs advertisers over digital fairness. GCOT publishes principles on AI fairness in telecoms. Allianz uses AI for fairer claims management.
+
+## Articles we found interesting:
+
+- **1. California AG Issues Two <b>AI</b> Legal Advisories - McDermott Will &amp; Emery** [link](https://www.mwe.com/insights/california-ag-issues-two-ai-legal-advisories/)
+_Highlight:_ The AG also suggests that <b>AI</b> can violate the California Invasion of <b>Privacy</b> Act (CIPA) where the <b>AI</b> is trained by recording or listening to&nbsp;...
+
+- **2. How to build consumer trust in the age of <b>AI</b> | MarTech** [link](https://martech.org/how-to-build-consumer-trust-in-the-age-of-ai/)
+_Highlight:_ Consumers are increasingly wary of how it impacts their <b>privacy</b> and data security. Businesses need to address consumer trust concerns head-on.
+
+- **3. New <b>privacy</b> warning issued about Chinese <b>AI</b> company DeepSeek - YouTube** [link](https://www.youtube.com/watch%3Fv%3Daq5LvOJ08l8)
+_Highlight:_ A security expert warns DeepSeek, the no. 1 downloaded app on Apple and Google, could pose potential <b>privacy</b> concerns for American users.
+
+- **4. ADL Launches Ratings and Assessments Institute to Combat Antisemitism and ...** [link](https://www.adl.org/resources/press-release/adl-launches-ratings-and-assessments-institute-combat-antisemitism-and)
+_Highlight:_ <b>AI</b> &amp; LLMs in Partnership with the ADL Center for Technology and Society (CTS) – An analysis of anti-Jewish <b>bias</b> within large language models (LLMs)&nbsp;...
+
+- **5. Treasury Committee calls for evidence about use of <b>AI</b> in financial services** [link](https://www.lewissilkin.com/insights/2025/02/05/treasury-committee-calls-for-evidence-about-use-of-ai-in-financial-services-102jz5t)
+_Highlight:_ for example, could <b>AI</b> be used to identify and provide greater assistance to vulnerable consumers? What is the risk of <b>AI</b> increasing embedded <b>bias</b>? Is&nbsp;...
+
+- **6. How <b>AI</b> reinforces gender <b>bias</b>—and what we can do about it | UN Women – Headquarters** [link](https://www.unwomen.org/en/news-stories/interview/2025/02/how-ai-reinforces-gender-bias-and-what-we-can-do-about-it)
+_Highlight:_ What is <b>AI</b> gender <b>bias</b> and why does it matter? “<b>AI</b> systems, learning from data filled with stereotypes, often reflect and reinforce gender <b>biases</b>,”&nbsp;...
+
+- **7. Big day for e-commerce, Commission vs advertisers over digital <b>fairness</b> - Euractiv** [link](https://www.euractiv.com/section/tech/news/big-day-for-e-commerce-commission-vs-advertisers-over-digital-fairness/)
+_Highlight:_ <b>AI</b> Act &middot; cloud &middot; Digital <b>Fairness</b> Act &middot; Digital Services Act (DSA) &middot; e-Commerce &middot; Norway &middot; Sarah Knafo &middot; Tech &middot; Tech Pro Brief &middot; Temu. Advertisement&nbsp;...
+
+- **8. GCOT publishes principles on <b>AI</b> adoption in the telecoms industry - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D91dba00f-95ce-4b1b-a81c-2a34c0fc51c8)
+_Highlight:_ <b>Fairness</b> – &quot;The use of <b>AI</b> systems in telecommunications should uphold <b>fairness</b>, striving to minimise unwanted bias for equitable outcomes.
+
+- **9. Smarter claims management, smoother settlements - Allianz.com** [link](https://www.allianz.com/en/mediacenter/news/articles/250205-smarter-claims-management-smoother-settlements.html)
+_Highlight:_ Launched in 2024 for automotive claims in Austria, the Insurance Copilot leverages cutting-edge generative <b>artificial intelligence</b> (<b>AI</b>) to streamline&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
