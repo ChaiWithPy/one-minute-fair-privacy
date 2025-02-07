@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-07 One-Minute Post
+date: 2025-02-07 08:07:09 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google reverses ban on AI for weapons and surveillance, sparking privacy concerns. DeepSeek AI faces security issues, while lawmakers move to ban it on government devices. Hospitals neglect AI bias testing, posing risks to patients. Global push for AI safety and fairness, as new citizen perspectives emerge. Social Security Fairness Act and AI implementation face potential delays.
+
+## Articles we found interesting:
+
+- **1. <b>Privacy</b> and Security News Update for February 2025 - The National Law Review** [link](https://natlawreview.com/article/br-privacy-security-download-february-2025)
+_Highlight:_ These advisories cover consumer protection, civil rights, competition, data <b>privacy</b>, and election misinformation. ... <b>Artificial Intelligence</b> (“<b>AI</b> EO”).
+
+- **2. Global: Google&#39;s shameful decision to reverse its ban on <b>AI</b> for weapons and surveillance is ...** [link](https://www.amnesty.org/en/latest/news/2025/02/global-googles-shameful-decision-to-reverse-its-ban-on-ai-for-weapons-and-surveillance-is-a-blow-for-human-rights/)
+_Highlight:_ ... <b>privacy</b>. Google&#39;s decision to reverse its ban on <b>AI</b> weapons enables the company to sell products that power technologies including mass&nbsp;...
+
+- **3. DeepSeek <b>AI</b> Offline After Cybersecurity Attacks and Data Breaches** [link](https://natlawreview.com/article/deepseek-ais-security-woes-impersonations-what-you-need-know)
+_Highlight:_ Soon after the Chinese generative <b>artificial intelligence</b> (<b>AI</b>) company ... <b>Privacy</b> and Protection at Optiv. “Since <b>privacy</b> laws vary across&nbsp;...
+
+- **4. Lawmakers move to ban DeepSeek <b>AI</b> on government devices - Straight Arrow News** [link](https://san.com/cc/lawmakers-move-to-ban-deepseek-ai-on-government-devices/)
+_Highlight:_ ... % Center 33% Right 28%. See more about the media <b>bias</b> on this story. ​. <b>Bias</b> Distribution. Far Left. +0. Click to close. Left. +0. Click to close.
+
+- **5. The Risks Of Implementing <b>AI</b> In Cybersecurity Defense - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2025/02/06/the-risks-of-implementing-ai-in-cybersecurity-defense/)
+_Highlight:_ Human Complacency &middot; Intentional Manipulation Of AI Cyber Defense Tools &middot; Unprotected Personal Data &middot; <b>Biased AI</b> Models &middot; Conclusion.
+
+- **6. Hospitals don&#39;t always test <b>AI</b> for accuracy and <b>bias</b>, study says** [link](https://healthjournalism.org/blog/2025/02/hospitals-dont-always-test-ai-for-accuracy-and-bias-study-says/)
+_Highlight:_ A new study shows that hospitals often don&#39;t assess <b>AI</b> models using patient data before deploying them, potentially putting patients at risk.
+
+- **7. Global Insights on <b>AI</b> Safety: A Citizen&#39;s Perspective on the Landmark International Report** [link](https://moderndiplomacy.eu/2025/02/06/global-insights-on-ai-safety-a-citizens-perspective-on-the-landmark-international-report/)
+_Highlight:_ Regulating <b>AI</b> for Public Welfare: Ensuring safety, privacy, and <b>fairness</b> in <b>AI</b> deployment. Safeguarding National and Global Interests: Protecting&nbsp;...
+
+- **8. Google removes <b>AI</b> restrictions over use of <b>AI</b> for weapons and surveillance - BusinessToday** [link](https://www.businesstoday.in/technology/news/story/google-removes-ai-restrictions-over-use-of-ai-for-weapons-and-surveillance-463649-2025-02-06)
+_Highlight:_ The <b>AI</b> Principles were first introduced in 2018, outlining Google&#39;s approach to <b>AI</b> development with a focus on ethics, <b>fairness</b>, and accountability.
+
+- **9. Potential Implementation Delays Face Social Security <b>Fairness</b> Act | PLANADVISER** [link](https://www.planadviser.com/potential-implementation-delays-face-social-security-fairness-act/)
+_Highlight:_ ... <b>Fairness</b> Act, signed into law by former President Joe Biden. ... Besides <b>AI</b>, advisers are making moves to improve their technology solutions—and usage.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
