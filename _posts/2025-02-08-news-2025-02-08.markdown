@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-02-08 One-Minute Post
+date: 2025-02-08 08:05:31 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+U.S. Copyright Office issues report on AI and copyrightability, highlighting privacy risks. CSU pioneers major AI rollout, sparking concerns over surveillance. Bauer-Kahan unveils new AI legislation to address bias. French prosecutors probe Musk's X over alleged algorithmic bias. FDA identifies and measures AI bias for enhancing health equity.
+
+## Articles we found interesting:
+
+- **1. U.S. Copyright Office Issues Report on <b>Artificial Intelligence</b> and Copyrightability** [link](https://datamatters.sidley.com/2025/02/07/u-s-copyright-office-issues-report-on-artificial-intelligence-and-copyrightability/)
+_Highlight:_ ... <b>privacy</b> risks, and 2) extended-hours trading services, which have ... <b>artificial intelligence</b> (<b>AI</b>) tools. Additionally, although much of the&nbsp;...
+
+- **2. CSU pioneers major <b>AI</b> rollout, sparking myriad concerns over jobs, academic freedom, surveillance** [link](https://www.cbs8.com/video/news/local/csu-pioneers-major-ai-rollout-sparking-myriad-concerns-over-jobs-academic-freedom-surveillance/509-924e64fe-8b23-4551-af3b-5231a955242e)
+_Highlight:_ <b>Privacy</b> Policy &middot; Ad Choices &middot; EEO Public File Report &middot; FCC Online Public Inspection File &middot; Closed Caption Procedures &middot; Do Not Sell or Share My&nbsp;...
+
+- **3. The Five Foundations of <b>Artificial Intelligence</b> for In-House Counsel, Part 1 - Ward and Smith, P.A.** [link](https://www.wardandsmith.com/articles/the-five-foundations-of-artificial-intelligence-for-in-house-counsel-part-1)
+_Highlight:_ During their annual In-House Counsel Seminar, Ward and Smith Certified <b>AI</b> Governance Professional and <b>privacy</b> and data security attorney Angela&nbsp;...
+
+- **4. Bauer-Kahan unveils new <b>AI</b> legislation - Livermore Vine** [link](https://www.livermorevine.com/technology/2025/02/07/bauer-kahan-unveils-new-ai-legislation/)
+_Highlight:_ ... <b>bias</b> in <b>AI</b> following a policy committee vote on April 16. (Contributed photo). Asm. Rebecca Bauer-Kahan (D-Orinda) has proposed two new pieces of&nbsp;...
+
+- **5. French prosecutors probe Musk&#39;s X over alleged algorithmic <b>bias</b> - The Economic Times** [link](https://m.economictimes.com/tech/technology/french-prosecutors-probe-musks-x-over-alleged-algorithmic-bias/articleshow/118046426.cms)
+_Highlight:_ News of the probe comes just days before a major <b>AI</b> summit in Paris, which is due to host global leaders including US Vice President JD Vance and&nbsp;...
+
+- **6. Opinion | A sample of the government webpages Trump doesn&#39;t want you to see** [link](https://www.washingtonpost.com/opinions/interactive/2025/sample-government-webpages-trump-doesnt-want-you-see/)
+_Highlight:_ FDA Identifying and Measuring <b>Artificial Intelligence</b> (<b>AI</b>) <b>Bias</b> for Enhancing Health Equity Current / Archive. NGA | National Geospatial&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
