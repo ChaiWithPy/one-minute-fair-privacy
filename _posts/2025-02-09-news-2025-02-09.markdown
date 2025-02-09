@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-09 One-Minute Post
+date: 2025-02-09 08:00:34 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+iOS 18.3 raises privacy concerns. Trump's AI ambition and China's DeepSeek overshadow an AI summit. 56% of US adults want government regulation of AI in the workplace. CPA conference discusses AI-driven reforms and AI bias. CCI Chairperson advocates for proactive regulation to ensure fairness in AI-driven markets. AI can boost economic growth, but fairness and trust should be core principles in AI development. AI-driven model selection is revolutionizing risk assessment in banking, using AI Fairness 360 to detect and mitigate model bias.
+
+## Articles we found interesting:
+
+- **1. iOS 18.3 Wants To Make Your iPhone Smarter, But Does It Make It Safer? - Forbes** [link](https://www.forbes.com/sites/luisromero/2025/02/08/ios-183-wants-to-make-your-iphone-smarter-but-does-it-make-it-safer/)
+_Highlight:_ 5) The Controversy: Default <b>AI</b> Settings. The release of iOS 18.3 has sparked a mix of <b>privacy</b> and security concerns, as well as some praise. The&nbsp;...
+
+- **2. Super Bowl ads 2025: more <b>AI</b>, not enough majestic clydesdales - Morning Brew** [link](https://www.morningbrew.com/stories/super-bowl-ads-2025-more-ai)
+_Highlight:_ And other companies are taking big swings to convince people that <b>AI</b> isn&#39;t so scary after all, too: ... All Rights Reserved. <b>Privacy</b>Terms of ServiceDo&nbsp;...
+
+- **3. Trump&#39;s <b>AI</b> ambition and China&#39;s DeepSeek overshadow an <b>AI</b> summit in Paris - ABC News** [link](https://abcnews.go.com/International/wireStory/trumps-ai-ambition-chinas-deepseek-overshadow-ai-summit-118618603)
+_Highlight:_ ... <b>privacy</b> and security concerns. Yet the rise of DeepSeek, which built its open source <b>AI</b> model at a fraction of the cost and with fewer chips, also&nbsp;...
+
+- **4. Not All Ideas are Good Code - A Lesson For Today | AllSides** [link](https://www.allsides.com/news/2025-02-08-1800/technology-not-all-ideas-are-good-code-lesson-today)
+_Highlight:_ 56% of U.S. adults &quot;think that the government should regulate the use of <b>AI</b> in the workplace. ... AllSides Media <b>Bias</b> Rating: Center.
+
+- **5. CPA conference discusses <b>AI</b>-driven reforms for digital governance, social media regulation** [link](https://www.app.com.pk/domestic/cpa-conference-discusses-ai-driven-reforms-for-digital-governance-social-media-regulation/)
+_Highlight:_ ... <b>AI bias</b>, and the ethical concerns surrounding automated decision-making in governance. The role of <b>AI</b> in combating cybercrimes and enhancing&nbsp;...
+
+- **6. How Does Synthetic Data Impact <b>AI</b> Hallucinations? - Unite.<b>AI</b>** [link](https://www.unite.ai/how-does-synthetic-data-impact-ai-hallucinations/)
+_Highlight:_ <b>Bias</b> Amplification. Like humans, <b>AI</b> can learn and reproduce <b>biases</b>. If an artificial database overvalues some groups while underrepresenting others&nbsp;...
+
+- **7. CCI Chairperson calls for proactive regulation to keep <b>AI</b>-driven markets <b>fair</b> and contestable** [link](https://www.thehindubusinessline.com/economy/cci-chairperson-calls-for-proactive-regulation-to-keep-ai-driven-markets-fair-and-contestable/article69192588.ece)
+_Highlight:_ CCI Chairperson Ravneet Kaur advocates for proactive regulatory measures to ensure <b>fairness</b> and competition in <b>AI</b>-driven markets.
+
+- **8. <b>AI</b> can boost economic growth, but it needs to be managed incredibly carefully** [link](https://www.brunel.ac.uk/news-and-events/news/articles/AI-can-boost-economic-growth-but-it-needs-to-be-managed-incredibly-carefully)
+_Highlight:_ The UK government&#39;s efforts to integrate <b>artificial intelligence</b> (<b>AI</b>) ... <b>Fairness</b> and trust should therefore be core principles in <b>AI</b> development.
+
+- **9. How <b>AI</b>-Driven Model Selection is Revolutionizing Risk Assessment in Banking** [link](https://www.finextra.com/blogposting/27796/how-ai-driven-model-selection-is-revolutionizing-risk-assessment-in-banking)
+_Highlight:_ ... <b>AI Fairness</b> 360 to detect and mitigate model bias. Additionally ... Regulators ensure <b>AI</b> models remain transparent, <b>fair</b>, and accountable. As&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
