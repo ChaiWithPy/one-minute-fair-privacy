@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-11 One-Minute Post
+date: 2025-02-11 07:57:20 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Thomson Reuters CEO discusses AI's impact on law firms and the need for privacy. The EDPS proposes extensive data protection for AI models. DOGE's use of AI raises major privacy concerns. The US government aims for bias-free AI systems. Europe's AI Act emphasizes transparent and bias-free AI. AI startups like Maki focus on bias-free data. The AI Summit highlights the importance of digital fairness. Shaza Fatima advocates for ethical AI and data security. G42 and Microsoft collaborate on responsible AI implementation, emphasizing fairness, transparency, and accountability.
+
+## Articles we found interesting:
+
+- **1. Thomson Reuters CEO: How <b>AI</b> will change law firms | Fortune** [link](https://fortune.com/2025/02/11/how-ai-will-change-law-firms/)
+_Highlight:_ ... <b>privacy</b> in the era of <b>AI</b>. But with adoption underway in the legal ... Some professionals haven&#39;t fully considered <b>AI&#39;s</b> potential because they&#39;re&nbsp;...
+
+- **2. The EDPS Proposes an Extensive and Demanding Application of Data Protection to <b>AI</b> Models** [link](https://www.mwe.com/media/the-edps-proposes-an-extensive-and-demanding-application-of-data-protection-to-ai-models/)
+_Highlight:_ Your <b>privacy</b> is important to us. We use cookies and other tracking technologies to ensure the performance and security of our website, and, where&nbsp;...
+
+- **3. DOGE&#39;s Use of <b>AI</b> Raises Major <b>Privacy</b> Concerns, Legal Heat - BankInfoSecurity** [link](https://www.bankinfosecurity.com/doges-use-ai-raises-major-privacy-concerns-legal-heat-a-27489)
+_Highlight:_ Lawsuits are mounting against President Donald Trump and Elon Musk&#39;s task force for shrinking the federal government as reports indicate the group&nbsp;...
+
+- **4. A Look at U.S. Government&#39;s Changed Approach to <b>Artificial Intelligence</b> Development and ...** [link](https://btlaw.com/en/insights/alerts/2025/a-look-at-us-governments-changed-approach-to-artificial-intelligence-development-and-investments)
+_Highlight:_ This new order states that to maintain U.S. leadership in <b>AI</b> innovation, “we must develop <b>AI</b> systems that are free from ideological <b>bias</b> or engineered&nbsp;...
+
+- **5. <b>AI</b> Act: Europe&#39;s bid for trustworthy <b>AI</b> development and global leadership – Earnix** [link](https://www.globalreinsurance.com/home/ai-act-europes-bid-for-trustworthy-ai-development-and-global-leadership-earnix/1454414.article)
+_Highlight:_ <b>AI</b> systems must be transparent, free from <b>bias</b>, and easily explainable, writes Robin Gilthorpe, CEO of Earnix.
+
+- **6. <b>AI</b> agent startups: 18 companies VCs are watching in Europe - Sifted** [link](https://sifted.eu/articles/ai-agent-startups-to-watch)
+_Highlight:_ Maki, a conversational HR agent specialising in talent acquisition, streamlines the hiring process with <b>AI</b>-driven skills tests and <b>bias</b>-free data&nbsp;...
+
+- **7. <b>AI</b> Summit special, and the week ahead - Euractiv** [link](https://www.euractiv.com/section/tech/news/ai-summit-special-and-the-week-ahead/)
+_Highlight:_ <b>AI</b> Action Summit: France cashes in, initiatives abound, and ... Digital <b>Fairness</b> Act &middot; Emmanuel Macron &middot; EU tech sovereignty &middot; France &middot; Tech&nbsp;...
+
+- **8. Shaza Fatima calls for ethical <b>AI</b>, data security - Associated Press of Pakistan** [link](https://www.app.com.pk/national/shaza-fatima-calls-for-ethical-ai-data-security/)
+_Highlight:_ ... <b>AI</b> benefits all segments of society. She stressed the importance of data privacy, security, and <b>fairness</b> in <b>AI</b> systems, calling for global&nbsp;...
+
+- **9. How G42 and Microsoft&#39;s Responsible <b>AI</b> Foundation Will Reshape the <b>AI</b> Landscape in ... - ITP.net** [link](https://www.itp.net/acn/how-g42-and-microsofts-responsible-ai-foundation-will-reshape-the-ai-landscape-in-the-middle-east)
+_Highlight:_ ... <b>AI fairness</b>, transparency, and accountability. Responsible <b>AI</b> Implementation &amp; Governance – Developing frameworks that ensure <b>AI</b> is ethically&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
