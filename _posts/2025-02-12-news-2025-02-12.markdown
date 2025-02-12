@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-02-12 One-Minute Post
+date: 2025-02-12 07:53:44 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI is under scrutiny for accessing personal data without violating privacy laws. Vice President Vance criticizes EU's privacy-focused regulations. PM Modi calls for bias-free data at Paris AI Summit. An adviser to Elon Musk's xAI suggests making AI slightly biased towards Trump. Jaishankar emphasizes the need for a multipolar world to ensure AI is developed with minimal bias.
+
+## Articles we found interesting:
+
+- **1. Does <b>AI</b> get a free pass on &#39;fair use&#39; IP rights? | SC Media** [link](https://www.scworld.com/perspective/does-ai-get-a-free-pass-on-fair-use-ip-rights)
+_Highlight:_ With this context in mind, <b>AI</b> can even access mundane personal data without violating any existing <b>privacy</b> laws. Though regulations have attempted to&nbsp;...
+
+- **2. Vance stakes claim to US leadership in <b>AI</b> - VOA** [link](https://www.voanews.com/a/vance-stakes-forceful-claim-to-us-leadership-in-ai/7971777.html)
+_Highlight:_ The vice president criticizes the European Union&#39;s regulatory structure, in particular the <b>privacy</b>-focused General Data Protection Regulation and&nbsp;...
+
+- **3. Vance warns against &#39;tightening the screws&#39; on <b>AI</b> in rebuff of Europe - NBC News** [link](https://www.nbcnews.com/politics/jd-vance/vance-ai-regulation-europe-criticizes-rcna191482)
+_Highlight:_ Vice President JD Vance warned European allies that the White House would not accept regulations on <b>artificial intelligence</b> if they held back U.S.&nbsp;...
+
+- **4. At Paris <b>AI</b> Summit, PM Modi calls for <b>bias</b>-free data: Need to think carefully - India Today** [link](https://www.indiatoday.in/india/story/prime-minister-narendra-modi-ai-summit-paris-data-set-bias-free-open-source-technology-speech-2678581-2025-02-12)
+_Highlight:_ Quality data sets that are free from <b>biases</b> are crucial in developing trustworthy and transparent <b>AI</b> systems, Prime Minister Narendra Modi said as&nbsp;...
+
+- **5. An Adviser to Elon Musk&#39;s xAI Has a Way to Make <b>AI</b> More Like Donald Trump | WIRED** [link](https://www.wired.com/story/xai-make-ai-more-like-trump/)
+_Highlight:_ He&#39;s not saying a model should necessarily be “Trump all the way,” but he argues it should be <b>biased</b> toward Trump slightly, “because he won the&nbsp;...
+
+- **6. Only multipolar world can ensure <b>AI</b> is developed with least <b>bias</b>: Jaishankar at India-France ...** [link](https://m.economictimes.com/news/india/only-multipolar-world-can-ensure-ai-is-developed-with-least-bias-jaishankar-at-india-france-ceo-forum/articleshow/118160254.cms)
+_Highlight:_ External Affairs Minister S Jaishankar, at the 14th India-France CEO Forum, stressed trust and transparency in the digital era. Highlighting <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
