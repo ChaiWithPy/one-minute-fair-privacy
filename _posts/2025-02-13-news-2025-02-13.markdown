@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-13 One-Minute Post
+date: 2025-02-13 07:48:01 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+DHS's compliance with AI privacy, civil liberties requirements lacking, IG says. Canada's proposed federal reform of existing privacy law and proposed artificial intelligence (AI) law has been paused. Singapore study finds gender, geographical, socio-economic biases in AI models. AI chatbots risk bias, censorship, say journalists. International consensus on AI's 'FUTURE' emphasizes fairness in healthcare. A systematic review of fairness, accountability, transparency, and ethics in information retrieval highlights rising concerns about AI morality in higher education.
+
+## Articles we found interesting:
+
+- **1. DHS&#39;s compliance with <b>AI privacy</b>, civil liberties requirements lacking, IG says** [link](https://www.biometricupdate.com/202502/dhss-compliance-with-ai-privacy-civil-liberties-requirements-lacking-ig-says)
+_Highlight:_ DHS has made strides in developing policies and frameworks to govern its <b>AI</b> use but gaps remain in ensuring <b>AI</b> technologies are used responsibly&nbsp;...
+
+- **2. What&#39;s On Our Radar In 2025: Canada&#39;s <b>Privacy</b> And <b>AI</b> Landscape - Mondaq** [link](https://www.mondaq.com/canada/privacy-protection/1582408/whats-on-our-radar-in-2025-canadas-privacy-and-ai-landscape)
+_Highlight:_ Canada&#39;s proposed federal reform of existing <b>privacy</b> law and proposed <b>artificial intelligence</b> (&quot;<b>AI</b>&quot;) law has been paused in light of the latest&nbsp;...
+
+- **3. FDA <b>AI</b> Guidance - A New Era for Biotech, Diagnostics and Regulatory Compliance** [link](https://www.duanemorris.com/alerts/fda_ai_guidance_new_era_biotech_diagnostics_regulatory_compliance_0225.html)
+_Highlight:_ ... <b>privacy</b> protection from the earliest stages of <b>AI</b> adoption. At its core, <b>AI</b> and specifically machine learning involves systems that learn from&nbsp;...
+
+- **4. Singapore study finds gender, geographical, socio-economic <b>biases</b> in <b>AI</b> models - CNA** [link](https://www.channelnewsasia.com/singapore/imda-study-humane-intelligence-ai-llm-biases-4932646)
+_Highlight:_ SINGAPORE: A Singapore study that tested <b>AI</b> models for linguistic and cultural sensitivities in nine Asian countries has found <b>bias</b> stereotypes in&nbsp;...
+
+- **5. <b>AI</b> chatbots risk <b>bias</b>, censorship, say journalists | FMT - FreeMalaysiaToday.com** [link](https://www.freemalaysiatoday.com/category/nation/2025/02/13/ai-chatbots-risk-bias-censorship-says-journalists/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) can assist in fact-checking but is not a fool-proof solution, especially in political and cultural contexts,&nbsp;...
+
+- **6. Q&amp;A: <b>AI</b> ethics expert sees philosophy as critical to <b>AI</b> debate - Context News** [link](https://www.context.news/ai/q-and-a-ai-ethics-expert-sees-philosophy-as-critical-to-ai-debate)
+_Highlight:_ So I would say I&#39;m even more glad to be a philosopher at this point. In the past you&#39;ve touched on <b>bias</b> in <b>AI</b> – have you seen any meaningful&nbsp;...
+
+- **7. Int&#39;l consensus on <b>AI&#39;s</b> &#39;FUTURE&#39; | Partner news | Newsmakers: Schweikert, Vance, Altman, Musk** [link](https://aiin.healthcare/newsletter/2025-02-12/intl-consensus-ais-future-partner-news-newsmakers-schweikert-vance-altman-musk)
+_Highlight:_ <b>Fairness</b>. <b>AI</b> tools in healthcare should maintain the same performance across individuals and groups of individuals, the authors explain. <b>AI</b>-driven&nbsp;...
+
+- **8. Global consortium: The future of <b>AI</b> in healthcare is dynamic—and demanding** [link](https://aiin.healthcare/topics/artificial-intelligence/global-consortium-future-ai-healthcare-dynamic-and-demanding)
+_Highlight:_ <b>artificial intelligence AI</b> healthcare FUTURE-<b>AI</b> consortium ... The team acknowledges that, in practice, perfect <b>fairness</b> “might be impossible to achieve&nbsp;...
+
+- **9. A Systematic Review of <b>Fairness</b>, Accountability, Transparency, and Ethics in Information Retrieval** [link](https://www.researchgate.net/publication/388855533_A_Systematic_Review_of_Fairness_Accountability_Transparency_and_Ethics_in_Information_Retrieval)
+_Highlight:_ Background: The use of <b>Artificial Intelligence</b> or <b>AI</b> is rising in higher education. With this rise, the morality of <b>AI</b> programs is being questioned.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
