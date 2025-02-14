@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-02-14 One-Minute Post
+date: 2025-02-14 07:42:52 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Global data protection authorities commit to fostering innovative and privacy-protective AI through robust data governance. The FTC's potential priorities for ad tech, data, and privacy may prioritize addressing deceptive practices and fraud. The European Commission has abandoned proposed regulations on technology patents, AI liability, and privacy rules for messaging apps. As AI adoption accelerates, organizations face rising threats from adversarial attacks, data poisoning, algorithmic bias, and regulatory challenges. The UK's AI Security Institute will drop its focus on bias and free speech, instead renewing its focus on crime and national security.
+
+## Articles we found interesting:
+
+- **1. Global DPAs Issue Joint Statement on <b>AI</b> Data Governance - The National Law Review** [link](https://natlawreview.com/article/global-data-protection-authorities-issue-joint-statement-artificial-intelligence)
+_Highlight:_ UK, Ireland, France, South Korea, and Australia DPAs commit to fostering innovative and <b>privacy</b>-protective <b>AI</b> through robust data governance&nbsp;...
+
+- **2. Rundown: FTC&#39;s potential priorities for ad tech, data and <b>AI</b> - Digiday** [link](https://digiday.com/media/rundown-ftcs-priorities-for-ad-tech-data-and-privacy/)
+_Highlight:_ Some expect his approach could prioritize addressing deceptive practices, fraud, consumer redress and select <b>privacy</b> concerns, signaling a&nbsp;...
+
+- **3. EU scraps tech patent, <b>AI</b> liability, and messaging <b>privacy</b> rules | Digital Watch Observatory** [link](https://dig.watch/updates/eu-scraps-tech-patent-ai-liability-and-messaging-privacy-rules)
+_Highlight:_ The European Commission has abandoned proposed regulations on technology patents, <b>AI</b> liability, and <b>privacy</b> rules for messaging apps, citing a lack of&nbsp;...
+
+- **4. <b>AI&#39;s</b> Achilles heel: Securing the next revolution - CIO** [link](https://www.cio.com/article/3823197/ais-achilles-heel-securing-the-next-revolution.html)
+_Highlight:_ However, as <b>AI</b> adoption accelerates, organizations face rising threats from adversarial attacks, data poisoning, algorithmic <b>bias</b> and regulatory&nbsp;...
+
+- **5. U.K. drops <b>AI</b> safety focus as it signs up Anthropic to help transform public services | Fortune** [link](https://fortune.com/2025/02/13/uk-ai-security-institute-safety-anthropic-trump-vance/)
+_Highlight:_ ... <b>AI</b>. The institute also had a partial focus on <b>AI&#39;s</b> societal risks, like spreading misinformation and perpetuating <b>bias</b>. Related Video. On Thursday&nbsp;...
+
+- **6. Rebranded <b>AI</b> Security Institute to drop focus on <b>bias</b> and free speech | The Independent** [link](https://www.the-independent.com/news/uk/politics/peter-kyle-keir-starmer-rishi-sunak-government-san-francisco-b2698033.html)
+_Highlight:_ The agency, previously the <b>AI</b> Safety Institute, will have a renewed focus on crime and national security.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
