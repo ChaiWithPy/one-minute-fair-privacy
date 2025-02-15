@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-15 One-Minute Post
+date: 2025-02-15 07:41:20 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI security raises privacy concerns. JD Vance emphasizes bias-free AI. EU introduces regulations to address AI bias. Thomson Reuters wins fair use case in AI copyright. AI revolutionizes healthcare, but fairness and privacy remain challenges.
+
+## Articles we found interesting:
+
+- **1. Businesses Are Wondering if <b>AI</b> Security Makes People Feel Safe | HackerNoon** [link](https://hackernoon.com/businesses-are-wondering-if-ai-security-makes-people-feel-safe)
+_Highlight:_ Potential <b>Privacy</b> Risks. Some people have raised concerns about potential data breaches as <b>AI</b> security solutions become more widely adopted. Although&nbsp;...
+
+- **2. A five-step plan for securing generative <b>AI</b> at government agencies - Nextgov/FCW** [link](http://www.fcw.com/ideas/2025/02/five-step-plan-securing-generative-ai-government-agencies/403023/%3Foref%3Dng-homepage-river)
+_Highlight:_ The U.S. Air Force and U.S. Army have launched Generative <b>artificial intelligence</b> (<b>AI</b>) ... <b>privacy</b> issues as the leading causes of the concerns. Such&nbsp;...
+
+- **3. Pundi <b>AI</b> makes high quality <b>AI</b> data accessible with blockchain | Payments Dive** [link](https://www.paymentsdive.com/press-release/20250214-pundi-ai-makes-high-quality-ai-data-accessible-with-blockchain/)
+_Highlight:_ The <b>artificial intelligence</b> (<b>AI</b>) revolution has taken the ... <b>AI</b> is pushing the boundaries of what&#39;s possible in <b>privacy</b>-focused <b>AI</b> training.
+
+- **4. Britain dances to JD Vance&#39;s tune as it renames <b>AI</b> institute - POLITICO.eu** [link](https://www.politico.eu/article/jd-vance-britain-ai-safety-institute-aisi-security/)
+_Highlight:_ Bye-bye <b>bias</b>. In his speech in Paris this week, Vance insisted that “<b>AI</b> must remain free from ideological <b>bias</b>” and “never restrict our citizens&#39;&nbsp;...
+
+- **5. World of HR: The European Union codifies new <b>AI</b> regulations for employers - HR Brew** [link](https://www.hr-brew.com/stories/2025/02/14/world-of-hr-the-european-union-codifies-new-ai-regulations-for-employers)
+_Highlight:_ The <b>Artificial Intelligence</b> Act will soon ban employers from using <b>AI</b> to monitor worker emotions ... While experts are mixed on how <b>AI</b> will impact <b>bias</b>,&nbsp;...
+
+- **6. Job Applicant Seeks to Expand <b>AI</b> Workplace Screener Lawsuit into a National Class Action** [link](https://www.fisherphillips.com/en/news-insights/job-applicant-seeks-to-expand-ai-workplace-screener-lawsuit-into-a-national-class-action-should-employers-and-ai-developers-be-worried.html)
+_Highlight:_ Three suggestions: Know What to Ask Your Vendors – Ensure your <b>AI</b> vendors follow ethical guidelines and have measures in place to prevent <b>bias</b> before&nbsp;...
+
+- **7. EU <b>AI</b> Act – Mastering <b>AI</b> Compliance In A Rapidly Evolving Digital World - Mondaq** [link](https://www.mondaq.com/germany/technology/1583436/eu-ai-act-mastering-ai-compliance-in-a-rapidly-evolving-digital-world)
+_Highlight:_ Trust in the reliability, transparency, and <b>fairness</b> of <b>AI</b> is so crucial for widespread use that the European Union (EU) has developed its own&nbsp;...
+
+- **8. Thomson Reuters Scores Major Legal Win in <b>AI</b> &#39;<b>Fair</b> Use&#39; Case - Digital Music News** [link](https://www.digitalmusicnews.com/2025/02/12/thomson-reuters-fair-use-ai-win/)
+_Highlight:_ A federal judge has granted Thomson Reuters <b>fair</b> use summary judgement in a high-stakes <b>AI</b> copyright case.
+
+- **9. Healing hands of tech: <b>AI</b> set to revolutionise healthcare - The Tribune** [link](https://www.tribuneindia.com/news/himachal/healing-hands-of-tech-ai-set-to-revolutionise-healthcare/)
+_Highlight:_ <b>Artificial Intelligence</b> (<b>AI</b>) is ... However, ensuring data security, privacy and <b>fairness</b> in clinical validation remains a significant challenge.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
