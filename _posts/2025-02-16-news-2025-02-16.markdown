@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-02-16 One-Minute Post
+date: 2025-02-16 07:46:43 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Texas AG Ken Paxton is investigating Chinese AI company DeepSeek over data privacy concerns. Meanwhile, at the AI Action Summit, there's a call for AI to remain free from ideological bias. Additionally, a study suggests that AI chatbots may lean left, misaligning with average Americans and even censoring.
+
+## Articles we found interesting:
+
+- **1. Texas Attorney General Ken Paxton launches investigation into DeepSeek** [link](https://www.statesman.com/story/business/technology/2025/02/14/ken-paxton-deepseek-chinese-artificial-intelligence-investigation-launch-google-apple/78640969007/)
+_Highlight:_ Texas AG Ken Paxton is investigating Chinese <b>artificial intelligence</b> company DeepSeek due to data <b>privacy</b> concerns ... <b>AI</b> platforms and its claims that&nbsp;...
+
+- **2. Texas AG Ken Paxton launches investigation into DeepSeek <b>AI</b> - KVUE** [link](https://www.kvue.com/article/news/local/texas/ken-paxton-investigation-deepseek-ai/269-e5a77944-7b70-4968-9734-22205cd0a7ca)
+_Highlight:_ Paxton is accusing the Chinese <b>AI</b> company of violating the Texas Data <b>Privacy</b> and Security Act.
+
+- **3. China&#39;s DeepSeek <b>AI</b>, and the missing discourse on <b>privacy</b> and ethics - The Leaflet** [link](https://theleaflet.in/opinion/chinas-deepseek-ai-and-the-missing-discourse-on-privacy-and-ethics)
+_Highlight:_ As the global west and emerging economies obsess over DeepSeek&#39;s disruptive commercial popularity in the <b>AI</b> development space, the more value&nbsp;...
+
+- **4. The gold standard in <b>AI</b> and reserve currencies - The Statesman** [link](https://www.thestatesman.com/opinion/the-gold-standard-in-ai-and-reserve-currencies-1503398710.html)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). At the <b>AI</b> Action Summit in Paris ... “Third, we feel very strongly that <b>AI</b> must remain free from ideological <b>bias</b>&nbsp;...
+
+- **5. <b>AI</b> is stifling new tech adoption? - Hacker News** [link](https://news.ycombinator.com/item%3Fid%3D43047792)
+_Highlight:_ Instead of imbuing into it some grievance narrative, why shouldn&#39;t people take the advice, if LLM&#39;s do suffer from an anti-recency <b>bias</b>, to find&nbsp;...
+
+- **6. <b>AI</b> math tutor: ChatGPT can be as effective as human help, study suggests - PsyPost** [link](https://www.psypost.org/ai-math-tutor-chatgpt-can-be-as-effective-as-human-help-study-suggests/)
+_Highlight:_ Is your <b>AI</b> chatbot politically <b>biased</b>? A new study provides evidence that ChatGPT leans left, misaligning with average Americans and even censoring&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
