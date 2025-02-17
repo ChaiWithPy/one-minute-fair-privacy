@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-17 One-Minute Post
+date: 2025-02-17 07:46:49 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+South Korea suspends DeepSeek app downloads over privacy concerns. AI used in job application filtering shows bias favoring men. New AI-powered blockchain projects aim to ensure fairness in AI training.
+
+## Articles we found interesting:
+
+- **1. South Korea suspends new downloads of DeepSeek, citing <b>privacy</b> concerns - NBC News** [link](https://www.nbcnews.com/news/world/south-korea-suspends-new-downloads-deepseek-citing-privacy-concerns-rcna192432)
+_Highlight:_ South Korea&#39;s data protection authority said new downloads of the Chinese <b>AI</b> app DeepSeek had been suspended in the country over data <b>privacy</b>&nbsp;...
+
+- **2. Downloads of DeepSeek&#39;s <b>AI</b> apps paused in South Korea over <b>privacy</b> concerns** [link](https://www.pinkun.com/news/national/24939889.downloads-deepseeks-ai-apps-paused-south-korea-privacy-concerns/)
+_Highlight:_ DeepSeek, a Chinese <b>artificial intelligence</b> start-up, has temporarily paused downloads of its chatbot apps in South Korea while it works with&nbsp;...
+
+- **3. Downloads of DeepSeek&#39;s <b>AI</b> apps paused in South Korea over <b>privacy</b> concerns** [link](https://www.telegraphherald.com/magazine-websites/biztimes/ap_wire/article_3620fabb-1931-5b3e-9619-7e1d1da8bfa1.html)
+_Highlight:_ SEOUL, South Korea — DeepSeek, a Chinese <b>artificial intelligence</b> startup, has temporarily paused downloads of its chatbot apps in South Korea&nbsp;...
+
+- **4. <b>AI</b> innovation and ethics - why the two aren&#39;t mutually exclusive (unless those in power ...** [link](https://diginomica.com/ai-innovation-and-ethics-why-two-arent-mutually-exclusive-unless-those-power-decide-they-are)
+_Highlight:_ Dawe cites <b>AI</b> used to filter job applications, which favored men for software engineering roles over women due to <b>bias</b> in the machine learning model.
+
+- **5. WTISD 2025 Proposal Competition and ICT Open Day engage students in innovating <b>AI</b> ...** [link](https://www.scmp.com/yp/discover/news/hong-kong/article/3298993/wtisd-2025-proposal-competition-and-ict-open-day-engage-students-innovating-ai-communication)
+_Highlight:_ ... <b>bias</b> by identifying and mitigating <b>biases</b> in communication platforms. <b>AI</b> can provide personalised learning experiences for individual students&nbsp;...
+
+- **6. ChatGPT has a new guiding principle: Do not lie, either by - Times of India** [link](https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-has-a-new-guiding-principle-do-not-lie-either-by-/articleshow/118317356.cms)
+_Highlight:_ It also addresses concerns of <b>bias</b>, with OpenAI focusing on enhancing user control and intellectual freedom, potentially raising <b>AI</b> standards in&nbsp;...
+
+- **7. <b>AI</b> In Hiring: Interview room that never had a door, HR News, ETHRWorld** [link](https://hr.economictimes.indiatimes.com/news/trends/ai-in-hr/interview-room-that-never-had-a-door/118299048)
+_Highlight:_ Bias Mitigation – Are hiring models regularly checked for <b>fairness</b>? The <b>AI</b> hiring tool in Hyderabad represents a technological leap, but it also&nbsp;...
+
+- **8. Higher education through <b>AI</b>: a vision for student-centred learning - The Express Tribune** [link](https://tribune.com.pk/story/2528777/higher-education-through-ai-a-vision-for-student-centred-learning)
+_Highlight:_ This process will be rigorously tested before deployment, ensuring <b>fairness</b> and accuracy. Once certified, <b>AI</b> Subject Models will autonomously&nbsp;...
+
+- **9. New <b>AI</b>-Powered Blockchain Projects That Could Shape the Future of Crypto Innovation** [link](https://www.msn.com/en-us/money/markets/new-ai-powered-blockchain-projects-that-could-shape-the-future-of-crypto-innovation/ar-AA1z6yjZ)
+_Highlight:_ This approach ensures <b>fairness</b> in <b>AI</b> training and reduces the risk of biased outcomes. These advancements, along with its <b>AI</b>-powered blockchain&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
