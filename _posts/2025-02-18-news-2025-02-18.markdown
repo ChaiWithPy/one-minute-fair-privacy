@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-18 One-Minute Post
+date: 2025-02-18 07:51:54 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+South Korea suspends Chinese AI app DeepSeek downloads over privacy concerns. Meanwhile, the EU plans to regulate AI usage by 2026, emphasizing fairness and privacy protection. Additionally, a study in Singapore uncovers socio-economic biases in AI systems, highlighting concerns about fairness and inclusivity. On the other hand, ethical AI advocate Timnit Gebru continues to shape discussions on bias, fairness, and accountability in AI, despite being fired by Google.
+
+## Articles we found interesting:
+
+- **1. South Korea pauses downloads of DeepSeek <b>AI</b> over <b>privacy</b> concerns - Engadget** [link](https://www.engadget.com/ai/south-korea-pauses-downloads-of-deepseek-ai-over-privacy-concerns-163302959.html)
+_Highlight:_ South Korea has blocked Chinese <b>AI</b> app DeepSeek downloads until the company complies with local data protection laws.
+
+- **2. South Korea suspends new downloads of Chinese <b>AI</b> app DeepSeek over <b>privacy</b> concerns** [link](https://www.youtube.com/watch%3Fv%3DXOZU60KQZ9M)
+_Highlight:_ South Korea has suspended new downloads of Chinese <b>artificial intelligence</b> app DeepSeek. A government official explained that the decision was&nbsp;...
+
+- **3. Chinese <b>AI</b> app DeepSeek halts downloads in South Korea amid <b>privacy</b> concerns** [link](https://www.newschannel9.com/news/nation-world/chinese-ai-app-deepseek-halts-downloads-in-south-korea-amid-privacy-concerns)
+_Highlight:_ The Chinese <b>artificial intelligence</b> app, DeepSeek has temporarily paused downloads of the app in South Korea while it works to address <b>privacy</b>&nbsp;...
+
+- **4. Big Issue - Unreliable <b>AI</b> usage by DWP risks vulnerable people being treated as &quot;guinea pigs&quot;** [link](https://bigbrotherwatch.org.uk/press-coverage/big-issue-unreliable-ai-usage-by-dwp-risks-vulnerable-people-being-treated-as-guinea-pigs/)
+_Highlight:_ ... <b>AI</b> to determine the eligibility of applications for disability benefits. These algorithmic programmes have already demonstrated <b>bias</b> on individual&nbsp;...
+
+- **5. <b>AI</b> Regulation and Risk Management in 2024 – with Micheal Berger of Munich Re** [link](https://emerj.com/ai-regulation-and-risk-management-in-2024-micheal-berger-munich-re/)
+_Highlight:_ As <b>AI</b> adoption grows, so do the associated risks, including errors, <b>biases</b>, and unexpected outcomes. However, as <b>AI</b> becomes more integral to core&nbsp;...
+
+- **6. Stress management with HRV following <b>AI</b>, semantic ontology, genetic algorithm and tree explainer** [link](https://www.nature.com/articles/s41598-025-87510-w)
+_Highlight:_ Feature selection, X-<b>AI</b>, <b>bias</b>, fairness, and ethical <b>AI</b> are interconnected concepts essential for building responsible and unbiased machine learning&nbsp;...
+
+- **7. New EU <b>AI</b> Act to regulate <b>AI</b> usage by 2026, bans workplace emotion tracking and ...** [link](https://hrme.economictimes.indiatimes.com/amp/news/industry/new-eu-ai-act-to-regulate-ai-usage-by-2026-bans-workplace-emotion-tracking-and-online-deceptive-practices/118295255)
+_Highlight:_ Fully enforceable by 2026, it aims to protect privacy, ensure <b>fairness</b>, and increase transparency. Businesses must comply with new rules or face heavy&nbsp;...
+
+- **8. IMDA study uncovers socio-economic biases in <b>AI</b> systems | Singapore Business Review** [link](https://sbr.com.sg/information-technology/in-focus/imda-study-uncovers-socio-economic-biases-in-ai-systems)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) systems, raising concerns over <b>fairness</b> and inclusivity in <b>AI</b>-generated content. The Singapore <b>AI</b> Safety Red Teaming&nbsp;...
+
+- **9. Meet Timnit Gebru: The Woman Fired By Google For Pushing For Ethical <b>AI</b> and Accountability** [link](https://shinemycrown.com/meet-timnit-gebru-the-woman-fired-by-google-for-pushing-for-ethical-ai-and-accountability/)
+_Highlight:_ Today, in 2025, her work remains a cornerstone of the movement to address bias, <b>fairness</b>, and accountability in <b>AI</b>, shaping regulatory discussions and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
