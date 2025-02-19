@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-19 One-Minute Post
+date: 2025-02-19 07:49:30 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Senator Padilla introduces the California Artificial Intelligence Bill of Rights, focusing on AI privacy. Canadian privacy and AI laws face a hold due to political changes. State Attorney Generals enforce consumer privacy opt-out rights. K-12 education sees AI changing procurement, addressing bias issues. The UK rebrands its AI institute to focus on bias. AI's potential for spreading bias and discrimination is a concern in global tech wars. NGOs are addressing bias and fairness in AI algorithms. US President Trump unveils trade policy with reciprocal tariffs for fairness. Elon Musk unveils Grok 3, emphasizing fairness and ethical AI practices.
+
+## Articles we found interesting:
+
+- **1. Senator Padilla Introduces the California <b>Artificial Intelligence</b> Bill of Rights** [link](https://sd18.senate.ca.gov/news/senator-padilla-introduces-california-artificial-intelligence-bill-rights)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) while strengthening consumer protections around the technology ... <b>privacy</b>, and translate into real world harms. The&nbsp;...
+
+- **2. Effort to pass new Canadian <b>privacy</b>, <b>AI</b> laws faces extended hold - MLex** [link](https://www.mlex.com/mlex/data-privacy-security/articles/2299685/effort-to-pass-new-canadian-privacy-ai-laws-faces-extended-hold)
+_Highlight:_ Following Canadian Prime Minister Justin Trudeau&#39;s announcement last month that he would resign and the ensuing decision to prorogue Parliament,&nbsp;...
+
+- **3. State Attorney Generals Take Center Stage in the Enforcement of Consumer <b>Privacy</b> Opt-Out Rights** [link](https://www.jdsupra.com/legalnews/state-attorney-generals-take-center-9871201/)
+_Highlight:_ Attorney Advertising. © Hinshaw &amp; Culbertson - <b>Privacy</b>, Cyber &amp; <b>AI</b> Decoded 2025. Refine your interests ». Written&nbsp;...
+
+- **4. How <b>AI</b> Is Changing Procurement for K-12 Education - Government Technology** [link](https://www.govtech.com/education/k-12/how-ai-is-changing-procurement-for-k-12-education)
+_Highlight:_ ... <b>bias</b>, inaccuracies, or generally low-quality responses as companies tap into <b>AI</b> to submit as many bids as possible. &quot;We&#39;re all compelled to do our&nbsp;...
+
+- **5. UK pivots from preventive to defensive stance with rebranded <b>AI</b> institute - GovInsider** [link](https://govinsider.asia/intl-en/article/uk-pivots-from-preventive-to-defensive-stance-with-rebranded-ai-institute)
+_Highlight:_ The shift in focus for the rebranded Institute was highlighted in a statement issued by the UK government. “[The Institute] will not focus on <b>bias</b> or&nbsp;...
+
+- **6. <b>AI</b> and Geopolitics: Understanding The Global Tech Wars - ICJ Kenya** [link](https://icj-kenya.org/news/ai-and-geopolitics-understanding-the-global-tech-wars/)
+_Highlight:_ Scholars and policymakers are anxious about <b>AI&#39;s</b> potential for spreading disinformation and misinformation, <b>bias</b> and discrimination, and violations of&nbsp;...
+
+- **7. The Ethics of Using <b>AI</b> in NGO Donor Engagement - fundsforNGOs** [link](https://www2.fundsforngos.org/articles-searching-grants-and-donors/the-ethics-of-using-ai-in-ngo-donor-engagement/)
+_Highlight:_ ... <b>AI</b> technologies, allowing organizations to make necessary adjustments before issues arise. Addressing Bias and <b>Fairness</b> in <b>AI</b> Algorithms. Another&nbsp;...
+
+- **8. US President Donald Trump unveils trade policy with reciprocal tariffs for <b>fairness</b>** [link](https://m.economictimes.com/news/international/global-trends/us-president-donald-trump-unveils-trade-policy-with-reciprocal-tariffs-for-fairness/articleshow/118342592.cms)
+_Highlight:_ <b>AI</b> and Analytics based Business Strategy ... It added, &quot;For many years, the US has been treated unfairly by other countries, both friend and foe. This&nbsp;...
+
+- **9. What is Grok 3? Elon Musk Unveils Its &#39;Smartest <b>AI</b> on Earth&#39;! Check Details Here** [link](https://www.jagranjosh.com/general-knowledge/what-is-grok-3-ai-1739787494-1)
+_Highlight:_ ... <b>AI</b> established xAI as a formidable competitor in the <b>AI</b> market. ... <b>fairness</b>, and ethical <b>AI</b> practices, ensuring its responses are not only&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
