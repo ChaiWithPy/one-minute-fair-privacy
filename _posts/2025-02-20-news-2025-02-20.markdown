@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-20 One-Minute Post
+date: 2025-02-20 07:40:55 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI's impact on privacy is a growing concern, with calls for Congress to protect public privacy. DeepSeek AI offers local privacy protection. Meanwhile, AI systems are producing biased results due to inadequate training data. Joy Buolamwini discusses bias in facial recognition, and Forbes emphasizes the importance of fairness in AI leadership. Additionally, Dream11's fairness is questioned, and the HIMSS25 AI in Healthcare Forum focuses on addressing AI bias and ensuring fairness in healthcare solutions.
+
+## Articles we found interesting:
+
+- **1. Unpacking the Final Report of the Bipartisan House Task Force on <b>AI</b> | Lawfare** [link](https://www.lawfaremedia.org/article/unpacking-the-final-report-of-the-bipartisan-house-task-force-on-ai)
+_Highlight:_ This section calls on Congress to ensure that future government <b>AI</b> use protects “the public&#39;s <b>privacy</b>, security, civil rights, and civil liberties.”&nbsp;...
+
+- **2. <b>AI</b> impact on <b>privacy</b> a growing global concern – GlobalData - Verdict** [link](https://www.verdict.co.uk/ai-impact-on-privacy-a-growing-global-concern-globaldata/)
+_Highlight:_ The widespread adoption of generative <b>AI</b> across industries has increased the relevance of data <b>privacy</b> around the world.
+
+- **3. How to run DeepSeek <b>AI</b> locally to protect your <b>privacy</b> - 2 easy ways | ZDNET** [link](https://www.zdnet.com/article/how-to-run-deepseek-ai-locally-to-protect-your-privacy-2-easy-ways/)
+_Highlight:_ How to run DeepSeek <b>AI</b> locally for more <b>privacy</b>. ZDNET. DeepSeek is the latest buzzword within the world of <b>AI</b>. DeepSeek is a Chinese <b>AI</b> startup&nbsp;...
+
+- **4. <b>AI</b> systems coming up with <b>biased</b> results - Voice Online** [link](https://www.voice-online.co.uk/lifestyle/2025/02/19/ai-systems-coming-up-with-biased-results/)
+_Highlight:_ <b>AI</b> SYSTEMS are producing <b>biased</b> results because they are not being trained on diverse datasets, with little or no representation of African foods&nbsp;...
+
+- **5. Breaking Barriers: Addressing Algorithmic <b>Bias</b> | University of Limerick** [link](https://ul.ie/limerick-dcrc/events/breaking-barriers-addressing-algorithmic-bias)
+_Highlight:_ ... <b>AI</b> and discrimination, regulating <b>AI</b> in healthcare, gender <b>bias</b> in <b>AI</b>, and equitable <b>AI</b> creation through discussions and research presentation. The
+
+- **6. <b>AI</b> researcher Joy Buolamwini discusses <b>bias</b> in facial recognition technologies at Duke event** [link](https://www.dukechronicle.com/article/2025/02/duke-university-joy-buolamwini-artificial-intelligence-researcher-discussed-biases-in-facial-recognition-technologies-the-coded-gaze)
+_Highlight:_ <b>AI</b> researcher, activist and artist Joy Buolamwini spoke about <b>bias</b> in facial recognition technologies (FRTs) and the state of <b>AI</b> policy at a&nbsp;...
+
+- **7. Great Leadership Is Still The Answer, With Or Without <b>AI</b> - Forbes** [link](https://www.forbes.com/sites/brentgleeson/2025/02/18/great-leadership-is-still-the-answer-with-or-without-ai/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) ... Whether guiding teams through industrial revolutions or the age of <b>AI</b>, the duty to ensure <b>fairness</b>, clarity, and trust&nbsp;...
+
+- **8. Is Dream11&#39;s fantasy gaming model <b>fair</b> or is there room for <b>AI</b> manipulation? - Entrackr** [link](https://entrackr.com/greyzone/is-dream11s-fantasy-gaming-model-fair-or-is-there-room-for-ai-manipulation-8727966)
+_Highlight:_ Entrackr conducted an in-depth analysis of Dream11&#39;s users complaints, multiple app reviews, and industry insights from <b>AI</b> experts,&nbsp;...
+
+- **9. At the HIMSS25 <b>AI</b> In Healthcare Forum, tech and tactics** [link](https://www.healthcareitnews.com/news/himss25-ai-healthcare-forum-tech-and-tactics)
+_Highlight:_ ... <b>AI</b> bias, collaboration strategies, and ethical frameworks to ensure transparency, accountability, and <b>fairness</b> in <b>AI</b>-driven healthcare solutions.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
