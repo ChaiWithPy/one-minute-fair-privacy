@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-21 One-Minute Post
+date: 2025-02-21 07:33:15 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OmniGPT faces security breach, highlighting AI innovation outpacing privacy measures. Bipartisan concerns arise as air travel security expands with biometric and AI-driven screening technologies. KAOPS addresses enterprise AI adoption concerns, focusing on data privacy and security. California introduces landmark AI legislation addressing bias in AI tools. New Jersey and New York developments likely to increase AI-driven employment discrimination litigation. UAE moves to regulate AI in healthcare sector to ensure fairness and uphold ethical AI practices. Ethical AI implementation emphasizes respect for human values, fairness, and privacy. The promise and peril of AI tools for justice system in Jamaica, as efficiency shouldn't compromise bias, transparency, and fairness.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> Aggregator OmniGPT Suffers a Security Breach Exposing Sensitive Data Including Credentials** [link](https://www.cpomagazine.com/cyber-security/ai-aggregator-omnigpt-suffers-a-security-breach-exposing-sensitive-data-including-credentials/)
+_Highlight:_ “The reported OmniGPT breach highlights the risk that rapid <b>AI</b> innovation is outpacing basic security, neglecting <b>privacy</b> measures in favor of&nbsp;...
+
+- **2. As air travel security expands, so do <b>privacy</b> concerns - Biometric Update** [link](https://www.biometricupdate.com/202502/as-air-travel-security-expands-so-do-privacy-concerns)
+_Highlight:_ The rapid expansion of biometric and <b>AI</b>-driven screening technologies has prompted bipartisan concerns in Congress where lawmakers such as Senators&nbsp;...
+
+- **3. Enterprise Shift to Private <b>AI</b> With KAOPS - Fox 59** [link](https://fox59.com/business/press-releases/ein-presswire/785730868/enterprise-shift-to-private-ai-with-kaops)
+_Highlight:_ KAOPS tackles critical concerns in enterprise <b>AI</b> adoption: - Data <b>Privacy</b> and Security: Enables <b>AI</b> deployment within corporate networks, eliminating&nbsp;...
+
+- **4. Landmark <b>AI</b> Legislation On Kids, <b>Bias</b> Introduced In Calif. - Law360 Employment Authority** [link](https://www.law360.com/employment-authority/discrimination/articles/2300843/landmark-ai-legislation-on-kids-bias-introduced-in-calif-)
+_Highlight:_ ... associated with <b>artificial intelligence</b> as well as a revised version of a bill addressing <b>bias</b> by <b>AI</b> tools.
+
+- **5. <b>AI</b> &amp; Antitrust in the Second Trump Term - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D94f712e8-1689-40b9-8bd8-2ccfc2e97e05)
+_Highlight:_ ... <b>bias</b> in <b>AI</b> systems. Vice President JD Vance articulated the administration&#39;s approach to <b>AI</b> regulation during his February 11, 2025 remarks at the&nbsp;...
+
+- **6. Recent Developments In New Jersey And New York Are Likely To Increase <b>AI</b> Driven ...** [link](https://www.mondaq.com/unitedstates/employee-rights-labour-relations/1587190/recent-developments-in-new-jersey-and-new-york-are-likely-to-increase-ai-driven-employment-discrimination-litigation)
+_Highlight:_ The Act specifies that employers are liable for any <b>bias</b> resulting from the use of <b>AI</b> tools. Employers Would be Required to Commission <b>AI</b>-&nbsp;...
+
+- **7. Is <b>AI</b> treating you? UAE moves to regulate <b>Artificial Intelligence</b> in healthcare sector - MSN** [link](https://www.msn.com/en-gb/health/other/is-ai-treating-you-uae-moves-to-regulate-artificial-intelligence-in-healthcare-sector/ar-AA1zm5vx)
+_Highlight:_ ... <b>fairness</b> in <b>AI</b> usage and uphold quality and credibility. It also seeks to standardise ethical <b>AI</b> practices across the sector and foster public&nbsp;...
+
+- **8. Ethical <b>AI</b>: Building Trust Through Responsible Implementation - BBN Times** [link](https://www.bbntimes.com/technology/ethical-ai-building-trust-through-responsible-implementation)
+_Highlight:_ At its core, ethical <b>artificial intelligence</b> refers to the creation and deployment of <b>AI</b> systems that respect human values, <b>fairness</b>, and privacy. It&nbsp;...
+
+- **9. The promise and peril of <b>AI</b> tools for Ja&#39;s justice system - Jamaica Observer** [link](https://www.jamaicaobserver.com/2025/02/20/promise-peril-ai-tools-jas-justice-system/)
+_Highlight:_ Faster case resolutions and a more streamlined judicial process. Bias, Transparency And <b>Fairness</b>. But here&#39;s the catch, efficiency shouldn&#39;t come at&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
