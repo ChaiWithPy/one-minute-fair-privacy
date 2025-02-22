@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-02-22 One-Minute Post
+date: 2025-02-22 07:43:44 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California's proposed AI regulations are criticized for overstepping privacy laws. A federal working group is drafting a data privacy bill. Meanwhile, Chairman Guthrie and Vice Chairman Joyce are exploring data privacy and security frameworks. Kangwook Lee focuses on reducing bias in AI, while schools educate on AI bias. Marketers are advised on surviving strict AI regulations enforcing transparency and bias mitigation.
+
+## Articles we found interesting:
+
+- **1. Comments to the California <b>Privacy</b> Protection Agency&#39;s Proposed <b>AI</b> Regulations** [link](https://datainnovation.org/2025/02/comments-to-the-california-privacy-protection-agencys-proposed-ai-regulations/)
+_Highlight:_ The CPPA&#39;s proposal oversteps its authority, transforming an already overbearing data <b>privacy</b> law into excessive <b>AI</b> regulation. It requires businesses&nbsp;...
+
+- **2. Working group formed to draft federal data <b>privacy</b> bill | SC Media** [link](https://www.scworld.com/brief/working-group-formed-to-draft-federal-data-privacy-bill)
+_Highlight:_ ... <b>privacy</b> bill, reports The Record, a news site by cybersecurity firm ... <b>AI</b>/ML &middot; <b>Privacy</b> concerns prompt South Korean suspension of DeepSeek &middot; SC&nbsp;...
+
+- **3. Chairman Guthrie and Vice Chairman Joyce Issue Request for Information to Explore Data ...** [link](https://energycommerce.house.gov/posts/chairman-guthrie-and-vice-chairman-joyce-issue-request-for-information-to-explore-data-privacy-and-security-framework)
+_Highlight:_ V. <b>Artificial Intelligence</b>. Most state comprehensive data <b>privacy</b> and security laws regulate <b>AI</b> through “automated decision-making” requirements. A&nbsp;...
+
+- **4. ECE Focus on Faculty: Kangwook Lee - College of Engineering** [link](https://engineering.wisc.edu/blog/ece-focus-on-faculty-kangwook-lee/)
+_Highlight:_ ... (<b>AI</b>) and machine learning, with a special focus on generative <b>AI</b>. He ... Data ethics course teaches undergrads how to reduce <b>bias</b> in <b>AI</b> &middot; Lee&nbsp;...
+
+- **5. Area schools being educated in benefits and negatives of <b>AI</b> | The Northside Sun** [link](https://www.northsidesun.com/area-schools-being-educated-benefits-and-negatives-ai)
+_Highlight:_ Students should be aware that <b>AI</b> tools and techniques may be <b>biased</b> and should take steps to mitigate <b>bias</b> when using <b>AI</b>, should not share names&nbsp;...
+
+- **6. <b>AI</b> Regulation Is Dead. Here&#39;s How Marketers Can Survive - Forbes** [link](https://www.forbes.com/sites/jasonsnyder/2025/02/21/ai-regulation-is-dead-heres-how-marketers-can-survive/)
+_Highlight:_ It enforces strict rules on <b>AI</b> transparency, <b>bias</b> mitigation, and high-risk <b>AI</b> applications, including advertising algorithms. China requires&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
