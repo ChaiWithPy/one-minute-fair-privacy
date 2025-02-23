@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-23 One-Minute Post
+date: 2025-02-23 07:34:12 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Arizona is banning AI from denying medical claims, while Apple faces backlash over data protection. Concerns arise over biases in the UK government's AI system for benefit eligibility. Elon Musk's AI raises concerns about biases, and business leaders emphasize addressing bias and privacy in AI systems. The Social Security Fairness Act promises increased benefits, and there are growing concerns about fairness and transparency as AI replaces human jobs.
+
+## Articles we found interesting:
+
+- **1. Arizona advances bill to keep <b>AI</b> from rejecting medical claims - The Hill** [link](https://thehill.com/policy/technology/5158238-arizona-bill-bans-ai-from-denying-medical-claims/)
+_Highlight:_ Arizona state lawmakers advanced a bill Thursday that would ban the use of <b>artificial intelligence</b> (<b>AI</b>) to deny medical claims. ... <b>PRIVACY</b> POLICY 11/18&nbsp;...
+
+- **2. Apple pulls data protection tool after UK government security row - BBC** [link](https://www.bbc.com/news/articles/cgj54eq4vejo)
+_Highlight:_ Online <b>privacy</b> expert Caro Robson said she believed it was ... In a speech at the <b>AI</b> Action Summit in Paris at the beginning of February, US&nbsp;...
+
+- **3. The <b>Privacy</b> Battle in Consumer Electronics: Personalization Versus Security - Forbes** [link](https://www.forbes.com/sites/anishasircar/2025/02/22/the-privacy-battle-in-consumer-electronics-personalization-versus-security/)
+_Highlight:_ <b>AI&#39;s Privacy</b> Paradox. <b>Artificial intelligence</b> can be a can of worms in the <b>privacy</b> debate. Companies like Apple, Google and Meta leverage <b>AI</b> to&nbsp;...
+
+- **4. DWP warning new system roll out for one benefit could make claimants &#39;powerless&#39;** [link](https://www.birminghammail.co.uk/news/cost-of-living/dwp-warning-new-system-roll-31020544)
+_Highlight:_ Concerns have been raised about potential <b>biases</b> in the government&#39;s new <b>AI</b> system used to determine eligibility for Employment Support Allowance (ESA)&nbsp;...
+
+- **5. Elon Musk&#39;s <b>AI</b>, Grok 3, ranks him, Donald Trump, JD Vance among America&#39;s &#39;most harmful&#39;** [link](https://m.economictimes.com/news/international/global-trends/elon-musks-ai-grok-3-ranks-him-donald-trump-jd-vance-among-americas-most-harmfulwho-else-made-the-list/articleshow/118498727.cms)
+_Highlight:_ As competition in the <b>AI</b> space intensifies, this incident raises concerns about <b>biases</b> and real-time data accuracy in <b>AI</b> models. Elon Musk&#39;s <b>AI</b>, Grok&nbsp;...
+
+- **6. The Future of <b>AI</b> in 2025: Insights from Business Leaders on Trends and Challenges** [link](https://www.thebridgechronicle.com/tech/future-of-ai-2025-business-insights)
+_Highlight:_ ... <b>AI</b> systems are developed and deployed responsibly. This includes addressing concerns related to <b>bias</b>, transparency, and data privacy. Gen Z&nbsp;...
+
+- **7. Social Security <b>Fairness</b> Act increases benefits - Self Employed** [link](https://www.selfemployed.com/news/social-security-fairness-act-increases-benefits/)
+_Highlight:_ Social Security <b>Fairness</b> Act promises significant benefit increases for millions of Americans ... China&#39;s economy shows <b>AI</b>-driven recovery.
+
+- **8. What&#39;s next for first responders after the passing of the Social Security <b>Fairness</b> Act - EMS1** [link](https://www.ems1.com/retirement/whats-next-for-first-responders-after-the-passing-of-the-social-security-fairness-act)
+_Highlight:_ Data analytics automated with <b>AI</b> technology. Big data, business analytics and <b>artificial intelligence</b> automation &middot; Quick take: &#39;Data wins the day&nbsp;...
+
+- **9. How do people feel about <b>AI</b> replacing human jobs? - Phys.org** [link](https://phys.org/news/2025-02-people-ai-human-jobs.html)
+_Highlight:_ Judges consistently ranked as the most feared <b>AI</b> occupation in nearly all countries, reflecting concerns about <b>fairness</b>, transparency, and moral&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
