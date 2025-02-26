@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-26 One-Minute Post
+date: 2025-02-26 07:34:56 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI-powered cameras raise privacy concerns for homeowners, while Apple faces pressure to scrutinize AI for privacy issues. Ageism undermines AI implementation, and AI recruitment aims to mitigate biases. The call for responsible optimism in AI is growing, as the UK media campaign seeks fairness in AI. Legal considerations and compliance of AI regulations in Insurtech are being addressed, and the Creative Rights in AI Coalition launches the "Make it Fair" initiative for fairness and transparency in AI use. Guardrails for AI are essential but challenging to build, emphasizing the need for fairness, privacy, and accountability in AI development.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b>-powered cameras raise new <b>privacy</b> concerns for homeowners | Fox News Video** [link](https://www.foxnews.com/video/6369303687112)
+_Highlight:_ Kurt &#39;CyberGuy&#39; Knutsson joins &#39;Fox &amp; Friends&#39; to discuss the use of <b>artificial intelligence</b> in home security systems.
+
+- **2. Apple Confronts Investor Pressure to Abolish DEI, Scrutinize <b>AI</b> - Bloomberg Law News** [link](https://news.bloomberglaw.com/esg/apple-confronts-investor-pressure-to-abolish-dei-scrutinize-ai)
+_Highlight:_ The bid, from the National Legal and Policy Center, comes amid growing disquiet from shareholders and the public about data <b>privacy</b> and <b>AI</b>. The&nbsp;...
+
+- **3. Legal Considerations and Compliance of <b>AI</b> Regulation in Insurtech** [link](https://natlawreview.com/article/impact-ai-regulations-insurtech)
+_Highlight:_ Legal Considerations and <b>AI</b> Exposure. As with data <b>privacy</b> regulations, the answer to the question “Which <b>AI</b> laws apply?” is highly fact-specific and&nbsp;...
+
+- **4. How Ageism Is Undermining <b>AI</b> Implementation - Harvard Business Review** [link](https://hbr.org/2025/02/how-ageism-is-undermining-ai-implementation)
+_Highlight:_ Unfounded age <b>bias</b> is likely to prove equally unhelpful now as employers navigate rolling out <b>AI</b> in the workplace. And according to our new survey,&nbsp;...
+
+- **5. <b>AI</b> recruitment: Benefits, drawbacks and best practices - Business Management Daily** [link](https://www.businessmanagementdaily.com/83069/ai-recruitment-benefits-drawbacks-and-best-practices/)
+_Highlight:_ Humans all inherently have unconscious <b>biases</b>, which can unintentionally impact the candidate selection process. In contrast, <b>AI</b> focuses on objective&nbsp;...
+
+- **6. Wanted: A &#39;Responsible Optimism&#39; Approach To <b>AI</b> - Forbes** [link](https://www.forbes.com/sites/joemckendrick/2025/02/25/wanted-a-responsible-optimism-approach-to-ai/)
+_Highlight:_ With great power comes great responsibility, and that is now certainly the case as the power of <b>AI</b> gets unleashed. Is it amplifying <b>bias</b>?
+
+- **7. What if the UK media campaign to make <b>AI fair</b> hinders creativity in the long run | The Drum** [link](https://www.thedrum.com/opinion/2025/02/25/what-if-the-uk-media-campaign-make-ai-fair-hinders-creativity-the-long-run)
+_Highlight:_ It&#39;s a compelling narrative, one that plays on fundamental questions of <b>fairness</b>. Why should <b>AI</b> firms get to use copyrighted material for free when&nbsp;...
+
+- **8. <b>AI</b> needs guardrails but they won&#39;t be easy to build - The Globe and Mail** [link](https://www.theglobeandmail.com/business/careers/management/article-ai-needs-guardrails-but-they-wont-be-easy-to-build/)
+_Highlight:_ “Almost every one of these includes a commitment to high-level concepts like <b>fairness</b>, privacy, transparency, safety and accountability. The&nbsp;...
+
+- **9. Creative Rights in <b>AI</b> Coalition launches &#39;Make it <b>Fair</b>&#39; initiative - PPA** [link](https://ppa.co.uk/make-it-fair)
+_Highlight:_ The publishing industry stands united with the wider creative sector, in calling for <b>fairness</b>, transparency, and control over how <b>AI</b> firms use our&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
