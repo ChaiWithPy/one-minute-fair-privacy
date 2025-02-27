@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-02-27 One-Minute Post
+date: 2025-02-27 07:26:08 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Minnesota AG releases report on AI's impact on minors, highlighting privacy concerns. Geotab GO Focus addresses driver privacy and safety. Inova prioritizes data privacy and security in AI and digital innovation. Connecticut AI bias proposal faces opposition from tech industry and governor. Mitigating AI data risk involves addressing bias in AI systems. Siemens Healthineers emphasizes the importance of clean data to advance AI in medical imaging while addressing bias concerns.
+
+## Articles we found interesting:
+
+- **1. Minnesota AG Releases Report Detailing <b>AI</b> and Social Media&#39;s Impact on Minors** [link](https://www.regulatoryoversight.com/2025/02/minnesota-ag-releases-report-detailing-ai-and-social-medias-impact-on-minors/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). The report highlights alleged adverse ... <b>privacy</b> and First Amendment concerns. These policy recommendations&nbsp;...
+
+- **2. Geotab GO Focus Tackles Driver <b>Privacy</b> and Reduces Collisions - Morningstar** [link](https://www.morningstar.com/news/pr-newswire/20250226to27360/geotab-go-focus-tackles-driver-privacy-and-reduces-collisions)
+_Highlight:_ ... <b>AI</b>-powered safety sensor designed to help fleets enhance safety while addressing <b>privacy</b> and compliance concerns. GO Focus integrates seamlessly&nbsp;...
+
+- **3. Matthew Kull On <b>AI</b>, Data And Digital Innovation At Inova - Forbes** [link](https://www.forbes.com/sites/peterhigh/2025/02/26/matthew-kull-on-ai-data-and-digital-innovation-at-inova/)
+_Highlight:_ Collaborating with Clinicians for Cutting-Edge Research. Kull_Matt &middot; Prioritizing Data <b>Privacy</b> and Security &middot; Harnessing <b>Artificial Intelligence</b> in&nbsp;...
+
+- **4. Tech industry, governor oppose Connecticut <b>AI bias</b> proposal despite changes - MLex** [link](https://www.mlex.com/mlex/artificial-intelligence/articles/2303544/tech-industry-governor-oppose-connecticut-ai-bias-proposal-despite-changes)
+_Highlight:_ A closely watched Connecticut bill aimed at preventing discrimination when <b>artificial intelligence</b> tools make critical decisions about people is&nbsp;...
+
+- **5. Foundational considerations in mitigating <b>AI</b> data risk - IAPP** [link](https://iapp.org/news/a/foundational-considerations-in-mitigating-ai-data-risk)
+_Highlight:_ Quality and accuracy of data used to train or operate <b>AI</b> models is another common issue. <b>Bias</b> can creep into <b>AI</b> systems through human cognitive <b>biases</b>&nbsp;...
+
+- **6. Clean data is key to advancing <b>AI</b> in medical imaging: Prakash KS, Siemens Healthineers** [link](https://www.techcircle.in/2025/02/27/clean-data-is-key-to-advancing-ai-in-medical-imaging-prakash-ks-siemens-healthineers)
+_Highlight:_ However, challenges such as data quality, <b>bias</b>, and regulatory compliance remain critical concerns. Siemens Healthineers, a medical technology company&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
