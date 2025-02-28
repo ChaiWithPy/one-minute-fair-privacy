@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-02-28 One-Minute Post
+date: 2025-02-28 07:29:42 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+A company's data privacy needs a strong foundation, while Microsoft introduces new AI models with privacy concerns. HUL implements AI governance to eliminate biases, and real estate explores AI's transformative potential with a focus on fairness. The future of tech emphasizes inclusivity and the need to fight bias in AI and hiring. Additionally, human-centered HR in the age of AI aims for fairness, transparency, and bias absence in pension administration and employee benefits.
+
+## Articles we found interesting:
+
+- **1. Why A Company&#39;s Data <b>Privacy</b> Needs A Strong Foundation - Forbes** [link](https://www.forbes.com/sites/cio/2025/02/27/why-a-companys-data-privacy-needs-a-strong-foundation/)
+_Highlight:_ Also in the Forbes CIO newsletter: Is Apple&#39;s <b>AI</b> infrastructure investment truly historic? Nvidia smashes expectations, but Wall Street is&nbsp;...
+
+- **2. The Future of Work is Personal: How <b>AI</b> is Reshaping Employee Experience - SHRM** [link](https://www.shrm.org/enterprise-solutions/insights/future-of-work-is-personal-how-ai-is-reshaping-employee)
+_Highlight:_ As businesses embrace this transformation to bespoke experiences, HR leaders must navigate the fine line between personalization and <b>privacy</b>, ensuring&nbsp;...
+
+- **3. Microsoft&#39;s new Phi-4 <b>AI</b> models pack big performance in small packages | VentureBeat** [link](https://venturebeat.com/ai/microsofts-new-phi-4-ai-models-pack-big-performance-in-small-packages/)
+_Highlight:_ ... <b>AI</b> coverage. Learn More &middot; Microsoft has introduced a new class of ... <b>privacy</b> concerns are paramount, and <b>AI</b> needs to work seamlessly without&nbsp;...
+
+- **4. The future of tech is inclusive – Are we ready? - Times of India** [link](https://timesofindia.indiatimes.com/blogs/equal-bytes/the-future-of-tech-is-inclusive-are-we-ready/)
+_Highlight:_ Fighting <b>Bias</b> in <b>AI</b> &amp; Hiring. Hiring algorithms, when trained on <b>biased</b> data, can filter out female candidates before they even get a shot. (And&nbsp;...
+
+- **5. HUL has set up <b>AI</b> governance to eliminate <b>biases</b> in IPs before public release: Rohit Jawa** [link](https://www.exchange4media.com/marketing-news/hul-has-set-up-ai-governance-to-eliminate-biases-in-ips-before-public-release-rohit-jawa-141263.html)
+_Highlight:_ HUL has also introduced an <b>AI</b>-powered enhancement to its indigenous eB2B platform, Shikhar, to empower 1.4 million kirana stores, CEO said at the&nbsp;...
+
+- **6. Explainability of <b>AI</b> Models: Why does it matter? - UTM NewsHub** [link](https://news.utm.my/2025/02/explainability-of-ai-models-why-does-it-matter/)
+_Highlight:_ ... <b>biased</b> algorithms. Algorithmic <b>bias</b> has long been a challenge in training <b>AI</b> models, leading to <b>biases</b> based on race, gender, age, and location.
+
+- **7. The transformative potential of <b>AI</b> in real estate - Lewis Silkin LLP** [link](https://www.lewissilkin.com/insights/2025/02/26/the-transformative-potential-of-ai-in-real-estate)
+_Highlight:_ Bias and <b>Fairness</b>: <b>AI</b> algorithms can inherit biases from the data they ... It is crucial to develop and deploy AI systems that are fair, transparent,&nbsp;...
+
+- **8. Social Security <b>Fairness</b> Act benefit increases to arrive this spring - CNBC** [link](https://www.cnbc.com/2025/02/26/social-security-fairness-act-benefit-increases-to-arrive-this-spring.html)
+_Highlight:_ Don&#39;t miss these insights from CNBC PRO. Nvidia earnings are expected to move the stock market more than usual &middot; Analyst says Microsoft is cutting <b>AI</b>&nbsp;...
+
+- **9. Human-Centered HR In The Age Of <b>AI</b> - BW People** [link](https://www.bwpeople.in/article/human-centered-hr-in-the-age-of-ai-549294)
+_Highlight:_ How can we ensure <b>fairness</b>, transparency, and the absence of bias in <b>AI</b>-driven pension administration and employee benefits? Let me start with a&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
