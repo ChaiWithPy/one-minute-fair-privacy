@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-03-01 One-Minute Post
+date: 2025-03-01 07:26:51 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+EU launches global sting operation against AI-generated child sexual abuse material, while SAS highlights gender gap in AI development. Meanwhile, concerns arise over AI adoption risks and bias in Forbes Africa's analysis of AI relevance. Privacy concerns persist as AI's role in health care and investment funds is scrutinized.
+
+## Articles we found interesting:
+
+- **1. EU launches global sting operation against <b>AI</b>-generated child sexual abuse material** [link](https://abcnews.go.com/US/eu-launches-global-sting-operation-ai-generated-child/story%3Fid%3D119284347)
+_Highlight:_ <b>AI</b>-Generated: How nonconsensual deepfake porn ... <b>Privacy</b> Rights section, for more information about your rights and our <b>privacy</b> practices.
+
+- **2. Regulator Concerns and the Benefits of <b>AI</b> in Health Care - WilmerHale** [link](https://www.wilmerhale.com/en/insights/publications/20250228-regulator-concerns-and-the-benefits-of-ai-in-health-care)
+_Highlight:_ Partner and Co-Chair of WilmerHale&#39;s <b>Artificial Intelligence</b> Practice and Cybersecurity and <b>Privacy</b> Practice, Kirk Nahra, authored the article&nbsp;...
+
+- **3. <b>AI</b> Platform Analysis for a Global Investment Fund - FTI Consulting** [link](https://www.fticonsulting.com/insights/case-studies/ai-platform-analysis-global-investment-fund)
+_Highlight:_ <b>Artificial Intelligence</b> Consulting &amp; <b>AI</b> Strategy &middot; Digital Transformation &middot; Private Equity ... <b>Privacy</b> &middot; Sitemap. ✓. Thanks for sharing! AddToAny.
+
+- **4. SAS: &#39;<b>AI</b> will define the future of tech,&#39; but why is there already a gender gap present?** [link](https://www.unleash.ai/artificial-intelligence/sas-ai-will-define-the-future-of-tech-but-why-is-there-already-a-gender-gap-present/)
+_Highlight:_ But if <b>AI</b> is developed without attention to gender equality, <b>biases</b> will be reinforced and the gender gap will only widen further. In an exclusive&nbsp;...
+
+- **5. <b>AI</b> for GCs: What You Need to Know in 2025 | Polsinelli - JDSupra** [link](https://www.jdsupra.com/legalnews/ai-for-gcs-what-you-need-to-know-in-2025-8039737/)
+_Highlight:_ In our 2024 edition of <b>AI</b> for GCs: What You Need to Know, we identified certain <b>AI</b> adoption risks with a particular emphasis on user error and <b>bias</b>.
+
+- **6. &#39;Maybe It Was Never The Black Box We Said It Was&#39;: <b>Bias</b>, Analysis And Relevance ... - Forbes Africa** [link](https://www.forbesafrica.com/current-affairs/2025/02/28/maybe-it-was-never-the-black-box-we-said-it-was-bias-analysis-and-relevance-in-the-evolving-world-of-ai/)
+_Highlight:_ The lights have always been on inside the so-called <b>AI</b> black boxes. Shifting commercial expectations and increasing awareness of the technology&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
