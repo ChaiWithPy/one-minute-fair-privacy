@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-02 One-Minute Post
+date: 2025-03-02 07:23:05 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Generative AI poses privacy risks, while Amazon disqualifies candidates using AI tools for fair recruitment. EU's AI Act promotes digital sovereignty and fair AI market, addressing biases. Trump's AI video draws backlash, highlighting bias concerns. Local news AI faces trust issues due to built-in biases. An alliance forms for open, fair, and secure AI access. DeepSeek apps offer privacy for using LLM without the internet.
+
+## Articles we found interesting:
+
+- **1. Is There a Clear Solution to the <b>Privacy</b> Risks Posed by Generative <b>AI</b>? - Unite.<b>AI</b>** [link](https://www.unite.ai/is-there-a-clear-solution-to-the-privacy-risks-posed-by-generative-ai/)
+_Highlight:_ From increased surveillance and exposure to more effective phishing and vishing campaigns than ever, generative <b>AI</b> erodes <b>privacy</b> en masse,&nbsp;...
+
+- **2. Bankruptcy, Genetic Information, and <b>Privacy</b> — Selling Personal Information** [link](https://www.nejm.org/doi/full/10.1056/NEJMp2415835)
+_Highlight:_ ... <b>AI</b> training, and similar technologies. Electronic ISSN 1533-4406. Print ISSN 0028-4793.The content of this site is intended for health care&nbsp;...
+
+- **3. Curious about DeepSeek but worried about <b>privacy</b>? These apps let you use an LLM without ...** [link](https://www.fastcompany.com/91285738/curious-about-deepseek-but-worried-about-privacy-these-apps-let-you-use-an-llm-without-the-internet)
+_Highlight:_ Once you&#39;ve done the above you&#39;ve essentially turned your personal computer into an <b>AI</b> server capable of running numerous open-source LLMs&nbsp;...
+
+- **4. The use of <b>AI</b> in local news faces a substantial obstacle: trust - The Boston Globe** [link](https://www.bostonglobe.com/2025/03/01/business/local-news-artificial-intelligence-startups-town-meetings/)
+_Highlight:_ ... <b>AI</b>-assisted journalism, and some efforts are just getting off the ... <b>bias</b> built into <b>AI</b> models are among the many worries people have about&nbsp;...
+
+- **5. Trump&#39;s <b>AI</b> Gaza Video Draws Swift Backlash: &quot;Your Graveyard&quot; | AllSides** [link](https://www.allsides.com/news/2025-03-01-1718/donald-trump-trumps-ai-gaza-video-draws-swift-backlash-your-graveyard)
+_Highlight:_ Trump&#39;s <b>AI</b> Gaza Video Draws Swift Backlash: &quot;Your Graveyard&quot;. Donald ... Read full story Check for <b>Bias</b>. Some content from this outlet may be&nbsp;...
+
+- **6. EU&#39;s <b>AI</b> Act Promotes Digital Sovereignty - Shia Waves** [link](https://shiawaves.com/english/news/science/ai-news/119777-eus-ai-act-promotes-digital-sovereignty/)
+_Highlight:_ The Act introduces stringent requirements, including mandatory risk assessments and human oversight, addressing ethical concerns over <b>biases</b> in high-&nbsp;...
+
+- **7. EU&#39;s <b>AI</b> Act aims for digital sovereignty, rivaling US and China: Expert - Anadolu Ajansı** [link](https://www.aa.com.tr/en/europe/eu-s-ai-act-aims-for-digital-sovereignty-rivaling-us-and-china-expert/3496320)
+_Highlight:_ In this respect, the <b>AI</b> Act also aims to create a <b>fair</b> and competitive <b>AI</b> market, preventing monopolistic practices by big tech companies.” Regulation&nbsp;...
+
+- **8. Coinbase, NEAR, Others Form Alliance to Develop Open <b>AI</b> Services - Markets Insider** [link](https://markets.businessinsider.com/news/currencies/coinbase-near-others-form-alliance-to-develop-open-ai-services-1034421731)
+_Highlight:_ The aim of the alliance is to &quot;ensure secure, open source, economical, and <b>fair AI</b> access,&quot; according to an emailed announcement on Thursday.
+
+- **9. Amazon to job seekers: To ensure a <b>fair</b> and transparent recruitment process, please do not** [link](https://timesofindia.indiatimes.com/technology/tech-news/amazon-to-job-seekers-to-ensure-a-fair-and-transparent-recruitment-process-please-do-not-/articleshow/118626691.cms)
+_Highlight:_ TECH NEWS : Amazon is disqualifying candidates who use <b>AI</b> tools during interviews to ensure <b>fairness</b> and transparency.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
