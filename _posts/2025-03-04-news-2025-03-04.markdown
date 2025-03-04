@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-03-04 One-Minute Post
+date: 2025-03-04 07:19:32 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI companies are prioritizing privacy with new assistants and guidelines. Meanwhile, concerns about bias in AI tools are growing, with a focus on ethical student placement applications and the need to address bias in information flows. The LA Times is using AI to assess political bias in opinion stories, highlighting the increasing role of AI in media.
+
+## Articles we found interesting:
+
+- **1. How to Adopt <b>AI</b> Solutions While Safeguarding Data <b>Privacy</b> | Built In** [link](https://builtin.com/articles/ai-adoption-data-privacy)
+_Highlight:_ 5 Aspects of Data <b>Privacy</b> to Consider in <b>AI</b> Adoption &middot; Data collection. &middot; User input data. &middot; Security risks. &middot; Third-party data sharing. &middot; Transparency and&nbsp;...
+
+- **2. Jolla founders take the wraps off an <b>AI</b> assistant to power up their push for <b>privacy</b>-friendly GenAI** [link](https://techcrunch.com/2025/03/03/jolla-founders-take-the-wraps-off-an-ai-assistant-to-power-up-their-push-for-privacy-friendly-genai/)
+_Highlight:_ Jolla, the erstwhile mobile maker turned <b>privacy</b>-centric <b>AI</b> business — via sister startup, Venho.<b>ai</b> — has taken the wraps off an <b>AI</b> assistant it&nbsp;...
+
+- **3. How <b>AI</b>-Driven SPO is Reshaping Programmatic Efficiency - ExchangeWire.com** [link](https://www.exchangewire.com/blog/2025/03/03/ai-driven-spo-reshaping-programmatic-efficiency-an-amir-sharer-ceo-brave/)
+_Highlight:_ ... <b>privacy</b>-first advertising landscape. <b>AI</b>-powered SPO refines targeting strategies by optimising contextual signals and authenticated data sets&nbsp;...
+
+- **4. The Impact of <b>AI</b> on Student Placement Applications - HEPI** [link](https://www.hepi.ac.uk/2025/03/04/the-impact-of-ai-on-student-placement-applications/)
+_Highlight:_ While providing valuable employer insights, these technologies raise ethical concerns, including <b>AI</b>-driven <b>bias</b>. Levelling the Playing Field? <b>AI</b> tools&nbsp;...
+
+- **5. Rehabilitating DeepSeek - China Media Project** [link](https://chinamediaproject.org/2025/03/04/rehabilitating-deepseek/)
+_Highlight:_ As the world rapidly enters an era in which information flows will be driven increasingly by <b>AI</b>, this framing <b>bias</b> in the very DNA of Chinese models&nbsp;...
+
+- **6. LA Times Embraces <b>AI</b> to Give &#39;Political Rating&#39; <b>Bias</b> Meter to Opinion Stories - TheWrap** [link](https://www.thewrap.com/la-times-ai-political-rating-opinion-stories/)
+_Highlight:_ The Los Angeles Times will be using a new <b>artificial intelligence</b> tool to give a &quot;political rating&quot; to its opinion stories and other articles.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
