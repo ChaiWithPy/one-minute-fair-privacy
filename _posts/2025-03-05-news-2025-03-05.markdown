@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-05 One-Minute Post
+date: 2025-03-05 07:22:37 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The EU AI Act's prohibitions on privacy practices have come into effect. Meanwhile, California Labor Federation is pushing for AI bills to protect privacy rights. Opera introduces an AI agent within the browser to ensure user privacy. Estonia's AI leap emphasizes the need for AI ethics to address bias. FairPlay secures a $10 million investment for AI-driven fairness solutions. Additionally, there's a growing emphasis on transparency and fairness in AI, with a focus on designing transparent and fair experiences in UX. The media industry is also advocating for fair pay, highlighting the importance of their role in AI development.
+
+## Articles we found interesting:
+
+- **1. Prohibited practices under the <b>AI</b> Act: Answered and unanswered ... - Data Protection Report** [link](https://www.dataprotectionreport.com/2025/03/prohibited-practices-under-the-ai-act-answered-and-unanswered-questions-in-the-commissions-guidelines/)
+_Highlight:_ The EU <b>AI</b> Act&#39;s prohibitions came into ... More than a news source, the Data Protection Report provides thought leadership on emerging <b>privacy</b>&nbsp;...
+
+- **2. Labor&#39;s new front in the <b>AI</b> fight - POLITICO** [link](https://www.politico.com/news/2025/03/04/california-labor-federation-ai-bills-00211296)
+_Highlight:_ You should have that right to <b>privacy</b>.” The Labor Fed has for years been a regular&nbsp;...
+
+- **3. Opera debuts an <b>AI</b> agent running natively within the browser | Windows Central** [link](https://www.windowscentral.com/software-apps/browsing/opera-browser-operator-promises-to-be-an-ai-agent-with-a-pause-button-to-preserve-privacy)
+_Highlight:_ Opera promises its new <b>AI</b> agent will preserve user <b>privacy</b> as it runs natively and doesn&#39;t send sensitive credentials to the cloud or third-party&nbsp;...
+
+- **4. Oliver Laas: Estonia&#39;s <b>AI</b> Leap requires <b>AI</b> ethics | Opinion - ERR News** [link](https://news.err.ee/1609621505/oliver-laas-estonia-s-ai-leap-requires-ai-ethics)
+_Highlight:_ If <b>AI bias</b> is not addressed in the learning process, it could amplify discriminatory prejudices that students are already exposed to through&nbsp;...
+
+- **5. Building inclusive research cultures– How can we rise above EDI cynicism? - HEPI** [link](https://www.hepi.ac.uk/2025/03/05/building-inclusive-research-cultures-how-can-we-rise-above-edi-cynicism/)
+_Highlight:_ This creates algorithms that are <b>biased</b> and can have negative consequences of sensitivity, authenticity, or uptake of <b>AI</b>-enabled interventions by&nbsp;...
+
+- **6. Transparency essential for developing trustworthy <b>AI</b>, says Gürtler - Euractiv** [link](https://www.euractiv.com/section/tech/interview/transparency-essential-for-developing-trustworthy-ai-says-gurtler/)
+_Highlight:_ As <b>artificial intelligence</b> (<b>AI</b>) reshapes society, ethical questions are increasingly raised about its moral compass, <b>biases</b>, and societal impact. &middot; XZ:&nbsp;...
+
+- **7. FairPlay secures USD 10 million investment amid business growth - The Paypers** [link](https://thepaypers.com/online-payments/fairplay-secures-usd-10-million-investment-amid-business-growth--1272564)
+_Highlight:_ FairPlay, a company specialising in <b>AI</b>-driven <b>fairness</b> solutions, has received a USD 10 million investment from Infinity Ventures, JPMorganChase,&nbsp;...
+
+- **8. The Ethics Of <b>AI</b> In UX: Designing Transparent And <b>Fair</b> Experiences - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2025/03/04/the-ethics-of-ai-in-ux-designing-transparent-and-fair-experiences/)
+_Highlight:_ Quazi underscores that ethical <b>AI</b> practices must prioritize clarity, <b>fairness</b> and accountability—principles that are just as relevant to UX design&nbsp;...
+
+- **9. Media&#39;s <b>fair</b> pay campaign isn&#39;t <b>AI</b> denialism. Without us, the tech is useless | The Drum** [link](https://www.thedrum.com/opinion/2025/03/04/media-s-fair-pay-campaign-isn-t-ai-denialism-without-us-the-tech-useless)
+_Highlight:_ The News Media Association&#39;s Owen Meredith responds to The Drum editor Gordon Young. He argues that the campaign to protect news media IP from <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
