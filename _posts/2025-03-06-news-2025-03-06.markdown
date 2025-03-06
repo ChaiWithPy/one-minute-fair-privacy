@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-06 One-Minute Post
+date: 2025-03-06 07:16:25 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California and Virginia advance AI regulations for privacy. Anthropic removes Biden-era AI policy commitments. Ontario Law Commission releases report on human rights guidelines in AI development. XAI detects biases for fairness. UN Women AI School opens for promoting fairness in AI. European defense tech emphasizes fairness and bias mitigation in AI.
+
+## Articles we found interesting:
+
+- **1. California&#39;s <b>AI</b> Revolution: Proposed CPPA Regulations Target Automated Decision Making** [link](https://natlawreview.com/article/californias-ai-revolution-proposed-cppa-regulations-target-automated-decision)
+_Highlight:_ California <b>Privacy</b> Protection Agency advances <b>AI</b> regulations under the CCPA, emphasizing transparency, consumer rights, and risk assessments.
+
+- **2. Virginia Legislature Passes <b>AI</b> Bill - <b>Privacy</b> &amp; Information Security Law Blog** [link](https://www.huntonprivacyblog.com/virginia-legislature-passes-ai-bill)
+_Highlight:_ ... <b>AI</b> systems. The Act would apply to developers and deployers of “high-risk” <b>AI</b> systems that do business in Virginia. An <b>AI</b> system would be&nbsp;...
+
+- **3. Navigating The EU <b>AI</b> Act: Critical Insights For CTOs And CIOs - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2025/03/05/navigating-the-eu-ai-act-critical-insights-for-ctos-and-cios/)
+_Highlight:_ Unlike data <b>privacy</b>, <b>AI</b> governance isn&#39;t just about policies; it requires a deep technical understanding of how AI models function, how they make&nbsp;...
+
+- **4. Anthropic quietly removes Biden-era <b>AI</b> policy commitments from its website | TechCrunch** [link](https://techcrunch.com/2025/03/05/anthropic-quietly-removes-biden-era-ai-policy-commitments-from-its-website/)
+_Highlight:_ The commitments, which included pledges to share information on managing <b>AI</b> risks across industry and government and research on <b>AI bias</b> and&nbsp;...
+
+- **5. Ontario Law Commission releases background report on human rights guidelines in <b>AI</b> development** [link](https://www.jurist.org/news/2025/03/ontario-law-commission-releases-background-report-on-human-rights-guidelines-in-ai-development/)
+_Highlight:_ ... <b>bias</b> and discrimination in Ontario. The background report builds ... <b>biases</b> in “high impact” <b>AI</b> systems before they are released. Regardless&nbsp;...
+
+- **6. <b>AI</b> In Fintech: Regulations, Opportunities, Ethical Imperatives - Forbes** [link](https://www.forbes.com/sites/zennonkapron/2025/03/05/ai-in-fintech-regulations-opportunities-ethical-imperatives/)
+_Highlight:_ Yet, along with this promise comes concern about algorithmic <b>bias</b>, opaque decision-making, and data privacy. Recognizing these risks, regulators&nbsp;...
+
+- **7. Explainable <b>AI</b> (XAI) - by Centre for Business Analytics - Substack** [link](https://substack.com/home/post/p-158382565%3Futm_campaign%3Dpost%26utm_medium%3Dweb)
+_Highlight:_ Ethical Considerations and <b>Fairness</b>: XAI detects biases, ensuring <b>fairness</b> and transparency in <b>AI</b>-driven decisions across industries. Regulatory&nbsp;...
+
+- **8. <b>AI</b> for Gender Equality: UN Women <b>AI</b> School Opens for Changemakers** [link](https://asiapacific.unwomen.org/en/stories/announcement/2025/03/un-women-ai-school-opens-for-changemakers)
+_Highlight:_ <b>Artificial Intelligence</b> (<b>AI</b>) ... ✓ Ethical and Responsible <b>AI</b> – Learn how to mitigate bias and promote <b>fairness</b> in <b>AI</b> technologies.
+
+- **9. European defence tech will fall behind without new <b>AI</b> rules | Sifted** [link](https://sifted.eu/articles/european-defence-tech-new-ai-rules)
+_Highlight:_ A third critical area for <b>AI</b> specification is <b>fairness</b> and bias mitigation. We&#39;ve seen the importance of this in civilian contexts — such as in HR&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
