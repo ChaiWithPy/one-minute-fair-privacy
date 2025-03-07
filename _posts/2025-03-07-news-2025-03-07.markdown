@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-07 One-Minute Post
+date: 2025-03-07 07:22:56 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Amazon's cloud unit forms agentic AI group under Swami Sivasubramanian, focusing on privacy. IWD Study finds only 28% are aware of AI gender biases. Meanwhile, 6 AI specializations offer six-figure salaries, emphasizing fairness in AI models.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> Meets HIPAA Security: Understanding HHS&#39;s Risk Strategies and Proposed Changes** [link](https://www.jdsupra.com/legalnews/ai-meets-hipaa-security-understanding-2640116/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) and other emerging technologies. While ... <b>privacy</b>, security, unfair bias, and ethical use of ePHI. The proposed&nbsp;...
+
+- **2. The hottest <b>AI</b> models, what they do, and how to use them - TechCrunch** [link](https://techcrunch.com/2025/03/05/the-hottest-ai-models-what-they-do-and-how-to-use-them/)
+_Highlight:_ By submitting your email, you agree to our Terms and <b>Privacy</b> Notice. Related. Rubber ducks in a line. <b>AI</b> &middot; DuckDuckGo leans further into GenAI as its&nbsp;...
+
+- **3. Amazon&#39;s cloud unit forms agentic <b>AI</b> group under Swami Sivasubramanian - CNBC** [link](https://www.cnbc.com/2025/03/05/amazons-cloud-unit-forms-agentic-ai-group-under-swami-sivasubramanian.html)
+_Highlight:_ ... <b>AI</b> services, is taking charge of a new agentic <b>artificial intelligence</b> ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **4. IWD Study: Only 28% Are Aware Of <b>AI</b> Gender <b>Biases</b> - PRovoke Media** [link](https://www.provokemedia.com/latest/article/iwd-study-only-28-are-aware-of-ai-gender-biases)
+_Highlight:_ 66% believe governments should introduce regulations to ensure <b>AI</b> is free from gender <b>bias</b>.
+
+- **5. <b>AI</b> Performance Management In Biologic And Drug Development - Bioprocess Online** [link](https://www.bioprocessonline.com/doc/ai-performance-management-in-biologic-and-drug-development-0001)
+_Highlight:_ ... <b>AI</b> maturity.<sup>1,2</sup> These principles include transparency, dataset quality and integrity, explainability, accuracy, trustworthiness, <b>bias</b> control&nbsp;...
+
+- **6. Achieving Transparency in Telecom <b>AI</b>** [link](https://www.telecomreviewafrica.com/articles/features/4781-achieving-transparency-in-telecom-ai)
+_Highlight:_ Without transparency, concerns over <b>bias</b>, accountability, and ethical <b>AI</b> deployment can weaken consumer trust and lead to regulatory scrutiny.
+
+- **7. 6 <b>AI</b> Specialisations That Offer Six-Figure Salaries - India Today** [link](https://www.indiatoday.in/visualstories/education/6-ai-specialisations-that-offer-six-figure-salaries-214652-06-03-2025)
+_Highlight:_ What they do: Develop ethical frameworks, ensure <b>fairness</b> in <b>AI</b> models, and navigate regulations to prevent <b>AI</b> bias and misuse. Skills: <b>AI</b> governance,&nbsp;...
+
+- **8. <b>AI</b> and Security have a diversity problem. Here&#39;s why it matters - SecurityBrief UK** [link](https://securitybrief.co.uk/story/ai-and-security-have-a-diversity-problem-here-s-why-it-matters)
+_Highlight:_ ... <b>fair</b> and gender-neutral? Could prompting <b>AI</b> for <b>fairness</b> create a truly unbiased system, and would this spread? The conclusions were fascinating.
+
+- **9. The impact of <b>AI</b> on Game testing and quality assurance - AutoGPT** [link](https://autogpt.net/the-impact-of-ai-on-game-testing-and-quality-assurance/)
+_Highlight:_ From automating complex processes to enhancing <b>fairness</b> and security, <b>AI</b> is becoming the backbone of a thriving and trustworthy iGaming ecosystem.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
