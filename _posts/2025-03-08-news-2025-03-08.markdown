@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-08 One-Minute Post
+date: 2025-03-08 07:18:56 -0500
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Palantir delivers AI systems to U.S. Army, while Arkansas bill targets algorithmic discrimination in privacy laws. Great Learning launches 'STEMTheBias' campaign to tackle gender bias in AI. Ethical challenges of AI development in 2025 include bias and fairness. The Future of AI in Workplace Management emphasizes the importance of fairness in AI algorithms.
+
+## Articles we found interesting:
+
+- **1. Palantir delivers first two <b>AI</b>-enabled systems to U.S. Army - CNBC** [link](https://www.cnbc.com/2025/03/07/palantir-delivers-first-two-ai-enabled-systems-to-us-army.html)
+_Highlight:_ ... <b>AI</b> to collect data from space sensors to assist soldiers with ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **2. State Comprehensive <b>Privacy</b> Law Update – March 7, 2025 - WilmerHale** [link](https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20250307-state-comprehensive-privacy-law-update-march-7-2025)
+_Highlight:_ These <b>AI</b>-specific provisions in the Arkansas bill reflect a growing trend in state <b>privacy</b> laws targeting algorithmic discrimination. This newest&nbsp;...
+
+- **3. Asian democracies in doubt about DeepSeek - East Asia Forum** [link](https://eastasiaforum.org/2025/03/07/asian-democracies-in-doubt-about-deepseek/)
+_Highlight:_ Particularly in the areas of <b>privacy</b> protection and national security, <b>AI</b> governance is necessary for a successful cross-border <b>AI</b> industry to thrive&nbsp;...
+
+- **4. Great Learning launches global &#39;STEMTheBias&#39; Ad Campaign on Women&#39;s Day to Tackle ...** [link](https://www.passionateinmarketing.com/great-learning-launches-global-stemthebias-ad-campaign-on-womens-day-to-tackle-gender-bias-in-technology/)
+_Highlight:_ It reflects the <b>bias</b> we feed it,&#39; calling for greater representation of women in <b>AI</b> to break the cycle of <b>bias</b> and ignite essential conversations&nbsp;...
+
+- **5. Did <b>AI</b> really defend the KKK at the end of my column? Let&#39;s discuss - Los Angeles Times** [link](https://www.latimes.com/california/story/2025-03-07/la-times-insights-ai-controversy)
+_Highlight:_ In 2024, <b>artificial intelligence</b> was all about putting <b>AI</b> tools to work ... <b>Bias</b> meter,&#39; opinion upheaval and a call for growth. Dec. 15, 2024.
+
+- **6. Something for the weekend - on IWD, if women can force their way into football, why is tech ...** [link](https://diginomica.com/something-weekend-iwd-if-women-can-force-their-way-football-why-tech-such-problem)
+_Highlight:_ On the eve of International Women&#39;s Day, it&#39;s clear that women need to push their way into <b>AI</b> roles to get the best jobs and kick out <b>bias</b>.
+
+- **7. 15 Ethical Challenges of <b>AI</b> Development in 2025 - Breaking AC** [link](https://breakingac.com/news/2025/mar/07/15-ethical-challenges-of-ai-development-in-2025/)
+_Highlight:_ 1. Data Privacy and Security &middot; 2. Bias and <b>Fairness</b> &middot; 3. Accountability and Transparency &middot; 4. Job Displacement &middot; 5. Leveraging <b>AI</b> Voice Technology for&nbsp;...
+
+- **8. The Ethical Challenge of <b>AI</b>: Balancing Privacy, Regulation, and Innovation - TechBullion** [link](https://techbullion.com/the-ethical-challenge-of-ai-balancing-privacy-regulation-and-innovation/)
+_Highlight:_ ... <b>fairness</b> in <b>AI</b> systems. By providing actionable insights and fostering interdisciplinary collaboration, thought leaders contribute to the&nbsp;...
+
+- **9. The Future of <b>AI</b> in Workplace Management - Hackread** [link](https://hackread.com/the-future-of-ai-in-workplace-management/)
+_Highlight:_ Bias and <b>Fairness</b> in <b>AI</b>. <b>AI</b> algorithms are only as good as the data they are trained on, and if that data is biased, the <b>AI</b> system may produce biased&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
