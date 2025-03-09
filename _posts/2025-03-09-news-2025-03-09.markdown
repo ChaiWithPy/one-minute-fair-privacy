@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-03-09 One-Minute Post
+date: 2025-03-09 08:09:53 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Privacy concerns arise as AI companion apps gain popularity. Google warns of user data deletions and questions about privacy implications of AI-powered security. ChatGPT's anxiety raises concerns about AI bias, while efforts are made to ensure AI transparency and fairness to avoid negative impacts and biases in AI models.
+
+## Articles we found interesting:
+
+- **1. <b>Privacy</b> advocates raise concerns about <b>AI</b> companion apps - Facebook** [link](https://www.facebook.com/NBCNews/videos/privacy-advocates-raise-concerns-about-ai-companion-apps/653422167048123/)
+_Highlight:_ <b>AI</b> companion apps are growing in popularity, with people sharing their deepest secrets with them. But <b>privacy</b> advocates are sounding alarms about&nbsp;...
+
+- **2. Google Warns Of May 18 User Data Deletions—Change <b>Privacy</b> Settings Now - Forbes** [link](https://www.forbes.com/sites/daveywinder/2025/03/08/google-warns-of-may-18-user-data-deletions-change-privacy-settings-now/)
+_Highlight:_ With questions already being asked about the <b>privacy</b> implications of the new <b>AI</b>-powered security protections rolling out to Android devices&nbsp;...
+
+- **3. STEVEN WILSON On Use Of <b>A.I.</b> To Make Music: &#39;When I Create Stuff, I&#39;m Looking For ...** [link](https://blabbermouth.net/news/steven-wilson-on-use-of-a-i-to-make-music-when-i-create-stuff-im-looking-for-things-that-arent-predictable)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>A.I.</b>) to create music. Asked if he thinks this ... <b>Privacy</b> Policy. Do Not Sell My Personal Information Accept Cookies.
+
+- **4. ChatGPT gets &#39;anxiety,&#39; and researchers are teaching it mindfulness to &#39;soothe&#39; it | Fortune** [link](https://fortune.com/2025/03/09/openai-chatgpt-anxiety-mindfulness-mental-health-intervention/)
+_Highlight:_ ... <b>bias</b>, according to the study authors. The results of this research could be used to inform how <b>AI</b> can be used in mental health interventions. Even <b>AI</b>&nbsp;...
+
+- **5. Humans and <b>AI</b> can work together to enhance productivity and innovation —Ojobo Eje, data ...** [link](https://tribuneonlineng.com/humans-and-ai-can-work-together-to-enhance-productivity-and-innovation-ojobo-eje-data-scientist-ai-researcher/)
+_Highlight:_ <b>AI</b> must be transparent, fair, and secure to avoid <b>bias</b> and negative impacts. I also focus on Explainable <b>AI</b>, which means making <b>AI</b> systems more&nbsp;...
+
+- **6. UPSC Current Affairs 8 March 2025 - INSIGHTS IAS** [link](https://www.insightsonindia.com/2025/03/08/upsc-current-affairs-8-march-2025/)
+_Highlight:_ <b>Bias</b> in <b>AI</b> Models: <b>AI</b> algorithms reflect <b>biases</b> present in training data, leading to misinformation and one-sided perspectives. Decline in Cognitive&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
