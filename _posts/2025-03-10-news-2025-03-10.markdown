@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-10 One-Minute Post
+date: 2025-03-10 08:10:23 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Agentic AI poses privacy threats, while Trump revokes bias-curbing policies. Google's Responsible AI Team removes diversity and fairness mentions. Calls for ethical audits and community involvement to mitigate AI biases. 56% lack confidence in government's AI regulation ability, emphasizing the need for fairness and inclusivity policies.
+
+## Articles we found interesting:
+
+- **1. How Agentic <b>AI</b> is Reshaping the Global South: Opportunities &amp; Risks - Modern Diplomacy** [link](https://moderndiplomacy.eu/2025/03/09/how-agentic-ai-is-reshaping-the-global-south-opportunities-risks/)
+_Highlight:_ Ethical audits and community involvement in <b>AI</b> development are necessary to mitigate these biases. 2. Data <b>Privacy</b> and Cybersecurity. <b>AI&#39;s</b> reliance on&nbsp;...
+
+- **2. <b>AI</b> best practices every ChatGPT user should know - Axios** [link](https://www.axios.com/2025/03/09/ai-chatgpt-tips-best-practices)
+_Highlight:_ If you ask nicely, <b>AI</b> can act like a quick and helpful work assistant ... <b>Privacy</b> policy &middot; Terms of use; Your <b>Privacy</b> Choices. Axios Homepage.
+
+- **3. Signal President Warns the Hyped Agentic <b>AI</b> Bots Threaten User <b>Privacy</b> - Business Insider** [link](https://www.businessinsider.com/signal-president-warns-privacy-threat-agentic-ai-meredith-whittaker-2025-3)
+_Highlight:_ At SXSW, Signal President Meredith Whittaker warned about the &#39;profound&#39; security risks to user <b>privacy</b> posed by agentic <b>AI</b>.
+
+- **4. Trump Revokes Biden&#39;s <b>AI</b> Policies, Aims to Boost Innovation - TechStory** [link](https://techstory.in/trump-revokes-bidens-ai-policies-aims-to-boost-innovation/)
+_Highlight:_ One of the biggest rollbacks affects <b>AI</b> safety measures previously championed by then-Vice President Kamala Harris, which aimed to curb <b>biases</b> in <b>AI</b>-&nbsp;...
+
+- **5. Government urged to bring forward <b>AI</b> regulations which put &#39;humans at heart&#39;** [link](https://uk.news.yahoo.com/government-urged-bring-forward-ai-000100493.html)
+_Highlight:_ ... <b>bias</b> or freedom of speech”. Lord Holmes&#39;s recent report on <b>AI</b> regulation considered the impact of <b>AI</b> on eight groups of people, including voters&nbsp;...
+
+- **6. How To Get Comfortable With <b>AI</b>, Conversation With Andrew Ng - Forbes** [link](https://www.forbes.com/sites/johnwerner/2025/03/09/how-to-get-comfortable-with-ai-conversation-with-andrew-ng/)
+_Highlight:_ Smart <b>AI</b> taking over infrastructure; <b>Bias</b> and discrimination. Some of the other things that researchers found are really different flavors of these&nbsp;...
+
+- **7. Google removes &#39;diversity,&#39; &#39;equity&#39; mentions from <b>AI</b> team&#39;s mission statement - NewsBytes** [link](https://www.newsbytesapp.com/news/science/google-scrubs-mentions-of-diversity-equity-from-responsible-ai-team-webpage/story)
+_Highlight:_ ... <b>AI</b> and Human Centered Technology (RAI-HCT) team. This group is responsible for researching <b>AI</b> safety, <b>fairness</b>, and explainability. The changes&nbsp;...
+
+- **8. Google&#39;s Responsible <b>AI</b> Team webpage no longer mentions &#39;diversity&#39; or &#39;<b>fairness</b>&#39;** [link](https://gigazine.net/gsc_news/en/20250309-google-scrubs-diversity-equity-responsible-ai/)
+_Highlight:_ Since the transition to the Trump administration in the United States, companies have been gradually eliminating diversity, equity, and inclusion&nbsp;...
+
+- **9. 56% lack confidence in the government&#39;s ability to regulate <b>AI</b> - The Hill** [link](https://thehill.com/lobbying/5182668-56-lack-confidence-in-the-governments-ability-to-regulate-ai/)
+_Highlight:_ But people want to see policies that prioritize inclusivity, <b>fairness</b>, and workforce protections. ... Americans want a <b>fair</b> and balanced approach to <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
