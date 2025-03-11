@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-03-11 One-Minute Post
+date: 2025-03-11 08:15:09 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google's Gemini AI may soon access search history, raising privacy concerns. Troutman Pepper Locke adds David Navetta for privacy and AI counsel. Chinese AI tool Manus goes viral despite limitations. ChatGPT study finds AI biases influenced by real-time interactions. Nature article explores bias recognition and mitigation in AI healthcare. Cybersecurity pros must validate AI-driven insights to prevent biases and overlooked threats.
+
+## Articles we found interesting:
+
+- **1. Your Google Search History Could Soon Be Accessed By Google&#39;s Gemini <b>AI</b> - Forbes** [link](https://www.forbes.com/sites/paulmonckton/2025/03/10/googles-gemini-ai-could-soon-gain-full-access-to-your-search-history/)
+_Highlight:_ The <b>privacy</b> concerns here should be obvious: Our search histories say a lot about us, and automated tools, especially powerful <b>AI</b>-based ones,&nbsp;...
+
+- **2. Troutman Pepper Locke Adds David Navetta as <b>Privacy</b> Partner - Bloomberg Law** [link](https://news.bloomberglaw.com/us-law-week/troutman-pepper-locke-adds-david-navetta-as-privacy-partner)
+_Highlight:_ Navetta counsels clients on data protection issues, including strategic <b>privacy</b> and <b>AI</b> advice, data breach response, cybersecurity risk management&nbsp;...
+
+- **3. Manus probably isn&#39;t China&#39;s second &#39;DeepSeek moment&#39; | TechCrunch** [link](https://techcrunch.com/2025/03/09/manus-probably-isnt-chinas-second-deepseek-moment/)
+_Highlight:_ Manus, a Chinese agentic <b>AI</b> tool, has gone viral. But the tech suffers from a number of limitations and bugs.
+
+- **4. Can <b>AI</b> feel anxious? Study finds ChatGPT mirrors human stress patterns - Business Today** [link](https://www.businesstoday.in/latest/trends/story/can-ai-feel-anxious-study-finds-chatgpt-mirrors-human-stress-patterns-mindfulness-techniques-help-it-calm-down-467498-2025-03-11)
+_Highlight:_ Researchers suggested that <b>AI biases</b> are influenced not only by pre-existing tendencies but also by real-time user interactions. To test their&nbsp;...
+
+- **5. <b>Bias</b> recognition and mitigation strategies in <b>artificial intelligence</b> healthcare applications** [link](https://www.nature.com/articles/s41746-025-01503-7)
+_Highlight:_ In the context of healthcare <b>AI</b>, <b>bias</b> can be defined as any systematic and/or unfair difference in how predictions are generated for different patient&nbsp;...
+
+- **6. Cybersecurity Pros: How <b>AI</b> Is Redefining the Security Field | Dice.com Career Advice** [link](https://www.dice.com/career-advice/cybersecurity-pros-how-ai-is-redefining-the-security-field)
+_Highlight:_ Security teams must remain actively engaged in validating <b>AI</b>-driven insights to prevent false positives, overlooked threats or unintended <b>biases</b> in&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
