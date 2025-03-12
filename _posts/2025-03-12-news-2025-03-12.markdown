@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-12 One-Minute Post
+date: 2025-03-12 08:16:56 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Alibaba's Tsai discusses AI's potential to replace equity research analysts, while DeepSeek AI raises Chinese venture capital. BSP drafts regulations for ethical AI in financial institutions, addressing biases. Concerns arise over AI's bias in patient safety and government oversight. Adhera Health research reveals bias in AI models for chronic disease care, emphasizing the importance of fairness and inclusivity. The US Visa Revocation Policy highlights the need for fairness and transparency in AI governance and ethics. Boise State University introduces a brown bag series on using AI while protecting privacy, reflecting the growing importance of privacy in AI applications.
+
+## Articles we found interesting:
+
+- **1. Alibaba&#39;s Tsai discusses <b>AI&#39;s</b> potential: &#39;Equity research analysts can be completely replaced&#39; - CNBC** [link](https://www.cnbc.com/2025/03/12/alibabas-tsai-on-ai-research-analysts-can-be-completely-replaced.html)
+_Highlight:_ ... <b>AI</b> agent which claims performance superior to that of OpenAI&#39;s <b>AI</b> ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **2. Introducing the “<b>AI</b> and Boise State University Staff” brown bag series** [link](https://www.boisestate.edu/oit/2025/03/11/introducing-the-ai-and-boise-state-university-staff-brown-bag-series/)
+_Highlight:_ March 26 – What can <b>Artificial Intelligence</b> help us with at work? April 23 – Smart &amp; Secure: Using <b>AI</b> While Protecting <b>Privacy</b>; May 19 – Leveraging&nbsp;...
+
+- **3. DeepSeek <b>AI</b> cranks open the spigots on Chinese venture capital - CNBC** [link](https://www.cnbc.com/2025/03/12/deepseek-ai-cranks-open-the-spigots-on-chinese-venture-capital.html)
+_Highlight:_ This month, <b>AI</b> model company Zhipu <b>AI</b> raised the equivalent of ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **4. BSP Drawing up Regulations for Ethical <b>AI</b> in Financial Institutions** [link](https://fintechnews.ph/66208/ai/bsp-drafts-ethical-ai-regulations-for-financial-institutions/)
+_Highlight:_ BSP Senior Director Melchor Plabasan explained that the upcoming regulations will focus on managing <b>biases</b>, ensuring accuracy in <b>AI</b>-driven decision-&nbsp;...
+
+- **5. Why <b>AI</b> remains a top concern for patient safety - Chief Healthcare Executive** [link](https://www.chiefhealthcareexecutive.com/view/why-ai-remains-a-top-concern-for-patient-safety)
+_Highlight:_ Is there an intrinsic <b>bias</b> in the testing pool?” He notes that <b>AI</b> models that have been tested on healthy, young white men won&#39;t necessarily be as&nbsp;...
+
+- **6. Neural Notes: Why weak <b>AI</b> oversight in government could spell trouble for SMEs** [link](https://www.smartcompany.com.au/artificial-intelligence/neural-notes-weak-ai-oversight-government-spell-trouble-smes/)
+_Highlight:_ <b>Bias</b> in <b>AI</b> is a business risk, not just a government problem. One of the key risks flagged in the committee report is <b>AI bias</b>, particularly in&nbsp;...
+
+- **7. <b>AI</b> Governance and Ethics: Lessons from the U.S. Visa Revocation Policy** [link](https://moderndiplomacy.eu/2025/03/11/ai-governance-and-ethics-lessons-from-the-u-s-visa-revocation-policy/)
+_Highlight:_ The recent policy shift by the United States in utilizing <b>artificial intelligence</b> (<b>AI</b>) ... RAM <b>AI</b> emphasizes principles such as <b>fairness</b>, transparency&nbsp;...
+
+- **8. Adhera Health Research Reveals Bias in <b>AI</b> Models for Chronic Disease Care - CBS 4** [link](https://cbs4indy.com/business/press-releases/ein-presswire/792388479/adhera-health-research-reveals-bias-in-ai-models-for-chronic-disease-care)
+_Highlight:_ ... <b>fairness</b> and inclusivity in <b>AI</b>-driven tools. By leveraging new research and ethical <b>AI</b> principles and ensuring that predictive models are designed&nbsp;...
+
+- **9. The Dr. Jekyll and Mr. Hyde of <b>AI</b> and DEI | TechTarget** [link](https://www.techtarget.com/sustainability/feature/The-Dr-Jekyll-and-Mr-Hyde-of-AI-and-DEI)
+_Highlight:_ ... <b>fairness</b> and inclusivity. ... There are several ways that organizations are using <b>AI</b> to help support a <b>fair</b> and equitable talent acquisition process,&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
