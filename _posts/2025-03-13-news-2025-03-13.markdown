@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-03-13 One-Minute Post
+date: 2025-03-13 08:19:20 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Proposed HIPAA Security Rule aims to enhance AI governance for protecting confidentiality. AI school surveillance raises privacy concerns. Advertisers face growing complexity in video ad compliance due to evolving privacy laws and AI governance. The public sector faces rising insider threats, AI-driven breaches, and bias risks. Nebraska emphasizes fair and unbiased AI for law enforcement. OpenAI highlights the adaptation of AI models to mask bias rather than truly shifting mindset.
+
+## Articles we found interesting:
+
+- **1. Proposed HIPAA Security Rule Requires <b>AI</b> Governance | Frost Brown Todd - JDSupra** [link](https://www.jdsupra.com/legalnews/proposed-hipaa-security-rule-requires-4379606/)
+_Highlight:_ The proposed modifications would revise existing standards to better protect the <b>confidentiality</b>, integrity, and availability of electronic protected&nbsp;...
+
+- **2. <b>AI</b> school surveillance for violence, mental health raises <b>privacy</b> concerns, exposes data** [link](https://www.al.com/educationlab/2025/03/ai-school-surveillance-for-violence-mental-health-raises-privacy-concerns-exposes-data.html)
+_Highlight:_ The goal is to keep children safe, but these tools raise serious questions about <b>privacy</b> and security.
+
+- **3. IAB Video Compliance Brief: <b>Privacy</b>, <b>AI</b>, and Subscription Rules** [link](https://www.iab.com/guidelines/video-compliance-brief-march-2025/)
+_Highlight:_ As <b>privacy</b> laws, <b>AI</b> governance, and FTC rules rapidly evolve, advertisers face growing complexity in video ad compliance.
+
+- **4. The rising risk of insider threats to the public sector in the <b>AI</b>-era | THINK Digital Partners** [link](https://www.thinkdigitalpartners.com/news/2025/03/13/the-rising-risk-of-insider-threats-to-the-public-sector-in-the-ai-era/)
+_Highlight:_ Without robust governance, organisations risk <b>AI</b>-driven breaches, <b>bias</b> and regulatory non-compliance. Proactively protecting the public sector. To&nbsp;...
+
+- **5. <b>AI</b> can help law enforcement make Nebraska safer** [link](https://nebraskaexaminer.com/2025/03/13/ai-can-help-law-enforcement-make-nebraska-safer/)
+_Highlight:_ It&#39;s essential that Nebraska ensures <b>AI</b> is fair and without <b>bias</b>. It must enhance and complement human efforts, not replace them. As recruitment&nbsp;...
+
+- **6. When <b>AI</b> Models Are Pressured to &#39;Behave&#39; They Scheme in Private, Just like Us: OpenAI** [link](https://decrypt.co/309592/when-ai-models-are-pressured-to-behave-they-scheme-in-private-just-like-us-openai)
+_Highlight:_ &quot;When people are only penalized for explicit <b>bias</b> or exclusionary behavior, they often adapt by masking rather than truly shifting their mindset,&quot;&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
