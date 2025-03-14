@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-14 One-Minute Post
+date: 2025-03-14 08:18:12 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OpenAI seeks US relief from AI regulations to compete with Chinese firms. Google Cloud's Aashima Gupta advocates AI as a 'collaborator' in healthcare, aiming to address bias in healthcare data. Infosys and SUSE collaborate on an open-source Responsible AI toolkit to tackle AI bias and opacity. Meanwhile, Infosys founder Narayana Murthy emphasizes the importance of dignity and fairness in the workplace, calling for wealth sharing and fairness for employees. Lastly, the call for papers on the role of AI-human-business interaction highlights the need for improving interpretability, accountability, and fairness in AI-driven processes.
+
+## Articles we found interesting:
+
+- **1. Increasing Responsible Data Sharing Capacity throughout Government** [link](https://fas.org/publication/increasing-responsible-data-sharing-capacity-throughout-government/)
+_Highlight:_ ... <b>privacy</b> in the era of big data and <b>artificial intelligence</b>. The evolving field of <b>Privacy</b>-Enhancing Technologies (PETs), including differential&nbsp;...
+
+- **2. <b>AI</b> Can Help Educators Avoid the Mistakes of the Past or Repeat Them** [link](https://thejournal.com/Articles/2025/03/13/AI-Can-Help-Educators-Avoid-the-Mistakes-of-the-Past-or-Repeat-Them.aspx)
+_Highlight:_ <b>Privacy</b> and Security: <b>AI</b> use in education involves collecting large volumes of student data. Without strict safeguards, this data is vulnerable to&nbsp;...
+
+- **3. <b>Artificial Intelligence</b> and Anticompetitive Agreements in EU Law - WilmerHale** [link](https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20250313-artificial-intelligence-and-anticompetitive-agreements-in-eu-law)
+_Highlight:_ Related Solutions. <b>Artificial Intelligence</b> &middot; Cybersecurity and <b>Privacy</b>. Providing a strategic, multidisciplinary approach to help clients develop and&nbsp;...
+
+- **4. OpenAI asks US for relief from <b>AI</b> rules to compete with Chinese firms** [link](https://www.scmp.com/tech/policy/article/3302318/openai-asks-us-relief-ai-rules-compete-chinese-firms)
+_Highlight:_ ... <b>bias</b> in <b>AI</b> systems. Chris Lehane, OpenAI&#39;s vice-president of global affairs, said in an interview that the US <b>AI</b> Safety Institute – a key&nbsp;...
+
+- **5. Google Cloud&#39;s Aashima Gupta sees <b>AI</b> as a &#39;collaborator&#39; in healthcare** [link](https://www.chiefhealthcareexecutive.com/view/google-cloud-s-aashima-gupta-sees-ai-as-a-collaborator-in-healthcare)
+_Highlight:_ “If you think about health equity, there has been <b>bias</b> in the data for decades,” she says. “That data exists, but can <b>AI</b> be an assistive tool to help&nbsp;...
+
+- **6. SUSE &amp; Infosys join forces for innovative <b>AI</b> solution - ChannelLife Australia** [link](https://channellife.com.au/story/suse-infosys-join-forces-for-innovative-ai-solution)
+_Highlight:_ By making the Responsible <b>AI</b> toolkit open source, we are fostering a collaborative ecosystem to tackle the complex challenges of <b>AI bias</b>, opacity, and&nbsp;...
+
+- **7. industrial revolution 5.0 – role of <b>artificial intelligence</b>-human-business interaction in driving ...** [link](https://onlinelibrary.wiley.com/page/journal/19322062/call-for-papers/si-2025-000348)
+_Highlight:_ ... <b>AI</b> by improving interpretability, accountability, and <b>fairness</b> in <b>AI</b>-driven processes. <b>AI</b> in Emerging Industries: Studies focusing on emerging&nbsp;...
+
+- **8. Infosys founder Narayana Murthy calls for dignity, <b>fairness</b> in the workplace | Fortune India** [link](https://www.fortuneindia.com/business-news/companies-must-share-wealth-fairly-with-employees-infosys-founder-narayana-murthy-calls-for-dignity-fairness-in-the-workplace/121137)
+_Highlight:_ Infosys founder Narayana Murthy urges companies to share wealth fairly with employees and promote dignity and <b>fairness</b> in the workplace ... <b>AI</b>, calls it&nbsp;...
+
+- **9. Learn How Responsible <b>AI</b> Agents Are Shaping the Future - ET CIO** [link](https://cio.economictimes.indiatimes.com/news/brand-solution/learn-how-responsible-ai-agents-are-shaping-the-future/118964758)
+_Highlight:_ <b>Fairness</b> - <b>AI</b> models should be free from bias and ensure equitable outcomes. Robustness - AI systems must be resilient and secure against adversarial&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
