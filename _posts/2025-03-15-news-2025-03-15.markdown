@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-03-15 One-Minute Post
+date: 2025-03-15 08:12:49 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+DocuSign's strong earnings are attributed to their AI-enabled content, while 80% of companies plan to buy AI PCs to address privacy concerns. CrushOn.AI unveils a new NSFW AI girlfriend chat, prioritizing user privacy. UKHSA explores AI surveillance for foodborne illness outbreaks, and a directive from NIST instructs AI scientists to remove ideological bias from models. EIOPA publishes a consultation on AI governance and risk management, providing guidance on applying insurance sectoral legislation to AI systems.
+
+## Articles we found interesting:
+
+- **1. Shares of DocuSign surge 14% on strong earnings, <b>AI</b> boost - CNBC** [link](https://www.cnbc.com/2025/03/14/shares-of-docusign-surge-14percent-on-strong-earnings-ai-boost.html)
+_Highlight:_ Docusign beat on the top and bottom lines, due in part to last year&#39;s launch of its <b>AI</b>-enabled content. ... California Consumer <b>Privacy</b> Act (CCPA) Opt-&nbsp;...
+
+- **2. IDC: 80% of companies plan to buy <b>AI</b> PCs this year - Computerworld** [link](https://www.computerworld.com/article/3845965/idc-80-of-companies-plan-to-buy-ai-pcs-this-year.html)
+_Highlight:_ <b>AI</b> PCs could solve key issues organizations face when using cloud and data center <b>AI</b> instances, including cost, security, and <b>privacy</b> concerns,&nbsp;...
+
+- **3. CrushOn.<b>AI</b> Unveils NSFW <b>AI</b> Girlfriend Chat in 2025 - Morningstar** [link](https://www.morningstar.com/news/globe-newswire/9394750/crushonai-unveils-nsfw-ai-girlfriend-chat-in-2025)
+_Highlight:_ They&#39;re all about user <b>privacy</b>, ease of use, and cutting-edge tech, totally redefining what personalized <b>AI</b> interactions can be. CrushOn.<b>AI</b> NSFW <b>AI</b>&nbsp;...
+
+- **4. UKHSA Explores <b>AI</b> Surveillance of Online Reviews for Foodborne Illness Outbreak Investigations** [link](https://www.food-safety.com/articles/10226-ukhsa-explores-ai-surveillance-of-online-reviews-for-foodborne-illness-outbreak-investigations)
+_Highlight:_ In a new study, the UK Health Security Agency (UKHSA) evaluated the ability of <b>artificial intelligence</b> (<b>AI</b>) to detect foodborne illness outbreaks&nbsp;...
+
+- **5. Under Trump, <b>AI</b> Scientists Are Told to Remove &#39;Ideological <b>Bias</b>&#39; From Powerful Models** [link](https://www.wired.com/story/ai-safety-institute-new-directive-america-first/)
+_Highlight:_ A directive from the National Institute of Standards and Technology eliminates mention of “<b>AI</b> safety” and “<b>AI</b> fairness.”
+
+- **6. EIOPA Publishes Consultation on Opinion on <b>AI</b> Governance and Risk Management** [link](https://datamatters.sidley.com/2025/03/14/eiopa-publishes-consultation-on-opinion-on-ai-governance-and-risk-management/)
+_Highlight:_ The Opinion provides guidance on how to apply insurance sectoral legislation to <b>AI</b> systems that were not common or available when the <b>AI</b> Act was&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
