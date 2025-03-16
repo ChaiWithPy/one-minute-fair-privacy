@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-16 One-Minute Post
+date: 2025-03-16 08:17:43 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Baidu releases new AI model to compete with DeepSeek, while Amazon's Echo raises privacy concerns. Data scientist warns about biased datasets in AI for climate action. AI in education raises concerns about privacy and algorithmic bias. Social Security Administration implements AI fairness meter. Legal AI for access to justice and combating AI bias with trustworthy systems are being discussed.
+
+## Articles we found interesting:
+
+- **1. China&#39;s Baidu releases new <b>AI</b> model to compete with DeepSeek - France 24** [link](https://www.france24.com/en/live-news/20250316-china-s-baidu-releases-new-free-ai-model-to-compete-with-deepseek)
+_Highlight:_ Chinese internet search giant Baidu released a new <b>artificial intelligence</b> reasoning model Sunday and made its <b>AI</b> chatbot services free to&nbsp;...
+
+- **2. Amazon&#39;s Echo will send all voice recordings to the cloud, starting March 28 | TechCrunch** [link](https://techcrunch.com/2025/03/15/amazons-echo-will-send-all-voice-recordings-to-the-cloud-starting-march-28/)
+_Highlight:_ ... <b>AI</b> assistant, now known as Alexa+. Consumers and regulators have raised concerns about Alexa&#39;s <b>privacy</b> implications in the past, with Amazon&nbsp;...
+
+- **3. Gmail, Outlook, Apple Mail Warning—<b>AI</b> Attack Nightmare Is Coming True - Forbes** [link](https://www.forbes.com/sites/zakdoffman/2025/03/16/new-gmail-outlook-apple-mail-warning-this-is-how-ai-attacks/)
+_Highlight:_ Zak Doffman writes about security, surveillance and <b>privacy</b>. Follow Author. Mar 16&nbsp;...
+
+- **4. <b>AI</b> not designed to replace human skills, expertise —Eteh, data scientist - Tribune Online** [link](https://tribuneonlineng.com/ai-not-designed-to-replace-human-skills-expertise-eteh-data-scientist/)
+_Highlight:_ What risks should developing countries like Nigeria consider when using <b>AI</b> for climate action? Key risks include <b>biased</b> datasets (e.g., urban-centric&nbsp;...
+
+- **5. <b>AI</b> and Education - The Nation** [link](https://www.nation.com.pk/16-Mar-2025/ai-and-education)
+_Highlight:_ While <b>AI</b> has brought numerous benefits, it has also raised concerns about privacy and algorithmic <b>bias</b>. The same holds true for education. On one&nbsp;...
+
+- **6. Meet the Robots That Could Save Your Life One Day - How-To Geek** [link](https://www.howtogeek.com/meet-the-robots-that-could-save-your-life-one-day/)
+_Highlight:_ Challenges for rescue robots include battery life, cost, data privacy, and <b>AI bias</b>, but advances in technology will continue to improve their&nbsp;...
+
+- **7. Social Security Announces Major <b>AI</b> Rollout - Newsweek** [link](https://www.newsweek.com/social-security-announces-major-ai-rollout-2044942)
+_Highlight:_ The Social Security Administration (SSA) is implementing a nationwide <b>artificial intelligence</b> (<b>AI</b>) ... <b>fairness</b> meter. Newsweek is committed to&nbsp;...
+
+- **8. Procedure, <b>Fairness</b>, and Access to Justice: Perspectives on Reform - The Yale Law Journal** [link](https://www.yalelawjournal.org/collection/procedure-fairness-and-access-to-justice-perspectives-on-reform)
+_Highlight:_ Interoperable Legal <b>AI</b> for Access to Justice. Drew Simshaw. This Essay argues that technological and procedural legal interoperability—that is,&nbsp;...
+
+- **9. Securing <b>AI</b>: Combating Deepfakes, Misinformation, and Bias with Trustworthy Systems** [link](https://www.researchgate.net/publication/389848777_Securing_AI_Combating_Deepfakes_Misinformation_and_Bias_with_Trustworthy_Systems)
+_Highlight:_ It delves into defensive strategies, <b>AI</b> forensic tools, cryptographic <b>AI</b> verification, and <b>fairness</b>-aware machine learning techniques to combat these&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
