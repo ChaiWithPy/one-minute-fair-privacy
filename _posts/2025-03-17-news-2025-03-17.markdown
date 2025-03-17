@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-03-17 One-Minute Post
+date: 2025-03-17 08:08:53 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+DeCloak Intelligences and NTUH's Hsin-Chu Branch are set to showcase their AI privacy healthcare system at NVIDIA GTC 2025, focusing on enhancing patient safety with privacy-preserving AI. Meanwhile, ChatGPT highlights the silent AI revolution in workplaces and the concerns of AI bias, while Google unveils Gemma 3 AI models with multimodal capabilities, addressing the ongoing issues of bias and accuracy in AI-generated outputs. AI is also revolutionizing employee recognition, making it more inclusive by removing bias and basing recognition on data-driven performance.
+
+## Articles we found interesting:
+
+- **1. At NVIDIA GTC 2025, DeCloak Intelligences and NTUH&#39;s Hsin-Chu Branch will exhibit their ...** [link](https://www.fox44news.com/business/press-releases/cision/20250316HK40499/at-nvidia-gtc-2025-decloak-intelligences-and-ntuhs-hsin-chu-branch-will-exhibit-their-ai-privacy-healthcare-system)
+_Highlight:_ A featured presentation will be &quot;Enhance Patient Safety With <b>Privacy</b>-Preserving <b>AI</b>: Multimodal DNN and VLM for Event Detection in Healthcare.&quot;.
+
+- **2. At NVIDIA GTC 2025, DeCloak Intelligences and NTUH&#39;s Hsin-Chu Branch will exhibit their ...** [link](https://www.prnewswire.com/news-releases/at-nvidia-gtc-2025-decloak-intelligences-and-ntuhs-hsin-chu-branch-will-exhibit-their-ai-privacy-healthcare-system-302400925.html)
+_Highlight:_ PRNewswire/ -- DeCloak Intelligences, a subsidiary of Etron Technology (TPEx: 5351), is set to showcase its groundbreaking &#39;<b>AI</b>-aided <b>Privacy</b> Agent&nbsp;...
+
+- **3. At NVIDIA GTC 2025, DeCloak Intelligences and NTUH&#39;s Hsin-Chu Branch will exhibit their ...** [link](https://www.streetinsider.com/PRNewswire/At%2BNVIDIA%2BGTC%2B2025%252C%2BDeCloak%2BIntelligences%2Band%2BNTUHs%2BHsin-Chu%2BBranch%2Bwill%2Bexhibit%2Btheir%2BAI%2Bprivacy%2Bhealthcare%2Bsystem/24505144.html)
+_Highlight:_ ... <b>AI privacy</b> healthcare system. March 16, 2025 12:00 PM. A featured presentation will be &quot;Enhance Patient Safety With <b>Privacy</b>-Preserving <b>AI</b>&nbsp;...
+
+- **4. ChatGPT and Workplace Hypocrisy: The Silent <b>AI</b> Revolution No One Talks About** [link](https://www.prittleprattlenews.com/business/chatgpt-and-workplace-hypocrisy/)
+_Highlight:_ ... AI innovation leadershipAI integration in modern workplacesAI job displacement concernsAI productivity in businessAI technology <b>biasAI</b>&nbsp;...
+
+- **5. Elevating Employee Experience: Transforming Recognition with <b>AI</b> - People Matters** [link](https://www.peoplematters.in/article/rewards-recognition-technology/elevating-employee-experience-transforming-recognition-with-ai-44795)
+_Highlight:_ <b>AI</b> is revolutionizing employee recognition making it more inclusive ... By removing <b>bias</b> and basing recognition on data-driven performance&nbsp;...
+
+- **6. Google Unveils Gemma 3 <b>AI</b> Models with Multimodal Capabilities - Bizz Buzz** [link](https://www.bizzbuzz.news/technology/ai/google-unveils-gemma-3-ai-models-with-multimodal-capabilities-1355482)
+_Highlight:_ - <b>Bias</b> and Accuracy Issues: While improvements have been made, <b>AI</b>-generated outputs may still reflect <b>biases</b> or inaccuracies present in training data.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
