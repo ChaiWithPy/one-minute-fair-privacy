@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-18 One-Minute Post
+date: 2025-03-18 08:18:54 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+ETHDam III is back in 2025, focusing on privacy, security, and AI. DeepMind CEO predicts human-level AI in 5-10 years. Open-source AI tools offer promise in maintaining data privacy. Trump administration aims for 'America First AI' to remove bias and fairness. Tech leaders raise concerns over AI firings impacting the talent pipeline. Regulatory scrutiny on AI models strengthens, emphasizing fairness and transparency. HolmesAI introduces a one-stop service platform with core principles of permissionless, autonomous, and fairness. OpenAI and Google advocate for fair use in AI copyright battles.
+
+## Articles we found interesting:
+
+- **1. ETHDam III: Amsterdam&#39;s Leading <b>Privacy</b>, Security &amp; <b>AI</b> Event Returns in 2025** [link](https://www.einpresswire.com/article/794613264/ethdam-iii-amsterdam-s-leading-privacy-security-ai-event-returns-in-2025)
+_Highlight:_ The premier hackathon and conference for <b>privacy</b>, security, and <b>AI</b> builders is back May 9-11, 2025 in Amsterdam.
+
+- **2. Human-level <b>AI</b> will be here in 5 to 10 years, DeepMind CEO says - CNBC** [link](https://www.cnbc.com/2025/03/17/human-level-ai-will-be-here-in-5-to-10-years-deepmind-ceo-says.html)
+_Highlight:_ <b>AI</b> that can match humans at any task will be here in five to 10 ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **3. Open-Source <b>AI</b> Tools Show Promise in Comparative Study | Healthcare Innovation** [link](https://www.hcinnovationgroup.com/analytics-ai/generative-ai/news/55275181/open-source-ai-tools-show-promise-in-comparative-study)
+_Highlight:_ Institutions may be able to deploy custom <b>AI</b> models that run locally without sacrificing data <b>privacy</b> or flexibility, researchers say.
+
+- **4. Trump Wants &#39;America First <b>AI</b>&#39; In A Bid To Remove <b>AI</b> Safety, Responsibility &amp; Fairness** [link](https://www.bandt.com.au/trump-wants-america-first-ai-in-a-bid-to-remove-ai-safety-responsibility-fairness/)
+_Highlight:_ The Trump administration wants to remove &#39;ideological <b>bias</b>&#39; and fairness in the development of <b>AI</b> technology at a critical juncture. The National&nbsp;...
+
+- **5. Tech leaders sound alarm over DOGE&#39;s <b>AI</b> firings, impact on American talent pipeline** [link](https://www.zdnet.com/article/tech-leaders-sound-alarm-over-doges-ai-firings-impact-on-american-talent-pipeline/)
+_Highlight:_ ... <b>AI</b> policies that focused on reducing <b>AI bias</b>, discrimination, and other harms. Specifically, the order called for <b>AI</b> systems that are &quot;free from&nbsp;...
+
+- **6. Anthropomorphisation of <b>AI</b>: Why Can&#39;t We Stop Believing <b>AI</b> Will End the World? - Sify** [link](https://www.sify.com/ai-analytics/anthropomorphisation-of-ai-why-cant-we-stop-believing-ai-will-end-the-world/)
+_Highlight:_ <b>Bias</b> in <b>AI</b> doesn&#39;t come from some inherent flaw in the machine; it reflects the <b>biases</b> in the data on which it was trained, the people who created it,&nbsp;...
+
+- **7. <b>Artificial Intelligence</b> Model Risk Management Strategic Analysis Report 2025 - GlobeNewswire** [link](https://www.globenewswire.com/news-release/2025/03/17/3043469/28124/en/Artificial-Intelligence-Model-Risk-Management-Strategic-Analysis-Report-2025-Global-Market-to-More-than-Double-to-13-6-Billion-by-2030-Regulatory-Scrutiny-on-AI-Models-Strengthens-.html)
+_Highlight:_ Regulatory and ethical considerations are also central to the market&#39;s growth. The increasing focus on ensuring <b>AI fairness</b>, transparency, and&nbsp;...
+
+- **8. HolmesAI: Opening a new paradigm of <b>AI</b> one-stop service platform - PANews** [link](https://www.panewslab.com/en/articledetails/ivsh7boo.html)
+_Highlight:_ With &quot;Permissionless, Autonomous, <b>Fairness</b>&quot; as its core principles, HolmesAI is committed to building a truly open, <b>fair</b>, and transparent&nbsp;...
+
+- **9. The <b>AI</b> Copyright Battle: Why OpenAI And Google Are Pushing For <b>Fair</b> Use - Forbes** [link](https://www.forbes.com/sites/virginieberger/2025/03/15/the-ai-copyright-battle-why-openai-and-google-are-pushing-for-fair-use/)
+_Highlight:_ <b>Artificial intelligence</b> powerhouses OpenAI and Google are aggressively lobbying the U.S. government to classify <b>AI</b> training on copyrighted data as&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
