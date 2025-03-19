@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-19 One-Minute Post
+date: 2025-03-19 08:06:19 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Baidu releases new open-source AI models, Amazon removes Echo privacy setting, and Google agrees to pay $28m in racial bias lawsuit. Bundesbank enlists AI to prove ECB's dovish bias, pre-law students demand AI transparency in admissions, and new guidelines aim to build trusted AI in healthcare research. Additionally, ethical AI in marketing analytics is being emphasized, with nearly half of North Americans predicting AI will be less biased than humans in the future.
+
+## Articles we found interesting:
+
+- **1. Baidu shares jump 10% following release of new free-to-use <b>AI</b> models - CNBC** [link](https://www.cnbc.com/2025/03/18/baidu-shares-jump-10percent-following-release-of-new-open-source-ai-models-.html)
+_Highlight:_ Chinese <b>AI</b> start-up DeepSeek upended the <b>AI</b> industry in January when ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **2. Amazon is removing an Echo <b>privacy</b> setting that keeps Alexa recordings from the company** [link](https://www.usatoday.com/story/tech/2025/03/17/amazon-echo-alexa-reporting-privacy/82503576007/)
+_Highlight:_ &quot;We&#39;re focusing on the <b>privacy</b> tools and controls that our customers use most and work well with generative <b>AI</b> experiences that rely on the processing&nbsp;...
+
+- **3. Amazon kills off on-device Alexa processing for Echo owners - The Register** [link](https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/)
+_Highlight:_ Web souk says Echo hardware doesn&#39;t have the oomph for next-gen <b>AI</b> anyway ... <b>Privacy</b>-conscious users who enabled the &quot;Do Not Send Voice&nbsp;...
+
+- **4. Google agrees to pay $28m in racial <b>bias</b> lawsuit - BBC** [link](https://www.bbc.com/news/articles/c39v2ykwgdno)
+_Highlight:_ <b>Artificial Intelligence</b> &middot; <b>AI</b> v the Mind &middot; Culture &middot; Film &amp; TV &middot; Music &middot; Art &amp; Design &middot; Style &middot; Books &middot; Entertainment News &middot; Arts &middot; Arts in Motion.
+
+- **5. Bundesbank enlists <b>AI</b> to prove ECB&#39;s dovish <b>bias</b> - Financial Times** [link](https://www.ft.com/content/bd9392a2-f7a9-4fa8-bf8d-175a48e3c6fc)
+_Highlight:_ Germany&#39;s central bank compares Eurozone bank policies and rhetoric in study powered by <b>artificial intelligence</b>.
+
+- **6. Pre-Law Students Demand <b>AI</b> Clarity in Admissions | EdTech News | ETIH** [link](https://www.edtechinnovationhub.com/news/pre-law-students-push-for-ai-transparency-as-law-schools-lag-behind-on-genai-policies)
+_Highlight:_ Concerns Over fairness and <b>AI bias</b>. The potential for <b>bias</b> in <b>AI</b>-assisted admissions is a key issue for many students. 80% of respondents worry that&nbsp;...
+
+- **7. New guidelines to build trusted <b>AI</b> in healthcare research - News-Medical** [link](https://www.news-medical.net/news/20250318/New-guidelines-to-build-trusted-AI-in-healthcare-research.aspx)
+_Highlight:_ <b>Fairness</b>: <b>AI</b> should treat all patients equitably and without bias. Universality: AI solutions should be applicable across different healthcare&nbsp;...
+
+- **8. Ethical <b>AI</b> in Marketing Analytics: Balancing Innovation and Responsibility - TechBullion** [link](https://techbullion.com/ethical-ai-in-marketing-analytics-balancing-innovation-and-responsibility/)
+_Highlight:_ Businesses are adopting <b>fairness</b>-aware <b>AI</b> models that incorporate diverse training datasets and real-time bias detection. Implementing inclusive&nbsp;...
+
+- **9. Nearly Half of North Americans Predict <b>AI</b> Will Be Less Biased Than Humans in the Future ...** [link](https://www.silicon.co.uk/press-release/nearly-half-of-north-americans-predict-ai-will-be-less-biased-than-humans-in-the-future-new-survey-reveals)
+_Highlight:_ “This data shows that while many believe <b>AI</b> can improve <b>fairness</b>, there&#39;s still work to do in building trust.” <b>AI</b> is Here to Help Humans, Not Replace&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
