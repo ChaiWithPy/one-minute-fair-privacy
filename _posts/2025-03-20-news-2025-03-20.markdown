@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-20 One-Minute Post
+date: 2025-03-20 08:10:38 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI technologies are transforming sectors, raising concerns about data privacy. Hospitals are prioritizing AI in the C-Suite to mitigate biases in AI systems affecting patient care. Algorithmic bias in AI systems can perpetuate biases in training data, leading to discriminatory outcomes. Meanwhile, there are growing concerns about the fairness of AI in auto insurance rates. Amidst these challenges, new AI-powered solutions like Adjusto aim to ensure fairness and trust in claims experience. As the AI race intensifies, there is a call to give America the energy to win while ensuring a fair competition.
+
+## Articles we found interesting:
+
+- **1. Data <b>Privacy</b> in the Age of Generative <b>AI</b>: Legal and Ethical Implications for Indian Corporations** [link](https://www.jdsupra.com/legalnews/data-privacy-in-the-age-of-generative-5666855/)
+_Highlight:_ The rapid advancement of generative <b>artificial intelligence</b> (<b>AI</b>) technologies has transformed various sectors, including healthcare, finance, and.
+
+- **2. The Future of <b>AI</b> Compliance—Preparing for New Global and State Laws - Smith Anderson** [link](https://www.smithlaw.com/newsroom/publications/the-future-of-ai-compliance-preparing-for-new-global-and-state-laws)
+_Highlight:_ By continuing to browse Smith Anderson&#39;s website, you are accepting our use of cookies in accordance with our <b>privacy</b> policy. Accept and Close.
+
+- **3. <b>AI</b> Scribing in Telehealth: Ensuring Patient Data is Private and Secure** [link](https://telehealth.org/blog/ai-scribing-in-telehealth-ensuring-patient-data-is-private-and-secure/)
+_Highlight:_ However, integrating <b>AI</b> documentation into telehealth encounters raises critical concerns about patient data <b>privacy</b> and security – for both patients&nbsp;...
+
+- **4. NAIC Use of <b>Artificial Intelligence</b>: Governance | Forvis Mazars** [link](https://www.forvismazars.us/forsights/2025/03/naic-use-of-artificial-intelligence-governance)
+_Highlight:_ Algorithmic <b>Bias</b>: <b>AI</b> systems can perpetuate biases in training data, leading to discriminatory outcomes. Accountability Gaps: The distributed&nbsp;...
+
+- **5. Prioritizing <b>AI</b> in the C-Suite: Why Every Hospital Needs a CAIO - MedCity News** [link](https://medcitynews.com/2025/03/prioritizing-ai-in-the-c-suite-why-every-hospital-needs-a-caio/)
+_Highlight:_ They work to identify and mitigate potential <b>biases</b> in <b>AI</b> systems that could affect patient care. Driving digital transformation. Successful <b>AI</b>&nbsp;...
+
+- **6. We All Have <b>Bias</b> – Myself Included - CRN** [link](https://www.crn.com/columns/running-your-business/2025/we-all-have-bias-myself-included)
+_Highlight:_ ... <b>bias</b>, discrimination, or job insecurity. Research shows that 63 percent ... Sci-Fi Versus Reality: The <b>AI</b> We Were Promised Versus The <b>AI</b> We Got&nbsp;...
+
+- **7. Give America the energy to win the <b>AI</b> race with China - Washington Examiner** [link](https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/3351704/give-america-energy-to-win-ai-race-china/)
+_Highlight:_ Indeed, it left many scratching their heads and wondering: Do we need to rethink our approach to beating China in the <b>AI</b> race? It&#39;s a <b>fair</b> question.
+
+- **8. Amidst Wildfires and Homeowner Catastrophes Adjusto Arrives Aiming for Speed, <b>Fairness</b> ...** [link](https://www.abc27.com/business/press-releases/ein-presswire/794887841/amidst-wildfires-and-homeowner-catastrophes-adjusto-arrives-aiming-for-speed-fairness-and-trust-in-claims-experience)
+_Highlight:_ The first <b>AI</b>-powered contents claims solution, Adjusto helps adjusters, insurers, and claimants move claims forward—faster, fairer, and with full&nbsp;...
+
+- **9. Might <b>AI</b> make auto insurance rates less <b>fair</b>? - InsuranceNewsNet** [link](https://insurancenewsnet.com/oarticle/might-ai-make-auto-insurance-rates-less-fair)
+_Highlight:_ Will <b>AI</b> tools improve <b>fairness</b> or make inequity even harder to detect? The post Might <b>AI</b> make auto insurance rates less <b>fair</b>? appeared first on&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
