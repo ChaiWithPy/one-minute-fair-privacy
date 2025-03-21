@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-03-21 One-Minute Post
+date: 2025-03-21 08:06:59 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Lexington-Richland Five introduces AI Magic School for classrooms, focusing on privacy. ChatGPT faces privacy complaint over defamatory hallucinations. Trilateral Research works to remove AI bias in skin cancer detection. Ethical concerns regarding patient consent, data privacy, and bias in AI models are ongoing challenges in medical imaging. Generative AI is redefining retail banking in APAC, emphasizing trustworthy and fair AI.
+
+## Articles we found interesting:
+
+- **1. Lexington-Richland Five unveils <b>AI</b> Magic School for classrooms - WLTX** [link](https://www.wltx.com/article/news/local/lexington-richland-five-school-district-ai-magic-school/101-8f2298aa-8a7b-4897-a1e0-7a6617efdf8c)
+_Highlight:_ I put that list in Magic School <b>AI</b> and said, &#39;Create a 4-point argument for fifth graders. ... <b>Privacy</b> Policy &middot; Ad Choices &middot; EEO Public File Report&nbsp;...
+
+- **2. ChatGPT hit with <b>privacy</b> complaint over defamatory hallucinations - TechCrunch** [link](https://techcrunch.com/2025/03/19/chatgpt-hit-with-privacy-complaint-over-defamatory-hallucinations/)
+_Highlight:_ OpenAI is facing another <b>privacy</b> complaint in Europe over its viral <b>AI</b> chatbot&#39;s tendency to hallucinate false information -- and this one might&nbsp;...
+
+- **3. Beyond ID: future-proof advertising in a <b>privacy</b>-first world - Raconteur** [link](https://www.raconteur.net/technology/beyond-id-future-proof-advertising-in-a-privacy-first-world)
+_Highlight:_ Contextual meanwhile, with the help of <b>AI</b>, is evolving into intent targeting, incorporating a range of data signals - everything from estimated search&nbsp;...
+
+- **4. Trilateral Research Works to Remove <b>AI Bias</b> in Skin Cancer Detection - BusinessMole** [link](https://www.businessmole.com/trilateral-research-works-to-remove-ai-bias-in-skin-cancer-detection/)
+_Highlight:_ A significant challenge in <b>AI</b>-driven skin cancer detection is <b>bias</b>, as many existing models rely on narrow datasets that do not adequately represent&nbsp;...
+
+- **5. Addressing Challenges in <b>AI</b>-Driven Medical Imaging - Healthcare Tech Outlook** [link](https://www.healthcaretechoutlook.com/news/addressing-challenges-in-aidriven-medical-imaging--nid-4494.html)
+_Highlight:_ Ethical concerns regarding patient consent, data privacy, and <b>bias</b> in <b>AI</b> models are ongoing challenges. <b>AI</b> developers must work closely with&nbsp;...
+
+- **6. How generative <b>AI</b> is redefining retail banking in APAC | Frontier Enterprise** [link](https://www.frontier-enterprise.com/how-generative-ai-is-redefining-retail-banking-in-apac/)
+_Highlight:_ Trustworthy <b>AI</b> is crucial for sustainable adoption. Issues related to <b>bias</b>, fairness, and regulatory compliance continue to dominate industry&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
