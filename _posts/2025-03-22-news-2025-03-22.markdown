@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-22 One-Minute Post
+date: 2025-03-22 08:06:49 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Duck.ai offers privacy-focused AI chatbot, while Senate Commerce Committee questions tech nominees on AI privacy. Large AI models supercharge machine surveillance, raising concerns for privacy. AI coding assistants pose risks of bias from training data. Efforts to build a racially just society with AI are underway. First decision finds copyright infringement in generative AI, highlighting fairness concerns. New study addresses bias in healthcare AI, emphasizing fairness and equity. The necessity of regulating AI systems in a fair, transparent, and responsible manner is emphasized for ethical machine learning.
+
+## Articles we found interesting:
+
+- **1. What is Duck.<b>ai</b>? Everything we know about DuckDuckGo&#39;s <b>privacy</b>-focused <b>AI</b> chatbot** [link](https://www.techradar.com/pro/what-is-duck-ai-everything-we-know-about-duckduckgos-privacy-focused-ai-chatbot)
+_Highlight:_ Unlike other <b>AI</b> chat platforms, Duck.<b>ai</b> does not track, log, or store conversations, making it an ideal choice for <b>privacy</b>-conscious users, who are&nbsp;...
+
+- **2. Senate Commerce Committee Questions Trump Tech Nominees - Inside Global Tech** [link](https://www.insideglobaltech.com/2025/03/21/senate-commerce-committee-questions-trump-tech-nominees/)
+_Highlight:_ Posted in Artificial Intelligence (AI), FTC, Technology ... Conor Kane advises clients on a broad range of <b>privacy</b>, <b>artificial intelligence</b>,&nbsp;...
+
+- **3. Machine Surveillance is Being Super-Charged by Large <b>AI</b> Models | ACLU** [link](https://www.aclu.org/news/privacy-technology/machine-surveillance-is-being-super-charged-by-large-ai-models)
+_Highlight:_ Limits and guardrails are vital to protect our <b>privacy</b> and liberty — as well as our sanity — against omnipresent <b>AI</b> surveillance.
+
+- **4. <b>AI</b> Coding Assistants: 17 Risks (And How To Mitigate Them) - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2025/03/21/ai-coding-assistants-17-risks-and-how-to-mitigate-them/)
+_Highlight:_ <b>Bias</b> From Training Data Or Past Patterns. <b>AI</b>-generated code may introduce ... <b>AI</b> recommendations for <b>biases</b> and security gaps. - Matthew Jones&nbsp;...
+
+- **5. Could <b>AI</b> help us build a more racially just society? | Sanmi Koyejo - The Guardian** [link](https://www.theguardian.com/commentisfree/ng-interactive/2025/mar/21/ai-racial-justice-society-technology)
+_Highlight:_ ... <b>bias</b> in <b>AI</b> systems than confront human <b>bias</b> directly. Consider healthcare: many clinicians acknowledge that systemic <b>biases</b> disproportionately&nbsp;...
+
+- **6. Column: <b>AI</b>… Not that Smart - Columbia Community Connection** [link](https://columbiacommunityconnection.com/the-dalles/column-ai-not-that-smart)
+_Highlight:_ ... <b>bias</b> introduced in programming. Even <b>AI</b> ... Studies have been privately done on these predictive <b>AI</b> models ostensibly looking for <b>biases</b>&nbsp;...
+
+- **7. First Decision Finding Copyright Infringement in Generative <b>AI</b> | Knowledge - Fasken** [link](https://www.fasken.com/en/knowledge/2025/03/first-decision-finding-copyright-infringement-in-generative-ai)
+_Highlight:_ In evaluating Ross&#39; <b>fair</b> use defense, the Court considered the four statutory factors under American copyright law and found that upon weighing these&nbsp;...
+
+- **8. New Study Tackles Bias in Healthcare <b>AI</b> - AZoRobotics** [link](https://www.azorobotics.com/News.aspx%3FnewsID%3D15813)
+_Highlight:_ The authors emphasize <b>fairness</b>, equity, and explainability, providing a roadmap to reduce disparities and support more ethical <b>AI</b> implementation in&nbsp;...
+
+- **9. Ethical aspects in machine learning: an agnostic approach - ResearchGate** [link](https://www.researchgate.net/publication/389948269_Ethical_aspects_in_machine_learning_an_agnostic_approach)
+_Highlight:_ The essay emphasizes the necessity of regulating <b>AI</b> systems in a <b>fair</b>, transparent, and responsible manner, ... [Show full abstract] especially in&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
