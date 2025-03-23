@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-03-23 One-Minute Post
+date: 2025-03-23 08:07:26 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Clearview AI attempts to buy 390 million faces, while new Airbyte connectors support AI and data privacy. Meta has revenue sharing agreements with AI model hosts. The ethics of AI and moral responsibility, bias and discrimination in AI systems, and privacy and mass surveillance are being discussed. Sea AI Lab introduces Dr. GRPO, a bias-free reinforcement learning method. Additionally, Wikipedia is criticized for being biased, lopsided, and partisan.
+
+## Articles we found interesting:
+
+- **1. 390 Million Faces: Clearview <b>AI&#39;s</b> Secret $750,000 Attempt To Buy Your Mugshot - Forbes** [link](https://www.forbes.com/sites/larsdaniel/2025/03/22/390-million-faces-clearview-ais-secret-750000-attempt-to-buy-your-mugshot/)
+_Highlight:_ Facial Recognition: <b>Privacy</b> Implications and Algorithmic Bias &middot; Clearview <b>AI</b>: Regulatory Challenges &middot; Facial Recognition: Industry Context &middot; Join The&nbsp;...
+
+- **2. New Airbyte connectors support <b>AI</b> and data <b>privacy</b> | Digital Watch Observatory** [link](https://dig.watch/updates/new-airbyte-connectors-support-ai-and-data-privacy)
+_Highlight:_ New Airbyte connectors support <b>AI</b> and data <b>privacy</b>. In a market where protecting corporate data has become just as important as leveraging it,&nbsp;...
+
+- **3. Meta has revenue sharing agreements with Llama <b>AI</b> model hosts, filing reveals** [link](https://techcrunch.com/2025/03/21/meta-has-revenue-sharing-agreements-with-llama-ai-model-hosts-filing-reveals/)
+_Highlight:_ The apps Instagram, Facebook and WhatsApp can be seen on the display of a smartphone. <b>Privacy</b> &middot; DeepSeek app icon on mobile phone. <b>AI</b> &middot; The Meta <b>AI</b> app&nbsp;...
+
+- **4. The ethics of <b>Artificial Intelligence</b>: challenges and perspectives for a responsible future** [link](https://en.cryptonomist.ch/2025/03/23/the-ethics-of-artificial-intelligence-challenges-and-perspectives-for-a-responsible-future/)
+_Highlight:_ <b>Artificial Intelligence</b> (<b>AI</b>) and moral responsibility; <b>Bias</b> and discrimination in <b>AI</b> systems; Privacy and mass surveillance; Automation and the&nbsp;...
+
+- **5. Sea <b>AI</b> Lab Researchers Introduce Dr. GRPO: A <b>Bias</b>-Free Reinforcement Learning Method ...** [link](https://www.marktechpost.com/2025/03/22/sea-ai-lab-researchers-introduce-dr-grpo-a-bias-free-reinforcement-learning-method-that-enhances-math-reasoning-accuracy-in-large-language-models-without-inflating-responses/)
+_Highlight:_ Sea <b>AI</b> Lab Researchers Introduce Dr. GRPO: A <b>Bias</b>-Free Reinforcement Learning Method that Enhances Math Reasoning Accuracy in Large Language&nbsp;...
+
+- **6. Deconstructing Wikipedia: It&#39;s <b>biased</b>, lopsided and partisan - The Sunday Guardian Live** [link](https://sundayguardianlive.com/investigation/deconstructing-wikipedia-its-biased-lopsided-and-partisan)
+_Highlight:_ NEW DELHI: <b>Artificial Intelligence</b> (<b>AI</b>) is rapidly... Islam: Lailatal ... * Administrative <b>Bias</b> and Confirmation <b>Bias</b>: Research by Levush&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
