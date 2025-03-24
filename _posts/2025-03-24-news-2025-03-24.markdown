@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-24 One-Minute Post
+date: 2025-03-24 08:03:17 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Amazon smart speakers disable a privacy setting for local voice storage. Alibaba's Ant uses Chinese and U.S. chips to cut AI costs. Malaysia employs AI to combat crime, while OpenAI's Sora video generator is criticized for biases. Enterprise AI emphasizes fairness, transparency, and accountability. A study highlights ethical concerns in healthcare AI algorithms. Trump and the United Nations focus on policy fairness.
+
+## Articles we found interesting:
+
+- **1. Amazon smart speakers disable a <b>privacy</b> setting that allowed local storage of voice recordings : NPR** [link](https://www.npr.org/2025/03/23/nx-s1-5333729/amazon-smart-speakers-disable-a-privacy-setting-that-allowed-local-storage-of-voice-recordings)
+_Highlight:_ Because it&#39;s generative <b>AI</b>-powered, that really needs the extra processing power of the cloud. So whilst they haven&#39;t specifically said, this is why&nbsp;...
+
+- **2. 2024 State AGs Year in Review | Morrison Foerster** [link](https://www.mofo.com/resources/insights/250324-state-ags-year-in-review)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) and <b>privacy</b> and social media protections. State AGs have long been active on areas traditionally occupied by the&nbsp;...
+
+- **3. Alibaba-affiliate Ant uses Chinese, U.S. chips to cut <b>AI</b> costs - CNBC** [link](https://www.cnbc.com/2025/03/24/alibaba-affiliate-ant-uses-china-us-chips-to-cut-ai-costs.html)
+_Highlight:_ Get this delivered to your inbox, and more info about our products and services. Advertise With Us. Please Contact Us &middot; <b>Privacy</b> Policy; California&nbsp;...
+
+- **4. Malaysia to byte crime with <b>AI</b> | The Star** [link](https://www.thestar.com.my/news/nation/2025/03/24/malaysia-to-byte-crime-with-ai)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) in investigating commercial crimes ... How <b>artificial intelligence</b> can mimic our emotions, increasing the risk of <b>bias</b>.
+
+- **5. How Enterprise <b>AI</b> is Forging the Future of Intelligent Business - Finextra Research** [link](https://www.finextra.com/blogposting/28122/how-enterprise-ai-is-forging-the-future-of-intelligent-business)
+_Highlight:_ <b>Bias</b>, transparency, and accountability are not side concerns—they&#39;re central to enterprise adoption. The best <b>AI</b> partners bring responsible <b>AI</b>&nbsp;...
+
+- **6. OpenAI&#39;s Sora Is Plagued by Sexist, Racist, and Ableist <b>Biases</b> | WIRED** [link](https://www.wired.com/story/openai-sora-video-generator-bias/)
+_Highlight:_ <b>AI</b> researcher Reva Schwartz says <b>AI bias</b> is a “wicked problem” because it cannot be solved by solely technical means. Most of the developers of <b>AI</b>&nbsp;...
+
+- **7. Towards <b>fairness</b>-aware and privacy-preserving enhanced collaborative learning for healthcare** [link](https://www.nature.com/articles/s41467-025-58055-3)
+_Highlight:_ The widespread integration of <b>AI</b> algorithms in healthcare has sparked ethical concerns, particularly regarding privacy and <b>fairness</b>.
+
+- **8. News Analysis: Trump consistently frames policy around &#39;<b>fairness</b>,&#39; trading on American frustration** [link](https://www.latimes.com/politics/story/2025-03-23/trump-frames-policy-around-fairness)
+_Highlight:_ • <b>AI</b> &amp; Tech &middot; • Banking &amp; Finance &middot; • Commercial Real Estate &middot; • Goods &amp; Retail &middot; • Healthcare &amp; Science &middot; • Law &middot; • Orange County &middot; Hot Property&nbsp;...
+
+- **9. United Nations report questions <b>fairness</b> of New Zealand&#39;s GST - 1News** [link](https://www.1news.co.nz/2025/03/23/united-nations-report-questions-fairness-of-new-zealands-gst/)
+_Highlight:_ ... <b>fairness</b> of GST, should prompt scrutiny of New Zealand&#39;s tax ... <b>AI</b> tools to cut down on mundane tasks. 0 min ago. Southland Federated&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
