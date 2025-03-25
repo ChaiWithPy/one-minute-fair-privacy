@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-25 One-Minute Post
+date: 2025-03-25 07:58:25 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Japan is set to adopt AI-friendly legislation, while Google is addressing privacy concerns with a Gmail upgrade. Virginia's governor vetoed a bill to curb potential AI biases, and a study found humans are more biased than AI in compensation decisions. AI is being used to bridge educational gaps, but concerns about bias persist. Employees prefer AI over humans for unbiased performance management. AI is transforming healthcare, with ongoing ethical concerns about privacy and fairness. Professor Toby Walsh emphasizes the need for AI regulation to ensure fairness in algorithms.
+
+## Articles we found interesting:
+
+- **1. Japan Plans to Adopt <b>AI</b>-Friendly Legislation - Inside Privacy** [link](https://www.insideprivacy.com/international/japans-plans-to-adopt-ai-friendly-legislation/)
+_Highlight:_ ... <b>Artificial Intelligence</b>-Related Technologies” (“<b>AI</b> Bill”) to Parliament. If enacted, it would become Japan&#39;s first comprehensive law on <b>AI</b>. The <b>AI</b>&nbsp;...
+
+- **2. IAPP <b>AI</b> Governance Global Europe 2025 | Data Matters <b>Privacy</b> Blog** [link](https://datamatters.sidley.com/event/iapp-ai-governance-global-europe-2025/)
+_Highlight:_ As <b>AI</b> becomes a growing part of our professional and personal environment, the need for education is becoming more urgent. <b>AI</b> literacy is not just&nbsp;...
+
+- **3. Google Confirms Gmail Upgrade—3 Billion Users Must Now Decide - Forbes** [link](https://www.forbes.com/sites/zakdoffman/2025/03/24/google-confirms-gmail-upgrade-3-billion-users-must-now-decide/)
+_Highlight:_ ... <b>privacy</b> and data integrity risks of <b>artificial intelligence</b> (<b>AI</b>), which is slowing adoption of the technology.” These researchers also warn that&nbsp;...
+
+- **4. Virginia Gov. Youngkin Vetoes Bill to Curb Potential <b>AI</b> Abuses - Bloomberg Government** [link](https://news.bgov.com/bloomberg-government-news/virginia-gov-youngkin-vetoes-bill-to-curb-potential-ai-abuses)
+_Highlight:_ Virginia Gov. Youngkin Vetoes Bill to Curb Potential <b>AI</b> Abuses. Zach Williams. Businesses faced requirements to monitor <b>AI</b> system for <b>bias</b>&nbsp;...
+
+- **5. News: Who&#39;s more <b>biased</b> in compensation decisions—Humans or <b>AI</b>? - People Matters** [link](https://www.peoplematters.in/news/business/whos-more-biased-in-compensation-decisionshumans-or-ai-44904)
+_Highlight:_ The research found that humans are more <b>biased</b> than <b>AI</b> when making compensation-related decisions.
+
+- **6. Enable <b>AI</b> to bridge educational gaps - Daily Monitor** [link](https://www.monitor.co.ug/uganda/oped/letters/enable-ai-to-bridge-educational-gaps-4977990)
+_Highlight:_ Beyond infrastructure, AI risks <b>bias</b>. <b>AI</b> systems are trained on large datasets, but if these datasets lack diversity, the resulting algorithms can&nbsp;...
+
+- **7. For unbiased performance management, employees prefer &#39;bots over bosses&#39; - HRM Asia** [link](https://hrmasia.com/for-unbiased-performance-management-employees-prefer-bots-over-bosses/)
+_Highlight:_ A 2022 report from Münster University of Applied Sciences compared <b>fairness</b> perceptions between human and <b>AI</b> decision-making tools and highlighted&nbsp;...
+
+- **8. How <b>AI</b> Is Transforming Healthcare: Shaping the Future of Diagnosis and Treatment** [link](https://timestech.in/how-ai-is-transforming-healthcare-shaping-the-future-of-diagnosis-and-treatment/)
+_Highlight:_ <b>AI</b> is reshaping healthcare by improving diagnostics, treatment, and patient care. While ethical concerns about privacy and <b>fairness</b> persist, <b>AI</b> is set&nbsp;...
+
+- **9. [5th Anniversary Special] <b>AI</b> Expert Professor Toby Walsh: “Foolish <b>AI</b> Matters More Than Smart <b>AI</b>”** [link](https://www.newstheai.com/news/articleView.html%3Fidxno%3D7490)
+_Highlight:_ ... <b>fairness</b> in algorithms. “I have long argued for the necessity of <b>AI</b> regulation, not because I fear <b>AI</b> will take over the world,” he said, “but&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
