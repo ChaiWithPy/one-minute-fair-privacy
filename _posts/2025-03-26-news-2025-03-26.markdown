@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-26 One-Minute Post
+date: 2025-03-26 07:59:38 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Microsoft integrates AI-powered deep research tools into Copilot, raising concerns about privacy implications. 23andMe's genetic data bankruptcy sale raises privacy fears for AI firms. Virginia governor vetoes comprehensive AI consumer protections, highlighting bias concerns. ADL warns of anti-Israel and antisemitic biases in major AI language models. Ethical concerns persist as AI revolutionizes diagnostics, and trust in AI hiring decisions is questioned due to fairness and bias issues. WOCNCB selects PSI for AI-powered test prep, emphasizing the importance of fairness in certification.
+
+## Articles we found interesting:
+
+- **1. Microsoft adds <b>AI</b>-powered deep research tools to Copilot - TechCrunch** [link](https://techcrunch.com/2025/03/25/microsoft-adds-ai-powered-deep-research-tools-to-copilot/)
+_Highlight:_ No newsletters selected. Subscribe. By submitting your email, you agree to our Terms and <b>Privacy</b> Notice. Related. ChatGPT logo. <b>AI</b> &middot; ChatGPT&#39;s image&nbsp;...
+
+- **2. <b>Privacy</b> &amp; <b>AI</b> Training: Can the EU Keep Up? - CCIA** [link](https://ccianet.org/articles/privacy-and-ai-training-can-the-eu-keep-up/)
+_Highlight:_ As <b>artificial intelligence</b> (<b>AI</b>) advances, so do the challenges of balancing innovation with <b>privacy</b> protection. From <b>AI</b> hallucinations to the need&nbsp;...
+
+- **3. Why 23andMe&#39;s Genetic Data Could Be a Gold Mine for <b>AI</b> Firms | TIME** [link](https://time.com/7271463/23andme-data-ai-bankruptcy/)
+_Highlight:_ 23andMe&#39;s genetic data may be for sale after bankruptcy. <b>AI</b> firms may want in—but <b>privacy</b> fears could make it a toxic asset.
+
+- **4. Virginia governor vetoes comprehensive <b>AI</b> consumer protections - Stateline.org** [link](https://stateline.org/2025/03/25/virginia-governor-vetoes-comprehensive-ai-consumer-protections/)
+_Highlight:_ Virginia Republican Gov. Glenn Youngkin vetoed legislation Monday that would have required developers and companies using “high-risk” <b>artificial</b>&nbsp;...
+
+- **5. <b>AI</b> Language Models Promote Antisemitism and Anti-Israel <b>Bias</b>, ADL Warns** [link](https://www.algemeiner.com/2025/03/25/ai-language-models-promote-antisemitism-anti-israel-bias-adl-warns/)
+_Highlight:_ Major large <b>AI</b> language models show anti-Jewish and anti-Israel <b>biases</b> while promoting antisemitic tropes, according to a new report from the&nbsp;...
+
+- **6. <b>AI</b> language models found to have anti-Israel, antisemitic <b>biases</b>, ADL warns | Fox Business** [link](https://www.foxbusiness.com/technology/adl-issues-urgent-call-alleging-anti-israel-bias-4-ai-large-language-models)
+_Highlight:_ The Anti-Defamation League (ADL) has released a report claiming that major <b>artificial intelligence</b> language models showed anti-Israel and&nbsp;...
+
+- **7. Understanding role of <b>AI</b> in diagnostics - Medical Buyer** [link](https://medicalbuyer.co.in/understanding-role-of-ai-in-diagnostics/)
+_Highlight:_ ... <b>Artificial Intelligence</b> (<b>AI</b>). <b>AI</b> is not ... While ethical concerns about privacy and <b>fairness</b> persist, <b>AI</b> is set to revolutionise the industry.
+
+- **8. Do You Trust <b>AI</b> Hiring Decisions? - ClearanceJobs** [link](https://news.clearancejobs.com/2025/03/24/do-you-trust-ai-hiring-decisions/)
+_Highlight:_ Concerns surrounding <b>AI</b> (replacing jobs, misinformation, security leaks, legal compliance, bias/<b>fairness</b>, and lack transparency. The shift from&nbsp;...
+
+- **9. WOCNCB Selects PSI to Advance Certification with <b>AI</b>-Powered Test Prep, Test ...** [link](https://www.wdhn.com/business/press-releases/cision/20250324CG48086/wocncb-selects-psi-to-advance-certification-with-ai-powered-test-prep-test-development-and-multimodal-exam-delivery)
+_Highlight:_ ... <b>fairness</b>.&quot; Beyond <b>AI</b>-enhanced test preparation, this full-service agreement includes: Test Content Development – WOCNCB will collaborate with&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
