@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-03-27 One-Minute Post
+date: 2025-03-27 07:53:31 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google has unveiled a new family of AI reasoning models, while also emphasizing the importance of synthetic data for successful AI development. Financial institutions are focusing on gaining support for AI adoption and managing bias and data security concerns. Additionally, Amazon has introduced a beta AI shopping tool, "Interests."
+
+## Articles we found interesting:
+
+- **1. Gabriele Scheler reflects on the interplay between language, thought and <b>AI</b>** [link](https://www.thetransmitter.org/brain-inspired/gabriele-scheler-reflects-on-the-interplay-between-language-thought-and-ai/)
+_Highlight:_ By clicking to watch this video, you agree to our <b>privacy</b> policy. Podcasts / Brain Inspired. Gabriele Scheler reflects on the interplay&nbsp;...
+
+- **2. Google unveils a next-gen family of <b>AI</b> reasoning models - TechCrunch** [link](https://techcrunch.com/2025/03/25/google-unveils-a-next-gen-ai-reasoning-model/)
+_Highlight:_ By submitting your email, you agree to our Terms and <b>Privacy</b> Notice. Related. Amazon Alexa+. Startups &middot; Amazon&#39;s Alexa Fund is now backing <b>AI</b> startups.
+
+- **3. Why synthetic data is pivotal to successful <b>AI</b> development - Information Age** [link](https://www.information-age.com/why-synthetic-data-is-pivotal-to-successful-ai-development-123514726/)
+_Highlight:_ ... <b>AI</b> applications is littered with data related challenges: <b>Privacy</b> and regulatory issues – GDPR and general sensitivity around data <b>privacy</b> makes&nbsp;...
+
+- **4. How to Get Your Remaining <b>AI</b> Skeptics Onboard - The Financial Brand** [link](https://thefinancialbrand.com/news/artificial-intelligence-banking/what-to-do-about-your-organizations-ai-skeptics-three-ways-to-gain-their-support-187841)
+_Highlight:_ For many financial institutions, the biggest challenge with <b>AI</b> is not adoption — it&#39;s managing risk. Compliance teams worry about <b>bias</b>, data security,&nbsp;...
+
+- **5. Explainable <b>AI</b> in Credit Decision-Making: A Transparent Future for Lending** [link](https://www.finextra.com/blogposting/28148/explainable-ai-in-credit-decision-making-a-transparent-future-for-lending)
+_Highlight:_ This article try to show how xAI can help banks be more transparent, reduce <b>bias</b>, and build more trust with their customers. Introduction: Why&nbsp;...
+
+- **6. Amazon introduces beta <b>AI</b> shopping too, &#39;Interests&#39; | AllSides** [link](https://www.allsides.com/news/2025-03-26-1515/technology-amazon-introduces-beta-ai-shopping-too-interests)
+_Highlight:_ It is looking... Read full story Check for <b>Bias</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
