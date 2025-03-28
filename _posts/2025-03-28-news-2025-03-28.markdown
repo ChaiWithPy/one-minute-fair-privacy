@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-28 One-Minute Post
+date: 2025-03-28 08:10:44 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI is making tax scams harder to spot, while agencies are preparing for rising AI costs. Discrimination is now an optional risk to assess in AI, and GPT-4o's "freedom" is overshadowed by concerns of AI-driven censorship. Redefining hiring with AI recruitment involves testing for bias, and Anthropic aims to make AI models safe by mitigating bias. The debate on AI ownership and authorship continues, and a watchdog is tracking AI firms' safety pledges. SMEs are focusing on ethics, fairness, and privacy in AI solutions for manufacturing.
+
+## Articles we found interesting:
+
+- **1. How to avoid tax scams, as <b>AI</b> can make them more difficult to spot - ABC7 Chicago** [link](https://abc7chicago.com/post/quick-tip-artificial-intelligence-ai-can-make-tax-scams-more-difficult-spot/16091392/)
+_Highlight:_ <b>Artificial intelligence</b>, or <b>AI</b>, can make tax scams more ... <b>Privacy</b> PolicyDo Not Sell or Share My Personal InformationChildren&#39;s <b>Privacy</b>&nbsp;...
+
+- **2. Three ways agencies can prepare before <b>AI</b> costs skyrocket - Nextgov/FCW** [link](http://www.fcw.com/ideas/2025/03/three-ways-agencies-can-prepare-ai-costs-skyrocket/403868/%3Foref%3Dng-homepage-river)
+_Highlight:_ Your <b>Privacy</b> Choices; Exercise Your <b>Privacy</b> Rights &middot; Michael Kratsios ... <b>AI</b> has been used across the federal government for many years, but the&nbsp;...
+
+- **3. CDT Europe&#39;s <b>AI</b> Bulletin: March 2025 - - Center for Democracy and Technology** [link](https://cdt.org/insights/cdt-europes-ai-bulletin-march-2025/)
+_Highlight:_ Discrimination was moved to the list of risks that are optional to assess, joining other risks to fundamental rights such as <b>privacy</b> ... <b>AI</b> or Not To <b>AI</b>&nbsp;...
+
+- **4. Sam Altman Hypes GPT-4o&#39;s &#39;Freedom&#39; — But Critics Point Out <b>AI&#39;s</b> Real Problem Is ...** [link](https://in.benzinga.com/tech/25/03/44528607/sam-altman-hypes-gpt-4os-freedom-but-critics-point-out-ais-real-problem-is-censorship-not-bias)
+_Highlight:_ However, digital rights advocates have previously argued that the real threat isn&#39;t political <b>bias</b> but growing <b>AI</b>-driven censorship. ... <b>AI</b> is <b>biased</b>—&nbsp;...
+
+- **5. The <b>AI</b> Recruitment Takeover: Redefining Hiring In The Digital Age - Forbes** [link](https://www.forbes.com/sites/keithferrazzi/2025/03/27/the-ai-recruitment-takeover-redefining-hiring-in-the-digital-age/)
+_Highlight:_ Using techniques like red teaming can help with testing <b>AI</b> to mitigate risks of <b>bias</b>. Data Privacy &amp; Security: <b>AI</b>-driven recruitment involves&nbsp;...
+
+- **6. Anthropic scientists expose how <b>AI</b> actually &#39;thinks&#39; — and discover it secretly plans ahead ...** [link](https://venturebeat.com/business/anthropic-scientists-expose-how-ai-actually-thinks-and-discover-it-secretly-plans-ahead-and-sometimes-lies/)
+_Highlight:_ “Anthropic wants to make models safe in a broad sense, including everything from mitigating <b>bias</b> to ensuring an <b>AI</b> is acting honestly to&nbsp;...
+
+- **7. <b>AI</b> &amp; IP: Who owns innovation at both ends of the machine? - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D01693052-6f7e-4a33-8d7f-29b14d4484f8)
+_Highlight:_ And beyond that, should <b>AI</b> be granted legal recognition in matters of ownership and authorship? II. The <b>Fair</b>-Use Defence: <b>AI</b> companies counter these&nbsp;...
+
+- **8. Ethics, Data and Privacy Management for <b>AI</b> Solutions in Manufacturing at SMEs (AIRISE)** [link](https://www.researchgate.net/publication/390100815_Ethics_Data_and_Privacy_Management_for_AI_Solutions_in_Manufacturing_at_SMEs_AIRISE)
+_Highlight:_ ... <b>fairness</b>, environmental and societal wellbeing, and accountability. ... review procedure, based on the ALT<b>AI</b> principles, GDPR and <b>FAIR</b> principles.
+
+- **9. This watchdog is tracking how <b>AI</b> firms are quietly backing off their safety pledges - Fast Company** [link](https://www.fastcompany.com/91304014/this-watchdog-is-tracking-how-ai-firms-are-quietly-backing-off-their-safety-pledges)
+_Highlight:_ ... <b>AI</b> safety, responsible <b>AI</b>,” and “<b>AI fairness</b>.” While various states have taken steps to pass <b>AI</b> regulation and bills have been proposed on Capitol&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
