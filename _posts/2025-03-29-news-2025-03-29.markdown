@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-29 One-Minute Post
+date: 2025-03-29 08:00:54 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Amazon Alexa users express privacy concerns. Virginia Governor vetoes AI bill. EU emphasizes AI code of practice to prevent biased model outputs. Public servants warned about AI's security and bias risks. Agentic AI raises concerns about unintended biases. Schools revolutionize learning with AI, emphasizing fairness. AI and ML are key to future-proofing with a focus on fairness. Studio Ghibli co-founder criticizes AI animation for its lack of fairness.
+
+## Articles we found interesting:
+
+- **1. Amazon Alexa Just Changed Its <b>Privacy</b> Settings. CNET Survey Reveals 73% of Device ...** [link](https://www.cnet.com/home/smart-home/amazon-alexa-just-changed-its-privacy-settings-cnet-survey-reveals-73-of-device-users-were-already-worried/)
+_Highlight:_ <b>AI</b>: Nearly three in four (73%) home voice assistant users have <b>privacy</b> concerns about <b>AI</b> integrations on smart home voice assistants, and more than&nbsp;...
+
+- **2. <b>AI</b>, <b>Privacy</b> And Data Protection: Balancing Compliance With Innovation - New Technology** [link](https://www.mondaq.com/canada/new-technology/1603014/ai-privacy-and-data-protection-balancing-compliance-with-innovation)
+_Highlight:_ Developing <b>AI</b> or using <b>AI</b> can pose various <b>privacy</b> issues that need to be addressed in a way that protects the organizations from compliance risk&nbsp;...
+
+- **3. Virginia Governor Vetoes <b>Artificial Intelligence</b> Bill HB 2094: What the Veto Means for Businesses** [link](https://ogletree.com/insights-resources/blog-posts/virginia-governor-vetoes-artificial-intelligence-bill-hb-2094-what-the-veto-means-for-businesses/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) systems in the Commonwealth. The High ... <b>privacy</b> harms in agency-used <b>AI</b> systems). Executive Order No. 30 thus&nbsp;...
+
+- **4. EU: Code of Practice for General Purpose <b>AI</b> cannot abandon fundamental rights - Article 19** [link](https://www.article19.org/resources/eu-code-for-practice-on-general-purpose-ai-cannot-abandon-fundamental-rights/)
+_Highlight:_ These include scams, non-consensual intimate imagery (NCII) and child sexual abuse material (CSAM), model outputs that are <b>biased</b> against certain&nbsp;...
+
+- **5. Four things public servants need to know about the federal government&#39;s new <b>AI</b> strategy** [link](https://ottawacitizen.com/public-service/public-servants-ai-strategy)
+_Highlight:_ <b>AI</b> could pose big security and <b>bias</b> risks for the federal government ... <b>biases</b>. Jansa said that, without a strong push for <b>AI</b> and digital&nbsp;...
+
+- **6. OPINION: Why agentic <b>AI</b> is forcing a rethink of business risk | Financial Post** [link](https://financialpost.com/technology/tech-news/opinion-why-agentic-ai-is-forcing-a-rethink-of-business-risk)
+_Highlight:_ As these systems learn and grow on their own, transparency becomes trickier and unintended <b>biases</b> or unexpected discrimination can suddenly surface.
+
+- **7. How <b>AI</b> is Revolutionizing the Learning Experience for Students | SDNews.com** [link](https://sdnews.com/how-ai-is-revolutionizing-the-learning-experience-for-students/)
+_Highlight:_ Regularly audit <b>AI</b> algorithms for <b>fairness</b>. Ensure diverse data sets are used for training. By taking these steps, schools can work towards a more&nbsp;...
+
+- **8. Is <b>AI</b>/ML the key to future-proofing modern SRE and platform engineering? - Digital Journal** [link](https://www.digitaljournal.com/tech-science/is-ai-ml-the-key-to-future-proofing-modern-sre-and-platform-engineering/article)
+_Highlight:_ He emphasizes transparency, accountability, and <b>fairness</b> in <b>AI</b>‐driven anomaly detection and incident response. His work addresses challenges of bias&nbsp;...
+
+- **9. Donald Trump Gets Studio Ghibli Makeover In New <b>AI</b> Trend - Newsweek** [link](https://www.newsweek.com/donald-trump-studio-ghibli-ai-trend-2051351)
+_Highlight:_ Co-founder of the hit Japanese animated movie franchise has previously described <b>AI</b> animation as &quot;an insult to life itself ... <b>fairness</b> meter. Newsweek&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
