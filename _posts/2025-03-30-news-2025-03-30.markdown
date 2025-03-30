@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-03-30 One-Minute Post
+date: 2025-03-30 08:04:04 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+India is developing AI-specific regulations to address privacy and bias concerns. Meanwhile, AI models are being traumatized to study their biases. Financial services in the US are transforming with AI, but facing challenges of algorithmic bias. The Korean Fair Trade Commission is using AI tools to create webtoons for public outreach, promoting fairness. Additionally, concerns are raised over the fairness of AI-generated orders by the tax department. AI's impact on privacy and fairness is a global concern, with China training AI to censor information.
+
+## Articles we found interesting:
+
+- **1. India Plans <b>AI</b>-Specific Regulations Amid Growing Concerns Over <b>Privacy</b>, Bias** [link](https://kashmirlife.net/india-plans-ai-specific-regulations-amid-growing-concerns-over-privacy-bias-386945/)
+_Highlight:_ ... <b>AI</b> safety, security, transparency, and <b>privacy</b>. To mitigate <b>AI</b>-related risks, the government has launched eight Responsible <b>AI</b> Projects focused on&nbsp;...
+
+- **2. Sam Altman firing drama detailed in new book excerpt - TechCrunch** [link](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/)
+_Highlight:_ Open <b>AI</b> Chief Executive Officer Sam Altman speaks during the Kakao media day in Seoul. ... By submitting your email, you agree to our Terms and <b>Privacy</b>&nbsp;...
+
+- **3. The Five Things You Shouldn&#39;t Tell ChatGPT - WSJ** [link](https://www.wsj.com/tech/personal-tech/chatgpt-tips-privacy-987099b4)
+_Highlight:_ Duck.<b>ai</b>, by <b>privacy</b> search engine DuckDuckGo, anonymizes prompts to the <b>AI</b> model of your choice, including Claude and OpenAI&#39;s GPT, and says data&nbsp;...
+
+- **4. Traumatizing <b>AI</b> models by talking about war or violence makes them more anxious** [link](https://www.livescience.com/technology/artificial-intelligence/traumatizing-ai-models-by-talking-about-war-or-violence-makes-them-more-anxious)
+_Highlight:_ The study used five traumatic narratives and five mindfulness exercises, randomizing the order of the narratives to control for <b>biases</b>. It repeated&nbsp;...
+
+- **5. How <b>artificial intelligence</b> is transforming financial services in the US - Mi Bolsillo USA** [link](https://www.mibolsillo.co/news/How-artificial-intelligence-is-transforming-financial-services-in-the-US-20250325-0061.html)
+_Highlight:_ As <b>AI</b> continues to evolve, it enhances service personalization and fraud detection, while also presenting challenges like algorithmic <b>bias</b> and privacy&nbsp;...
+
+- **6. <b>AI</b> and algorithms increasingly control our financial fates - KOMO News** [link](https://komonews.com/news/local/ai-and-algorithms-increasingly-control-our-financial-fates-shopping-rent-rental-personal-data-artificial-economy-investment-taxes-social-media-job-application-hiring-banks-loan-generative)
+_Highlight:_ ... <b>AI</b> can expand access to credit and reduce discrimination caused by human <b>bias</b>. ... <b>Biases</b> can be embedded into <b>AI</b> models during the design&nbsp;...
+
+- **7. HC raises concern over tax dept&#39;s <b>AI</b>-generated order against assessee** [link](https://www.newindianexpress.com/business/2025/Mar/28/hc-raises-concern-over-tax-depts-ai-generated-order-against-assessee)
+_Highlight:_ “The principles of natural justice and <b>fairness</b> are too valuable to be sacrificed at the altar of <b>AI</b> and automation expediency,” the court remarked,&nbsp;...
+
+- **8. Korea <b>Fair</b> Trade Commission Uses <b>AI</b> Tools to Make Webtoon for Public Outreach - News** [link](https://www.animenewsnetwork.com/news/2025-03-26/korea-fair-trade-commission-uses-ai-tools-to-make-webtoon-for-public-outreach/.222886)
+_Highlight:_ The KFTC is currently publishing a weekly webtoon series titled <b>Fair</b> Diary on its official blog using the <b>AI</b> tool Stable Diffusion, which converts&nbsp;...
+
+- **9. How China Is Training <b>AI</b> to Censor Its Secrets - Newsweek** [link](https://www.newsweek.com/china-ai-training-censorship-llm-2052117)
+_Highlight:_ <b>fairness</b> meter. Newsweek is committed to journalism that&#39;s factual and <b>fair</b>. Hold us accountable and submit your rating of this article on the meter.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
