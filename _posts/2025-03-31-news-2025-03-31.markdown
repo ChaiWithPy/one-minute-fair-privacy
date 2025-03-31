@@ -1,0 +1,40 @@
+---
+layout: post
+title: 2025-03-31 One-Minute Post
+date: 2025-03-31 07:41:49 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Youths are more distrustful of AI data systems than expected, while Apple's AI strategy faces doubts. Financial services are tackling AI bias, and MWC Barcelona is buzzing about ethical challenges like security and bias. Additionally, there's a framework for ensuring fairness in machine learning in consumer finance, and a call for a strong legal framework to tackle AI's fairness, transparency, and accountability.
+
+## Articles we found interesting:
+
+- **1. Youths more distrustful of <b>AI</b> data systems than expected, B.C. study finds - Nanaimo News Bulletin** [link](https://www.nanaimobulletin.com/local-news/youths-more-distrustful-of-ai-data-systems-than-expected-bc-study-finds-7890905)
+_Highlight:_ <b>AI</b> professionals, parents and educators ranked <b>privacy</b> concerns at 4.3, with youths ranking their concern at 4.1. Where the findings differed was the&nbsp;...
+
+- **2. iOS 18.4 Again Reactivates Apple Intelligence Automatically. Here&#39;s How to Turn It Off** [link](https://www.cnet.com/tech/services-and-software/ios-18-4-again-reactivates-apple-intelligence-automatically-heres-how-to-turn-it-off/)
+_Highlight:_ Did you turn off Apple&#39;s <b>AI</b> tools only to find them active again? You can turn them all off or deactivate individual ones.
+
+- **3. &#39;Something is rotten&#39;: Apple&#39;s <b>AI</b> strategy faces doubts | Business - News24** [link](https://www.news24.com/fin24/tech/something-is-rotten-apples-ai-strategy-faces-doubts-20250330)
+_Highlight:_ ... <b>privacy</b> vs <b>AI</b>. Theories vary on why Apple is having trouble seizing the <b>AI</b> moment. For Marcus Collins, marketing professor at the University of&nbsp;...
+
+- **4. Thinking Fast and Slow: the GenAI Conundrum for Financial Services** [link](https://www.scmp.com/presented/tech/topics/generative-ai-and-cloud-services/article/3304564/thinking-fast-and-slow-genai-conundrum-financial-services%3Fmodule%3Dfrom_our_advertisers%26pgtype%3Dhomepage)
+_Highlight:_ By adopting these fundamental concepts of ethics, organisations can mitigate <b>AI bias</b>, data manipulation, cyberattacks and other unintended&nbsp;...
+
+- **5. <b>AI</b> and other disruptors: MWC Barcelona and the connected tech of tomorrow | ITWeb** [link](https://www.itweb.co.za/article/ai-and-other-disruptors-mwc-barcelona-and-the-connected-tech-of-tomorrow/wbrpOqg2kydMDLZn)
+_Highlight:_ There was much buzz about optimised <b>AI</b> workflows, ethical challenges like security and <b>bias</b>, and talent development. ... Advances in agentic <b>AI</b> (<b>AI</b>&nbsp;...
+
+- **6. The rise of shadow <b>AI</b> and regaining control of software spend - CIO Dive** [link](https://www.ciodive.com/spons/the-rise-of-shadow-ai-and-regaining-control-of-software-spend/743265/)
+_Highlight:_ <b>Bias</b> and fairness: <b>AI</b> algorithms can inherit and amplify <b>biases</b> present in the data they are trained on. This can lead to discriminatory outcomes,&nbsp;...
+
+- **7. Ensuring <b>Fairness</b> in Machine Learning: The Challenge of Bias Testing in Consumer Finance** [link](https://www.ibtimes.co.in/ensuring-fairness-machine-learning-challenge-bias-testing-consumer-finance-881539)
+_Highlight:_ Pavan Rupanguntla&#39;s framework offers valuable insights into the evolving field of responsible <b>AI</b> in finance.
+
+- **8. Harnessing <b>AI</b>: The Legal Frontier in Industry 4.0 | Law-Order - Devdiscourse** [link](https://www.devdiscourse.com/article/law-order/3327143-harnessing-ai-the-legal-frontier-in-industry-40)
+_Highlight:_ Union Minister Arjun Ram Meghwal emphasizes the need for a strong legal framework to tackle <b>AI&#39;s</b> ... <b>fairness</b>, transparency, and accountability.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
