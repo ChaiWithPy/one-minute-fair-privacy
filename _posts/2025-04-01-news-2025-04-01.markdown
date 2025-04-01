@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-04-01 One-Minute Post
+date: 2025-04-01 07:54:33 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OpenAI's Ghibli-style AI image generator raises privacy concerns. Microsoft introduces new AI tools for privacy operations. Leading AI models found to have bias. Sapia.ai unveils AI-powered interviews to remove bias in hiring. Banks and fintechs address bias concerns in AI-approved loans.
+
+## Articles we found interesting:
+
+- **1. Ghibli <b>AI</b> Trend Raises <b>Privacy</b> Concerns: Engineer Says Think Twice Before Sharing ...** [link](https://zeenews.india.com/technology/ghibli-ai-trend-raises-privacy-concerns-engineer-says-think-twice-before-sharing-private-photos-shares-how-ai-is-evolving-2880031.html)
+_Highlight:_ OpenAIs Ghibli-style <b>AI</b> image generator has taken social media by storm, but concerns about data <b>privacy</b> and <b>AI</b> training have sparked a debate on&nbsp;...
+
+- **2. Microsoft Adds New Agentic <b>AI</b> Tools to Security Copilot - Campus Technology** [link](https://campustechnology.com/Articles/2025/03/31/Microsoft-Adds-New-Agentic-Tools-to-Security-Copilot.aspx%3Fadmgarea%3Dnews)
+_Highlight:_ &quot;Autonomous <b>AI</b> agents will help our customers scale, augment, and increase the effectiveness of their <b>privacy</b> operations. Built using Microsoft&nbsp;...
+
+- **3. New innovations in Microsoft Purview for protected, <b>AI</b>-ready data | Microsoft Security Blog** [link](https://www.microsoft.com/en-us/security/blog/2025/03/31/new-innovations-in-microsoft-purview-for-protected-ai-ready-data/)
+_Highlight:_ ... <b>privacy</b> concerns. Additionally, with the convergence of the ... Identify risky <b>AI</b> usage with Microsoft Purview Insider Risk Management to investigate&nbsp;...
+
+- **4. <b>Bias</b> found in leading <b>AI</b> models - The Australian Jewish News** [link](https://www.australianjewishnews.com/bias-found-in-leading-ai-models/)
+_Highlight:_ &#39;<b>Artificial intelligence</b> is reshaping how people consume information, but as this research shows, <b>AI</b> models are not immune to deeply ingrained&nbsp;...
+
+- **5. Sapia.<b>ai</b> Unveils Breakthrough Research on the Competencies That Matter - Morningstar** [link](https://www.morningstar.com/news/business-wire/20250331372946/sapiaai-unveils-breakthrough-research-on-the-competencies-that-matter-and-the-ai-innovation-to-assess-them-at-scale)
+_Highlight:_ Make hiring fairer, faster, and data-driven using structured, <b>AI</b>-powered interviews that remove <b>bias</b> and guesswork. <b>AI</b>-Powered Hiring with Explainable&nbsp;...
+
+- **6. Banks and fintechs drive surge in <b>AI</b>-approved loans - African Business** [link](https://african.business/2025/04/technology-information/banks-and-fintechs-drive-surge-in-ai-approved-loans)
+_Highlight:_ Tausi Africa, a Tanzanian fintech firm behind the <b>AI</b> credit scoring platform Manka, has taken steps to address concerns around <b>bias</b> in lending. “Our&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
