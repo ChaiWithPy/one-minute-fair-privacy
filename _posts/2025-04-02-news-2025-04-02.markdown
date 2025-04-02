@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-02 One-Minute Post
+date: 2025-04-02 07:34:31 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI systems are posing privacy risks, prompting employers to take action. Meanwhile, the Philippine central bank is eyeing AI rules to manage bias and improve accuracy. On the fairness front, Meta allegedly used pirated books to train AI, sparking objections from Australian authors. Additionally, Code for Africa is offering an AI for Good Fellowship, emphasizing ethical AI practices and fairness commitment. These developments highlight the growing importance of addressing privacy, bias, and fairness in the AI landscape.
+
+## Articles we found interesting:
+
+- **1. Risky <b>AI</b> systems: what are they and what do affected employers need to do? - Dentons** [link](https://www.dentons.com/en/insights/articles/2025/april/1/risky-ai-systems-what-are-they-and-what-do-affected-employers-need-to-do)
+_Highlight:_ ... <b>AI</b> systems discriminatorily assessing CVs, mislabelling images and misidentifying suspected criminals. <b>AI</b> also poses <b>privacy</b> and transparency&nbsp;...
+
+- **2. Coordinated <b>AI</b> agents for advancing healthcare | Nature Biomedical Engineering** [link](https://www.nature.com/articles/s41551-025-01363-2)
+_Highlight:_ Specialist <b>artificial intelligence</b> (<b>AI</b>) models are being developed ... <b>privacy</b> and compliance) has outperformed humans on several measures in&nbsp;...
+
+- **3. Transforming public sector security operations in the <b>AI</b> era - Microsoft** [link](https://www.microsoft.com/en-us/security/blog/2025/04/01/transforming-public-sector-security-operations-in-the-ai-era/)
+_Highlight:_ <b>AI</b> and machine learning &middot; Microsoft Sentinel. 4 min read. Transforming ... <b>Privacy</b> at Microsoft &middot; Investors &middot; Diversity and inclusion &middot; Accessibility&nbsp;...
+
+- **4. Philippine central bank eyes <b>AI</b> rules for banks - Asian Banking &amp; Finance** [link](https://asianbankingandfinance.net/banking-technology/exclusive/philippine-central-bank-eyes-ai-rules-banks)
+_Highlight:_ The regulations will cover the ethical use of <b>AI</b>, how to manage <b>bias</b>, and improve <b>AI&#39;s</b> accuracy, amongst other things, he told the Asian Banking&nbsp;...
+
+- **5. The Courtroom Algorithm: Why <b>AI</b> Cannot Replace Judges, Arbitrators and Other ADR Practitioners** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D23251518-b495-40af-b0ab-3f9f6c9a3b6f)
+_Highlight:_ If previous judgments or arbitral awards were flawed – perhaps influenced by unconscious <b>bias</b> – an <b>AI</b> model will simply carry on repeating those&nbsp;...
+
+- **6. Generative <b>AI</b>: Is it worth the hype? - Charity Digital** [link](https://charitydigital.org.uk/topics/generative-ai-is-it-worth-the-hype-12022)
+_Highlight:_ There are also signs that <b>AI</b> perpetuates <b>bias</b> if the information it is fed is <b>biased</b> itself. There have been many reports of generative <b>AI</b> tools&nbsp;...
+
+- **7. Meta allegedly used pirated books to train <b>AI</b>. Australian authors have objected, but US ...** [link](https://theconversation.com/meta-allegedly-used-pirated-books-to-train-ai-australian-authors-have-objected-but-us-courts-may-decide-if-this-is-fair-use-253105)
+_Highlight:_ Australian authors have objected, but US courts may decide if this is &#39;<b>fair</b> use&#39;. Published: March 31, 2025 9:39pm EDT. Agata Mrva-Montoya&nbsp;...
+
+- **8. Code for Africa (CfA) <b>AI</b> for Good Fellowship 2025 for African technologists ($500/month stipend)** [link](https://www.opportunitiesforafricans.com/code-for-africa-cfa-ai-for-good-fellowship-2025/)
+_Highlight:_ Technical Proficiency – Experience in <b>AI</b> modelling (NLP, computer vision, predictive analytics). Ethical <b>AI</b> Practices – Commitment to <b>fairness</b>,&nbsp;...
+
+- **9. The <b>AI</b> imperative for transforming public sector services - IT-Online** [link](https://it-online.co.za/2025/04/01/the-ai-imperative-for-transforming-public-sector-services/)
+_Highlight:_ <b>AI</b> can only be as good as the values it&#39;s built on. Public trust in <b>AI</b> depends on <b>fairness</b>, transparency, and accountability. To build ethical <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
