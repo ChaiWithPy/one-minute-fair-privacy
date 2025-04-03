@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-04-03 One-Minute Post
+date: 2025-04-03 07:28:34 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Senate Dems are probing Musk's AI plan for Education Dept., while a study introduces a privacy-centric framework for AI governance. Eurocities Digital Forum emphasizes digital rights, and the Hong Kong Privacy Commissioner publishes further AI guidance on lawful and ethical use and bias prevention. Ohio teen is helping draft legislation on health care and AI, focusing on bias testing to prevent discrimination. Pathologists are raising concerns about bias and ethics in AI use.
+
+## Articles we found interesting:
+
+- **1. Senate Dems probe Musk&#39;s <b>AI</b> plan for Education Dept.** [link](https://thehill.com/homenews/education/5227754-senate-democrats-elon-musk-doge-education-department-call-center-ai/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). Democratic Sens. Elizabeth ... “DOGE&#39;s proposal threatens to misinform borrowers and families, lead to data <b>privacy</b>&nbsp;...
+
+- **2. Managing Deepfakes with <b>Artificial Intelligence</b>: Introducing the Business <b>Privacy</b> Calculus** [link](https://www.newswise.com/articles/managing-deepfakes-with-artificial-intelligence-introducing-the-business-privacy-calculus)
+_Highlight:_ The study contributes to understanding deepfake threats and facilitates the development of a <b>privacy</b>-centric framework for <b>AI</b> governance to safeguard&nbsp;...
+
+- **3. Eurocities Digital Forum places digital rights at the heart of cities** [link](https://eurocities.eu/latest/eurocities-digital-forum-places-digital-rights-at-the-heart-of-cities/)
+_Highlight:_ ... privacy, and social cohesion. Cities, as the level of government ... <b>Privacy AI</b> use. EUROCITIES Square de Meeûs 1, B-1000 Brussels Tel. +32 2&nbsp;...
+
+- **4. Gen <b>AI</b> at work: Hong Kong Privacy Commissioner publishes further <b>AI</b> guidance on the use ...** [link](https://www.twobirds.com/en/insights/2025/china/gen-ai-at-work-hong-kong-privacy-commissioner)
+_Highlight:_ Ensure alignment with existing data handling and security policies. Lawful and Ethical Use, and Prevention of <b>Bias</b>. Prohibit unlawful or harmful usage&nbsp;...
+
+- **5. Ohio teen tapped to help draft legislation on health care and <b>AI</b> - Cincinnati Enquirer** [link](https://www.cincinnati.com/story/news/2025/04/03/ohio-teen-tapped-to-help-draft-legislation-on-health-care-and-ai/80308203007/)
+_Highlight:_ ... <b>bias</b> testing to prevent discrimination when <b>AI</b> is used on patients of different backgrounds, Ohio lacks similar legislation, said Tuel. And it&nbsp;...
+
+- **6. The <b>AI</b> tools pathologists want and need - healthcare-in-europe.com** [link](https://healthcare-in-europe.com/en/news/ai-tools-pathology-want-need.html)
+_Highlight:_ The issue of <b>bias</b> and ethics in <b>AI</b> use in pathology was raised, with concerns over reliable ground truth but also dogged by a lack of institutions&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
