@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-04 One-Minute Post
+date: 2025-04-04 07:33:58 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Canada is considering comprehensive AI policy covering privacy, innovation, and cybersecurity. NASCIO offers a roadmap for chief privacy officers to create statewide programs. PROBAST+AI guidelines are updated to improve AI quality assessment by addressing bias. Gender bias in AI systems is being addressed to accelerate gender equity. Synthetic data is mitigating bias in AI predictions. Standard Chartered is prioritizing fairness in AI initiatives, setting a benchmark for the industry. AI's impact on education raises concerns about fairness, academic integrity, and digital equity.
+
+## Articles we found interesting:
+
+- **1. Could Canada lead the world in <b>AI</b> regulation? - CBA National Magazine** [link](https://www.nationalmagazine.ca/en-ca/articles/law/hot-topics-in-law/2025/could-canada-become-a-world-leader-in-ai-regulation)
+_Highlight:_ With the U.S. moving towards de-regulation, creating a comprehensive <b>AI</b> policy here that encompasses <b>privacy</b>, innovation, and cybersecurity would&nbsp;...
+
+- **2. NASCIO shares roadmap to help chief <b>privacy</b> officers create statewide programs from scratch** [link](https://statescoop.com/nascio-shares-roadmap-to-help-chief-privacy-officers-create-statewide-programs-from-scratch/)
+_Highlight:_ ... <b>privacy</b> issues among constituents that chief <b>privacy</b> officers ... Data infrastructure a major challenge for <b>AI</b> in California, say officials.
+
+- **3. <b>AI</b> Adoption in the Enterprise: Breaking Through the Security and Compliance Gridlock** [link](https://thehackernews.com/2025/04/ai-adoption-in-enterprise-breaking.html)
+_Highlight:_ Answer: Build <b>privacy</b> and security into your design from the ground up so that common GRC requirements are already addressed from day 1. Another CISO&nbsp;...
+
+- **4. PROBAST+<b>AI</b> guidelines updated to improve <b>AI</b> quality assessment - Science X** [link](https://sciencex.com/wire-news/505152084/probastai-guidelines-updated-to-improve-ai-quality-assessment.html)
+_Highlight:_ Originally introduced to assess the risk of <b>bias</b> and the robustness of prediction models, they have been revised to address the growing importance of&nbsp;...
+
+- **5. Accelerating Gender Equity through <b>Artificial Intelligence</b> - Telecom Review Asia Pacific** [link](https://www.telecomreviewasia.com/news/featured-articles/4983-accelerating-gender-equity-through-artificial-intelligence)
+_Highlight:_ ... <b>AI</b> systems and found that approximately 44% exhibited gender <b>bias</b>. Such <b>biases</b> can manifest in several ways, from perpetuating stereotypes in&nbsp;...
+
+- **6. The future of synthetic data - IT-Online** [link](https://it-online.co.za/2025/04/04/the-future-of-synthetic-data/)
+_Highlight:_ Another significant advantage is its role in mitigating <b>bias</b>. <b>AI</b> models ... biases in AI predictions. “Furthermore, synthetic data offers&nbsp;...
+
+- **7. SC GPT To Revolutionise Operational Efficiency In Banking - FutureIoT** [link](https://futureiot.tech/sc-gpt-to-revolutionise-operational-efficiency-in-banking/)
+_Highlight:_ By prioritising governance and <b>fairness</b> in its <b>AI</b> initiatives, the bank sets a benchmark for others in the industry. In conclusion, the launch of SC&nbsp;...
+
+- **8. How <b>AI</b> is shaping the next generation of learning tools for students - BusinessCloud** [link](https://businesscloud.co.uk/news/how-ai-is-shaping-the-next-generation-of-learning-tools-for-students/)
+_Highlight:_ Despite its growing prevalence, concerns around <b>fairness</b>, academic integrity, and digital equity persist. As <b>AI</b> continues to reshape the education&nbsp;...
+
+- **9. Standard Chartered rolls out SC GPT to advance <b>AI</b>-driven innovation in banking** [link](https://futurecio.tech/standard-chartered-rolls-out-sc-gpt-to-advance-ai-driven-innovation-in-banking/)
+_Highlight:_ ... <b>AI</b> framework to mitigate potential biases and promote <b>fairness</b>.” SC GPT. SC GPT also empowers local teams to develop customized solutions for&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
