@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-05 One-Minute Post
+date: 2025-04-05 07:35:13 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OpenAI invests in cybersecurity, while a Taiwanese developer launches a privacy-focused AI assistant. Amazon tests an AI shopping agent. Studies reveal AI biases, emphasizing the need for improved cybersecurity. African leaders advocate for inclusive AI growth, and a state audit warns of major gaps in AI oversight.
+
+## Articles we found interesting:
+
+- **1. OpenAI just made its first cybersecurity investment - TechCrunch** [link](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/)
+_Highlight:_ Generative <b>AI</b> has vastly expanded the toolkit available to hackers and other bad actors. ... <b>Privacy</b> Policy &middot; RSS Terms of Use; <b>Privacy</b> Placeholder&nbsp;...
+
+- **2. Developer launches <b>privacy</b>-focused <b>AI</b> assistant &#39;Mei&#39; - Taipei Times** [link](https://www.taipeitimes.com/News/taiwan/archives/2025/04/05/2003834659)
+_Highlight:_ A Taiwanese software developer has created a generative <b>artificial intelligence</b> (<b>AI</b>) model to help people use <b>AI</b> without exposing sensitive data,&nbsp;...
+
+- **3. Amazon&#39;s new <b>AI</b> agent will shop third-party sites for you - TechCrunch** [link](https://techcrunch.com/2025/04/03/amazons-new-ai-agent-will-shop-third-party-stores-for-you/)
+_Highlight:_ Amazon is starting to test a new <b>AI</b> shopping agent — a feature it calls &quot;Buy for Me&quot; — that visits other websites and makes purchases for users.
+
+- **4. Can <b>AI</b> systems be trusted to make unbiased decisions? Scientists found out - Earth.com** [link](https://www.earth.com/news/current-ai-systems-can-not-be-trusted-to-make-unbiased-decisions/)
+_Highlight:_ Study reveals that <b>AI</b> tools like ChatGPT can mimic human decision-making <b>biases</b>, raising concerns about their use in high-stakes situations.
+
+- **5. <b>AI</b> vs <b>AI</b>: Firms need to step up their cyber game or risk falling to threat actors** [link](https://www.insurancebusinessmag.com/us/news/cyber/ai-vs-ai-firms-need-to-step-up-their-cyber-game-or-risk-falling-to-threat-actors-531037.aspx)
+_Highlight:_ “People talk about <b>bias</b> in <b>AI</b> — we may start with limited data, but if we continuously assess and bring diverse signals into the model, we can reduce&nbsp;...
+
+- **6. Global <b>AI</b> governance | Who&#39;s leading, who&#39;s lagging? - DIGIT** [link](https://www.digit.fyi/arm-ai-governance-challenges/)
+_Highlight:_ Beyond legal compliance, ethical concerns loom large. <b>AI</b> systems can perpetuate <b>bias</b> (e.g., discriminatory hiring algorithms), violate privacy (e.g.,&nbsp;...
+
+- **7. African Leaders Advocate for Inclusive <b>AI</b> Growth at Kigali Summit - Medafrica Times** [link](https://medafricatimes.com/39586-african-leaders-advocate-for-inclusive-ai-growth-at-kigali-summit.html)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). ... She underscored Rwanda&#39;s commitment to developing ethical <b>AI</b> policies that prioritize <b>fairness</b> and reduce biases in <b>AI</b>&nbsp;...
+
+- **8. Chinese State Media Rebuke Trump&#39;s Tariffs With <b>AI</b> Song and Videos - Time** [link](https://time.com/7274777/china-trump-tariffs-ai-music-video-short-film-state-media-artificial-intelligence/)
+_Highlight:_ As the market holds its breath, the toll is already undeniable. Numbers don&#39;t lie. Neither does the cost of this so-called &#39;<b>fairness</b>,&#39;” CGTN captioned&nbsp;...
+
+- **9. State audit warns of major gaps in oversight as <b>AI</b> spreads across New York agencies** [link](https://www.fingerlakes1.com/2025/04/03/state-audit-warns-of-major-gaps-in-oversight-as-ai-spreads-across-new-york-agencies/)
+_Highlight:_ ... <b>fairness</b> of their <b>AI</b> systems, and none had trained staff on potential <b>AI</b> risks. Only the DMV had a policy requiring review, though not specific&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
