@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-06 One-Minute Post
+date: 2025-04-06 07:30:12 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OpenAI's Ghibli-style AI images raise privacy concerns. GitHub Copilot introduces new limits and charges for premium AI models. Meta unveils Llama 4 to address bias in AI content generation. Singapore reconfigures its workforce for agentic AI, addressing AI bias and data privacy. The ethical debate over AI's soul and creativity continues. The White House's use of AI to calculate tariffs sparks fairness concerns. Tech giants' monopolization of AI raises questions about market fairness. FairDiffusion aims to enhance equity in latent diffusion models through fair Bayesian perturbation.
+
+## Articles we found interesting:
+
+- **1. Ghibli Trend Raises <b>Privacy</b> Concerns: Users Lose While OpenAI Gains Millions? - YouTube** [link](https://www.youtube.com/watch%3Fv%3D4D5higWWwbI)
+_Highlight:_ 6:39 &middot; Go to channel &middot; Viral Ghibli-Style <b>AI</b> Images Raise <b>Privacy</b> Concerns | Vantage with Palki Sharma | N18G. Firstpost New 508K views &middot; 3:54.
+
+- **2. <b>AI</b> companies are commiting mass theft and hiding behind the language of &#39;training&#39;** [link](https://thehill.com/opinion/technology/5232347-ai-learning-vs-human-reasoning/)
+_Highlight:_ Tags <b>AI Artificial intelligence</b> Copyright infringement. Copyright 2025 ... <b>PRIVACY</b> POLICY 11/18/2024; TERMS &amp; CONDITIONS &middot; CONTACT &middot; ADVERTISE.
+
+- **3. GitHub Copilot introduces new limits, charges for &#39;premium&#39; <b>AI</b> models - TechCrunch** [link](https://techcrunch.com/2025/04/04/github-copilot-introduces-new-limits-charges-for-premium-ai-models/)
+_Highlight:_ GitHub Copilot, Microsoft-owned GitHub&#39;s <b>AI</b> coding assistant, could soon become costlier for some users. ... <b>Privacy</b> Policy &middot; RSS Terms of Use; <b>Privacy</b>&nbsp;...
+
+- **4. Unveiling the Llama 4: Meta&#39;s Secret Weapon in the <b>AI</b> Arms Race? - West Island Blog** [link](https://westislandblog.com/technology/unveiling-the-llama-4-metas-secret-weapon-in-the-ai-arms-race/)
+_Highlight:_ ... <b>bias</b> from <b>AI</b> content generation. In its announcement, Meta emphasized that Llama 4 is merely the starting point for a rapidly evolving <b>AI</b>&nbsp;...
+
+- **5. How Singapore Is Reconfiguring Its Workforce for Agentic <b>AI</b> - CDOTrends** [link](https://www.cdotrends.com/story/4498/how-singapore-reconfiguring-its-workforce-agentic-ai)
+_Highlight:_ This strategic pivot is driven by the transformative potential of Agentic <b>AI</b> ... Issues like <b>AI bias</b>, data privacy, and accountability must be addressed&nbsp;...
+
+- **6. Can <b>AI</b> Have a Soul? The Ethical Debate Over Artificial Creativity - The Famuan** [link](https://www.thefamuanonline.com/2025/04/06/can-ai-have-a-soul-the-ethical-debate-over-artificial-creativity/)
+_Highlight:_ ... <b>bias</b>, and the erosion of investigative reporting. <b>AI</b> doesn&#39;t question power structures or hold institutions accountable—it merely compiles and&nbsp;...
+
+- **7. Theories Swirl White House Used <b>A.I.</b> to Calculate Newest Tariffs - TMZ** [link](https://www.tmz.com/2025/04/04/trump-tariffs-written-artificial-intelligence-white-house/)
+_Highlight:_ Has <b>A.I.</b> entered the White House? There&#39;s an interesting theory ... <b>fairness</b> to global trade. Of course ... no one knows if the White House&nbsp;...
+
+- **8. The <b>AI</b> economy - The Financial Express** [link](https://today.thefinancialexpress.com.bd/editorial/the-ai-economy-1743768227)
+_Highlight:_ Moreover, tech giants&#39; monopolisation of <b>AI</b> raises questions about market <b>fairness</b>. If only a few corporations control <b>AI</b> resources, it will be&nbsp;...
+
+- **9. FairDiffusion: Enhancing equity in latent diffusion models via <b>fair</b> Bayesian perturbation** [link](https://www.science.org/doi/abs/10.1126/sciadv.ads4593)
+_Highlight:_ Recent advancements in generative <b>AI</b>, particularly diffusion models, have proven valuable for text-to-image synthesis.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
