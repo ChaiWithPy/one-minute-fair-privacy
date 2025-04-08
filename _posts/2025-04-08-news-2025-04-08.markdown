@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-04-08 One-Minute Post
+date: 2025-04-08 07:49:06 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California's new AI laws set to create a global benchmark, focusing on privacy. AI Sweden advances edge AI with research into privacy for federated learning. Quarterly AI update emphasizes the development of AI systems free from ideological bias. Gen AI is transforming market research by reducing bias effects. Responsible AI matters as a lack of diverse AI teams leads to technology reflecting the biases of its creators.
+
+## Articles we found interesting:
+
+- **1. California&#39;s new <b>AI</b> laws rewrite the future of work - The HR Digest** [link](https://www.thehrdigest.com/californias-new-ai-laws-rewrite-the-future-of-work/)
+_Highlight:_ From tackling deepfakes to safeguarding <b>privacy</b>, California&#39;s <b>AI</b> laws are set to create a global benchmark. With the new <b>AI</b> legislation in California&nbsp;...
+
+- **2. Back to the future: How data <b>privacy</b> laws can teach us what to expect with <b>AI</b> regulation** [link](https://www.jdsupra.com/legalnews/back-to-the-future-how-data-privacy-5849403/)
+_Highlight:_ Right now <b>AI</b> regulation is relatively sparse, but that is not surprising when compared with data <b>privacy</b> regulation five years ago. At the start of&nbsp;...
+
+- **3. <b>AI</b> Sweden Advances Edge <b>AI</b> with Federated Learning and Model Optimization** [link](https://www.eetimes.eu/ai-sweden-advances-edge-ai-with-federated-learning-and-model-optimization/)
+_Highlight:_ To overcome fears and challenges, <b>AI</b> Sweden has stepped up research into <b>privacy</b> for federated learning and is applying it to edge <b>AI</b>.
+
+- **4. Quarterly <b>AI</b> Update | Q1 2025 - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D9e6c7ce0-57f1-40fe-a0d6-5a8974b89859)
+_Highlight:_ The order attempts to represent a shift towards innovation and the development of “<b>AI</b> systems that are free from ideological <b>bias</b> or engineered social&nbsp;...
+
+- **5. How Gen <b>AI</b> Is Transforming Market Research - Harvard Business Review** [link](https://hbr.org/2025/05/how-gen-ai-is-transforming-market-research)
+_Highlight:_ ... <b>AI</b> rather than by people, because certain <b>bias</b> effects are reduced. Wil Readinger, the former head of user experience research at the company, is&nbsp;...
+
+- **6. The Positive Side Of <b>AI</b>: Why Responsible <b>AI</b> Matters - BW Businessworld** [link](https://www.businessworld.in/article/the-positive-side-of-ai-why-responsible-ai-matters-552914)
+_Highlight:_ A lack of diverse <b>AI</b> teams leads to technology that reflects the <b>biases</b> of its creators. Algorithmic <b>bias</b> in hiring has already shown how <b>AI</b> can&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
