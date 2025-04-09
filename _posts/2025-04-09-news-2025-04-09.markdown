@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-09 One-Minute Post
+date: 2025-04-09 07:29:57 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Trump administration revamps federal AI guidance to protect privacy. CIPL releases paper on privacy-enhancing AI technologies. Researchers stress-test AI in medicine for fairness. Civil society calls for EU-wide AI liability rules. AI integration into workplaces amplifies bias and compromises privacy. DGIST proposes Cyber-Physical AI to address bias challenges. Data readiness critical for responsible AI in government.
+
+## Articles we found interesting:
+
+- **1. Advocates Must Hold States Accountable on <b>AI</b> Given Trump Order** [link](https://www.cbpp.org/blog/advocates-must-hold-states-accountable-on-ai-given-trump-order)
+_Highlight:_ They also encouraged protection of data <b>privacy</b> and equitable access to technology. These standards created clear and actionable expectations that&nbsp;...
+
+- **2. CIPL Releases Paper on <b>Privacy</b>-Enhancing and <b>Privacy</b>-Preserving Technologies in <b>AI</b>** [link](https://www.hunton.com/privacy-and-information-security-law/cipl-releases-paper-on-privacy-enhancing-and-privacy-preserving-technologies-in-ai-enabling-data-use-and-operationalizing-privacy-by-design-and-default)
+_Highlight:_ CIPL is of the view that he future success of PETs relies on support and guidance from regulatory bodies, including <b>privacy</b> and <b>AI</b> authorities, and&nbsp;...
+
+- **3. Trump Administration Revamps Guidance on Federal Use and Procurement of <b>AI</b>** [link](https://www.wiley.law/alert-Trump-Administration-Revamps-Guidance-on-Federal-Use-and-Procurement-of-AI)
+_Highlight:_ ... <b>AI</b> to increase quality and efficiency of government services, while at the same time “ensuring appropriate safeguards are in place to protect <b>privacy</b>&nbsp;...
+
+- **4. How data readiness is critical to responsible <b>AI</b> in government | THINK Digital Partners** [link](https://www.thinkdigitalpartners.com/news/2025/04/09/how-data-readiness-is-critical-to-responsible-ai-in-government/)
+_Highlight:_ ... <b>AI</b> initiatives risk becoming ineffective, <b>biased</b>, and potentially damaging to public trust. “<b>Artificial intelligence</b> holds immense potential to&nbsp;...
+
+- **5. Decoding how our <b>AI</b> fears are coming true - Social Samosa** [link](https://www.socialsamosa.com/decode/our-ai-fears-are-coming-true-8941737)
+_Highlight:_ We decode how the rapid integration of <b>AI</b> into workplaces and daily life is displacing human jobs, amplifying <b>bias</b>, compromising privacy,&nbsp;...
+
+- **6. DGIST Proposes World&#39;s First Concept of &#39;Cyber-Physical <b>AI</b>&#39; Connecting <b>AI</b> and Reality!** [link](https://www.asiaresearchnews.com/content/dgist-proposes-world%25E2%2580%2599s-first-concept-%25E2%2580%2598cyber-physical-ai%25E2%2580%2599-connecting-ai-and-reality)
+_Highlight:_ In particular, the team addressed common challenges in <b>AI</b>-CPS integration, such as data <b>bias</b>, concept drift, and lack of trust, through experiments&nbsp;...
+
+- **7. Joint Civil Society Open Letter on the Withdrawal of the <b>AI</b> Liability Directive** [link](https://cdt.org/insights/joint-civil-society-open-letter-on-the-withdrawal-of-the-ai-liability-directive/)
+_Highlight:_ We call for harmonised, ambitious EU-wide <b>AI</b> liability rules to build trust in <b>AI</b> technologies, promote <b>fairness</b>, and foster sustainable innovation.
+
+- **8. Is <b>AI</b> in medicine playing <b>fair</b>? Researchers stress-test generative models, urging safeguards** [link](https://medicalxpress.com/news/2025-04-ai-medicine-playing-fair-stress.html)
+_Highlight:_ As <b>artificial intelligence</b> (<b>AI</b>) rapidly integrates into health care, a study by researchers at the Icahn School of Medicine at Mount Sinai reveals&nbsp;...
+
+- **9. Is <b>AI</b> in medicine playing <b>fair</b>? | ScienceDaily** [link](https://www.sciencedaily.com/releases/2025/04/250407114235.htm)
+_Highlight:_ As <b>artificial intelligence</b> (<b>AI</b>) rapidly integrates into health care, a new study reveals that all generative <b>AI</b> models may recommend different&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
