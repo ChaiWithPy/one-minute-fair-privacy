@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-04-10 One-Minute Post
+date: 2025-04-10 07:32:57 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta's AI update sparks EU privacy concerns as users are unable to disable it. Google's new Gemini AI model prioritizes efficiency. Real-world biases in AI medical models are being studied. Google Sheets' new AI function is being tested for biases in gender classification. The ethics of AI in healthcare are being discussed, focusing on addressing algorithmic bias. AI is fundamentally changing data governance, emphasizing the importance of privacy.
+
+## Articles we found interesting:
+
+- **1. WhatsApp&#39;s Meta <b>AI</b> sparks EU <b>privacy</b> row as users unable to disable - Evening Standard** [link](https://www.standard.co.uk/news/tech/whatsapp-meta-ai-eu-privacy-concerns-b1221560.html)
+_Highlight:_ Amid a growing backlash against the <b>AI</b> update, Meta has stressed that the tool is optional.
+
+- **2. Data Governance In The Age Of <b>AI</b> And <b>Privacy</b>: Building Trust And Driving Innovation** [link](https://www.mondaq.com/data-protection/1608480/data-governance-in-the-age-of-ai-and-privacy-building-trust-and-driving-innovation)
+_Highlight:_ As <b>artificial intelligence</b> (<b>AI</b>) is fundamentally changing the way data is collected, used, managed and protected, the importance of data&nbsp;...
+
+- **3. Google&#39;s newest Gemini <b>AI</b> model focuses on efficiency | TechCrunch** [link](https://techcrunch.com/2025/04/09/googles-newest-gemini-ai-model-focuses-on-efficiency/)
+_Highlight:_ The model, Gemini 2.5 Flash, will soon launch in Vertex <b>AI</b>, Google&#39;s <b>AI</b> development platform. ... <b>Privacy</b> Policy &middot; RSS Terms of Use; <b>Privacy</b> Placeholder&nbsp;...
+
+- **4. Understanding real-world <b>biases</b> in <b>AI</b> medical models** [link](https://medicalbuyer.co.in/understanding-real-world-biases-in-ai-medical-models/)
+_Highlight:_ Understanding real-world <b>biases</b> in <b>AI</b> medical models. April 10, 2025. <b>Artificial intelligence</b> models may recommend different treatments for the same&nbsp;...
+
+- **5. Google Sheets has a new <b>AI</b> function — how does it perform on classification tasks?** [link](https://onlinejournalismblog.com/2025/04/10/google-sheets-has-a-new-ai-function-how-does-it-perform-on-classification-tasks/)
+_Highlight:_ Gender classification: looking for <b>biases</b>. Attempting to classify gender using the <b>AI</b> function was revealing. You might think a name like “Lisa” would&nbsp;...
+
+- **6. The Ethics of <b>AI</b> in Healthcare - Sify** [link](https://www.sify.com/ai-analytics/the-ethics-of-ai-in-healthcare/)
+_Highlight:_ Addressing Algorithmic <b>Bias</b> ... <b>AI</b> models have been highly useful in uncovering hidden disease patterns by analysing highly diverse clinical datasets.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
