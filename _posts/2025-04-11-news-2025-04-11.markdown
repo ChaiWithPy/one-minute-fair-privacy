@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-11 One-Minute Post
+date: 2025-04-11 07:31:58 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Amazon CEO urges heavy investment in AI, while Vast.ai achieves SOC 2 Type I certification for AI security. Deepfakes in school cyberbullying raise concerns, as XStereotype CEO is named in AI Trailblazers Power 100. NTT Research details 'Physics of AI' group to address bias concerns. Trump administration announces overhaul of federal AI policy to enhance fairness. Senators demand disclosures from tech giants on AI partnerships to ensure market fairness. Government pressure on regulators could prompt premature AI adoption, raising concerns about fairness of decisions.
+
+## Articles we found interesting:
+
+- **1. Amazon CEO Andy Jassy urges companies to invest heavily in <b>AI</b> - TechCrunch** [link](https://techcrunch.com/2025/04/10/amazon-ceo-andy-jassy-urges-companies-to-invest-heavily-in-ai/)
+_Highlight:_ Amazon declined to comment further. Topics. <b>AI</b>, <b>ai</b> infrastructure, Amazon, <b>artificial intelligence</b>, AWS, chips, Enterprise ... <b>Privacy</b> Policy &middot; RSS&nbsp;...
+
+- **2. The rise of <b>AI</b> &#39;reasoning&#39; models is making benchmarking more expensive | TechCrunch** [link](https://techcrunch.com/2025/04/10/the-rise-of-ai-reasoning-models-is-making-benchmarking-more-expensive/)
+_Highlight:_ “(Was it ever science, lol)”. Topics. <b>AI</b>, <b>ai</b> benchmarks, <b>AI</b> reasoning models ... <b>Privacy</b> Policy &middot; RSS Terms of Use; <b>Privacy</b> Placeholder 1; <b>Privacy</b>&nbsp;...
+
+- **3. Vast.<b>ai</b> Achieves Security Milestone with SOC 2 Type I Certification - Yahoo Finance** [link](https://finance.yahoo.com/news/vast-ai-achieves-security-milestone-160500419.html)
+_Highlight:_ ... <b>confidentiality</b>, and <b>privacy</b> ... Founded in 2018, Vast.<b>ai</b> is the leading cloud GPU platform for <b>AI</b> &amp; ML. The&nbsp;...
+
+- **4. <b>AI</b> &#39;Deepfakes&#39;: A Disturbing Trend in School Cyberbullying | NEA** [link](https://www.nea.org/nea-today/all-news-articles/ai-deepfakes-disturbing-trend-school-cyberbullying)
+_Highlight:_ ... <b>AI</b> use in classrooms and developed recommendations and guidelines for teachers using <b>AI</b>. ... <b>AI</b> racial <b>bias</b>. Does <b>AI</b> Have a <b>Bias</b> Problem? As <b>AI</b>&nbsp;...
+
+- **5. Adweek Names Larry Adams, CEO of XStereotype, to Inaugural 2025 <b>AI</b> Trailblazers Power 100** [link](https://www.silicon.co.uk/press-release/adweek-names-larry-adams-ceo-of-xstereotype-to-inaugural-2025-ai-trailblazers-power-100)
+_Highlight:_ Designed as a trust layer for generative <b>AI</b>, Safeguard IQ helps companies ensure their outputs are contextually intelligent, <b>bias</b>-aware&nbsp;...
+
+- **6. The Laws Of Automation, NTT Research Details &#39;Physics Of <b>AI</b>&#39; Group - Forbes** [link](https://www.forbes.com/sites/adrianbridgwater/2025/04/10/the-laws-of-automation-ntt-research-details-physics-of-ai-group/)
+_Highlight:_ This new group aims to demystify concerns and <b>bias</b> around <b>AI</b> solutions to create a harmonious path forward for the coexistence of <b>AI</b> and humanity.”.
+
+- **7. Trump administration announces overhaul of federal <b>AI</b> policy | Biometric Update** [link](https://www.biometricupdate.com/202504/trump-administration-announces-overhaul-of-federal-ai-policy)
+_Highlight:_ While recognizing the potential of <b>AI</b> to enhance <b>fairness</b>, efficiency, and accuracy, the report also underscores the risks these technologies pose&nbsp;...
+
+- **8. Senators Give Google, Microsoft, Anthropic, OpenAI April 21 Deadline To Justify <b>AI</b> Ties** [link](https://www.ccn.com/news/technology/senators-google-microsoft-anthropic-openai-april-21-deadline-ai-ties/)
+_Highlight:_ Lawmakers are demanding detailed disclosures from tech giants on <b>artificial intelligence</b> partnerships that could undermine market <b>fairness</b>.
+
+- **9. Government Pressure on Regulators Could Prompt Premature <b>AI</b> Adoption and a Surge ... - JD Supra** [link](https://www.jdsupra.com/legalnews/government-pressure-on-regulators-could-7986854/)
+_Highlight:_ ... <b>fairness</b> of their decisions, particularly at a time when public authorities are increasingly turning to <b>Artificial Intelligence</b> (<b>AI</b>) for assistance.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
