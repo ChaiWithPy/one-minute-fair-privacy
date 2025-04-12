@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-12 One-Minute Post
+date: 2025-04-12 07:29:33 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Elon Musk's X is under investigation for using personal data to train Grok AI chatbot, while Trump's executive order aims to reshape policing by addressing biases. Additionally, new research suggests children's faces may reveal hidden gender biases, and the EU Digital Fairness Act aims to boost AI and protect critical sectors. Furthermore, AI platforms like ChatGPT and DeepSeek are being used to enhance judicial efficiency, and job interviews with AI are on the rise, emphasizing the need for fairness and ethical considerations in hiring decisions.
+
+## Articles we found interesting:
+
+- **1. Irish <b>privacy</b> watchdog investigates Elon Musk&#39;s X&#39;s use of personal data to train Grok <b>AI</b> chatbot** [link](https://www.ajc.com/news/nation-world/irish-privacy-watchdog-investigates-elon-musks-xs-use-of-personal-data-to-train-grok-ai-chatbot/PBBBHRPTBBE7LB363B2EMVRJDQ/)
+_Highlight:_ LONDON (AP) — Ireland&#39;s data <b>privacy</b> watchdog said Friday it&#39;s investigating Elon Musk&#39;s social media platform X over its use of personal data to&nbsp;...
+
+- **2. Irish <b>privacy</b> watchdog investigates Elon Musk&#39;s X&#39;s use of personal data to train Grok <b>AI</b> chatbot** [link](https://apnews.com/article/ireland-data-privacy-elon-musk-6458d4cc70f6b77af8034e64f45e752f)
+_Highlight:_ Ireland&#39;s data <b>privacy</b> watchdog says it&#39;s investigating Elon Musk&#39;s ... <b>artificial intelligence</b> chatbot Grok.
+
+- **3. Ireland&#39;s <b>Privacy</b> Watchdog Probes Musk&#39;s Grok <b>AI</b> Model - WSJ** [link](https://www.wsj.com/tech/irelands-privacy-watchdog-probes-musks-grok-ai-model-4779ba4e)
+_Highlight:_ Ireland&#39;s <b>Privacy</b> Watchdog Probes Musk&#39;s Grok <b>AI</b> Model &middot; The regulator says it is looking into whether Grok has been illegally trained on European user&nbsp;...
+
+- **4. How President Trump&#39;s <b>AI</b> executive order could reshape policing - Police1** [link](https://www.police1.com/artificial-intelligence/how-president-trumps-ai-executive-order-could-reshape-policing)
+_Highlight:_ To overcome concerns about equity, departments must ensure that the data used for predictive policing is carefully vetted to eliminate <b>biases</b>. Regular&nbsp;...
+
+- **5. Children&#39;s faces may reveal hidden gender <b>bias</b> - News-Medical.net** [link](https://www.news-medical.net/news/20250411/Childrens-faces-may-reveal-hidden-gender-bias.aspx)
+_Highlight:_ New research recently published in Archives of Sexual Behavior suggests children&#39;s gender <b>biases</b> can be reflected in their facial emotional&nbsp;...
+
+- **6. Three Steps Trump Should Take to Advance Government <b>AI</b> Adoption** [link](https://datainnovation.org/2025/04/three-steps-trump-can-take-to-advance-government-ai/)
+_Highlight:_ For example, the Department of Justice might require <b>AI</b> systems that ensure fairness and minimize <b>bias</b>, the Department of Energy might need secure&nbsp;...
+
+- **7. EU Digital <b>Fairness</b> Act is for business as much as consumers, says justice commissioner** [link](https://www.euronews.com/next/2025/04/11/eu-digital-fairness-act-is-for-business-as-much-as-consumers-says-justice-commissioner)
+_Highlight:_ Which country is leading the <b>AI</b> race? EU Commission presents plans to boost <b>AI</b>, protect critical sectors &middot; Europe says hypersonic weapons are&nbsp;...
+
+- **8. <b>AI</b> platforms such as ChatGPT and DeepSeek can enhance judicial efficiency: SC - Dawn** [link](https://www.dawn.com/news/1903540/ai-platforms-such-as-chatgpt-and-deepseek-can-enhance-judicial-efficiency-sc)
+_Highlight:_ “The allocation of cases within judicial systems is a foundational element of procedural <b>fairness</b>, and courts worldwide are increasingly adopting <b>AI</b>&nbsp;...
+
+- **9. Your Next Job Interview Might Be With an <b>AI</b>. Here&#39;s How to Ace It - Yahoo Tech** [link](https://tech.yahoo.com/articles/next-job-interview-might-ai-211537214.html)
+_Highlight:_ Despite <b>AI</b> benefits, human judgment is essential for hiring decisions to ensure <b>fairness</b> and ethical considerations. Picture this: you&#39;re in a job&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
