@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-13 One-Minute Post
+date: 2025-04-13 07:20:06 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Law professors support authors in AI copyright case against Meta. ChatGPT users can now improve privacy settings. India shapes AI laws after gender bias accusations. Tech CEO calls out big tech for algorithmic bias. Companies incorporate AI ethics to address biased content. Judicial officers urged to uphold fairness and integrity in AI era. AI improves security and fair play in smart casinos. Gender disparities in AI-generated hospital leadership images prompt discussions on fairness and bias in AI models.
+
+## Articles we found interesting:
+
+- **1. Law professors side with authors battling Meta in <b>AI</b> copyright case | TechCrunch** [link](https://techcrunch.com/2025/04/11/law-professors-side-with-authors-battling-meta-in-ai-copyright-case/)
+_Highlight:_ ... <b>AI</b> models on e-books without permission. The brief, filed on Friday in the ... <b>Privacy</b> Policy &middot; RSS Terms of Use; <b>Privacy</b> Placeholder 1; <b>Privacy</b>&nbsp;...
+
+- **2. How to improve ChatGPT <b>privacy</b>: Stop your data from training OpenAI models - Softonic** [link](https://en.softonic.com/articles/how-to-improve-chatgpt-privacy-stop-your-data-from-training-openai-models)
+_Highlight:_ When we use ChatGPT, our conversations can be collected and used to train future <b>AI</b> models. By default, OpenAI enables this setting for every use.
+
+- **3. Here&#39;s the Cost of Those <b>AI</b>-Generated Ghibli Images That No One is Talking About** [link](https://hackernoon.com/heres-the-cost-of-those-ai-generated-ghibli-images-that-no-one-is-talking-about)
+_Highlight:_ <b>Privacy</b> Concerns in <b>AI</b>-Driven Systems. It has already been hinted above that <b>AI</b> does not have any innate intelligence that can be credited to it. <b>AI</b>-&nbsp;...
+
+- **4. How India is Shaping <b>AI</b> &amp; Blockchain Laws Amid Global Scrutiny** [link](https://frontierindia.com/how-india-is-shaping-ai-blockchain-laws-amid-global-scrutiny/)
+_Highlight:_ In 2024, India was at a juncture between regulation and innovation when a major IT firm&#39;s <b>AI</b>-driven recruitment tool was accused of gender <b>bias</b>&nbsp;...
+
+- **5. The Fight for Democratized <b>AI</b>: Tech CEO Calls out Big Tech Tactics - Bitcoin.com News** [link](https://news.bitcoin.com/the-fight-for-democratized-ai-tech-ceo-calls-out-big-tech-tactics/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>). Good argues that the lack of ... He cites so-called algorithmic <b>bias</b>, which involves training <b>AI</b> models&nbsp;...
+
+- **6. 5 Ways Companies Are Incorporating <b>AI</b> Ethics - The Good Men Project** [link](https://goodmenproject.com/featured-content/5-ways-companies-are-incorporating-ai-ethics/)
+_Highlight:_ The KPMG survey found that the biggest consumer concerns are the spread of misinformation, fake news, and <b>biased</b> content, as well as the proliferation&nbsp;...
+
+- **7. DCJ Mwilu urges judicial officers to uphold <b>fairness</b>, independence and integrity** [link](https://www.capitalfm.co.ke/news/2025/04/dcj-mwilu-urges-judicial-officers-to-uphold-fairness-independence-and-integrity/)
+_Highlight:_ The judicial officers also delved into the Digital Revolution, Emerging Technologies and their Legal Implications including on <b>AI</b>, the ethical and&nbsp;...
+
+- **8. SMART CASINOS: HOW <b>AI</b> IMPROVES SECURITY, <b>FAIR</b> PLAY, AND PERSONALIZED GAMES** [link](https://assamtribune.com/article/smart-casinos-how-ai-improves-security-fair-play-and-personalized-games-1574029)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) has been instrumental in all these changes. We look at how this technology has boosted the casino sector and why other&nbsp;...
+
+- **9. (PDF) Gender Disparities in <b>AI</b>-generated Images of Hospital Leadership in the United States** [link](https://www.researchgate.net/publication/390604407_Gender_Disparities_in_AI-generated_Images_of_Hospital_Leadership_in_the_United_States)
+_Highlight:_ The literature addressing bias and fairness in AI models (<b>fair</b>-<b>AI</b>) is growing at a fast pace, making it difficult for novel researchers and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
