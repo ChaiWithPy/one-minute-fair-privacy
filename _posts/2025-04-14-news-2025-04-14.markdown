@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-04-14 One-Minute Post
+date: 2025-04-14 07:50:06 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OpenAI is set to require ID verification for access to future AI models, aiming to address bias and trust issues. Bhutan's civil servants are getting new AI guidelines that highlight the importance of addressing potential risks, including misinformation, bias, and privacy concerns. Meanwhile, AI automated systems are being questioned for potentially overlooking candidates' personal skills and contributing to creating bias. On the privacy front, there are concerns about protecting health data when using AI, and the potential legal personhood of AI systems, raising debates over privacy rights in the digital age. It's crucial to develop AI that is trustworthy, with a focus on security, privacy, and data ownership.
+
+## Articles we found interesting:
+
+- **1. Chatbot Confidential: How to Protect Your Health Data When Using <b>AI</b> - Wall Street Journal** [link](https://www.wsj.com/podcasts/google-news-update/chatbot-confidential-how-to-protect-your-health-data-when-using-ai/17a39571-794b-4b33-ae6a-693865d5ec60)
+_Highlight:_ ... <b>AI</b>. Nicole Nguyen: Hey, a quick reminder that we want to hear from you. Do you have any questions about using <b>AI</b> and protecting your <b>privacy</b>? Send&nbsp;...
+
+- **2. Develop <b>AI</b> that is trustworthy Agents, automation and applications - Medium** [link](https://medium.com/%40jjdspence/develop-ai-that-is-trustworthy-agents-automation-and-applications-be2c5e334c03)
+_Highlight:_ Develop <b>AI</b> that is trustworthy Agents, automation and applications. Centralize datasets focused on security, <b>privacy</b> and the ownership of data that&nbsp;...
+
+- **3. It&#39;s game over for people if <b>AI</b> gains legal personhood - The Hill** [link](https://thehill.com/opinion/technology/5244901-ai-systems-legal-bounds/)
+_Highlight:_ Courts have used 18th-century constitutional principles, like the Fourth Amendment, to define <b>privacy</b> rights in the digital age. Debates over&nbsp;...
+
+- **4. Be mindful that rejection cuts deep and lingers long | theHRD - The HR Director** [link](https://www.thehrdirector.com/features/recruitment/mindful-rejection-cuts-deep-lingers-long/)
+_Highlight:_ Do <b>AI</b>- automated systems that aim to eliminate any subjective human <b>bias</b> overlooking candidates personal skills and contribute to creating a&nbsp;...
+
+- **5. New <b>AI</b> guidelines for Bhutan&#39;s civil servants - Vietnam News** [link](https://vietnamnews.vn/world/1695796/new-ai-guidelines-for-bhutan-s-civil-servants.html)
+_Highlight:_ However, the guideline also highlights the importance of addressing potential risks, including misinformation, <b>bias</b>, and privacy concerns, which could&nbsp;...
+
+- **6. OpenAI set to require ID verification for access to future <b>AI</b> models - Techzine Europe** [link](https://www.techzine.eu/news/security/130531/openai-set-to-require-id-verification-for-access-to-future-ai-models/)
+_Highlight:_ Insight: Generative <b>AI</b> &middot; <b>AI</b> without ethics will never truly serve humanity. How to deal with <b>bias</b> and trust in <b>AI</b>. How do you innovate for a future&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
