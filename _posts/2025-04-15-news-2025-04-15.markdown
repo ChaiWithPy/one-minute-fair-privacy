@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-15 One-Minute Post
+date: 2025-04-15 07:36:09 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+NVIDIA plans to manufacture AI supercomputers in the US, while Meta uses public posts and AI interactions to train models in the EU, navigating privacy rules. Colombia's VP calls for confronting past colonial powers as UN forum opens, addressing bias in AI. Meanwhile, AI chatbots in contact centers are learning to escalate effectively, and AI in healthcare is being scrutinized for bias against Black patients. Malaysia embraces an AI revolution with a focus on knowledge, ethics, and fairness. Efforts are underway to build trust in AI and future legislation must consider AI's impact on fairness and compensation for news outlets.
+
+## Articles we found interesting:
+
+- **1. NVIDIA announces plans for fully US-manufactured <b>AI</b> supercomputers - Nextgov/FCW** [link](http://www.fcw.com/emerging-tech/2025/04/nvidia-announces-plans-fully-us-manufactured-ai-supercomputers/404541/%3Foref%3Dng-homepage-river)
+_Highlight:_ Your <b>Privacy</b> Choices; Exercise Your <b>Privacy</b> Rights &middot; Rep. Mark Green, R ... Together, the six companies have commissioned over a million square feet of&nbsp;...
+
+- **2. Windows&#39; Controversial Recall Is Back—Here&#39;s How to Control It - Gizmodo** [link](https://gizmodo.com/windows-controversial-recall-is-back-heres-how-to-control-it-2000589002)
+_Highlight:_ Microsoft&#39;s <b>AI</b>-powered Recall feature screenshots almost everything, and if you care about <b>privacy</b>, that still poses a problem.
+
+- **3. Meta to use public posts, <b>AI</b> interactions to train models in EU | Reuters** [link](https://www.reuters.com/technology/artificial-intelligence/meta-use-public-posts-ai-interactions-train-models-eu-2025-04-14/)
+_Highlight:_ While Meta <b>AI</b> was launched in the U.S. in 2023, its roll-out in Europe faced several hurdles due to the EU&#39;s stringent <b>privacy</b> and transparency rules.
+
+- **4. Colombia&#39;s VP calls on former colonial powers to confront past as UN forum opens | Reuters** [link](https://www.reuters.com/world/americas/colombias-vp-calls-former-colonial-powers-confront-past-un-forum-opens-2025-04-14/)
+_Highlight:_ ... <b>bias</b>&quot; from <b>AI</b>. &quot;Even <b>AI</b>, which holds such promise for humanity, too often mirrors and amplifies the same inequalities and racial <b>biases</b> that have&nbsp;...
+
+- **5. The Contact Center&#39;s New MVP? <b>AI</b> Chatbots That Know When to Escalate - CMS Wire** [link](https://www.cmswire.com/contact-center/the-contact-centers-new-mvp-ai-chatbots-that-know-when-to-escalate/)
+_Highlight:_ Christian Hed, CMO at Dstny, told CMSWire that he feels that &quot;algorithm aversion is the hurdle. Individuals could exhibit a <b>biased</b> assessment of an&nbsp;...
+
+- **6. <b>AI</b> in health care: the black box of prior authorization - KevinMD.com** [link](https://kevinmd.com/2025/04/ai-in-health-care-the-black-box-of-prior-authorization.html)
+_Highlight:_ The authors found that a widely used program was <b>biased</b> against Black patients, giving them a similar risk score as White patients even though,&nbsp;...
+
+- **7. Malaysia&#39;s <b>AI</b> revolution: Embracing the future with knowledge, ethics, and innovation — KP Chiew** [link](https://www.malaymail.com/news/what-you-think/2025/04/13/malaysias-ai-revolution-embracing-the-future-with-knowledge-ethics-and-innovation-kp-chiew/172895)
+_Highlight:_ What is artificial intelligence (AI)?. AI refers to a machine or ... Bias and <b>fairness</b> — <b>AI</b> can inherit human prejudice from data; Privacy&nbsp;...
+
+- **8. Building trust in <b>AI</b> - ADS Advance** [link](https://www.adsadvance.co.uk/building-trust-in-ai.html)
+_Highlight:_ ... <b>AI</b> to enhance security and efficiency without sacrificing <b>fairness</b> or trust. A roadmap for responsible <b>AI</b> The experiences of aerospace, defence&nbsp;...
+
+- **9. Future legislation compensating news outlets for content must account for <b>AI</b>: report** [link](https://ca.news.yahoo.com/future-legislation-compensating-news-outlets-151603670.html)
+_Highlight:_ ... <b>fairness</b> and compensation is shifting from platforms to <b>AI</b> chatbots. ADVERTISEMENT. Advertisement. They say <b>AI</b> companies are scrambling for high&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
