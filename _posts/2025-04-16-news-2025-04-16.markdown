@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-16 One-Minute Post
+date: 2025-04-16 07:13:28 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Microsoft's EVP of AI, Mustafa Suleyman, upgrades Copilot for user privacy. Meta faces privacy concerns in Europe. Viral AI doll raises privacy worries. Bias in AI systems addressed through synthetic data. Consumer trust in AI influenced by fairness, security, and accountability. Implementing AI in the public sector focuses on fair, secure, and accurate usage. Gender bias in AI being challenged for fairness, innovation, and economic inclusion.
+
+## Articles we found interesting:
+
+- **1. Mustafa Suleyman Details Microsoft Copilot&#39;s <b>AI</b> Upgrades Focused on User <b>Privacy</b> and Control** [link](https://cloudwars.com/cloud-wars-minute/mustafa-suleyman-details-microsoft-copilots-ai-upgrades-focused-on-user-privacy-and-control/)
+_Highlight:_ Microsoft&#39;s EVP of <b>AI</b>, Mustafa Suleyman, announced major Copilot updates focused on personalization, memory, and user control to set it apart in&nbsp;...
+
+- **2. Meta is once again playing with fire in Europe—and points to rivals Google and OpenAI** [link](https://fortune.com/2025/04/14/meta-ai-europe-privacy-conerns-eu-opeani-google/)
+_Highlight:_ The company&#39;s <b>AI</b> training efforts had been hampered by stringent European Union data <b>privacy</b> laws, which give people control over how their personal&nbsp;...
+
+- **3. Everyone wants the viral <b>AI</b> doll – but it&#39;s a <b>privacy</b> nightmare waiting to happen | TechRadar** [link](https://www.techradar.com/computing/cyber-security/everyone-wants-the-viral-ai-doll-but-its-a-privacy-nightmare-waiting-to-happen)
+_Highlight:_ Millions have already given away their face and sensitive data to jump on the latest viral <b>AI</b> trend.
+
+- **4. Shadow <b>AI</b>: the risks of the <b>AI</b> you don&#39;t see - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D04863517-8e5a-48dc-9582-4cc024dc0499)
+_Highlight:_ <b>Bias</b> and Other Ethical Issues: <b>Bias</b> is an issue that plagues most <b>AI</b> systems, and if a specific <b>AI</b> tool has been trained on <b>biased</b> datasets, this&nbsp;...
+
+- **5. Unlocking <b>AI&#39;s</b> Potential with Synthetic Data: A Secure, Scalable, and Unbiased Approach** [link](https://www.thefastmode.com/expert-opinion/41074-unlocking-ai-s-potential-with-synthetic-data-a-secure-scalable-and-unbiased-approach)
+_Highlight:_ <b>Bias</b> in <b>AI</b> is one of the most widely discussed challenges in <b>artificial intelligence</b> development. Traditional datasets often reflect the <b>biases</b>&nbsp;...
+
+- **6. Strategic <b>AI</b> readiness for cybersecurity: From hype to reality - Help Net Security** [link](https://www.helpnetsecurity.com/2025/04/16/ai-readiness-framework/)
+_Highlight:_ ... <b>bias</b>. Scalable infrastructure and secure deployment: <b>AI</b> models require high computational power to process large datasets and run complex&nbsp;...
+
+- **7. Study reveals key paradoxes influencing consumer trust in <b>AI</b> - FutureCIO** [link](https://futurecio.tech/study-reveals-key-paradoxes-influencing-consumer-trust-in-ai/)
+_Highlight:_ ... <b>AI</b> responsibly, prioritising <b>fairness</b>, security, and accountability. Succeeding in the <b>AI</b> era. &quot;For <b>AI</b> to deliver real business value&nbsp;...
+
+- **8. Implementing <b>AI</b> in the public sector: Four tips to enhance adoption | THINK Digital Partners** [link](https://www.thinkdigitalpartners.com/news/2025/04/15/implementing-ai-in-the-public-sector-four-tips-to-enhance-adoption/)
+_Highlight:_ You have to demonstrate the importance of the framework, why shortcuts shouldn&#39;t be taken, and the impact on <b>fair</b>, secure and accurate <b>AI</b> usage,”&nbsp;...
+
+- **9. Breaking the Gender Bias In The Age Of <b>AI</b> - BW People** [link](https://www.bwpeople.in/article/breaking-the-gender-bias-in-the-age-of-ai-553651)
+_Highlight:_ Empowering women in <b>AI</b> is essential for <b>fairness</b>, innovation, economic inclusion, and a truly representative technological future.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
