@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-18 One-Minute Post
+date: 2025-04-18 07:36:46 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Microsoft's Copilot raises privacy concerns. Trump's AI strategy omits bias references. Fujitsu's Kozuchi AI assists in EU AI compliance. Pinpoint Predictive achieves fairness certification for insurers. Arizona investigates AI data center energy fairness. AI and automation are transforming retail workforce management.
+
+## Articles we found interesting:
+
+- **1. Meeting Customer Expectations Amid Data <b>Privacy</b> and <b>AI</b> Concerns | CustomerThink** [link](https://customerthink.com/navigating-the-paradox-of-personalisation-meeting-customer-expectations-amid-data-privacy-and-ai-concerns/)
+_Highlight:_ Navigating the Paradox of Personalisation: Meeting Customer Expectations Amid Data <b>Privacy</b> and <b>AI</b> Concerns ... For more than a decade now, customer&nbsp;...
+
+- **2. Be A Doll: Before You Create That <b>AI</b> Avatar - CIO Africa** [link](https://cioafrica.co/be-a-doll-before-you-create-that-ai-avatar/)
+_Highlight:_ This trend, while entertaining, raises concerns about data <b>privacy</b> and digital safety. Uploading images and personal information linked to the likes&nbsp;...
+
+- **3. What Is Copilot? Everything You Need to Know About Microsoft&#39;s <b>AI</b> Tools - CNET** [link](https://www.cnet.com/tech/services-and-software/what-is-copilot-everything-you-need-to-know-about-microsofts-ai-tools/)
+_Highlight:_ But I&#39;ll talk more about that and other <b>privacy</b> concerns later. So, what exactly is Microsoft Copilot? It&#39;s an <b>AI</b> assistant, a chatbot, an app -- a&nbsp;...
+
+- **4. Analysis: How Trump <b>AI</b> strategy differs sharply from Biden&#39;s - STAT News** [link](https://www.statnews.com/2025/04/18/analysis-trump-ai-strategy-breaks-from-biden-focus-on-safety-risk-embraces-innovation-deregulation-growth/)
+_Highlight:_ In directives to federal agencies, Trump charts a different course for <b>AI</b>. President&#39;s memos delete some references to <b>bias</b>, risky health applications.
+
+- **5. Fujitsu Kozuchi <b>AI</b> technologies assist AKOS <b>AI</b> in delivering solutions for EU <b>AI</b> compliance** [link](https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0418-01.html)
+_Highlight:_ This package is based on the LLM <b>Bias</b> Diagnosis and evaluates <b>biases</b> across LLMs on various ethical topics. Users can assess publicly available LLMs&nbsp;...
+
+- **6. Medical school admissions are racing toward an <b>AI</b>-driven disaster - KevinMD.com** [link](https://kevinmd.com/2025/04/medical-school-admissions-are-racing-toward-an-ai-driven-disaster.html)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) large language models (LLMs) and the ... The hidden <b>bias</b> young female physicians face every day &middot; Anonymous&nbsp;...
+
+- **7. Pinpoint Predictive Achieves Independent <b>Fairness</b> Certification, Setting the Standard for ...** [link](https://www.prnewswire.com/news-releases/pinpoint-predictive-achieves-independent-fairness-certification-setting-the-standard-for-responsible-ai-in-insurance-302430916.html)
+_Highlight:_ PRNewswire/ -- Pinpoint Predictive, an actuarial <b>AI</b> platform for property and casualty insurers, empowers carriers to quantify risk and predict&nbsp;...
+
+- **8. <b>AI</b> infra brief: Power struggles behind <b>AI</b> growth - RCR Wireless News** [link](https://www.rcrwireless.com/20250416/energy/ai-infra-brief-power-ai)
+_Highlight:_ Arizona opens formal review into data center energy <b>fairness</b>. Arizona&#39;s Corporation Commission (ACC) has launched a formal investigation into whether&nbsp;...
+
+- **9. <b>AI</b> and the future of <b>fair</b> and efficient workforce scheduling - International Supermarket News** [link](https://internationalsupermarketnews.com/archives/19410)
+_Highlight:_ Eoin Houlihan, VP EMEA at Legion Technologies, discusses how <b>AI</b> and intelligent automation can transform retail workforce management,&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
