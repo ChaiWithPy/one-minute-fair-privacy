@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-19 One-Minute Post
+date: 2025-04-19 07:19:20 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI systems are being regulated to ensure privacy and fairness in the workplace. MineOS releases an AI tool for automated data privacy management. Digital racism is confronted, demanding reparations for bias in AI and digital platforms. Keith Call discusses the hazards of AI, including bias, at a judges conference. Governments are urged to reduce bias in AI models to transform public sector services. AI is being used to combat tariff evasion, with a focus on algorithmic fairness. Ethical considerations in AI development are emphasized for lowering risks and biases. AI tools in arbitration must ensure fairness, as fairness cannot be computed but must be experienced justly.
+
+## Articles we found interesting:
+
+- **1. No Robo Bosses: Proposed Legislation to Curb <b>AI</b> in the Workplace - Law Offices of Snell &amp; Wilmer** [link](https://www.swlaw.com/publication/no-robo-bosses-proposed-legislation-to-curb-ai-in-the-workplace/)
+_Highlight:_ ... <b>privacy</b>, and fairness. As <b>AI</b> systems become more sophisticated and widespread, the potential has grown significantly for ADS to make employment&nbsp;...
+
+- **2. Threats to Digital <b>Privacy</b>—and Ways to Protect It | Tufts Now** [link](https://now.tufts.edu/2025/04/18/threats-digital-privacy-and-ways-protect-it)
+_Highlight:_ “Our understanding of <b>privacy</b> will have to evolve” because of rapid changes in today&#39;s era of big data and <b>artificial intelligence</b>, Cao says. In the&nbsp;...
+
+- **3. MineOS Releases <b>AI</b> Agent for Automated Data <b>Privacy</b> Management** [link](https://www.corporatecomplianceinsights.com/mineos-releases-ai-agent-for-automated-data-privacy-management/)
+_Highlight:_ MineOS has launched an <b>AI</b>-powered <b>privacy</b> management tool to streamline regulatory compliance tasks for <b>privacy</b>, compliance and legal teams.
+
+- **4. Chavis Confronts Digital Racism And Demands Reparations At U.N. Forum - The Seattle Medium** [link](https://seattlemedium.com/chavis-urges-digital-justice/)
+_Highlight:_ ... <b>bias</b> embedded in <b>artificial intelligence</b> and across digital platforms. ... <b>AI</b>, and any form of digital <b>bias</b> and algorithmic discrimination&nbsp;...
+
+- **5. Keith Call Talks <b>AI</b> Use at Utah State Court District Judges Conference - Spencer Fane** [link](https://www.spencerfane.com/insight/keith-call-talks-ai-use-at-utah-state-court-district-judges-conference/)
+_Highlight:_ ... <b>AI</b> for Judges. Keith examined six hazards of <b>artificial intelligence</b>: inaccuracies or “hallucinations”; <b>bias</b>; deception, fraud, and misinformation&nbsp;...
+
+- **6. The <b>AI</b> imperative: 5 steps to transforming public sector services - Gulf Business** [link](https://gulfbusiness.com/steps-to-transform-public-sector-services-with-ai/)
+_Highlight:_ To build ethical AI systems, governments should: Reduce <b>bias</b>: <b>AI</b> models must be trained on diverse, representative datasets to prevent discrimination.
+
+- **7. Bridging the Gap: Applying Anti-Money Laundering Techniques and <b>AI</b> to Combat Tariff Evasion** [link](https://www.womblebonddickinson.com/us/insights/articles-and-briefings/bridging-gap-applying-anti-money-laundering-techniques-and-ai)
+_Highlight:_ Artificial Intelligence: The Game-Changer in Tariff Evasion Detection. AI ... Algorithmic <b>Fairness</b>: <b>AI</b> systems must be designed and monitored to&nbsp;...
+
+- **8. <b>AI</b> for Good: Ethical Considerations in the Age of <b>Artificial Intelligence</b> - Programming Insider** [link](https://programminginsider.com/ai-for-good-ethical-considerations-in-the-age-of-artificial-intelligence/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) ... In addition to lowering risks and biases, responsible <b>AI</b> development ensures accountability, transparency, and <b>fairness</b>.
+
+- **9. Consent Asymmetry, Synthetic Neutrality In Arbitration,When <b>AI</b> Tilts The Scales Of Justice** [link](https://www.livelaw.in/law-firms/law-firm-articles-/consent-asymmetry-synthetic-neutrality-in-arbitrationwhen-ai-tilts-the-scales-of-justice-289709)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) tools are increasingly used in ... <b>Fairness</b> cannot be computed; it must be experienced, and experienced justly.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
