@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-04-20 One-Minute Post
+date: 2025-04-20 07:15:04 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OpenAI's new reasoning AI models are hallucinating more. Real-time analytics news highlights AI agents for privacy compliance. DuckDuckGo introduces DuckAI for private AI interactions. Forbes discusses AI agents reshaping finance and the risk of automation bias. Crypto News explores hidden bias in financial AI and the potential for blockchain solutions. CBC News features a Canadian startup using AI to reduce biases in the hiring process, addressing microphone-related biases.
+
+## Articles we found interesting:
+
+- **1. OpenAI&#39;s new reasoning <b>AI</b> models hallucinate more - TechCrunch** [link](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/)
+_Highlight:_ In the meantime, Besiroglu wants you to know: Mechanize is hiring. Topics. <b>AI</b>, <b>AI</b> agents, epoch <b>ai</b>, Startups, TC ... <b>Privacy</b> Policy &middot; RSS Terms of Use&nbsp;...
+
+- **2. Real-time Analytics News for the Week Ending April 19 - RTInsights** [link](https://www.rtinsights.com/real-time-analytics-news-for-the-week-ending-april-19/)
+_Highlight:_ The <b>AI</b> Agent is purpose-built to help organizations easily and accurately fulfill <b>privacy</b> compliance requirements while aligning with the latest&nbsp;...
+
+- **3. DuckDuckGo - Interested in <b>AI</b> but worried about your <b>privacy</b>? We made this for you Duck ...** [link](https://m.facebook.com/duckduckgo/photos/interested-in-ai-but-worried-about-your-privacy-we-made-this-for-you-duckai-get-/1116488220523765/)
+_Highlight:_ We made this for you Duck.<b>ai</b> Get all the utility of chatting with popular <b>AI</b> models, with a free <b>privacy</b> layer. Our <b>AI</b> tools are always optional,&nbsp;...
+
+- **4. <b>AI</b> Agents As Customers: Rethinking The Marketplace Of The Future - Forbes** [link](https://www.forbes.com/sites/nizangpackin/2025/04/20/ai-agents-as-customers-rethinking-the-marketplace-of-the-future/)
+_Highlight:_ <b>AI</b> agents, powered by MCP, are becoming customers reshaping consumer finance. They promise speed but risk automation <b>bias</b> &amp; paywalling humans,&nbsp;...
+
+- **5. The hidden <b>bias</b> in financial <b>AI</b>—can blockchain finally solve it? | Opinion - Crypto News** [link](https://crypto.news/hidden-bias-in-financial-ai-can-blockchain-solve-it/)
+_Highlight:_ This <b>bias</b> doesn&#39;t just affect the traditional financial markets but also the decentralized finance and crypto ecosystems. Take <b>AI</b>-powered market&nbsp;...
+
+- **6. Could your microphone be affecting your job prospects? | CBC News** [link](https://www.cbc.ca/news/science/audio-bias-microphone-job-interview-1.7511558)
+_Highlight:_ WATCH | Using <b>AI</b> to eliminate <b>biases</b> in hiring: ... A Canadian startup is using <b>artificial intelligence</b> to try to reduce <b>bias</b> in the hiring process.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
