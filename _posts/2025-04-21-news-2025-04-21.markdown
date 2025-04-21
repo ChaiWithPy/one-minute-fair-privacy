@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-21 One-Minute Post
+date: 2025-04-21 07:30:04 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI action figures raise copyright and privacy concerns. Leading data privacy and AI counselor advises on AI governance. AI regulations prioritize bias audits. AI art trend reflects biases in training data. AI algorithms exhibit bias in recommendation models. AI's impact on jobs raises fairness, access, and regulation concerns. Patient Fairness platform uses AI to challenge medical billing injustice. The road ahead for AI in India emphasizes fair compensation for AI use.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> action figures the rage but raise copyright, <b>privacy</b> questions - NST Online** [link](https://www.nst.com.my/opinion/columnists/2025/04/1204861/ai-action-figures-rage-raise-copyright-privacy-questions)
+_Highlight:_ THE latest Internet obsession is one impossible to escape on social media: images of well-known figures in plastic toy packaging alongside&nbsp;...
+
+- **2. Arsen Kourinian - Los Angeles Times** [link](https://www.latimes.com/b2b/business-visionaries/business-of-law/arsen-kourinian)
+_Highlight:_ As partner at Mayer Brown, Arsen Kourinian is a leading data <b>privacy</b> and <b>artificial intelligence</b> (<b>AI</b>) counselor in Los Angeles, holding <b>AI</b>&nbsp;...
+
+- **3. Lily Li - Los Angeles Times** [link](https://www.latimes.com/b2b/business-visionaries/business-of-law/lily-li)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>), data <b>privacy</b> and protection. A Duke Law graduate, she advises on <b>AI</b> governance, CCPA, GDPR, NIST frameworks&nbsp;...
+
+- **4. The Impact of <b>AI</b> Regulations on Cybersecurity Strategy** [link](https://cybersecuritynews.com/ai-regulations-on-cybersecurity/)
+_Highlight:_ <b>Bias</b> and Fairness: Ensuring <b>AI</b> systems do not perpetuate or amplify <b>biases</b> is a regulatory and ethical priority, necessitating regular audits and&nbsp;...
+
+- **5. The Studio Ghibli <b>AI</b> Art Trend Might Be Fun—But It&#39;s Also a Privacy Nightmare - OnFocus** [link](https://www.onfocus.news/the-studio-ghibli-ai-art-trend-might-be-fun-but-its-also-a-privacy-nightmare/)
+_Highlight:_ Algorithmic <b>Bias</b>. <b>AI</b> generators often reflect the <b>biases</b> in their training data, favoring certain races, body types, or beauty standards. This can&nbsp;...
+
+- **6. In Support of Serendipity - INSEAD Knowledge** [link](https://knowledge.insead.edu/marketing/support-serendipity)
+_Highlight:_ <b>AI</b> algorithms are powerful tools, but we shouldn&#39;t ignore the ... Existing <b>AI</b>-driven recommendation models tend to exhibit a <b>bias</b> towards&nbsp;...
+
+- **7. <b>AI</b> could affect 40 per cent of jobs worldwide: report - Dunya News** [link](https://dunyanews.tv/en/Technology/879538-ai-could-affect-40-per-cent-of-jobs-worldwide-report)
+_Highlight:_ As <b>artificial intelligence</b> advances rapidly, questions about <b>fairness</b>, access and regulation are becoming increasingly urgent. <b>AI</b> is expected to&nbsp;...
+
+- **8. How Patient <b>Fairness</b> is Using Technology to Challenge Medical Billing Injustice - TechBullion** [link](https://techbullion.com/empowering-patients-in-the-digital-age-how-patient-fairness-is-using-technology-to-challenge-medical-billing-injustice/)
+_Highlight:_ Through a blend of custom software, strategic use of <b>AI</b>, and deep industry insight, the platform helps patients push back against unfair charges and&nbsp;...
+
+- **9. <b>Artificial intelligence</b>: The road ahead for India - YourStory.com** [link](https://yourstory.com/2025/04/artificial-intelligence-ai-road-ahead-india-agi)
+_Highlight:_ <b>AI</b> won&#39;t replace people, but people who use <b>AI</b> will replace those who don&#39;t. Creativity, culture and <b>fair</b> compensation. One of the most urgent topics&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
