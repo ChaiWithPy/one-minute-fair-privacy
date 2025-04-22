@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-04-22 One-Minute Post
+date: 2025-04-22 07:35:44 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI technology is challenging audio privacy, while businesses are using AI for personalization with a focus on transparency. The Trump administration has issued an executive order to develop AI systems free from ideological bias. UC Davis Health has developed an AI model called BE-FAIR to address bias in predictive care, and Meta's anti-bias push is raising concerns.
+
+## Articles we found interesting:
+
+- **1. Protecting audio <b>privacy</b>: Speech-filtering technology balances <b>privacy</b> and utility in smart devices** [link](https://techxplore.com/news/2025-04-audio-privacy-speech-filtering-technology.html)
+_Highlight:_ While these methods are fairly effective at making conversations indecipherable to humans, generative <b>AI</b> has complicated matters. Speech recognition&nbsp;...
+
+- **2. How <b>AI</b> personalization creates customized user experiences - TechTarget** [link](https://www.techtarget.com/searchenterpriseai/tip/How-AI-personalization-creates-customized-user-experiences)
+_Highlight:_ Businesses can drive revenue and boost user engagement with <b>AI</b> personalization techniques -- if they also ensure transparency and data <b>privacy</b>.
+
+- **3. Surveillance And <b>Privacy</b> Are Technology Reporter Kashmir Hill&#39;s Greatest Concerns** [link](https://thedmonline.com/surveillance-and-privacy-are-technology-reporter-kashmir-hills-greatest-concerns/)
+_Highlight:_ Kashmir Hill, a features writer on the business desk at The New York Times, spoke about the promises and problems of <b>artificial intelligence</b>,&nbsp;...
+
+- **4. Trump Administration Issues <b>AI</b> Memoranda and Executive Order with Government Contracts Impacts** [link](https://www.hklaw.com/en/insights/publications/2025/04/trump-administration-issues-ai-memoranda-and-executive-order)
+_Highlight:_ Executive Order 14179. Issued on Jan. 23, 2025, EO 14179 focuses on the development of &quot;<b>AI</b> systems that are free from ideological <b>bias</b> or engineered&nbsp;...
+
+- **5. UC Davis Health&#39;s BE-FAIR algorithm aims to fix <b>bias</b> in predictive care - Sacramento ...** [link](https://www.bizjournals.com/sacramento/news/2025/04/21/uc-davis-health-ai-be-fair-model-equity.html)
+_Highlight:_ UC Davis Health developed a custom <b>AI</b> model called BE-FAIR to identify patients most at risk of hospitalization and reduce care disparities.
+
+- **6. Meta&#39;s move on <b>AI bias</b> raises risk, eyebrows - Axios** [link](https://www.axios.com/2025/04/21/meta-ai-bias-fight-llama)
+_Highlight:_ Why it matters: Meta&#39;s anti-<b>bias</b> push appears to be an effort to cater to the right&#39;s war on &quot;woke&quot; <b>AI</b> and less about model neutrality, according to&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
