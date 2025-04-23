@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-23 One-Minute Post
+date: 2025-04-23 07:19:42 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI risk management frameworks are crucial for privacy concerns. Lace AI raises $14M for revenue generation software. Android users are taking steps to protect their privacy. As AI systems advance, questions about bias and accountability emerge. Chinese espionage vulnerabilities in AI datacenters are reported. Responsible AI governance is crucial for India's leadership. AI bias may be impacting Filipino job seekers. The intersection of AI ethics, cybersecurity, and finance raises concerns.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> Risk Management Frameworks to Manage Risks in <b>Artificial Intelligence</b> Systems | Osano** [link](https://www.jdsupra.com/legalnews/ai-risk-management-frameworks-to-manage-5746651/)
+_Highlight:_ The more data you collect to train your model, the greater the potential impact of a breach, which is both a security and <b>privacy</b> concern. Finally,&nbsp;...
+
+- **2. Ex-Meta engineer raises $14M for Lace <b>AI</b>, a revenue generation software startup** [link](https://techcrunch.com/2025/04/22/ex-meta-engineer-raises-14m-for-lace-an-ai-powered-revenue-generation-software-startup/)
+_Highlight:_ It plans to triple the size of the company with its new funding. Topics. <b>AI</b>, Canvas Ventures, Exclusive, Lace <b>AI</b>, Startups ... <b>Privacy</b> Policy &middot; RSS&nbsp;...
+
+- **3. 7 simple things I always do on Android to protect my <b>privacy</b> - and why you should too** [link](https://www.zdnet.com/article/7-simple-things-i-always-do-on-android-to-protect-my-privacy-and-why-you-should-too/)
+_Highlight:_ How <b>AI</b> is transforming organizations everywhere &middot; The intersection of ... Go to Settings &gt; &quot;Security &amp; <b>privacy</b>&quot; &gt; &quot;<b>Privacy</b> controls&quot; &gt; Ads &gt; &quot;Ad <b>privacy</b>&nbsp;...
+
+- **4. Latest World Tech News: <b>AI</b>, Robotics, Trends - Programming Insider** [link](https://programminginsider.com/latest-world-tech-news-ai-robotics-trends/)
+_Highlight:_ As <b>AI</b> systems become more sophisticated, questions about privacy, <b>bias</b>, accountability, and human autonomy emerge alongside technical breakthroughs.
+
+- **5. Exclusive: Every <b>AI</b> Datacenter Is Vulnerable to Chinese Espionage, Report Says - Time** [link](https://time.com/7279123/ai-datacenter-superintelligence-china-trump-report/)
+_Highlight:_ “According to former insiders, poor controls at many frontier <b>AI</b> labs originally stem from a cultural <b>bias</b> towards speed over security.
+
+- **6. How to Use Generative <b>AI</b> Without Losing Your Job | Built In** [link](https://builtin.com/artificial-intelligence/how-use-generative-ai-safely)
+_Highlight:_ Be aware of potential algorithmic <b>bias</b> and <b>AI</b> ethics concerns in your interactions. Implement sensitive data protection measures and be mindful of&nbsp;...
+
+- **7. Harnessing <b>AI</b> for good: India&#39;s leadership in responsible <b>AI</b> - YourStory.com** [link](https://yourstory.com/enterprise-story/2025/04/harnessing-ai-for-good-india-leadership)
+_Highlight:_ While tools like ChatGPT have demonstrated <b>AI&#39;s</b> rapid adoption, they have also underscored the pressing need for responsible governance to&nbsp;...
+
+- **8. Is <b>AI</b> bias hurting Filipino job seekers? - People Matters Global** [link](https://www.peoplemattersglobal.com/article/talent-acquisition/is-ai-bias-hurting-filipino-job-seekers-45273)
+_Highlight:_ Is the promise of <b>AI</b> recruitment efficiency worth the risk of hiring discrimination.
+
+- **9. <b>AI</b> Ethics, Cybersecurity and Finance: Navigating the Intersection - Hackread** [link](https://hackread.com/ai-ethics-cybersecurity-finance-navigating-intersection/)
+_Highlight:_ <b>Artificial intelligence</b> is transforming industries, but its adoption raises ethical and cybersecurity concerns, especially in the regulated&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
