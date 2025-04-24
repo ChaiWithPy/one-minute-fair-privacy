@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-04-24 One-Minute Post
+date: 2025-04-24 07:08:03 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Law firms are urged to engage with AI providers with strict data privacy measures. China's AI assistants address privacy, consent, and transparency. AI-enabled MedTech in APAC faces challenges such as bias, discrimination, fake content, misinformation, privacy, and security. Consolidated Analytics integrates AI tools for bias detection in appraisal practices. Cognitive biases in emergency pelvic and first-trimester US imaging are being addressed. Additionally, a new AI news app is decoding newspaper bias.
+
+## Articles we found interesting:
+
+- **1. Balancing innovation and caution: How lawyers should integrate <b>AI</b> into legal practice** [link](https://www.reuters.com/legal/legalindustry/balancing-innovation-caution-how-lawyers-should-integrate-ai-into-legal-practice-2025-04-23/)
+_Highlight:_ Law firms must engage with <b>AI</b> providers that have strict data <b>privacy</b> measures, such as zero data retention agreements with their infrastructure&nbsp;...
+
+- **2. China&#39;s &#39;Smart&#39; <b>AI</b> Assistants Echo Microsoft Recall&#39;s <b>Privacy</b> Flaws - Forbes** [link](https://www.forbes.com/sites/viviantoh/2025/04/23/chinas-smart-ai-assistants-echoes-microsoft-recalls-privacy-flaws/)
+_Highlight:_ ... <b>AI</b> developers are addressing <b>privacy</b>, consent and transparency. Smart <b>AI</b> Assistants Expand Capabilities and Access. The key technical enabler&nbsp;...
+
+- **3. Regulatory Landscape for <b>AI</b>-enabled MedTech in APAC | Insights | Ropes &amp; Gray LLP** [link](https://www.ropesgray.com/en/insights/viewpoints/102k97d/regulatory-landscape-for-ai-enabled-medtech-in-apac)
+_Highlight:_ However, they present challenges and concerns, such as bias and discrimination, fake content and misinformation, <b>privacy</b> and security, ethical issues,&nbsp;...
+
+- **4. Consolidated Analytics changes appraisals from &quot;Art&quot; to &quot;Science&quot; - Housing Wire** [link](https://www.housingwire.com/articles/consolidated-analytics-how-technology-is-reshaping-appraisal-practices/)
+_Highlight:_ They&#39;re integrating <b>artificial intelligence</b> (<b>AI</b>) tools, such as computer vision and <b>bias</b> detection technology. In this executive conversation&nbsp;...
+
+- **5. Addressing Cognitive <b>Biases</b> in Emergency Pelvic and First-Trimester US - RSNA** [link](https://www.rsna.org/news/2025/april/cognitive-biases-in-pelvic-imaging)
+_Highlight:_ <b>AI</b> resources and training &middot; Radiology Reimagined &middot; RSNA Imaging <b>AI</b> ... “Cognitive <b>biases</b>, such as confirmation <b>bias</b> highlighted in our study, are&nbsp;...
+
+- **6. Student Submission: A Take on <b>AI</b> - Inklings News** [link](https://www.inklingsnews.com/opinions/2025/04/23/student-submission-a-take-on-ai/)
+_Highlight:_ ... <b>AI</b>. Before this article, I didn&#39;t realize what the production ... New <b>AI</b> news app decodes newspaper <b>bias</b>. RTM members (left to right)&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
