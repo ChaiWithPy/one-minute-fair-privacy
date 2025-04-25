@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-25 One-Minute Post
+date: 2025-04-25 07:22:04 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+NIST releases Privacy Framework 1.1 to address AI risks. Dutch regulator warns against Meta AI. Students learn about AI bias at district event. California Bar sparks debate over fairness of AI-generated questions. Tranquility AI under scrutiny for alleged election plotter.
+
+## Articles we found interesting:
+
+- **1. NIST Updates <b>Privacy</b> Framework to Address <b>AI</b> Risks and Security Gaps - ID Tech** [link](https://idtechwire.com/nist-updates-privacy-framework-to-address-ai-risks-and-security-gaps/)
+_Highlight:_ The National Institute of Standards and Technology (NIST) has released the initial public draft of <b>Privacy</b> Framework version 1.1 (PFW 1.1),&nbsp;...
+
+- **2. Dutch <b>privacy</b> regulator latest to warn against use of Meta <b>AI</b> - Euronews.com** [link](https://www.euronews.com/next/2025/04/24/dutch-privacy-regulator-latest-to-warn-against-use-of-meta-ai)
+_Highlight:_ The Dutch <b>privacy</b> watchdog Autoriteit Persoonsgegevens (AP) is the latest regulator to warn Meta&#39;s Facebook, Instagram and Whatsapp users that&nbsp;...
+
+- **3. Amazon and Nvidia say <b>AI</b> data center demand is not slowing down - CNBC** [link](https://www.cnbc.com/2025/04/24/amazon-and-nvidia-say-ai-data-center-demand-is-not-slowing-down-.html)
+_Highlight:_ ... <b>AI</b> model is more ... Advertise With Us. Please Contact Us &middot; <b>Privacy</b> Policy; California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **4. Students across the district learn about <b>AI</b> at event - Adams 12 Five Star Schools** [link](https://www.adams12.org/newsroom/news-details/~board/five-star-stories/post/students-across-the-district-learn-aboutai-at-event)
+_Highlight:_ ... <b>AI</b> Week. Students demonstrated interactive activities in machine learning, ethical decision-making, <b>AI bias</b>, and real-world <b>AI</b> applications.
+
+- **5. Strategic Governance of <b>AI</b>: A Roadmap for the Future** [link](https://corpgov.law.harvard.edu/2025/04/24/strategic-governance-of-ai-a-roadmap-for-the-future/)
+_Highlight:_ Unethical use or <b>bias</b>. Importance of <b>AI</b> governance. Effective <b>AI</b> governance is crucial for supporting the board&#39;s oversight of <b>AI</b>. It can enable&nbsp;...
+
+- **6. Public comments to White House on <b>AI</b> policy touch on copyright, tariffs | TechCrunch** [link](https://techcrunch.com/2025/04/24/public-comments-to-white-house-on-ai-policy-touch-on-copyright-tariffs/)
+_Highlight:_ In truth, <b>bias</b> in <b>AI</b> is an intractable technical problem. Musk&#39;s <b>AI</b> company, xAI, has itself struggled to create a chatbot that doesn&#39;t endorse&nbsp;...
+
+- **7. <b>AI</b> in the US legal system? California Bar sparks controversy with machine-generated questions** [link](https://timesofindia.indiatimes.com/education/news/ai-in-the-us-legal-system-california-bar-sparks-controversy-with-machine-generated-questions/articleshow/120583716.cms)
+_Highlight:_ As reported by the Los Angeles Times, concerns center around the <b>fairness</b>, validity, and transparency of <b>AI</b>-generated content. Additional issues&nbsp;...
+
+- **8. California Bar Exam Controversy <b>AI</b>-Generated Questions Stir Debate - MSN** [link](https://www.msn.com/en-us/news/technology/california-bar-exam-controversy-ai-generated-questions-stir-debate/ar-AA1DuPxe)
+_Highlight:_ This controversy revolves around the introduction of <b>AI</b>-generated questions, bringing to the fore significant debates about validity, <b>fairness</b>, and&nbsp;...
+
+- **9. <b>AI</b> Firm Behind Mysterious Trump Donation Is Run by Alleged Election Overthrow Plotter** [link](https://theintercept.com/2025/04/23/tranquility-ai-nonprofit-trump-inauguration-donor/)
+_Highlight:_ ... <b>Fairness</b> was created only months ago and has little public profile beyond a barebones website. The institute was funded by the startup Tranquility <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
