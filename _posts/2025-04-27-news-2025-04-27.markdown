@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-27 One-Minute Post
+date: 2025-04-27 07:03:06 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+China's President Xi Jinping emphasizes overcoming AI chip challenges. Meanwhile, the EU AI Act and NIST AI RMF are reshaping transparency and privacy expectations. India's AI Kiran Initiative aims to mitigate algorithmic bias. Sarvam AI receives government backing to address Western bias in AI. Companies are urged to develop clear parameters around AI use, focusing on safety, fairness, and privacy.
+
+## Articles we found interesting:
+
+- **1. Xi says China must &#39;overcome&#39; <b>AI</b> chip challenges - France 24** [link](https://www.france24.com/en/live-news/20250426-xi-says-china-must-overcome-ai-chip-challenges)
+_Highlight:_ Manage my <b>privacy</b> settings. Advertising. Home &middot; Live news. Xi says China must &#39;overcome&#39; <b>AI</b> chip challenges. Beijing (AFP) – President Xi Jinping said&nbsp;...
+
+- **2. <b>AI</b> won&#39;t replace doctors — it will upgrade them** [link](https://thehill.com/opinion/healthcare/5267466-ai-replacing-doctors-future/)
+_Highlight:_ Tags <b>AI Artificial intelligence</b> Bill Gates doctors medical care. Copyright ... <b>PRIVACY</b> POLICY 11/18/2024; TERMS &amp; CONDITIONS &middot; CONTACT &middot; ADVERTISE.
+
+- **3. <b>Artificial Intelligence</b> News for the Week of April 25; Updates from Adobe, Docker, Nexthink &amp; More** [link](https://solutionsreview.com/artificial-intelligence-news-for-the-week-of-april-25-updates-from-adobe-docker-nexthink-more/)
+_Highlight:_ New frameworks like the EU <b>AI</b> Act, NIST <b>AI</b> RMF, and U.S. state-level laws are reshaping expectations around transparency, accountability, and <b>privacy</b>&nbsp;...
+
+- **4. <b>AI</b> Kiran Initiative - GKToday** [link](https://www.gktoday.in/ai-kiran-platform/)
+_Highlight:_ This disparity puts stress on the urgent need for diverse leadership to mitigate algorithmic <b>bias</b> and enhance <b>AI</b> systems&#39; inclusivity. India&#39;s <b>AI</b>&nbsp;...
+
+- **5. Building An <b>AI</b>-Ready Malaysia: Why Data And <b>AI</b> Governance Must Take Centre Stage** [link](https://www.businesstoday.com.my/2025/04/27/building-an-ai-ready-malaysia-why-data-and-ai-governance-must-take-centre-stage/)
+_Highlight:_ ... <b>biases</b> in <b>AI</b> models. For example, in the financial sector, <b>AI</b>-powered ... <b>bias</b>-free. Striking the right balance between innovation and&nbsp;...
+
+- **6. Sarvam <b>AI</b> first to receive govt backing for indigenous LLM development - Daijiworld.com** [link](https://www.daijiworld.com/news/newsDisplay%3FnewsID%3D1278895)
+_Highlight:_ The government is keen to develop <b>AI</b> models suited to India&#39;s cultural and linguistic diversity, addressing concerns about the western <b>bias</b> seen in&nbsp;...
+
+- **7. Machine Learning Engineer Interview Preparation Course - Top FAANG ML Jobs 2025 ML ...** [link](https://finance.yahoo.com/news/machine-learning-engineer-interview-preparation-214600196.html)
+_Highlight:_ In recent years, the rapid advancement of <b>artificial intelligence</b> (<b>AI</b>) ... <b>fairness</b> and transparency in <b>AI</b>-driven decisions.​ Recognizing this&nbsp;...
+
+- **8. Balancing innovation in the age of regulation - India Today&#39;s Best Colleges** [link](https://bestcolleges.indiatoday.in/news-detail/balancing-innovation-in-the-age-of-regulation)
+_Highlight:_ ... <b>fair AI</b> deployment across sectors ... As globally we continue to explore, experiment with and embed AI into industry and wider society, we can ensure&nbsp;...
+
+- **9. Just 1% of executives believe their <b>AI</b> integration is &#39;mature&#39;. How can we rewire teams for success?** [link](https://www.managementtoday.co.uk/just-1-executives-believe-ai-integration-mature-rewire-teams-success/opinion-and-analysis/article/1915448)
+_Highlight:_ To grow responsibly, companies should think about developing clear parameters around the use of <b>AI</b>, addressing safety, <b>fairness</b>, privacy, and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
