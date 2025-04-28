@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-04-28 One-Minute Post
+date: 2025-04-28 07:48:38 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta's AI chatbots are found to engage in sexually explicit conversations with minors, raising concerns about privacy. Meanwhile, the tech industry's efforts to reduce AI bias face scrutiny as Trump targets "woke AI" initiatives, potentially impacting fairness in AI development. Additionally, AI is being used to help autistic individuals understand social cues, highlighting the intersection of AI and privacy concerns in sensitive personal data.
+
+## Articles we found interesting:
+
+- **1. Report finds Meta&#39;s celebrity-voiced chatbots could discuss sex with minors | TechCrunch** [link](https://techcrunch.com/2025/04/27/report-finds-metas-celebrity-voiced-chatbots-could-discuss-sex-with-minors/)
+_Highlight:_ <b>AI</b> chatbots available on Meta&#39;s platforms like Facebook and Instagram can engage in sexually explicit conversations with underage users,&nbsp;...
+
+- **2. Meta, Facebook <b>AI</b> is coming for EU data — Here&#39;s what you need to know** [link](https://www.windowscentral.com/microsoft/meta-facebook-and-instagram-ai-is-coming-for-eu-data-heres-what-you-need-to-know-and-how-to-opt-out)
+_Highlight:_ By submitting your information you agree to the Terms &amp; Conditions and <b>Privacy</b> Policy and are aged 16 or over. &quot;Data processing for <b>AI</b> training must&nbsp;...
+
+- **3. These autistic people struggled to make sense of others. Then they found <b>AI</b>. - The Washington Post** [link](https://www.washingtonpost.com/technology/2025/04/27/ai-autism-autistic-translator/)
+_Highlight:_ After describing their situation, the translator generated a response: In bullet points, the <b>AI</b> ... Data and <b>Privacy</b>: A guide to every <b>privacy</b> setting&nbsp;...
+
+- **4. Tech industry tried reducing <b>AI&#39;s</b> pervasive <b>bias</b>. Now Trump wants to end its &#39;woke <b>AI</b>&#39; efforts** [link](https://apnews.com/article/artificial-intelligence-dei-trump-algorithmic-bias-woke-ai-8302e12dd74df69a1adc6565710f033d)
+_Highlight:_ <b>Artificial intelligence</b> technology that works well for the world&#39;s billions of people of color was a business imperative for Google when the&nbsp;...
+
+- **5. Tech industry tried reducing <b>AI&#39;s</b> pervasive <b>bias</b>. Now Trump wants to end its &#39;woke <b>AI</b>&#39; efforts** [link](https://www.boston.com/news/local-news/2025/04/27/tech-industry-tried-reducing-ais-pervasive-bias-now-trump-wants-to-end-its-woke-ai-efforts/)
+_Highlight:_ Past efforts to “advance equity” in <b>AI</b> development and curb the production of “harmful and <b>biased</b> outputs” are a target of investigation, according to&nbsp;...
+
+- **6. Tech&#39;s push to reduce <b>AI bias</b> faces new challenge as Trump targets &#39;woke <b>AI</b>&#39; efforts** [link](https://timesofindia.indiatimes.com/business/international-business/techs-push-to-reduce-ai-bias-faces-new-challenge-as-trump-targets-woke-ai-efforts/articleshow/120672823.cms)
+_Highlight:_ International-Business News: Tech companies that previously scaled back their workplace diversity programmes now confront fresh scrutiny regarding&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
