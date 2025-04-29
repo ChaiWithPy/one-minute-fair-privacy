@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-04-29 One-Minute Post
+date: 2025-04-29 07:03:39 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+FTC updates children's privacy rule. Microsoft releases Recall AI feature after security concerns. NIST to address AI-cyber challenges. Ethical and regulatory maze around AI. Concerns about AI risks. Workplace AI fairness. Avoiding ethical red flags in AI projects. Bias in generative AI. Attracting and retaining female tech talent. Risks of rushing to use AI.
+
+## Articles we found interesting:
+
+- **1. FTC unveils updated children&#39;s <b>privacy</b> rule - SC Media** [link](https://www.scworld.com/brief/updated-childrens-privacy-rule-unveiled)
+_Highlight:_ Accelerated advancements in <b>artificial intelligence</b> were noted by OpenAI CEO Sam Altman to be a significant challenge in creating and adopting <b>privacy</b>&nbsp;...
+
+- **2. Forthcoming NIST profile to address growing <b>AI</b>-cyber challenges - Nextgov/FCW** [link](http://www.fcw.com/cybersecurity/2025/04/forthcoming-nist-profile-address-growing-ai-cyber-challenges/404887/%3Foref%3Dng-homepage-river)
+_Highlight:_ ... <b>AI</b> by focusing on risk reduction, defense strategies and improved <b>privacy</b>. Cybersecurity and intelligence officials have argued that <b>AI</b> systems&nbsp;...
+
+- **3. Microsoft releases Recall <b>AI</b> feature following delay over security concerns - Tech Monitor** [link](https://www.techmonitor.ai/digital-economy/big-tech/microsoft-releases-recall-ai-feature)
+_Highlight:_ Originally unveiled in May 2024, Microsoft&#39;s Recall faced criticism for potential <b>privacy</b> risks, prompting the company to postpone its launch and&nbsp;...
+
+- **4. Navigating the ethical and regulatory maze around using <b>AI</b> - New Electronics** [link](https://www.newelectronics.co.uk/content/features/ai-navigating-the-ethical-and-regulatory-maze)
+_Highlight:_ As <b>AI</b> and automation become increasingly prevalent in manufacturing, the potential for algorithmic <b>bias</b> to influence quality control processes is a&nbsp;...
+
+- **5. 6 Ways to Attract And Retain Female Tech Talent - I by IMD** [link](https://www.imd.org/ibyimd/brain-circuits/6-ways-to-attract-and-retain-female-tech-talent/)
+_Highlight:_ <b>Bias</b> in Generative <b>AI</b>: A risk that must be addressed now &middot; Putting boardroom gender balance plans to the test. Authors. Sarah Toms. Sarah E. Toms.
+
+- **6. Today&#39;s <b>AI</b> Risks Are Scarier Than Doomsday Predictions, Study Finds - SciTechDaily** [link](https://scitechdaily.com/todays-ai-risks-are-scarier-than-doomsday-predictions-study-finds/)
+_Highlight:_ A new University of Zurich study shows that people are more concerned about the immediate risks of <b>AI</b>, like <b>bias</b> and misinformation, than about&nbsp;...
+
+- **7. You Must Build Workplace <b>AI</b> Behind A Veil Of Ignorance - Forbes** [link](https://www.forbes.com/sites/natebennett/2025/04/28/you-must-build-workplace-ai-behind-a-veil-of-ignorance/)
+_Highlight:_ But as we embrace <b>AI</b> to optimize operations, the question of <b>fairness</b> is receiving insufficient attention: How do we guaranty the tools we&nbsp;...
+
+- **8. Think about the risks before rushing to use <b>AI</b> | FMT** [link](https://www.freemalaysiatoday.com/category/opinion/2025/04/27/think-about-the-risks-before-rushing-to-use-ai/)
+_Highlight:_ Blindly accepting AI&#39;s output for convenience can also compromise <b>fairness</b>. <b>AI</b> systems learn from the data they are fed, and if this data contains&nbsp;...
+
+- **9. How to Avoid Ethical Red Flags in Your <b>AI</b> Projects - IEEE Spectrum** [link](https://spectrum.ieee.org/ai-ethics-advice)
+_Highlight:_ For instance, there are many different definitions of <b>fairness</b> in <b>AI</b>. Determining which definition applies requires consultation with the affected&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
