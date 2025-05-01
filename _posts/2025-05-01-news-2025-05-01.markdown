@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-01 One-Minute Post
+date: 2025-05-01 07:08:35 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+WhatsApp introduces private AI chats in the cloud to address privacy concerns. Meanwhile, AI-generated identity misrepresents users, highlighting the need to address bias in AI. Goodby Silverstein & Partners implements a Supercharged process to remove bias, emphasizing the importance of fairness in AI. Additionally, TELUS joins a global AI framework, prioritizing fairness, safety, and responsible AI adoption. The evolution of the Highly Cited Researchers list aims to promote fairness and accuracy. Transparency in AI for biomedical and behavioral research is crucial for fostering trust and fairness.
+
+## Articles we found interesting:
+
+- **1. Novel WhatsApp feature adds <b>AI</b> while maintaining data <b>privacy</b> - SC Media** [link](https://www.scworld.com/brief/novel-whatsapp-feature-adds-ai-while-maintaining-data-privacy)
+_Highlight:_ Mounting data <b>privacy</b> concerns surrounding <b>artificial intelligence</b> service providers have prompted WhatsApp to announce the new Private Processing&nbsp;...
+
+- **2. Meta Is Attempting to Bring <b>Privacy</b>-Focused <b>AI</b> to WhatsApp, Mirroring Apple&#39;s Approach** [link](https://tech.yahoo.com/ai/articles/meta-attempting-bring-privacy-focused-040100682.html)
+_Highlight:_ Meta is bringing a <b>privacy</b>-focused <b>AI</b> process to WhatsApp, taking an approach similar to Apple&#39;s new approach for its messaging platform. This new&nbsp;...
+
+- **3. WhatsApp is working on private <b>AI</b> chats in the cloud | The Verge** [link](https://www.theverge.com/news/658646/whatsapp-is-working-on-private-ai-chats-in-the-cloud)
+_Highlight:_ It also wants to ensure that independent third parties are “able to audit the behavior of Private Processing to independently verify our <b>privacy</b> and&nbsp;...
+
+- **4. You, According To <b>AI</b>: Why Gen <b>AI</b> Misreads Identity And How To Respond - Forbes** [link](https://www.forbes.com/sites/dianaspehar/2025/05/01/you-according-to-ai-why-gen-ai-misreads-identity-and-how-to-respond/)
+_Highlight:_ <b>AI</b>-generated identity often reflects online <b>bias</b> more than users themselves. Understanding how <b>AI</b> misrepresents identity helps reclaim agency and&nbsp;...
+
+- **5. Jennifer Gomes puts DEI at the core of Goodby Silverstein &amp; Partners&#39; work - Ad Age** [link](https://adage.com/events-awards/a-list-creativity/aa-jennifer-gomes-gsp-dei-champion-creativity-awards-2025)
+_Highlight:_ The agency&#39;s head of inclusion and impact co-designed GS&amp;P&#39;s Supercharged process, launched in 2024, an agency-wide approach for removing <b>bias</b> and&nbsp;...
+
+- **6. The ethical considerations of autonomous decision-making: A practitioner&#39;s view - DQIndia** [link](https://www.dqindia.com/opinion/the-ethical-considerations-of-autonomous-decision-making-a-practitioners-view-9020930)
+_Highlight:_ <b>Bias</b> in <b>AI</b> isn&#39;t theoretical, it&#39;s something we encounter in real-world ... Because of this, <b>bias</b> mitigation is now embedded into our <b>AI</b> lifecycle:.
+
+- **7. TELUS Becomes First Canadian Company to Join Global <b>AI</b> Framework | TU Stock News** [link](https://www.stocktitan.net/news/TU/advancing-trustworthy-ai-globally-telus-is-the-first-canadian-sb2z1deh40qe.html)
+_Highlight:_ The company&#39;s Chief Data &amp; Trust Officer, Pam Snively, emphasizes TELUS&#39;s commitment to responsible <b>AI</b> adoption that prioritizes <b>fairness</b>, safety, and&nbsp;...
+
+- **8. The continuing evolution of the Highly Cited Researchers list — to promote <b>fairness</b> ... - Clarivate** [link](https://clarivate.com/academia-government/blog/the-continuing-evolution-of-the-highly-cited-researchers-list-to-promote-fairness-accuracy-and-research-integrity/)
+_Highlight:_ ... <b>AI</b>. Pushing the boundaries of research and learning with <b>AI</b> you can trust. Scientific and Academic Research Connecting data, solutions and&nbsp;...
+
+- **9. Promoting transparency in <b>AI</b> for biomedical and behavioral research | Nature Medicine** [link](https://www.nature.com/articles/s41591-025-03680-0)
+_Highlight:_ Transparency ensures stakeholders can make informed decisions about data and model reuse, fostering trust and <b>fairness</b> while aligning with regulatory&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
