@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-02 One-Minute Post
+date: 2025-05-02 07:30:14 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Shawn Tuma champions the intersection of AI, cybersecurity, and privacy. Wealth management advisors cite data privacy and algorithmic bias as top concerns. New Jersey's Attorney General provides guidance on bias-based harassment stemming from AI use. Researchers warn of subtle bias and cultural erasure in AI writing tools. FCA's new AI testing service emphasizes the importance of fairness, transparency, and accountability. Labor rights in the AI era must embrace environmental justice for fair employment. Navigating AI ethics requires transparency, fairness, and accountability in project evaluation.
+
+## Articles we found interesting:
+
+- **1. Shawn Tuma Discusses Unique Intersection of <b>AI</b> and Faith at Dallas Baptist University** [link](https://www.spencerfane.com/insight/shawn-tuma-discusses-unique-intersection-of-ai-and-faith-at-dallas-baptist-university/)
+_Highlight:_ For his presentation – Faith in the Digital Age: Navigating the Crossroads of Generative <b>AI</b>, Cybersecurity, and <b>Privacy</b> – Shawn championed the&nbsp;...
+
+- **2. I&#39;ve worked in <b>AI</b> for 15 years. There are a few telltale signs of <b>AI</b> washing. - Business Insider** [link](https://www.businessinsider.com/ai-washing-signs-john-fitzpatrick-nitro-cto-apple-engineer-2025-4)
+_Highlight:_ Some businesses rebranded as <b>AI</b>, despite few real changes. Regulated industries need to be especially watchful for hallucination, <b>privacy</b>, and other&nbsp;...
+
+- **3. <b>AI</b> in Wealth Management: Advisors Opine on Transforming Advice, Personalisation, and Efficiency** [link](https://www.hubbis.com/article/ai-in-wealth-management-advisors-opine-on-transforming-advice-personalisation-and-efficiency)
+_Highlight:_ Data <b>privacy</b>, algorithmic bias, explainability of <b>AI</b>-driven outputs, and regulatory compliance were cited repeatedly as top concerns. Firms must&nbsp;...
+
+- **4. New Jersey&#39;s Attorney General and Division on Civil Rights Starts 2025 With Guidance on <b>AI</b> ...** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D618c0eb8-77f1-4418-ae8b-1fa96ffbee13)
+_Highlight:_ ... <b>bias</b>-based harassment stemming from the use of <b>artificial intelligence</b> (<b>AI</b>) and other advanced technologies.” As part of the Initiative, the DCR&nbsp;...
+
+- **5. Using <b>artificial intelligence</b> to bridge the divide in mental health care** [link](https://hospitalhealthcare.com/in-depth/health-technology/using-artificial-intelligence-to-bridge-the-divide-in-mental-health-care/)
+_Highlight:_ <b>Bias</b> and fairness. <b>AI</b> algorithms are susceptible to <b>bias</b>,<sup>26</sup> reflecting and perpetuating existing inequalities within healthcare systems. <b>Biases</b> in&nbsp;...
+
+- **6. Researchers Call Out <b>AI</b> Colonialism in Writing Tools, Warning of Subtle <b>Bias</b> and Cultural Erasure** [link](https://www.digitalinformationworld.com/2025/05/researchers-call-out-ai-colonialism-in.html)
+_Highlight:_ The researchers say that there are hidden cultural <b>biases</b> in <b>AI</b> writings, and most of them favor Western styles. When Indians used <b>AI</b> tools for&nbsp;...
+
+- **7. Capco - FCA&#39;s new <b>AI</b> testing service incredibly positive but careful design is key for success** [link](https://ifamagazine.com/capco-fcas-new-ai-testing-service-incredibly-positive-but-careful-design-is-key-for-success/)
+_Highlight:_ “Trust in <b>AI</b> is critical as organisations start to roll out scaled <b>AI</b> ... <b>fairness</b>, transparency, and accountability before they reach the market.
+
+- **8. The Soul Of Labour: Workers&#39; Rights In The <b>AI</b> Era - BW People** [link](https://www.bwpeople.in/article/the-soul-of-labour-workers-rights-in-the-ai-era-555508)
+_Highlight:_ <b>Fair</b> employment must embrace environmental justice, ensuring labourers thrive amid a warming planet. Labour&#39;s Soul: Beyond Wages and Hours What is&nbsp;...
+
+- **9. Navigating <b>AI</b> ethics: ANN and ANFIS for transparent and accountable project evaluation ...** [link](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1535845/epub)
+_Highlight:_ <b>AI</b>-powered project decision-making raises profound ethical stakes transparency, <b>fairness</b>, accountability, privacy, security, and societal impact (&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
