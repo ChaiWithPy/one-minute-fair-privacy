@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-03 One-Minute Post
+date: 2025-05-03 07:05:14 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI and cybersecurity law struggle to keep up with privacy concerns. Meanwhile, there are new questions about national identity documents and privacy. On the other hand, there are discussions about AI biases in journalism and healthcare, with concerns about gaming AI benchmarks for fairness. Additionally, USPS is prioritizing ethical and inclusive automation with fairness checks and zero-trust security.
+
+## Articles we found interesting:
+
+- **1. From <b>AI</b> Rights to Neuro <b>Privacy</b>, Cybersecurity Law Struggles to Keep Up | PCMag** [link](https://www.pcmag.com/news/ai-rights-neuro-privacy-cybersecurity-law-struggles-to-keep-up-rsac-2025)
+_Highlight:_ ... <b>AI</b> holograms to the <b>privacy</b> of your own thoughts. Ruth Bro, a <b>privacy</b> and cybersecurity attorney, noted that we have been concerned about&nbsp;...
+
+- **2. Beyond Real ID deadline panic, national identity document plan raises new <b>privacy</b> questions** [link](https://www.cnbc.com/2025/05/02/real-id-deadline-identity-government-privacy.html)
+_Highlight:_ More In Technology Executive Council &middot; <b>AI</b> ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **3. The 2025 Lawdragon 500 Leading Global Cyber Lawyers** [link](https://www.lawdragon.com/guides/2025-05-02-the-2025-lawdragon-500-leading-global-cyber-lawyers)
+_Highlight:_ Rebecca S. Engrav, Perkins Coie, Seattle, <b>Privacy</b>, Data Security, <b>AI</b>. Keith, Enright, Gibson Dunn, Palo Alto, <b>Privacy</b>, Cybersecurity,&nbsp;...
+
+- **4. FAQ: La Nacion interview in English | Online Journalism Blog** [link](https://onlinejournalismblog.com/2025/05/03/faq-la-nacion-interview-in-english/)
+_Highlight:_ There is a danger of anthropomorphising <b>AI</b> as “<b>biased</b>”, but it&#39;s not <b>biased</b> in the same way a person is. It is better to talk of its plural <b>biases</b>, or&nbsp;...
+
+- **5. Media Freedom Coalition and Freedom Online Coalition Statement on World Press ...** [link](https://www.auswaertiges-amt.de/en/newsroom/news/world-press-freedom-day-2025-2716554)
+_Highlight:_ ... <b>AI</b> in journalism. <b>AI</b> presents both opportunities and challenges for ... <b>bias</b> or manipulation. <b>AI</b> should be a tool to reinforce, not weaken&nbsp;...
+
+- **6. Multiple sclerosis: <b>AI</b> detects crucial transition point - healthcare-in-europe.com** [link](https://healthcare-in-europe.com/en/news/multiple-sclerosis-ai-transition.html)
+_Highlight:_ Generative <b>AI</b> can detect and quantify cognitive <b>biases</b> of human caregivers during medical emergency situations. This way, LLMs could help reduce the&nbsp;...
+
+- **7. New study accuses LM Arena of gaming its popular <b>AI</b> benchmark - Ars Technica** [link](https://arstechnica.com/ai/2025/05/researchers-claim-lm-arenas-ai-leaderboard-is-biased-against-open-models/)
+_Highlight:_ The popular <b>AI</b> vibe test may not be as <b>fair</b> as it seems.
+
+- **8. Leaderboard illusion: How big tech skewed <b>AI</b> rankings on Chatbot Arena - Computerworld** [link](https://www.computerworld.com/article/3976355/leaderboard-illusion-how-big-tech-skewed-ai-rankings-on-chatbot-arena.html)
+_Highlight:_ Meta, Google, and OpenAI allegedly exploited undisclosed private testing on Chatbot Arena to secure top rankings, raising concerns about <b>fairness</b>&nbsp;...
+
+- **9. Inside USPS&#39;s Plan to Reinvent Customer Service With <b>AI</b> - CMS Wire** [link](https://www.cmswire.com/contact-center/inside-uspss-plan-to-reinvent-customer-service-with-ai/)
+_Highlight:_ <b>AI</b> with guardrails. By building <b>fairness</b> checks and zero-trust security into its systems, USPS is prioritizing ethical and inclusive automation.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
