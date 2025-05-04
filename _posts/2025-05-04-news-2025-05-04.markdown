@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-04 One-Minute Post
+date: 2025-05-04 07:05:16 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google is launching Gemini A.I. chatbot for kids, raising concerns about privacy. Delhi schools are introducing an A.I. curriculum focusing on ethics, bias, and privacy. Meanwhile, the government is reaffirming its commitment to press freedom amid challenges of A.I. and misinformation. Additionally, there's a call for reform in A.I. benchmarking practices to ensure fairness across the A.I. community. These developments highlight the growing importance of addressing privacy, bias, and fairness in the rapidly advancing field of artificial intelligence.
+
+## Articles we found interesting:
+
+- **1. Google Plans to Roll Out Gemini <b>A.I.</b> Chatbot to Children Under 13 - The New York Times** [link](https://www.nytimes.com/2025/05/02/technology/google-gemini-ai-chatbot-kids.html)
+_Highlight:_ ... <b>A.I.</b> products. “Gemini Apps will soon be available for your child ... <b>Privacy</b> Protection Act. That federal law requires online services aimed&nbsp;...
+
+- **2. Trump posts <b>AI</b>-generated photo of himself dressed as the pope - CNBC** [link](https://www.cnbc.com/2025/05/03/trump-pope-ai-image.html)
+_Highlight:_ The White House posted an <b>AI</b>-generated photo of President Donald Trump depicted as the pope. ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon&nbsp;...
+
+- **3. VC balances <b>AI</b> potential with avoiding its own extinction - Axios** [link](https://www.axios.com/2025/05/02/venture-capital-ai-marc-andreessen)
+_Highlight:_ After all, who needs human relationships when <b>AI</b> agents can just connect with other <b>AI</b> agents? ... <b>Privacy</b> policy &middot; Terms of use; Your <b>Privacy</b> Choices.
+
+- **4. Delhi schools to launch <b>AI</b> curriculum by IIT Madras for Classes 6-10 from May 8 - MSN** [link](https://www.msn.com/en-in/money/news/delhi-schools-to-launch-ai-curriculum-by-iit-madras-for-classes-6-10-from-may-8/ar-AA1E5YOf%3Focid%3Dfinance-verthp-feeds)
+_Highlight:_ More importantly, it dives into practical applications of <b>AI</b> and covers essential topics like ethics, <b>bias</b>, privacy, and accountability. These&nbsp;...
+
+- **5. <b>AI</b> Literacy Curriculum Framework to be launched for students from Grades 6 to 10 in Delhi** [link](https://connectgujarat.com/education/ai-literacy-curriculum-framework-to-be-launched-for-students-from-grades-6-to-10-in-delhi-9029067)
+_Highlight:_ An <b>Artificial Intelligence</b> (<b>AI</b>) ... It also includes the societal impact of <b>AI</b>, highlighting its potential benefits and the ethics, <b>bias</b>, privacy, and&nbsp;...
+
+- **6. Gov&#39;t reaffirms commitment to press freedom amid rising challenges of <b>AI</b> and misinformation** [link](https://newsroom.gy/2025/05/03/govt-reaffirms-commitment-to-press-freedom-amid-rising-challenges-of-ai-and-misinformation/)
+_Highlight:_ ... <b>bias</b>. Minister within the Office of the Prime Minister with Responsibility for Public Affairs, Kwame McCoy (Photo: DPI/Tuesday, May 16, 2023). “In&nbsp;...
+
+- **7. Government reaffirms commitment to Press Freedom amid <b>AI</b> challenges – Kwakye Ofosu** [link](https://www.myjoyonline.com/government-reaffirms-commitment-to-press-freedom-amid-ai-challenges-kwakye-ofosu/)
+_Highlight:_ “Without a journalist anchored in <b>fairness</b>, credibility, and ethical judgment, <b>AI</b> risks becoming a force that undermines the very freedoms it could&nbsp;...
+
+- **8. Social Security Announces Major Reversal on Clawbacks, <b>Fairness</b> Act Kicks in for Millions in 2025** [link](https://otenews.com/social-security-announces-major-reversal-on-clawbacks-fairness-act-kicks-in-for-millions-in-2025/)
+_Highlight:_ Increased reliance on <b>AI</b> and digital verification for fraud prevention. While touted as cost-cutting, these actions have sparked accessibility&nbsp;...
+
+- **9. <b>AI</b> Benchmarks Are Broken : The Leaderboard Illusion - Geeky Gadgets** [link](https://www.geeky-gadgets.com/ai-leaderboard-flaws-explained/)
+_Highlight:_ The <b>AI</b> community is urged to reform benchmarking practices to ensure <b>fair</b> ... <b>fairness</b> across the <b>AI</b> community. Focus on Real-World Applications&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
