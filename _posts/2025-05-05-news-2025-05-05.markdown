@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-05 One-Minute Post
+date: 2025-05-05 07:15:11 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI adoption is on the rise, but privacy concerns loom. Microsoft's Copilot and Anthropic's Claude prioritize privacy. Meanwhile, the tech industry is addressing AI bias, with CII releasing a guidebook for responsible AI governance. In Korea, there are calls for democratic oversight to prevent algorithmic control.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> adoption: Unleash it wisely, or risk it running wild - The Financial Express** [link](https://www.financialexpress.com/life/technology-ai-adoption-unleash-it-wisely-or-risk-it-running-wild-3832317/)
+_Highlight:_ <b>AI</b>, technology, IT sector, <b>Artificial Intelligence</b>, data <b>privacy</b> Ramprakash Ramamoorthy. By Ramprakash Ramamoorthy. The allure of <b>AI</b> in enterprises&nbsp;...
+
+- **2. Crypto VC funding: Camp Network, Miden each secure $25 million** [link](https://crypto.news/crypto-vc-funding-camp-network-miden-each-secure-25-million/)
+_Highlight:_ The data also shows continued interest in <b>privacy</b>, <b>AI</b>, and DeFi-focused solutions. Here&#39;s a breakdown of this week&#39;s crypto funding activity as&nbsp;...
+
+- **3. Intimidated by <b>AI</b>? Here&#39;s How to Get Started - WSJ** [link](https://www.wsj.com/tech/ai/using-ai-tips-prompts-chatbots-61d0964c)
+_Highlight:_ Microsoft&#39;s Copilot has a beginner-friendly interface. Anthropic markets Claude as &#39;<b>privacy</b>-first&#39; <b>AI</b>.
+
+- **4. Generative and Agentic <b>AI</b> in Insurance: Breaking Down the Risks and Opportunities** [link](https://www.insurancejournal.com/blogs/iat/2025/05/05/822210.htm)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) ... Input Risks: These arise from how <b>AI</b> is trained, particularly concerning data accuracy, <b>bias</b>, and copyright issues.
+
+- **5. O.P. Jindal Global University Announces the Establishment of the Cyril Shroff Centre for <b>AI</b> ...** [link](https://www.tribuneindia.com/news/business/o-p-jindal-global-university-announces-the-establishment-of-the-cyril-shroff-centre-for-ai-law-regulation/)
+_Highlight:_ ... <b>bias</b>, and propose ethical <b>AI</b> regulatory frameworks. * Legal Tech and <b>AI</b> Regulation: Study <b>AI&#39;s</b> role in transforming legal practice, dispute&nbsp;...
+
+- **6. OP Jindal Global University announces establishment of Cyril Shroff Centre for <b>AI</b>, Law &amp; Regulation** [link](https://www.socialnews.xyz/2025/05/05/op-jindal-global-university-announces-establishment-of-cyril-shroff-centre-for-ai-law-regulation/)
+_Highlight:_ ... <b>bias</b>, and propose ethical <b>AI</b> regulatory frameworks. Legal Tech and <b>AI</b> Regulation: Study <b>AI&#39;s</b> role in transforming legal practice, dispute&nbsp;...
+
+- **7. Tech industry tried reducing <b>AI&#39;s</b> pervasive bias. Now Trump wants to end its &#39;woke <b>AI</b>&#39; efforts** [link](https://www.newsbreak.com/the-daily-sun-1591630/3991368938390-tech-industry-tried-reducing-ai-s-pervasive-bias-now-trump-wants-to-end-its-woke-ai-efforts)
+_Highlight:_ <b>Artificial intelligence</b> technology that works well for the world&#39;s billions of people of color was a business imperative for Google when the&nbsp;...
+
+- **8. CII Unveils Guidebook to Empower Board Leaders with Responsible <b>AI</b> Governance** [link](https://munsifdaily.com/cii-unveils-guidebook-to-empower-board-leaders/)
+_Highlight:_ In a bid to equip business leaders with the tools to manage the responsible adoption and governance of <b>Artificial Intelligence</b> (<b>AI</b>),&nbsp;...
+
+- **9. Reich warns against algorithmic control and calls for democratic oversight in Korea** [link](https://biz.chosun.com/en/en-it/2025/05/04/Y75BASFR7FHMDMB74S7SDGSN6U/)
+_Highlight:_ Rob Reich, a leading scholar in the field of science and technology ethics and a professor at Stanford University, emphasized the need for proper&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
