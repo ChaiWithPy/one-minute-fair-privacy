@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-06 One-Minute Post
+date: 2025-05-06 07:22:40 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Nvidia claims AI breakthroughs, Microsoft fights cybercrime with AI, and legal considerations for AI. Schneier warns of AI integrity loss due to corporate bias. Microsoft addresses bias in custom AI models. Responsible Gen AI in finance manages risk and bias. Pacific journalism faces new AI challenges. NCA-F hosts workshop on AI fairness standards. AI-powered crypto whales manipulate market fairness.
+
+## Articles we found interesting:
+
+- **1. Nvidia unveiled an ambitious <b>AI</b> blueprint at ICLR 2025 - Fast Company** [link](https://www.fastcompany.com/91327731/nvidia-says-ai-will-lead-to-breakthroughs-in-everything-from-biotech-to-autonomous-vehicles)
+_Highlight:_ But global chip giant Nvidia is now making a bolder claim: the next chapter of <b>AI</b> ... This site is protected by reCAPTCHA and the Google <b>Privacy</b> Policy&nbsp;...
+
+- **2. Microsoft partners with Global Anti-Scam Alliance to fight cybercrime** [link](https://www.microsoft.com/en-us/security/blog/2025/05/05/microsoft-partners-with-global-anti-scam-alliance-to-fight-cybercrime/)
+_Highlight:_ As part of that responsibility, Microsoft published a whitepaper in July 2024 and highlighted <b>AI</b> ... <b>Privacy</b> at Microsoft &middot; Investors &middot; Diversity and&nbsp;...
+
+- **3. Legal and Regulatory Considerations for States Related to <b>Artificial Intelligence</b>** [link](https://www.nga.org/updates/legal-and-regulatory-considerations-for-states-related-to-artificial-intelligence/)
+_Highlight:_ ... <b>AI</b> on a broad range of issues, including ethical governance and use, <b>privacy</b> concerns, intellectual property, consumer protection, risk management&nbsp;...
+
+- **4. Schneier warns that <b>AI</b> loses integrity due to corporate <b>bias</b> - The Register** [link](https://www.theregister.com/2025/05/06/schneier_ai_models/)
+_Highlight:_ RSAC Corporate <b>AI</b> models are already skewed to serve their makers&#39; interests, and unless governments and academia step up to build transparent&nbsp;...
+
+- **5. Microsoft on how custom <b>AI</b> offers your business better answers, lower costs, faster innovation** [link](https://www.zdnet.com/article/microsoft-on-how-custom-ai-offers-your-business-better-answers-lower-costs-faster-innovation/)
+_Highlight:_ ZDNET: How does Microsoft address concerns around <b>bias</b>, fairness, and transparency in custom <b>AI</b> models? EB: Today, we offer over 30 tools and 100&nbsp;...
+
+- **6. Responsible Gen <b>AI</b> in Finance: Managing Risk, <b>Bias</b>, and Compliance - Loktej English** [link](https://english.loktej.com/article/18357/responsible-gen-ai-in-finance-managing-risk-bias-and-compliance)
+_Highlight:_ <b>Bias</b> in <b>AI</b> is often a reflection of the data it is trained on. In financial services, <b>biased</b> models can unintentionally discriminate in credit&nbsp;...
+
+- **7. PINA on World Press Freedom Day – facing new and complex <b>AI</b> challenges** [link](https://eveningreport.nz/2025/05/05/pina-on-world-press-freedom-day-facing-new-and-complex-ai-challenges/)
+_Highlight:_ ... <b>Artificial Intelligence</b> (<b>AI</b>). ... Let us ensure that the future of journalism in the Pacific is guided by truth, <b>fairness</b>, and freedom — not by&nbsp;...
+
+- **8. NCA-F Hosts Workshop on <b>AI</b> Standards for Telecommunications &amp; ICTs - PIB** [link](https://pib.gov.in/PressReleasePage.aspx%3FPRID%3D2127110)
+_Highlight:_ He underscored the Telecommunication Engineering Centre&#39;s (TEC) pivotal role in promoting ethical <b>AI</b> development through <b>fairness</b> assessments and&nbsp;...
+
+- **9. <b>AI</b>-Powered Crypto Whales: Are Secret Trading Bots Manipulating the Market?** [link](https://www.analyticsinsight.net/white-papers/ai-powered-crypto-whales-are-secret-trading-bots-manipulating-the-market)
+_Highlight:_ ... <b>fairness</b> and systemic stability in cryptocurrency trading. The Psychology of Bot-Driven Markets. <b>AI</b> bots exploit human emotions, such as fear and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
