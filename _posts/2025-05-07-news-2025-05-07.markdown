@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-05-07 One-Minute Post
+date: 2025-05-07 07:08:21 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+EU-U.S. Data Privacy Framework support eroding. Protopia AI partners with Lambda for privacy-preserving AI. Businesses face AI risks including bias and discrimination. Cities use AI-powered video surveillance, but face challenges of bias in algorithms. Bryant's Healthcare Summit explores AI's role and addresses bias in AI tools.
+
+## Articles we found interesting:
+
+- **1. Status Check: Support Is Quickly Eroding for the EU-U.S. Data <b>Privacy</b> Framework - Dykema** [link](https://www.dykema.com/32421.html)
+_Highlight:_ He has worked extensively with clients as they wrangle with the explosion of innovative and complicated <b>artificial intelligence</b> driven technologies,&nbsp;...
+
+- **2. 9 Emerging Use Cases for <b>AI</b> in TPRM | Corporate Compliance Insights** [link](https://www.corporatecomplianceinsights.com/9-emerging-use-cases-for-ai-in-tprm/)
+_Highlight:_ TPRM covers a wide range of compliance risk topics ranging from data <b>privacy</b> to anti-corruption to trade sanctions. This makes effective and efficient&nbsp;...
+
+- **3. Protopia <b>AI</b> and Lambda Announce Partnership to Provide Roundtrip Inference Data ...** [link](https://www.morningstar.com/news/pr-newswire/20250506da81080/protopia-ai-and-lambda-announce-partnership-to-provide-roundtrip-inference-data-protection-to-secure-llm-endpoints)
+_Highlight:_ AUSTIN, Texas and SAN JOSE, Calif., May 6, 2025 /PRNewswire/ -- Protopia <b>AI</b>, a pioneer in <b>privacy</b>-preserving <b>AI</b>, today announced a strategic&nbsp;...
+
+- **4. 7 biggest risks of <b>AI</b> for businesses - SoGlos** [link](https://www.soglos.com/hot-list/business/biggest-risks-of-ai-for-businesses/24681/)
+_Highlight:_ Privacy concerns about <b>AI</b> technologies. As well as <b>bias</b> and discrimination, privacy is a key area of ethical concern when it comes to <b>AI</b> systems&nbsp;...
+
+- **5. How these cities are utilizing <b>AI</b>-powered video surveillance - TNGlobal - TechNode Global** [link](https://technode.global/2025/05/07/how-these-cities-are-utilizing-ai-powered-video-surveillance/)
+_Highlight:_ Professionals are integrating <b>artificial intelligence</b> (<b>AI</b>) into ... <b>Bias</b>: An algorithm is only as unbiased as the data it&#39;s trained on. If&nbsp;...
+
+- **6. Bryant&#39;s annual Healthcare Summit explores <b>AI&#39;s</b> role in healthcare solutions | Bryant News** [link](https://news.bryant.edu/bryants-annual-healthcare-summit-explores-ais-role-healthcare-solutions)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) and work across sectors to find ... <b>bias</b> in <b>AI</b> tools, professional liability, and <b>AI</b> best practices. She&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
