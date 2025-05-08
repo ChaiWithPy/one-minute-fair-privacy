@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-08 One-Minute Post
+date: 2025-05-08 06:59:35 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+KPMG launches AI Trust services to transform AI governance, addressing privacy and security concerns. Mistral AI aims to lower barriers to privacy-respecting AI adoption. AI literacy helps recognize and mitigate bias in AI algorithms. UN Group of Friends reiterates commitment to fairness and inclusiveness in AI development.
+
+## Articles we found interesting:
+
+- **1. Address top <b>AI privacy</b> concerns with this 7-point checklist | TechTarget** [link](https://www.techtarget.com/searchenterpriseai/tip/Address-top-AI-privacy-concerns-with-this-checklist)
+_Highlight:_ Learn how to mitigate 6 top <b>AI privacy</b> concerns with a 7-step checklist covering data security, encryption, explainability, governance, and more.
+
+- **2. KPMG launches <b>AI</b> Trust services to transform <b>AI</b> governance, enabled by ServiceNow** [link](https://kpmg.com/xx/en/media/press-releases/2025/05/kpmg-launches-ai-trust-services-to-transform-ai-governance.html)
+_Highlight:_ As data <b>privacy</b> and security concerns increase for organizations, 82% of leaders see risk management as their biggest challenge and 73% said data&nbsp;...
+
+- **3. Mistral comes out swinging for enterprise <b>AI</b> customers with new Le Chat Enterprise, Medium 3 model** [link](https://venturebeat.com/ai/mistral-comes-out-swinging-for-enterprise-ai-customers-with-new-le-chat-enterprise-medium-3-model/)
+_Highlight:_ Mistral <b>AI</b> is making a concerted push to lower the barriers to scalable, <b>privacy</b>-respecting <b>AI</b> adoption for modern enterprises.
+
+- **4. How <b>AI</b> is Navigating the Chaos of Trade Compliance Amid President Trump&#39;s Tariff Turmoil** [link](https://www.globaltrademag.com/how-ai-is-navigating-the-chaos-of-trade-compliance-amid-president-trumps-tariff-turmoil/)
+_Highlight:_ Enter artificial intelligence (AI). In a world where trade rules ... <b>Bias</b>: <b>AI</b> can inherit biases from its training data, leading to flawed&nbsp;...
+
+- **5. <b>AI</b> Literacy - what does it mean for business? - TLT LLP** [link](https://www.tlt.com/insights-and-events/insight/ai-literacy---what-does-it-mean-for-business/)
+_Highlight:_ Risk Management: <b>AI</b> literacy helps recognise, plan for, and mitigate <b>AI</b>-related issues such as ethical concerns, <b>bias</b> in <b>AI</b> algorithms, and regulatory&nbsp;...
+
+- **6. Most women have yet to form an opinion about breast imaging <b>AI</b> - Radiology Business** [link](https://radiologybusiness.com/topics/artificial-intelligence/most-women-have-yet-form-opinion-about-breast-imaging-ai)
+_Highlight:_ “Addressing concerns that <b>AI</b> may exacerbate preexisting healthcare disparities and <b>biases</b> will be important. ... Along with worries about <b>bias</b>, a&nbsp;...
+
+- **7. UN Group of Friends reiterates <b>AI</b> commitment - World - Chinadaily.com.cn** [link](https://www.chinadaily.com.cn/a/202505/07/WS681ac2d6a310a04af22bddd2.html)
+_Highlight:_ &quot;We will continue to uphold <b>fairness</b> and inclusiveness, respect and protect the rights of developing countries to develop and utilize <b>AI</b> on an&nbsp;...
+
+- **8. We Need a Fourth Law of Robotics in the Age of <b>AI</b> | Towards Data Science** [link](https://towardsdatascience.com/we-need-a-fourth-law-of-robotics-in-the-age-of-ai/)
+_Highlight:_ So How <b>Fair</b> Is Your <b>AI</b>, Exactly? Machine Learning. About the challenge of getting the <b>fairness</b> objective right. Boris Ruf. February 24, 2023. 7 min&nbsp;...
+
+- **9. Challenges to education sector in <b>AI</b> era | The Express Tribune** [link](https://tribune.com.pk/story/2544337/challenges-to-education-sector-in-ai-era)
+_Highlight:_ 1. Providing <b>Fair</b> Access to <b>AI</b> Resources &middot; 2. Handling Ethical and Social Issues &middot; 3. Redefining the Role of Instructors &middot; 4. Modifying Curriculum and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
