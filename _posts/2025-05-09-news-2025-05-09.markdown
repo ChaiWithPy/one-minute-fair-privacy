@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-09 One-Minute Post
+date: 2025-05-09 07:35:01 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI is reshaping workplaces, but concerns about privacy and discrimination persist. Organizations are focusing on HIPAA compliance for AI in digital health, while the UN calls for gender bias avoidance in AI. The role of Chief AI Officer is emerging to manage risks like data privacy and model bias. In healthcare, AI's impact on bias and equity for Black patients is under discussion. Additionally, there is a growing emphasis on fairness, accountability, transparency, and ethics in AI, with a structured approach to ethics in AI projects. IAB Australia has launched an AI Working Group to provide practical industry guidance on AI use, bias, and fairness.
+
+## Articles we found interesting:
+
+- **1. Risk Management in the Modern Era of Workplace Generative <b>AI</b> - McDermott Will &amp; Emery** [link](https://www.mwe.com/insights/risk-management-in-the-modern-era-of-workplace-generative-ai/)
+_Highlight:_ ... <b>privacy</b>, <b>AI</b> regulations, and employment claims – specifically, alleged disparate impact discrimination and wage and hour infractions. This article&nbsp;...
+
+- **2. HIPAA Compliance for <b>AI</b> in Digital Health: What <b>Privacy</b> Officers Need to Know** [link](https://www.foley.com/insights/publications/2025/05/hipaa-compliance-ai-digital-health-privacy-officers-need-know/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) is rapidly reshaping the digital health sector, driving advances in patient engagement, diagnostics, and operational&nbsp;...
+
+- **3. CurioAI Series <b>AI</b> &amp; IP: Data in <b>AI</b>: The fuel that powers innovation (03/08) - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D7cbdafdd-8d31-44f9-a0a2-ae2ffe780645)
+_Highlight:_ At the heart of the <b>privacy</b> debate is the human element: individuals whose data fuels <b>AI</b> models. Often, data is harvested from publicly available&nbsp;...
+
+- **4. UN Calls for <b>Artificial Intelligence</b> to Avoid Replicating Historical Gender <b>Bias</b>** [link](https://observervoice.com/un-calls-for-artificial-intelligence-to-avoid-replicating-historical-gender-bias-116259/)
+_Highlight:_ Women and girls are being urged to take a leading role in the development and implementation of technology and <b>artificial intelligence</b> (<b>AI</b>) tools&nbsp;...
+
+- **5. The Chief <b>AI</b> Officer: What Is It and Who Needs One? | Dice.com Career Advice** [link](https://www.dice.com/career-advice/the-chief-ai-officer-what-is-it-and-who-needs-one)
+_Highlight:_ That means aligning emerging technologies with corporate objectives, managing complex risks like data privacy and model <b>bias</b>, and leading cultural&nbsp;...
+
+- **6. <b>AI</b> in Healthcare: Risks and Benefits for Black Californians - The Sacramento Observer** [link](https://sacobserver.com/2025/05/ai-is-reshaping-black-healthcare-promise-peril-and-the-push-for-improved-results-in-california/)
+_Highlight:_ California lawmakers and experts discuss the impact of <b>AI</b> on healthcare, focusing on <b>bias</b> and equity for Black patients.
+
+- **7. Examining the Expanding Role of Synthetic Data Throughout the <b>AI</b> Development Pipeline** [link](https://www.microsoft.com/en-us/research/publication/examining-the-expanding-role-of-synthetic-data-throughout-the-ai-development-pipeline/)
+_Highlight:_ FATE: <b>Fairness</b>, Accountability, Transparency &amp; Ethics in <b>AI</b>. Research Areas. <b>Artificial intelligence</b>. Research Labs. Microsoft Research Lab - New York&nbsp;...
+
+- **8. <b>AI</b> Maturity in Financial Services - Lessons - I by IMD** [link](https://www.imd.org/ibyimd/artificial-intelligence/ai-maturity-in-financial-services/)
+_Highlight:_ ... <b>fairness</b> in <b>AI</b> projects. This structured approach to ethics creates the foundation for responsible innovation. Visa approaches ethical <b>AI</b> through&nbsp;...
+
+- **9. IAB Australia launches <b>AI</b> Working Group to provide practical industry guidance** [link](https://campaignbrief.com/iab-australia-launches-ai-working-group-to-provide-practical-industry-guidance/)
+_Highlight:_ ... <b>AI</b> use, bias and <b>fairness</b>. The need for a local working group was recently highlighted by the IAB US State of Data report which found that full-scale&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
