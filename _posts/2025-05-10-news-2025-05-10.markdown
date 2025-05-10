@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-05-10 One-Minute Post
+date: 2025-05-10 07:20:38 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+US tech leaders emphasize the need for American leadership across all layers of AI technology. Mark Zuckerberg's claim about AI replacing human relationships is met with skepticism. Businesses are navigating AI implementation under the Data Privacy and Protection Act. A study challenges fears of racial bias in prostate cancer care, while Google settles a $50 million racial bias lawsuit with Black employees. AI verification and bias issues are highlighted, emphasizing the reflection and amplification of biases in AI models.
+
+## Articles we found interesting:
+
+- **1. US dominance in <b>AI</b> needs to occur at every component layer, tech leaders say - Nextgov** [link](http://www.fcw.com/artificial-intelligence/2025/05/us-dominance-ai-needs-occur-every-component-layer-tech-leaders-say/405207/%3Foref%3Dng-homepage-river)
+_Highlight:_ Experts testifying in the Senate on Thursday noted how the entire <b>artificial intelligence</b> technology stack needs to be U.S.-led for global&nbsp;...
+
+- **2. Mark Zuckerberg says <b>AI</b> can replace human relationships—expert disagrees - CNBC** [link](https://www.cnbc.com/2025/05/09/mark-zuckerberg-says-ai-can-replace-human-relationshipsexpert-disagrees.html)
+_Highlight:_ A Division of NBC Universal. <b>Privacy</b> Policy California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices. Ad ChoicesCA NoticeTerms of&nbsp;...
+
+- **3. The <b>AI Privacy</b> Dilemma: 5 Must-Know Insights for Businesses Under DPDPA - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D1ed06490-b3fc-4939-91f4-74ec8467908f)
+_Highlight:_ As businesses navigate the intricacies of <b>AI</b> implementation in accordance with the Data <b>Privacy</b> and Protection Act (DPDPA), it is essential to&nbsp;...
+
+- **4. <b>AI</b> Study Challenges Fears of Racial <b>Bias</b> in Prostate Cancer Care - - HIT Consultant** [link](https://hitconsultant.net/2025/05/09/ai-study-challenges-fears-of-racial-bias-in-prostate-cancer-care/)
+_Highlight:_ Addressing the Challenge of <b>AI</b> Racial <b>Bias</b> in Oncology. This research comes at a crucial time as <b>AI</b> tools are increasingly integrated into clinical&nbsp;...
+
+- **5. Understanding <b>AI</b> Verification: A Use Case for Mira - Messari** [link](https://messari.io/report/understanding-ai-verification-a-use-case-for-mira)
+_Highlight:_ Beyond hallucinations, there are more systemic issues: <b>Bias</b>: <b>AI</b> models can reflect and amplify biases present in their training data. This is not&nbsp;...
+
+- **6. Google settles Black employees&#39; racial <b>bias</b> lawsuit for $50 million - Reuters** [link](https://www.reuters.com/legal/google-settles-black-employees-racial-bias-lawsuit-50-million-2025-05-09/)
+_Highlight:_ ... <b>bias</b> against Black employees ... Trudeau visits the offices of <b>artificial intelligence</b> tech company Scale <b>AI</b> in Montreal.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
