@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-11 One-Minute Post
+date: 2025-05-11 07:03:14 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google settles $1.4 billion privacy lawsuits with Texas. Mark Zuckerberg's Meta AI raises concerns about building a new surveillance state. Algorithmic bias in AI and the challenge of modern employment practices is being discussed. Assessing algorithmic fairness with a multimodal AI model in clinical decision making. Global regulatory tracker for AI fairness and transparency. OCC reinforces risk-based oversight of AI in banking, emphasizing fairness and accountability. China emphasizes fair and inclusive AI development for the world.
+
+## Articles we found interesting:
+
+- **1. Google will pay Texas $1.4 billion to settle <b>privacy</b> lawsuits - TechCrunch** [link](https://techcrunch.com/2025/05/10/google-will-pay-texas-1-4-billion-to-settle-privacy-lawsuits/)
+_Highlight:_ Exhibit at TechCrunch Sessions: <b>AI</b>. Secure your spot at TC Sessions: <b>AI</b> and show 1,200+ decision-makers what you&#39;ve built — without the big spend.
+
+- **2. Mark Zuckerberg is building a new surveillance state** [link](https://thehill.com/opinion/5292465-meta-ai-glasses-society-threat/)
+_Highlight:_ Tags Governments Instagram Mark Zuckerberg Mark Zuckerberg Meta Meta <b>AI Privacy</b> regulators. Copyright 2025 Nexstar Media Inc. All rights reserved&nbsp;...
+
+- **3. To Fear or Not to Fear: <b>AI</b> and the Future of Work | IndustryWeek** [link](https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/55289465/to-fear-or-not-to-fear-ai-and-the-future-of-work)
+_Highlight:_ ... <b>AI</b>. Before I uttered a syllable he launched into a diatribe about ... <b>Privacy</b> &amp; Cookie Policy &middot; Terms of Service &middot; © 2025 Endeavor Business Media&nbsp;...
+
+- **4. &quot;Algorithmic <b>Bias</b>: <b>AI</b> and the Challenge of Modern Employment Practices&quot; by Jordan Dailey** [link](https://repository.uclawsf.edu/hastings_business_law_journal/vol21/iss2/4)
+_Highlight:_ Jordan Dailey, Algorithmic <b>Bias</b>: <b>AI</b> and the Challenge of Modern Employment Practices, 21 Hastings Bus. L.J. 215 (2025). Available at: https&nbsp;...
+
+- **5. Assessing Algorithmic Fairness With a Multimodal <b>Artificial Intelligence</b> Model in Men of ...** [link](https://www.researchgate.net/publication/391602570_Assessing_Algorithmic_Fairness_With_a_Multimodal_Artificial_Intelligence_Model_in_Men_of_African_and_Non-African_Origin_on_NRG_Oncology_Prostate_Cancer_Phase_III_Trials)
+_Highlight:_ ... <b>Artificial intelligence</b> (<b>AI</b>) tools could improve clinical decision making or exacerbate inequities because of <b>bias</b>. African American (AA)&nbsp;...
+
+- **6. NeuroTrend — Indicator by AresIQ - TradingView** [link](https://www.tradingview.com/script/CygS5ePh-NeuroTrend/)
+_Highlight:_ ... <b>bias</b>, measured by RSI displacement from the neutral level. These ... The system also includes <b>AI</b>-style commentary. This feature is not&nbsp;...
+
+- **7. <b>AI</b> Watch: Global regulatory tracker - OECD | White &amp; Case LLP - JDSupra** [link](https://www.jdsupra.com/legalnews/ai-watch-global-regulatory-tracker-oecd-7703911/)
+_Highlight:_ Certain Principles relating to human-centered values and <b>fairness</b>, transparency and accountability are applicable to <b>AI</b> actors. Whether and to what&nbsp;...
+
+- **8. OCC Reinforces Risk-Based Oversight of <b>AI</b> in Banking - The National Law Review** [link](https://natlawreview.com/article/occs-hood-emphasized-ai-oversight-and-inclusion-financial-services)
+_Highlight:_ The OCC has issued guidance promoting transparency, accountability, and <b>fairness</b> in <b>AI</b> use in the financial services sector. Hood noted that <b>AI</b>&nbsp;...
+
+- **9. China upholds <b>fair</b>, inclusive <b>AI</b> development of world - People&#39;s Daily Online** [link](http://en.people.cn/n3/2025/0509/c90000-20312706.html)
+_Highlight:_ China upholds <b>fair</b>, inclusive <b>AI</b> development of world &middot; Researchers at a China-Pakistan <b>AI</b> smart agriculture laboratory use drones for regular field&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
