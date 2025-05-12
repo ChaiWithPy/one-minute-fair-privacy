@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-12 One-Minute Post
+date: 2025-05-12 07:18:20 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+FTC supports DOJ plan to require Google to share search data amid antitrust battle. Wall Street won't embrace crypto without zero-knowledge privacy. Worldcoin's Orb Mini faces criticism amid privacy concerns. FDA appoints first-ever Chief AI Officer; highlighting AI bias. Decoding AI bias for businesses today. Pope Leo XIV warns AI is the greatest threat to humanity. Alaa Youssef examines ethical and fairness considerations critical to integrating AI into real-world clinical workflows.
+
+## Articles we found interesting:
+
+- **1. FTC Supports DOJ Plan to Require Google to Share Search Data Amid Antitrust BattleIn** [link](https://www.pymnts.com/cpi-posts/ftc-supports-doj-plan-to-require-google-to-share-search-data-amid-antitrust-battlein/)
+_Highlight:_ ... <b>privacy</b> experts, legal scholars, and technology firms, per ... <b>AI</b>-related investments could chill funding opportunities for smaller <b>AI</b> companies.
+
+- **2. Why Wall Street Won&#39;t Embrace Crypto Without Zero-Knowledge <b>Privacy</b> - Decrypt** [link](https://decrypt.co/318727/why-wall-street-wont-embrace-crypto-without-zero-knowledge-privacy)
+_Highlight:_ Zero-knowledge proof technology promises to bridge the gap between blockchain transparency and institutional <b>privacy</b>—but what exactly is it ... <b>AI</b>&nbsp;...
+
+- **3. Worldcoin&#39;s Orb Mini Faces Criticism Amid <b>Privacy</b> Concerns - Binance** [link](https://www.binance.com/en/square/post/05-11-2025-worldcoin-s-orb-mini-faces-criticism-amid-privacy-concerns-24099645491882)
+_Highlight:_ Some users have mocked the device&#39;s ability to be fooled by <b>AI</b> ... The device&#39;s launch has also reignited debates about <b>privacy</b>, decentralization, and&nbsp;...
+
+- **4. FDA appoints first-ever Chief <b>AI</b> Officer; the first at-home HPV test for cervical cancer ...** [link](https://www.medicaleconomics.com/view/fda-appoints-first-ever-chief-ai-officer-the-first-at-home-hpv-test-for-cervical-cancer-screening-is-approved-assertio-to-pay-3-6m-for-illegally-marketing-fentanyl-spray-beyond-approved-use-morning-medical-update)
+_Highlight:_ Confirmation <b>bias</b>: Assuming the <b>AI&#39;s</b> response aligns with their own. Functional fixedness: Failing to see alternative diagnoses when the <b>AI&#39;s</b> answer&nbsp;...
+
+- **5. Why <b>AI Bias</b> Matters for Businesses Today - iTMunch** [link](https://itmunch.com/decoding-ai-bias-business-automation/)
+_Highlight:_ <b>AI bias</b> refers to skewed outcomes produced by <b>AI</b> models, which often arise from: ... These <b>biases</b> can manifest in many ways—from unfair hiring decisions&nbsp;...
+
+- **6. FDA Cuts Staff and Plans <b>AI</b> Integration in Drug Development by June - CHOSUNBIZ** [link](https://biz.chosun.com/en/en-science/2025/05/12/NDPHEJ2WTFB2BJADC5SGNTDSQQ/)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) in all centers by the end of June. This means ... When data <b>bias</b> occurs in <b>AI</b>, there is a lack of regulations or&nbsp;...
+
+- **7. Using <b>AI</b> in Healthcare: Don&#39;t Make These 8 Common Mistakes - Analytics Insight** [link](https://www.analyticsinsight.net/artificial-intelligence/using-ai-in-healthcare-dont-make-these-8-common-mistakes)
+_Highlight:_ Obeying rules, being <b>fair</b> to everyone, training employees, and ensuring that <b>AI</b> interacts well with other systems are all highly crucial. By taking&nbsp;...
+
+- **8. In first address, Pope Leo XIV warns <b>AI</b> is greatest threat to humanity - Business Standard** [link](https://www.business-standard.com/world-news/in-first-address-pope-leo-xiv-warns-ai-is-greatest-threat-to-humanity-125051000945_1.html)
+_Highlight:_ Pope Leo XIV pledged to continue church reforms and highlighted <b>artificial intelligence</b> as a major challenge to human dignity, <b>fairness</b>,&nbsp;...
+
+- **9. Alaa Youssef - Stanford Medicine** [link](https://med.stanford.edu/raisehealth/events/symposium/Youssef.html)
+_Highlight:_ ... <b>AI</b> systems. She examines the ethical, safety, and <b>fairness</b> considerations critical to integrating <b>AI</b> into real-world clinical workflows. Dr&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
