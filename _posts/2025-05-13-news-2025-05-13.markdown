@@ -1,0 +1,40 @@
+---
+layout: post
+title: 2025-05-13 One-Minute Post
+date: 2025-05-13 07:34:08 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Gartner predicts AI will replace marketing jobs as CMO budgets stagnate. SoftBank's Stargate AI investment could be affected by tariff worries. The Privacy Commissioner of Canada highlights concerns about generative AI and massive data collection. Michigan Public Policy Survey reveals uncertainty and concern about inherent biases in AI police surveillance technology. Illinois Anti-Discrimination Law to address AI bias goes into effect. HR leadership in 2025 must address the replication and amplification of human biases by AI. Lucy Anthony Akwawa advances ethical AI and accountability for fairness. Korea rethinks income tax structure, prioritizing fairness over lower taxes.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> Will Replace Marketing Jobs As CMO Budgets Stagnate, Says Gartner | AdExchanger** [link](https://www.adexchanger.com/marketers/ai-will-replace-marketing-jobs-as-cmo-budgets-stagnate-says-gartner/)
+_Highlight:_ Because <b>AI</b> improves human productivity, McIntyre said, the increased use of <b>AI</b> ... <b>privacy</b>, identity and <b>AI</b> to commerce, CTV, measurement and mobile.
+
+- **2. SoftBank&#39;s Stargate <b>AI</b> Investment Could Be Grounded by Tariff Worries | PYMNTS.com** [link](https://www.pymnts.com/economy/2025/softbank-stargate-ai-investment-could-be-grounded-tariff-worries/)
+_Highlight:_ The EU <b>AI</b> Act is important because it could be a template for other nations&#39; own <b>AI</b> regulations, just like Europe led the way GDPR on <b>privacy</b> laws.
+
+- **3. Keynote Remarks by the <b>Privacy</b> Commissioner of Canada at the International Association ...** [link](https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2025/sp-d_20250512/)
+_Highlight:_ New technologies, like generative <b>AI</b> , are being fueled by an unprecedented and massive collection of data, including Canadians&#39; personal information.
+
+- **4. Michigan Public Policy Survey suggests uncertainty among local officials on <b>AI</b> police ...** [link](https://www.michigandaily.com/news/research/michigan-public-policy-survey-reveals-uncertainty-among-local-officials-on-ai-police-surveillance-technology/)
+_Highlight:_ Lount said there is also concern surrounding inherent human <b>biases</b> manifesting in <b>artificial intelligence</b> surveillance tools. “<b>AI</b> is basically trained&nbsp;...
+
+- **5. Illinois Anti-Discrimination Law to Address <b>AI</b> Goes Into Effect on 1 January 2026 | JD Supra** [link](https://www.jdsupra.com/legalnews/illinois-anti-discrimination-law-to-3367364/)
+_Highlight:_ While <b>AI</b> tools can streamline processes and increase data-based decision making, they also carry risks, such as perpetuating <b>bias</b> and discrimination.
+
+- **6. The shifts transforming HR leadership in 2025 and how you can adapt - The Times of India** [link](https://timesofindia.indiatimes.com/spotlight/the-shifts-transforming-hr-leadership-in-2025-and-how-you-can-adapt/articleshow/121100049.cms)
+_Highlight:_ <b>AI</b> and analytics can easily replicate and amplify human <b>biases</b> if left unchecked. That&#39;s why future-ready HR leaders need to actively engage with&nbsp;...
+
+- **7. Lucy Anthony Akwawa: Advancing ethical <b>AI</b> and accountability in age of machine learning** [link](https://thenationonlineng.net/lucy-anthony-akwawa-advancing-ethical-ai-and-accountability-in-age-of-machine-learning/)
+_Highlight:_ Through her pioneering research and academic engagement, Lucy is making significant strides in ensuring that <b>AI</b> systems uphold <b>fairness</b>, equity, and&nbsp;...
+
+- **8. <b>Fairness</b> before lower taxes: Rethinking Korea&#39;s income tax structure** [link](https://koreajoongangdaily.joins.com/news/2025-05-12/opinion/columns/Fairness-before-lower-taxes-Rethinking-Koreas-income-tax-structure/2304552)
+_Highlight:_ <b>Fairness</b> before lower taxes: Rethinking Korea&#39;s income tax structure. Published: 12 May. 2025, 00:03. Audio report: written by reporters, read by <b>AI</b>.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
