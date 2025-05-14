@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-05-14 One-Minute Post
+date: 2025-05-14 07:21:29 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+OpenAI's restructure plan gets SoftBank's nod, while Microsoft negotiates. Cisco's Data Privacy Benchmark Study shows the growing complexity of privacy in the age of AI. UK government trials an AI tool for public consultation. Forbes debunks 5 dangerous myths about AI ethics, highlighting the problem of AI bias. Additionally, IMD discusses cybersecurity risks when scaling industrial AI, emphasizing the importance of bias audits and data privacy.
+
+## Articles we found interesting:
+
+- **1. OpenAI&#39;s shakeup plan gets SoftBank&#39;s nod — all eyes now on Microsoft - CNBC** [link](https://www.cnbc.com/2025/05/13/openai-restructure-plan-gets-softbank-blessing-as-microsoft-negotiates.html)
+_Highlight:_ ... <b>AI</b> infrastructure at the Roosevelt Room in the White House in ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **2. <b>AI</b> &amp; <b>Privacy</b> | wfaa.com** [link](https://www.wfaa.com/article/entertainment/television/programs/good-morning-texas/ai-privacy/287-8ac06d34-b6bd-47e4-b9aa-a8722c77a8be)
+_Highlight:_ <b>AI</b> &amp; <b>Privacy</b>. Larry Roberts breaks down what companies are really doing with your data. Author: Robyn Yancey. Published:&nbsp;...
+
+- **3. Cisco to Collaborate with <b>AI</b> Infrastructure Partnership to Drive Investment in Data Centers ...** [link](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2025/m05/cisco-to-collaborate-with-ai-infrastructure-partnership-to-drive-investment-in-data-centers-and-enabling-infrastructure.html)
+_Highlight:_ Cisco&#39;s 2025 Data <b>Privacy</b> Benchmark Study: <b>Privacy</b> landscape grows increasingly complex in the age of <b>AI</b>. As data <b>privacy</b> remains critical to&nbsp;...
+
+- **4. Public consultation <b>AI</b> tool trialled by UK government - TechMarketView** [link](https://www.techmarketview.com/ukhotviews/archive/2025/05/14/public-consultation-ai-tool-trialled-by-uk-government)
+_Highlight:_ ... <b>AI</b> incubator, i.<b>AI</b>), has been trialled during a live ... Conversely, those who have used the Consult tool argue it “takes away the (human) <b>bias</b>&nbsp;...
+
+- **5. 5 Dangerous Myths About <b>AI</b> Ethics You Shouldn&#39;t Believe - Forbes** [link](https://www.forbes.com/sites/bernardmarr/2025/05/14/5-dangerous-myths-about-ai-ethics-you-shouldnt-believe/)
+_Highlight:_ It&#39;s quite possible it will contain many human prejudices, conjectures and uneducated opinions, and this is where the problem of <b>AI bias</b> springs from.
+
+- **6. What do you know about cybersecurity risks when scaling industrial <b>AI</b>? - I by IMD** [link](https://www.imd.org/ibyimd/brain-circuits/what-do-you-know-about-cybersecurity-risks-when-scaling-industrial-ai/)
+_Highlight:_ Adversarial <b>AI</b> and model manipulation. <b>Bias</b> audits; Adversarial training; Input sanitization; Validate training data. 3. Data privacy and protection.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
