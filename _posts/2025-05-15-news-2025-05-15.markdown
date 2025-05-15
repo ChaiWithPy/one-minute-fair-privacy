@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-15 One-Minute Post
+date: 2025-05-15 07:18:11 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google launches "AI Futures Fund" for investing in AI startups. Meta faces lawsuit over data use for AI training in Europe. Insurers struggle with trust issues and bias in AI-driven decisions. Companies urged to reduce bias in AI-based decision making. Study assesses bias in AI-generated medical language. AI detects millions in VAT fraud, highlighting the importance of fairness. EU's McGrath discusses upcoming Digital Fairness Act to address fairness in AI.
+
+## Articles we found interesting:
+
+- **1. Google is testing <b>AI</b> search on its homepage - CNBC** [link](https://www.cnbc.com/2025/05/13/google-ai-mode-search-home-page.html)
+_Highlight:_ The company this week launched an investment fund called &quot;<b>AI</b> Futures Fund,&quot; aimed at investing in <b>AI</b> startups. ... California Consumer <b>Privacy</b> Act (CCPA)&nbsp;...
+
+- **2. Advocacy group threatens Meta with injunction over data-use for <b>AI</b> training | Reuters** [link](https://www.reuters.com/sustainability/boards-policy-regulation/advocacy-group-threatens-meta-with-injunction-over-use-eu-data-ai-training-2025-05-14/)
+_Highlight:_ Meta rejects the advocacy group&#39;s arguments &middot; Has cited legitimate interest under EU <b>privacy</b> rules &middot; Campaigners says damage claims could be many&nbsp;...
+
+- **3. Meta lawsuit: Data use and <b>AI</b> take center stage in Europe | Fingerlakes1.com** [link](https://www.fingerlakes1.com/2025/05/14/meta-ai-data-europe-privacy-lawsuit-2025/)
+_Highlight:_ ... <b>AI</b> systems. Austrian <b>privacy</b> group noyb (None of Your Business), led by well-known advocate Max Schrems, has sent a cease and desist letter to Meta.
+
+- **4. Trust issues stall insurers&#39; plans for youth, <b>AI</b> growth – GlobalData** [link](https://www.insurancebusinessmag.com/us/news/breaking-news/trust-issues-stall-insurers-plans-for-youth-ai-growth--globaldata-535746.aspx)
+_Highlight:_ How to gain consumers&#39; trust. “Insurers must prioritise transparency in <b>AI</b>-driven decisions, particularly among those who perceive <b>bias</b> in the tools,&nbsp;...
+
+- **5. A big struggle over how to implement <b>AI</b> - STAT News** [link](https://www.statnews.com/2025/05/14/ai-health-care-news-chai-open-ai-verily-amazon-urac-fda-drug-review-aly-aj/)
+_Highlight:_ From the STAT archives: Where URAC saw an opportunity to step up when the Trump administration changed the nation&#39;s <b>AI</b> priorities, a health <b>AI bias</b>&nbsp;...
+
+- **6. Data Privacy at the Crossroads of <b>AI</b> and Life Sciences: U.S. and EU Perspectives** [link](https://www.jdsupra.com/legalnews/data-privacy-at-the-crossroads-of-ai-4097931/)
+_Highlight:_ Similarly, companies must take steps to reduce <b>bias</b> in their <b>AI</b>-based decision making. Large language models, for example, can perpetuate <b>biases</b>&nbsp;...
+
+- **7. Toward <b>fair AI</b>-driven medical text generation | Nature Computational Science** [link](https://www.nature.com/articles/s43588-025-00807-8)
+_Highlight:_ A recent study assesses bias in <b>artificial intelligence</b> (<b>AI</b>)-generated medical language to find differences in age, sex, and ethnicity.
+
+- **8. <b>Artificial Intelligence</b> picks up millions in VAT fraud - vatcalc.com** [link](https://www.vatcalc.com/malta/artificial-intelligence-picks-up-millions-in-vat-fraud/)
+_Highlight:_ Most of this increase was directly attributed to the use of <b>artificial intelligence</b> (<b>AI</b>) tools designed to combat VAT and tax evasion. ... <b>fairness</b>. The&nbsp;...
+
+- **9. <b>AI</b> is being analyzed in B2C contexts for upcoming bill, EU&#39;s McGrath says | MLex** [link](https://www.mlex.com/mlex/artificial-intelligence/articles/2339923/ai-is-being-analyzed-in-b2c-contexts-for-upcoming-bill-eu-s-mcgrath-says)
+_Highlight:_ ... <b>AI</b>-powered chatbots. He said that the upcoming Digital <b>Fairness</b> Act will address the &quot;missing pieces of the puzzle&quot; for a <b>fair</b> digital market, but&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
