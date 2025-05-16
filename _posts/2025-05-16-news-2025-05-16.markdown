@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-05-16 One-Minute Post
+date: 2025-05-16 07:20:50 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Connecticut Senate passes bill to regulate AI and expand data privacy. Congressional Republicans propose a 10-year ban on state AI laws, impacting privacy regulations. Hong Kong releases guidelines addressing generative AI and model bias. Hackergal Hackathon focuses on developing solutions for biases in AI, while the UK emphasizes inclusive AI to avoid bias and discrimination in education.
+
+## Articles we found interesting:
+
+- **1. Connecticut Senate Votes to Regulate <b>AI</b>, Expand Data <b>Privacy</b> | CT News Junkie** [link](https://ctnewsjunkie.com/2025/05/15/connecticut-senate-votes-to-regulate-ai-expand-data-privacy/)
+_Highlight:_ SB2, “An Act Concerning <b>Artificial Intelligence</b>,” passed on a 32–4 vote. Led by Sen. James Maroney, D-Milford, chair of the General Law Committee, the&nbsp;...
+
+- **2. Congressional Republicans Propose 10-Year Ban on State <b>AI</b> Laws: What It Could Mean for ...** [link](https://www.fisherphillips.com/en/news-insights/congressional-republicans-propose-10-year-ban-on-state-ai-laws-what-it-could-mean-for-employers.html)
+_Highlight:_ This is a notable shift from past fights over <b>privacy</b> law, where tech firms generally opposed federal regulation. In the <b>AI</b> arena, they&#39;re embracing&nbsp;...
+
+- **3. House Budget Bill&#39;s Moratorium on State <b>AI</b> Laws Could Undo A Range of Tech Regs, Critics Say** [link](https://www.pymnts.com/cpi-posts/house-budget-bills-moratorium-on-state-ai-laws-could-undo-a-range-of-tech-regs-critics-say/)
+_Highlight:_ “This ban will allow <b>AI</b> companies to ignore consumer <b>privacy</b> ... <b>privacy</b>—they won&#39;t meaningfully regulate <b>AI</b> either, creating a decade-long&nbsp;...
+
+- **4. HK releases Guideline concerning Generative <b>AI</b> - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D3441fcdb-3ec0-4ea5-8ec7-5560826395b0)
+_Highlight:_ ... <b>artificial intelligence</b> (“<b>AI</b>”). The Guideline is tailored for the ... <b>AI</b> model, e.g. model hallucination and model <b>bias</b>. The proposed <b>AI</b>&nbsp;...
+
+- **5. &#39;Best Day Ever!&#39; Hang Out with Comox Kids Learning to Code | The Tyee** [link](https://thetyee.ca/News/2025/05/15/Comox-Kids-Learn-Code-AI-Hackergal/)
+_Highlight:_ This year&#39;s Hackergal Hackathon brought together girls and gender diverse students to develop solutions for <b>biases</b> in <b>AI</b>.
+
+- **6. The UK&#39;s approach to introducing tech in education is a lesson in inclusive <b>AI</b> - TechNative** [link](https://technative.io/the-uks-approach-to-introducing-tech-in-education-is-a-lesson-in-inclusive-ai/)
+_Highlight:_ It also addresses the need for <b>AI</b> to avoid <b>bias</b> and discrimination. As such, it&#39;s an example of &#39;inclusive <b>AI</b>&#39;, a methodology or design principle&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
