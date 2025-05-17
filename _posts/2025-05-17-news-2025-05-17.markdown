@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-17 One-Minute Post
+date: 2025-05-17 07:09:08 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Gyan AI launches a privacy-focused research tool for healthcare. MIT disowns a student's biased AI research. Grassley introduces AI whistleblower protection act for fairness. Meanwhile, US states oppose AI regulation ban in Trump tax bill, and computational challenges arise in algorithmic fairness and health equity with generative AI.
+
+## Articles we found interesting:
+
+- **1. &#39;Hallucination-free&#39; <b>AI</b> research tool Gyan <b>AI</b> launches for enterprises - Fierce Healthcare** [link](https://www.fiercehealthcare.com/health-tech/hallucination-free-ai-research-tool-gyan-ai-launches-enterprises)
+_Highlight:_ Gyan, founded in 2018, works in a number of highly regulated industries, such as healthcare and the life sciences, where <b>privacy</b> and accuracy risks&nbsp;...
+
+- **2. Mage Data Launches Systems Integrator Program, Certifies Neoware.<b>ai</b> as a ... - NEWS10 ABC** [link](https://www.news10.com/business/press-releases/ein-presswire/813235404/mage-data-launches-systems-integrator-program-certifies-neoware-ai-as-a-certified-systems-integrator)
+_Highlight:_ ... <b>privacy</b>, regulatory compliance, and security while accelerating <b>AI</b> adoption and digital transformation. In a landmark certification, Neoware.<b>ai</b>&nbsp;...
+
+- **3. <b>AI</b> travel agents planning future trip far beyond &#39;assistant&#39; status - CNBC** [link](https://www.cnbc.com/2025/05/16/ai-travel-agents-planning-future-trip-far-beyond-assistant-status.html)
+_Highlight:_ &quot;Within this <b>AI</b> transformation, I believe agentic <b>AI</b> like the Gemini ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **4. MIT Says It No Longer Stands Behind Student&#39;s <b>AI</b> Research Paper - MSN** [link](https://www.msn.com/en-us/money/other/mit-says-it-no-longer-stands-behind-student-s-ai-research-paper/ar-AA1EUFwO)
+_Highlight:_ <b>AI bias</b> leans left in most instances, study finds - Getty Images. Fox Business. <b>AI bias</b> leans left in most instances, study finds. 58. 38. How To&nbsp;...
+
+- **5. From Silicon Valley to sovereign stacks: The global <b>AI</b> power shift - The Indian Express** [link](https://indianexpress.com/article/technology/artificial-intelligence/from-silicon-valley-to-sovereign-stacks-the-global-ai-power-shift-10010634/)
+_Highlight:_ As large language models struggle with <b>bias</b> and multilingual performance, small and community-driven <b>AI</b> projects offer an alternative path.
+
+- **6. US states oppose <b>AI</b> regulation ban in Trump tax bill - The Economic Times** [link](https://m.economictimes.com/tech/artificial-intelligence/us-states-oppose-ai-regulation-ban-in-trump-tax-bill/articleshow/121226232.cms)
+_Highlight:_ Some state laws have also been crafted to prevent <b>biases</b> in <b>AI</b> models. &quot;These laws and their regulations have been developed over years through&nbsp;...
+
+- **7. Computational challenges arising in algorithmic <b>fairness</b> and health equity with generative <b>AI</b>** [link](https://www.nature.com/articles/s43588-025-00806-9)
+_Highlight:_ The use of generative <b>artificial intelligence</b> (<b>AI</b>) in healthcare is advancing, but understanding its potential challenges for <b>fairness</b> and health&nbsp;...
+
+- **8. Grassley Introduces <b>AI</b> Whistleblower Protection Act - Senate Judiciary Committee** [link](https://www.judiciary.senate.gov/press/rep/releases/grassley-introduces-ai-whistleblower-protection-act)
+_Highlight:_ ... <b>fairness</b>—it&#39;s a matter of national security,” Obernolte said. “As <b>artificial intelligence</b> becomes more powerful and more deeply embedded in our&nbsp;...
+
+- **9. Guide to <b>AI</b> Regulations in Software Development | Sonatype** [link](https://www.sonatype.com/resources/guides/ai-regulations-in-software-development)
+_Highlight:_ However, as <b>AI</b> becomes more integrated into critical infrastructure, concerns over security, privacy, <b>fairness</b>, and accountability have prompted&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
