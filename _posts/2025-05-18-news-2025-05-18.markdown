@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-05-18 One-Minute Post
+date: 2025-05-18 07:04:40 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta's latest plan to train AI on EU user data violates GDPR rules, says noyb. Wi-Fi routers' privacy policies are under scrutiny. Yale's Chief Privacy Officer discusses the balancing act of AI tools. The Oregonian uses AI to draft stories, raising questions about bias. Musk's Grok AI update follows a "White Genocide" remark, highlighting the risk of bias in AI systems. The use of AI in job hiring may lead to algorithmic discrimination due to biased training data.
+
+## Articles we found interesting:
+
+- **1. Boffins devise <b>privacy</b>-preserving location sharing scheme - The Register** [link](https://www.theregister.com/2025/05/17/privacy_preserving_location_sharing/)
+_Highlight:_ Meta&#39;s still violating GDPR rules with latest plan to train <b>AI</b> on EU user data, says noyb &middot; You&#39;ll never guess which mobile browser is the worst for&nbsp;...
+
+- **2. Do Wi-Fi Routers Track Your Browsing? I Read 30000 Words of <b>Privacy</b> Policies to Find Out** [link](https://www.cnet.com/home/internet/do-wi-fi-routers-track-you-rbrowsing-i-read-30000-words-of-privacy-policies-to-find-out/)
+_Highlight:_ ... <b>AI</b> with <b>AI</b> Atlas. Explore all &middot; Expert vs. <b>AI</b>: Is Now the Time to Buy an ... Before we begin, I&#39;ll note that this article covers the <b>privacy</b> policy of&nbsp;...
+
+- **3. The <b>AI</b> Balancing Act - Yale School of Medicine** [link](https://medicine.yale.edu/news/yale-medicine-magazine/article/the-ai-balancing-act/)
+_Highlight:_ <b>AI</b> tools are just coming out of the woodwork,” says Yale University Chief <b>Privacy</b> Officer Susan Bouregy, PhD. Biomedical ethics: past and future. YSM&nbsp;...
+
+- **4. The Oregonian Is Using <b>AI</b> to Draft Stories - Willamette Week** [link](https://www.wweek.com/news/business/2025/05/17/the-oregonian-is-using-ai-to-draft-stories/)
+_Highlight:_ just because it&#39;s not <b>AI</b> doesn&#39;t mean there&#39;s no <b>bias</b>. Take WW for example. Which has more <b>bias</b> - WW&#39;s human author&#39;s or the Oregonian&#39;s <b>AI</b>? When&nbsp;...
+
+- **5. What was the &quot;White Genocide&quot; remark made by Musk&#39;s Grok <b>AI</b> that led to its update** [link](https://timesofindia.indiatimes.com/technology/tech-news/what-was-the-white-genocide-remark-made-by-musks-grok-ai-that-led-to-its-update/articleshow/121245735.cms)
+_Highlight:_ This incident highlights the persistent risk of <b>bias</b>, manipulation, and misinformation in <b>AI</b> systems, especially those deployed to millions of users&nbsp;...
+
+- **6. &#39;Algorithm discrimination&#39;: How the use of <b>AI</b> in job hiring may disadvantage some people** [link](https://www.sbs.com.au/news/article/algorithmic-discrimination-how-the-use-of-ai-in-job-hiring-may-disadvantage-some-people/t32y910ch)
+_Highlight:_ But their training data in itself may be <b>biased</b>. It may come from an organisation where there was, for instance, [a] <b>bias</b> against women,&quot; Leibbrandt&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
