@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-19 One-Minute Post
+date: 2025-05-19 07:10:36 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Netflix is implementing a new AI feature, raising privacy concerns. Trump's Gulf trip aims to transform the region into an AI powerhouse, sparking privacy worries. Australians using AI chatbots as therapists prompts caution over privacy and confidentiality. AI in healthcare faces challenges of bias and fairness, while legal aid applicants are targeted by a cyber attack. Bridging the AI gap in federal contracting raises questions about fairness. South Korean companies are implementing AI ethics principles to ensure fairness and transparency. Individualized pricing driven by AI raises concerns about fairness, consent, and transparency.
+
+## Articles we found interesting:
+
+- **1. Netflix to implement new <b>AI</b> feature streamers will hate - TheStreet** [link](https://www.thestreet.com/technology/netflix-to-implement-new-ai-feature-streamers-will-hate)
+_Highlight:_ ... <b>privacy</b> issues raised by providing <b>AI</b> tools with the data to create these ultra-tailored ads. Regardless of these concerns, Netflix is moving full&nbsp;...
+
+- **2. Trump&#39;s Gulf gamble: Helping UAE and Saudi become <b>AI</b> powers - Axios** [link](https://www.axios.com/2025/05/18/trump-gulf-ai-deals-saudi-uae-security-china-risk)
+_Highlight:_ The lasting legacy of Trump&#39;s trip may be the transformation of the Gulf into a an <b>AI</b> powerhouse ... Your <b>Privacy</b> Choices. Axios Homepage. Axios Media&nbsp;...
+
+- **3. As more Australians use <b>AI</b> chatbots as personal therapists, experts have urged caution** [link](https://www.abc.net.au/news/2025-05-18/people-using-artificial-intelligence-as-therapy/105266076)
+_Highlight:_ <b>Artificial intelligence</b> expert Ronnie Das says <b>AI</b> can &quot;absolutely&quot; replicate human emotions. ... <b>privacy</b> and <b>confidentiality</b> were just as prevalent.
+
+- **4. Balancing <b>AI</b> technology and personal responsibility: A Chinese perspective** [link](https://newsday.co.tt/2025/05/19/balancing-ai-technology-and-personal-responsibility-a-chinese-perspective/)
+_Highlight:_ <b>ARTIFICIAL intelligence</b> (<b>AI</b>) ... Yet, despite all these benefits, <b>AI</b> also carries risks – such as misinformation, algorithmic <b>bias</b>, surveillance concerns&nbsp;...
+
+- **5. Cyber attack targets legal aid applicants - AllSides** [link](https://www.allsides.com/news/2025-05-19-0115/technology-cyber-attack-targets-legal-aid-applicants)
+_Highlight:_ See full <b>bias</b> rating for The Telegraph - UK ... 56% of U.S. adults &quot;think that the government should regulate the use of <b>AI</b> in the workplace.
+
+- **6. How synthetic data could be key to unlocking the potential of <b>AI</b> in healthcare** [link](https://www.htworld.co.uk/news/how-synthetic-data-could-be-key-to-unlocking-the-potential-of-ai-in-healthcare-htai24/)
+_Highlight:_ Data scarcity and privacy concerns &middot; Overcoming the roadblocks &middot; Enhancing <b>AI</b> quality and performance &middot; Addressing <b>bias</b> and ensuring fairness &middot; Scaling <b>AI</b>&nbsp;...
+
+- **7. Bridging the <b>AI</b> gap in federal contracting, according to expert Farhan Amjad** [link](https://www.londondaily.news/bridging-the-ai-gap-in-federal-contracting-according-to-expert-farhan-amjad/)
+_Highlight:_ This growing disparity, termed the “automation mismatch,” poses critical questions about efficiency, <b>fairness</b>, and the future of public sector&nbsp;...
+
+- **8. Navigating an <b>AI</b>-enabled business landscape - BusinessWorld Online** [link](https://www.bworldonline.com/economy/2025/05/18/673224/navigating-an-ai-enabled-business-landscape/)
+_Highlight:_ For example, a South Korean electronics company implemented an actionable guide to practice the <b>AI</b> Ethics Principles of <b>fairness</b>, transparency, and&nbsp;...
+
+- **9. <b>AI</b> Is Changing The Price You Pay—But Who&#39;s Keeping It Honest, And What&#39;s The Particular ...** [link](https://www.forbesafrica.com/opinion/2025/05/18/ai-is-changing-the-price-you-pay-but-whos-keeping-it-honest-and-whats-the-particular-significance-for-africa/)
+_Highlight:_ Individualized pricing raises fundamental concerns about <b>fairness</b>, consent, and transparency. When algorithms levy different prices based on personal&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
