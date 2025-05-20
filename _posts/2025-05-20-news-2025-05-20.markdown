@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-05-20 One-Minute Post
+date: 2025-05-20 07:21:20 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+State AGs are stepping in to regulate AI, focusing on privacy and anti-discrimination laws. Apple is testing differential privacy techniques for Siri. AlgoFace and Unigen are partnering to deliver real-time privacy-focused AI applications. The humanities are gaining importance in an AI world due to ethical concerns like misinformation and bias. The rise of agentic AI raises concerns about bias and discrimination. The public and experts are discussing AI's impact on racial bias and the future of work.
+
+## Articles we found interesting:
+
+- **1. State AGs fill the <b>AI</b> regulatory void | Reuters** [link](https://www.reuters.com/legal/legalindustry/state-ags-fill-ai-regulatory-void-2025-05-19/)
+_Highlight:_ ... <b>privacy</b>, consumer protection, and anti-discrimination laws to regulate <b>AI</b>. AGs are focused on how <b>AI</b> systems utilize personal identifying&nbsp;...
+
+- **2. Apple doubles down on Siri overhaul with <b>AI</b> integration despite early setbacks** [link](https://asaaseradio.com/apple-siri-ai-integration-2025/)
+_Highlight:_ One of the biggest technical challenges Apple faces is <b>privacy</b>. To address this, the company is testing techniques like differential <b>privacy</b>, which&nbsp;...
+
+- **3. AlgoFace and Unigen bring scalable face <b>AI</b> to edge for real-time <b>privacy</b>** [link](https://www.edgeir.com/algoface-and-unigen-bring-scalable-face-ai-to-edge-for-real-time-privacy-20250519)
+_Highlight:_ AlgoFace and Unigen partner to deliver scalable Face <b>AI</b> at the edge, enabling real-time video anonymization and <b>privacy</b>-first applications across&nbsp;...
+
+- **4. In an <b>AI</b> world, the humanities matter more than ever - University Business** [link](https://universitybusiness.com/in-an-ai-world-the-humanities-matter-more-than-ever/)
+_Highlight:_ New tech equals new ethical minefields. Misinformation, data privacy, <b>AI bias</b>—the list goes on (and on). Students trained to wrestle with moral gray&nbsp;...
+
+- **5. The Rise of Agentic <b>AI</b>: From Conversation to Action | Goodwin - JDSupra** [link](https://www.jdsupra.com/legalnews/the-rise-of-agentic-ai-from-1059884/)
+_Highlight:_ The <b>artificial intelligence</b> (<b>AI</b>) landscape is evolving at a dizzying pace ... <b>Bias</b> and Discrimination: When <b>AI</b> agents move from recommending to&nbsp;...
+
+- **6. What experts and the public think about <b>AI</b> | The TechTank Podcast** [link](https://www.brookings.edu/articles/what-experts-and-the-public-think-about-ai-the-techtank-podcast/)
+_Highlight:_ From racial <b>bias</b> and algorithms to the future of work, Tech Tank takes big ideas and makes them accessible. Welcome to the TechTank Podcast. I am co-&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
