@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-21 One-Minute Post
+date: 2025-05-21 07:10:18 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+UT proposes guidelines for responsible AI use in education, while Google launches AI Ultra subscription service. Insurers focus on managing bias for AI compliance, and lawsuits against AI companies highlight the growing concern of AI bias and discrimination. Open source LLMs in India pave the way for responsible AI, and law firms address fairness challenges in AI legal contract drafting. Brokers aim to ensure fair and transparent AI adoption in insurance operations, and Google's zero-click searches raise concerns about the fairness of AI tools.
+
+## Articles we found interesting:
+
+- **1. UT Unveils Proposed Guidelines for Responsible Use of <b>AI</b> in Teaching and Learning** [link](https://news.utexas.edu/2025/05/20/ut-unveils-proposed-guidelines-for-responsible-use-of-ai-in-teaching-and-learning/)
+_Highlight:_ ... <b>AI</b> research, data <b>privacy</b> and ethics to define what “responsible <b>AI</b>” means in the context of education. The resulting framework includes eight&nbsp;...
+
+- **2. Google launches VIP-level <b>AI</b> subscription service - CNBC** [link](https://www.cnbc.com/2025/05/20/google-io-ai-ultra.html)
+_Highlight:_ ... <b>AI</b> services called &quot;Google <b>AI</b> Ultra&quot; priced at $249.99 per month. ... Advertise With Us. Please Contact Us &middot; <b>Privacy</b> Policy; California Consumer <b>Privacy</b>&nbsp;...
+
+- **3. Google&#39;s new <b>AI</b> Mode makes search more powerful — and confusing** [link](https://www.washingtonpost.com/technology/2025/05/20/google-ai-mode-search-io/)
+_Highlight:_ <b>AI</b> Mode &#39;experiments&#39;. What it&#39;s for: Power users who want to try the very latest tech. Watch out for: Unfinished products and your <b>privacy</b>.
+
+- **4. Insurers must manage governance and <b>bias</b> to comply with <b>AI</b> regulation, experts say** [link](https://www.dig-in.com/news/ai-governance-and-bias-become-compliance-issues-for-insurers)
+_Highlight:_ Insurers have several ways to ensure compliance with new regulation on their use of <b>AI</b>, according to insurance compliance experts.
+
+- **5. Recent Lawsuits Against <b>AI</b> Companies: Beyond Copyright Infringement (Video) - Mondaq** [link](https://www.mondaq.com/unitedstates/new-technology/1627282/recent-lawsuits-against-ai-companies-beyond-copyright-infringement-video)
+_Highlight:_ <b>AI Bias</b> and Discrimination: A Growing Front in <b>AI</b> Litigation. As <b>AI</b> systems become embedded in decision-making especially in hiring, insurance, and&nbsp;...
+
+- **6. Open Source LLMs Pave the Way for Responsible <b>AI</b> in India** [link](https://analyticsindiamag.com/global-tech/open-source-llms-pave-the-way-for-responsible-ai-in-india/)
+_Highlight:_ In such cases, adding a positive <b>bias</b> can help make the system more accurate, even if it means making a trade-off. Security and <b>AI</b> Guardrails. For&nbsp;...
+
+- **7. <b>AI</b> in Legal Contract Drafting: A Law Firm&#39;s Guide to the Future - Intelligent Living** [link](https://www.intelligentliving.co/ai-legal-contract-drafting-law-firms/)
+_Highlight:_ Core Legal Risks and Ethical Considerations. Law firms must address confidentiality and <b>fairness</b> challenges when using <b>AI</b> tools, as these factors&nbsp;...
+
+- **8. How can brokers ensure responsible <b>AI</b> usage in insurance operations?** [link](https://www.insurancebusinessmag.com/uk/news/technology/how-can-brokers-ensure-responsible-ai-usage-in-insurance-operations-536137.aspx)
+_Highlight:_ How brokers can lead the charge in ensuring <b>fair</b>, secure, and transparent <b>AI</b> adoption.
+
+- **9. Zero-click searches: Google&#39;s <b>AI</b> tools are the culmination of its hubris - Ars Technica** [link](https://arstechnica.com/google/2025/05/zero-click-searches-googles-ai-tools-are-the-culmination-of-its-hubris/)
+_Highlight:_ That is, the links in <b>AI</b> Mode for &quot;best foods to eat for a cold&quot; don&#39;t overlap at all with the SERP for the same query in Google Search. In <b>fairness</b>,&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
