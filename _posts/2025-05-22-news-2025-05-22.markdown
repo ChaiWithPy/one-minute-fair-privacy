@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-05-22 One-Minute Post
+date: 2025-05-22 07:06:20 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Arizona's first AI steering committee prioritizes privacy and fairness. Google's new AI shopping feature raises privacy concerns. Regulators emphasize transparency, bias detection, and risk mitigation in AI laws. State AGs address bias and discrimination in AI decision-making processes. Existing laws are being used for AI oversight, but gaps remain, particularly in addressing bias.
+
+## Articles we found interesting:
+
+- **1. Governor Katie Hobbs Announces Members of Arizona&#39;s First <b>AI</b> Steering Committee** [link](https://azgovernor.gov/office-arizona-governor/news/2025/05/governor-katie-hobbs-announces-members-arizonas-first-ai)
+_Highlight:_ ... <b>privacy</b>, with access and fairness at the forefront. “<b>Artificial Intelligence</b> is rapidly transforming how we live, work, and govern,” said Governor&nbsp;...
+
+- **2. My Jaw Dropped When Google Told Me How Its New <b>AI</b> Shopping Feature Handles <b>Privacy</b>** [link](https://www.cnet.com/tech/services-and-software/my-jaw-dropped-when-google-told-me-how-its-new-ai-shopping-feature-handles-privacy/)
+_Highlight:_ But I&#39;m an <b>AI</b> reporter, and I spend a lot of time worrying about the <b>privacy</b> implications of image and video tools, so I was skeptical, too.
+
+- **3. What happens when <b>artificial intelligence</b> quietly reshapes our lives? - NPR** [link](https://www.npr.org/2025/05/21/nx-s1-5405608/what-happens-when-artificial-intelligence-quietly-reshapes-our-lives)
+_Highlight:_ ... <b>privacy</b> and human connection ... National Security &middot; Is <b>AI</b> the future of America&#39;s foreign policy? Some experts think so&nbsp;...
+
+- **4. 2025 State Insurance <b>AI</b> &amp; ECDIS Regulatory Guidance | Troutman Pepper Locke** [link](https://www.troutman.com/insights/2025-state-insurance-ai-and-ecdis-regulatory-guidance.html)
+_Highlight:_ ... <b>AI</b> laws, stressing transparency, <b>bias</b> detection, and risk mitigation. The impact of <b>AI</b> regulation on third-party vendors and necessary compliance&nbsp;...
+
+- **5. State AGs Fill the <b>AI</b> Regulatory Void** [link](https://www.regulatoryoversight.com/2025/05/state-ags-fill-the-ai-regulatory-void/)
+_Highlight:_ As generative <b>artificial intelligence</b> (<b>AI</b>) technologies rapidly ... <b>bias</b> and discrimination in decision-making processes. In January 2024&nbsp;...
+
+- **6. Regulators Lean on Existing Laws for <b>AI</b> Oversight, but Gaps Remain, GAO Says** [link](https://www.cutimes.com/2025/05/21/regulators-lean-on-existing-laws-for-ai-oversight-but-gaps-remain-gao-says/)
+_Highlight:_ The OCC has completed multi-year reviews of large banks&#39; <b>AI</b> models and risk management practices, offering specific recommendations on <b>bias</b> and model&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
