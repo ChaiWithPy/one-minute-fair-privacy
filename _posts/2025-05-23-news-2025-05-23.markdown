@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-23 One-Minute Post
+date: 2025-05-23 07:12:41 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+NIST releases guidelines for integrating privacy controls into AI systems. Irish DPC approves Meta's AI training plans, facing criticism from privacy advocates. Lawsuits against Workday raise concerns about biased AI hiring tools. Arizona forms AI committee focused on transparency and fairness. Ethical use of AI in advertising emphasized for fairness and human oversight. NAIC model bulletin stresses transparency and fairness in AI use by insurers.
+
+## Articles we found interesting:
+
+- **1. Cybersecurity and <b>AI</b>: Integrating and Building on Existing NIST Guidelines** [link](https://www.nist.gov/blogs/cybersecurity-insights/cybersecurity-and-ai-integrating-and-building-existing-nist-guidelines)
+_Highlight:_ In many aspects, the cybersecurity and <b>privacy</b> controls needed to manage risk to <b>AI</b> systems and components is no different than those required for any&nbsp;...
+
+- **2. Proposed moratorium on state-level <b>AI</b> regs aims to level the playing field, lawmaker says** [link](http://www.fcw.com/artificial-intelligence/2025/05/proposed-moratorium-state-level-ai-regs-aims-level-playing-field-lawmaker-says/405521/%3Foref%3Dng-homepage-river)
+_Highlight:_ <b>Privacy</b> law experts have also entered the discourse, saying the moratorium&#39;s language is tough to dissect. Cobun Zweifel-Keegan, managing director&nbsp;...
+
+- **3. Irish DPC okays Meta&#39;s EU <b>AI</b> training plans - The Register** [link](https://www.theregister.com/2025/05/22/irish_data_protection_commission_gives/)
+_Highlight:_ The DPC may be satisfied with Meta&#39;s guarantees, but there are still a lot of <b>privacy</b> advocates and other regulatory bodies that are critical of this&nbsp;...
+
+- **4. Is the <b>AI</b> screening your resume <b>biased</b>? A lawsuit makes the case - USA Today** [link](https://www.usatoday.com/story/money/2025/05/22/artificial-intelligence-hiring-bias-lawsuit/83803816007/)
+_Highlight:_ A discrimination lawsuit against Workday raises new issues about how companies use <b>artificial intelligence</b> in hiring decisions.
+
+- **5. Lawsuit claims discrimination by Workday&#39;s hiring tech prevented people over 40 from getting hired** [link](https://www.cnn.com/2025/05/22/tech/workday-ai-hiring-discrimination-lawsuit)
+_Highlight:_ Experts say <b>AI</b> hiring tools can demonstrate <b>bias</b> even if companies never instruct them to favor certain categories of people over others. These&nbsp;...
+
+- **6. City &amp; State Op-Ed: The window of opportunity for action on <b>AI</b> is closing | NYSenate.gov** [link](https://www.nysenate.gov/newsroom/articles/2025/kristen-gonzalez/city-state-op-ed-window-opportunity-action-ai-closing)
+_Highlight:_ Last year, while the federal government failed to take action on deepfakes, algorithmic <b>bias</b> or facial recognition technology, New York enacted the&nbsp;...
+
+- **7. First members of Arizona&#39;s new &#39;<b>AI</b> commitee&#39; picked by Gov. Katie Hobbs | 12news.com** [link](https://www.12news.com/article/news/local/arizona/who-is-on-gov-katie-hobbs-ai-policy-committee-phoenix-arizona/75-5cccf41c-c5db-4ef8-a5d1-eb47ee0368a0)
+_Highlight:_ ... <b>AI</b> Steering Committee, which has been asked to develop a statewide <b>AI</b> policy framework that&#39;s grounded in &quot;transparency&quot; and &quot;<b>fairness</b>.&quot; The&nbsp;...
+
+- **8. The ethical use of <b>AI</b> in advertising - IAPP** [link](https://iapp.org/news/a/the-ethical-use-of-ai-in-advertising)
+_Highlight:_ By fostering transparency, <b>fairness</b> and human oversight, a stakeholder-driven approach can help align <b>AI</b>-powered advertising with ethical principles&nbsp;...
+
+- **9. The Implications and Scope of the NAIC Model Bulletin on the Use of <b>AI</b> by Insurers | Insights** [link](https://www.hklaw.com/en/insights/publications/2025/05/the-implications-and-scope-of-the-naic-model-bulletin)
+_Highlight:_ ... <b>AI</b> within the insurance industry, stressing the principles of transparency, <b>fairness</b> and accountability. Since the NAIC published the model&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
