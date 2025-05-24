@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-24 One-Minute Post
+date: 2025-05-24 07:03:17 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google Research is improving large models with user-level differential privacy. Sutherland's Sentinel AI data privacy platform receives a US patent. California introduces potential AI employment regulations. Meanwhile, companies are seeking new ways to find talent due to AI bias issues. Age bias allegations against Workday advance a nationwide AI hiring lawsuit. Arizona launches an AI steering committee emphasizing transparency and fairness. New AI regulations like the EU AI Act require fairness assessments and transparency. PlaySafe ID raises $1.12M to bring trust and fairness to gaming communities.
+
+## Articles we found interesting:
+
+- **1. Fine-tuning LLMs with user-level differential <b>privacy</b> - Google Research** [link](https://research.google/blog/fine-tuning-llms-with-user-level-differential-privacy/)
+_Highlight:_ We investigate and improve algorithms for fine-tuning large models with user-level differential <b>privacy</b>. ... Introducing Mobility <b>AI</b>: Advancing urban&nbsp;...
+
+- **2. Expert Perspectives on 10-Year Moratorium on Enforcement of US State <b>AI</b> Laws** [link](https://www.techpolicy.press/expert-perspectives-on-10-year-moratorium-on-enforcement-of-us-state-ai-laws)
+_Highlight:_ <b>Privacy</b>, consumer protection, and tort law all regulate <b>AI</b>, its developers, and its deployers, and would seemingly be caught in the moratorium&#39;s sweep&nbsp;...
+
+- **3. Sentinel <b>AI</b> data <b>privacy</b> platform from Sutherland gets U.S. patent - Biometric Update** [link](https://www.biometricupdate.com/202505/sentinel-ai-data-privacy-platform-from-sutherland-gets-u-s-patent)
+_Highlight:_ Sutherland has been granted a patent by the U.S. Patent and Trademark Office (USPTO) for its Sutherland Sentinel <b>AI</b> data protection platform.
+
+- **4. California&#39;s New Potential <b>AI</b> Employment Regulations: What Employers Need to Know** [link](https://www.californiaemploymentlawreport.com/2025/05/californias-new-potential-ai-employment-regulations-what-employers-need-to-know/)
+_Highlight:_ Request Transparency from Vendors – Ask for information on <b>bias</b> testing, training data, and system logic. Implement Notice and Accommodation Policies&nbsp;...
+
+- **5. <b>AI</b> has broken the system: Companies seek new ways to find talent - AFR** [link](https://www.afr.com/work-and-careers/careers/ai-has-broken-the-system-companies-seek-new-ways-to-find-talent-20250422-p5ltfq)
+_Highlight:_ In addition to <b>AI</b> creating more (pointless) work for HR departments, there&#39;s also the issue of <b>bias</b> to contend with. According to research by&nbsp;...
+
+- **6. Age <b>Bias</b> Allegations Rock Workday as Judge Advances Nationwide <b>AI</b> Hiring Lawsuit** [link](https://usaherald.com/age-bias-allegations-rock-workday-as-judge-advances-nationwide-ai-hiring-lawsuit/)
+_Highlight:_ Case Summary Collective Certified: District Judge Rita Lin approved preliminary certification for a nationwide group of applicants aged 40‑plus&nbsp;...
+
+- **7. Arizona launches <b>AI</b> steering committee - StateScoop** [link](https://statescoop.com/arizona-ai-steering-committee/)
+_Highlight:_ ... <b>AI</b> policy framework that emphasizes transparency, <b>fairness</b> and accountability, Gov. Katie Hobbs announced. “<b>Artificial Intelligence</b> is rapidly&nbsp;...
+
+- **8. Designing Trust: Building Responsible Innovation in Healthcare Analytics - Tech Times** [link](https://www.techtimes.com/articles/310442/20250523/designing-trust-building-responsible-innovation-healthcare-analytics.htm)
+_Highlight:_ New <b>AI</b> regulations, like the EU <b>AI</b> Act, require <b>fairness</b> assessments and transparency. Organizations that build <b>fairness</b> into their workflows cut&nbsp;...
+
+- **9. PlaySafe ID raises $1.12M to bring trust and <b>fairness</b> to gaming communities | VentureBeat** [link](https://venturebeat.com/games/playsafe-id-raises-1-12m-to-bring-trust-and-fairness-to-gaming-communities/)
+_Highlight:_ In a world where <b>AI</b> and anonymity are eroding safety and <b>fairness</b>, PlaySafeID restores balance with identity, transparency, and accountability&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
