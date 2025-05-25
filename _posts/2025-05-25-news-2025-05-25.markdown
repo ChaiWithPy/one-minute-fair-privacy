@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-05-25 One-Minute Post
+date: 2025-05-25 06:48:10 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI integration in smart homes raises privacy concerns due to data collection. HR professionals are cautioned about AI bias in hiring and the need to blend AI with empathy. Legal challenges in the age of AI highlight the importance of bias audits to prevent unfairness and discrimination. Additionally, there is a growing need for African-tailored AI algorithms to address bias in AI systems trained outside the continent. Ethical considerations around data privacy, AI biases, and maintaining authenticity are emphasized in the context of deepening ministry engagement through AI.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> can deepen, fast-track ministry engagement, but it is not the &#39;Holy Spirit&#39;, tech expert tells ...** [link](http://www.christiandaily.com/news/ai-can-deepen-fast-track-ministry-engagement-but-it-is-not-the-holy-spirit-tech-expert-tells-african-leaders)
+_Highlight:_ &quot; Ethical questions around data <b>privacy</b>, <b>AI</b> biases, and &quot;maintain[ing] authenticity&quot; must be addressed, said Adams. Crucially, there is the&nbsp;...
+
+- **2. <b>AI</b> can deepen, fast-track ministry engagement, but it is not the &#39;Holy Spirit&#39;, tech expert tells ...** [link](https://www.christiandaily.com/news/ai-can-deepen-fast-track-ministry-engagement-but-it-is-not-the-holy-spirit-tech-expert-tells-african-leaders)
+_Highlight:_ Ethical questions around data <b>privacy</b>, <b>AI</b> biases, and &quot;maintain[ing] authenticity&quot; must be addressed, said Adams. Crucially, there is the&nbsp;...
+
+- **3. Smart Homes and <b>AI</b> – The Future of Connected Living | CustomerThink** [link](https://customerthink.com/smart-homes-and-ai-the-future-of-connected-living/)
+_Highlight:_ The integration of <b>Artificial Intelligence</b> (<b>AI</b>) into smart homes is ... -Data <b>Privacy</b> Concerns: <b>AI</b>-powered devices collect vast amounts of&nbsp;...
+
+- **4. <b>AI</b> in HR: Hype Vs Reality - ETHRWorld - HR Economic Times** [link](https://hr.economictimes.indiatimes.com/news/trends/ai-in-hr/ai-in-hr-hype-vs-reality/121388809)
+_Highlight:_ ... <b>AI bias</b> in hiring. <b>AI</b> can improve efficiency and analyze employee sentiment. It cannot replace empathy. HR professionals need to blend <b>AI</b> with&nbsp;...
+
+- **5. Legal challenges in age of <b>AI</b> - The Sunday Guardian Live** [link](https://sundayguardianlive.com/business/legal-challenges-in-age-of-ai)
+_Highlight:_ <b>Bias</b> Audits: Regular checks must be in place to ensure that <b>AI</b> systems are not perpetuating unfairness or discrimination. The recently enacted Digital&nbsp;...
+
+- **6. Grok&#39;s &#39;white genocide&#39; misinformation shows need for African-tailored <b>AI</b> algorithms** [link](https://mg.co.za/news/2025-05-24-groks-white-genocide-misinformation-shows-need-for-african-tailored-ai-algorithms/)
+_Highlight:_ Most <b>artificial intelligence</b> bots are trained outside the continent, raising questions of <b>bias</b>.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
