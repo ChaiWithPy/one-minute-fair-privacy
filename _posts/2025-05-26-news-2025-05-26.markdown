@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-26 One-Minute Post
+date: 2025-05-26 07:13:32 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+US tightens export controls on AI chips to limit China's progress. Musk's Grok AI raises privacy and ethics concerns. NFL star invests in AI startup to address bias. Workday faces lawsuit over AI hiring tool's age bias. AI systems' fairness and efficiency in examination systems are being enhanced.
+
+## Articles we found interesting:
+
+- **1. ARBITRATION: Balancing Technology and Trust | Asian Legal Business** [link](https://www.legalbusinessonline.com/features/arbitration-balancing-technology-and-trust)
+_Highlight:_ <b>AI</b> promises cost reduction but raises concerns about <b>confidentiality</b> and due process in arbitration. Human oversight remains essential; arbitrators&nbsp;...
+
+- **2. Musk pushes Grok <b>AI</b> on US government, raising ethics issues - AFR** [link](https://www.afr.com/world/north-america/musk-pushes-grok-ai-on-us-government-raising-ethics-issues-20250525-p5m231)
+_Highlight:_ Such use of Grok could reinforce concerns among <b>privacy</b> advocates and others that Musk&#39;s Department of Government Efficiency team appears to be&nbsp;...
+
+- **3. US to tighten <b>AI</b> chip controls amid China pushback | Digital Watch Observatory** [link](https://dig.watch/updates/us-to-tighten-ai-chip-controls-amid-china-pushback)
+_Highlight:_ The US is increasing export controls on advanced <b>AI</b> chips to limit China&#39;s technological and military progress. In response, China has strongly&nbsp;...
+
+- **4. Primer: IOSCO&#39;s report on <b>AI</b> use cases in capital markets - IFLR** [link](https://www.iflr.com/article/2elusu8sqe7h3r1a0yt4w/capital-markets/primer-ioscos-report-on-ai-use-cases-in-capital-markets)
+_Highlight:_ ... <b>bias</b> can lead to inaccurate or <b>biased</b> outputs. · Concentration ... <b>AI</b>-specific frameworks to regulate <b>AI</b> activities in the financial services sector.
+
+- **5. Ex-NFL Star Tom Brady Returns to Crypto With Investment in <b>AI</b> Startup - Decrypt** [link](https://decrypt.co/322051/tom-brady-crypto-investment-ai-startup)
+_Highlight:_ Despite ongoing attempts to eliminate <b>bias</b> and racism, <b>AI</b> models still apply a sense of “otherness” to names not typically associated with white&nbsp;...
+
+- **6. Google co-founder lets <b>AI</b> run appraisals – and it found talent he missed - People Matters** [link](https://www.peoplematters.in/news/compensation-benefits/google-co-founder-lets-ai-run-appraisals-and-it-found-talent-he-missed-45693)
+_Highlight:_ This example illustrates how <b>AI</b> tools can help overcome the limitations of human <b>bias</b> or oversight in performance reviews. By analysing&nbsp;...
+
+- **7. <b>AI Fairness</b>: Designing Equal Opportunity Algorithms – Book Review** [link](https://www.eurasiareview.com/24052025-ai-fairness-designing-equal-opportunity-algorithms-book-review/)
+_Highlight:_ As <b>AI</b> systems become more integrated with work and life, a fundamental question arises: Are these systems <b>fair</b>? Derek Leben, in his new book <b>AI</b>&nbsp;...
+
+- **8. Enhancing examination systems: Leveraging technology for <b>fairness</b> and efficiency** [link](https://businessday.ng/opinion/article/enhancing-examination-systems-leveraging-technology-for-fairness-and-efficiency/)
+_Highlight:_ Here are some steps that can be taken: &middot; 1. Robust Technical Infrastructure &middot; 2. Secure and Transparent Processes &middot; 3. <b>AI</b> and Technology Integration &middot; 4.
+
+- **9. <b>AI</b> Hiring Tools Under Fire, &#39;Disproportionately Disqualifies Over-40 Applicants&#39; - eWEEK** [link](https://www.eweek.com/news/workday-discrimination-lawsuit-ai-hiring/)
+_Highlight:_ Workday faces a lawsuit alleging its <b>AI</b> hiring tool unfairly rejects applicants over 40, sparking debate on age bias and <b>fairness</b> in automated&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
