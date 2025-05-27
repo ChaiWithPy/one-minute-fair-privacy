@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-05-27 One-Minute Post
+date: 2025-05-27 07:20:08 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Protesters in San Francisco demand regulation for AI's increasing intelligence. A narrative review highlights challenges in ethical integration of AI in healthcare, emphasizing data quality, bias, transparency, and privacy. ETRI unveils AI-powered media technologies with a focus on protecting user privacy. Generative AI's dark side is revealed, emphasizing bias and fairness issues. Brands using AI agents for creator deals raise concerns about reinforcing industry biases. The debate on banning or embracing AI in classrooms continues, with a focus on addressing biases in AI-powered learning resources.
+
+## Articles we found interesting:
+
+- **1. SF protesters warn of &#39;human extinction&#39; with <b>AI&#39;s</b> increasing intelligence, call for regulation** [link](https://abc7news.com/post/san-francisco-protesters-warn-human-extinction-ais-increasing-intelligence-amid-trumps-big-beautiful-bill/16548302/)
+_Highlight:_ Protesters outside OpenAI in San Francisco were sounding the alarm about <b>artificial intelligence</b> amid President Trump&#39;s One Big Beautiful Bill.
+
+- **2. Ethical Integration of <b>Artificial Intelligence</b> in Healthcare: Narrative Review of Global ...** [link](https://www.cureus.com/articles/321777-ethical-integration-of-artificial-intelligence-in-healthcare-narrative-review-of-global-challenges-and-strategic-solutions)
+_Highlight:_ It discusses challenges and proposes suggestions for addressing issues such as data quality and bias, transparency, <b>privacy</b> and security,&nbsp;...
+
+- **3. ETRI to unveil <b>AI</b>-powered next-generation media technologies at NAB Show in the U.S.** [link](https://www.eurekalert.org/news-releases/1084571)
+_Highlight:_ At the exhibition, it unveiled △Intelligent Multi-View OTT player technology △Metaverse trust layer technology to protect user <b>privacy</b> △User&nbsp;...
+
+- **4. The Dark Side of Generative <b>AI</b> : 10 Problems We Can&#39;t Ignore - Geeky Gadgets** [link](https://www.geeky-gadgets.com/generative-ai-societal-challenges/)
+_Highlight:_ Generative <b>AI</b> Challenges. TL;DR Key Takeaways : &middot; <b>Bias</b> and Fairness &middot; Misinformation Risks &middot; 10 BIG Problems With Generative <b>AI</b> &middot; Intellectual Property&nbsp;...
+
+- **5. Brands are starting to use <b>AI</b> agents to execute creator deals—what it means for the industry - Ad Age** [link](https://adage.com/influencers-creators/aa-creator-marketing-ai-agents/)
+_Highlight:_ Marketers fear <b>AI</b> could shrink creator teams, alienate influencers and reinforce industry <b>biases</b>. Brands typically pay third-party companies to&nbsp;...
+
+- **6. Ban or Embrace <b>AI</b> in Classrooms? - 5MU** [link](https://www.5mu.com.au/trending/entertainment/ban-or-embrace-ai-in-classrooms/)
+_Highlight:_ ... <b>AI</b>-powered learning resources. These tools have been developed in partnership with leading <b>AI</b> firms OpenAI and Anthropic. <b>BIAS</b> Project. 109&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
