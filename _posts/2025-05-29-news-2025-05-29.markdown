@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-29 One-Minute Post
+date: 2025-05-29 07:01:09 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI-driven threat detection in cybersecurity raises privacy concerns. California's revised regulations aim to protect privacy in AI usage. Tesco's AI surveillance in supermarkets sparks privacy worries. Workday faces a collective lawsuit over alleged AI hiring bias. The hidden biases of AI systems amplify human biases. Ethical concerns arise in AI deployment in insurance decision-making. Ethical AI in marketing is crucial for ensuring fairness. AI's sophistication presents new legal dilemmas, including fairness issues. FIs need to address fairness concerns in debt collection using AI.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b>-Driven threat detection in cybersecurity: opportunities and challenges for organizations** [link](https://atos.net/en/blog/ai-driven-threat-detection-in-cybersecurity-opportunities-and-challenges-for-organizations)
+_Highlight:_ The rapid advancement of <b>artificial intelligence</b> (<b>AI</b>) has reshaped industries worldwide. ... Additionally, <b>AI</b>-driven thread detection raises <b>privacy</b> and&nbsp;...
+
+- **2. California Narrows <b>AI</b> Rules in Revised ADMT Regulations - The National Law Review** [link](https://natlawreview.com/article/california-regulator-releases-updated-draft-regulations-scales-back-proposed-ai)
+_Highlight:_ Namely, the California <b>Privacy</b> Protection Agency recently released an update to its draft regulations which change how the Agency plans to regulate&nbsp;...
+
+- **3. Tesco&#39;s &#39;VAR-style&#39; <b>AI</b> is watching your weekly shop - The Independent** [link](https://www.the-independent.com/life-style/food-and-drink/features/tesco-ai-self-checkout-supermarkets-shopping-privacy-b2759100.html)
+_Highlight:_ There is, increasingly, a sense that supermarkets don&#39;t trust the people who shop in them. According to <b>privacy</b> campaigners, these systems risk&nbsp;...
+
+- **4. Federal Court Allows Collective Action Lawsuit Over Alleged <b>AI</b> Hiring <b>Bias</b> - Mondaq** [link](https://www.mondaq.com/unitedstates/new-technology/1630454/federal-court-allows-collective-action-lawsuit-over-alleged-ai-hiring-bias)
+_Highlight:_ Derek Mobley, a man over 40 years old, sued Workday Inc. claiming that Workday&#39;s <b>artificial intelligence</b> (<b>AI</b>)-driven applicant screening tools&nbsp;...
+
+- **5. The Hidden <b>Bias</b> of <b>Artificial Intelligence</b>: Protecting Rights in a Tech-Driven World** [link](https://countercurrents.org/2025/05/the-hidden-bias-of-artificial-intelligence-protecting-rights-in-a-tech-driven-world/)
+_Highlight:_ <b>AI</b> systems, though often perceived as neutral, can inherit and amplify human <b>biases</b> in three major ways. Algorithmic <b>bias</b>, which stems from design&nbsp;...
+
+- **6. Exploring the Ethical Implications of <b>AI</b> Deployment in Insurance Decision-Making - AiThority** [link](https://aithority.com/machine-learning/exploring-the-ethical-implications-of-ai-deployment-in-insurance-decision-making/)
+_Highlight:_ <b>AI</b> boosts insurance efficiency and personalization but raises ethical concerns around <b>bias</b>, transparency, privacy, and accountability.
+
+- **7. Ethical <b>AI</b> in Marketing: Ensuring <b>Fairness</b> in Automated Decision-Making - MarTech Outlook** [link](https://www.martechoutlook.com/news/ethical-ai-in-marketing-ensuring-fairness-in-automated-decisionmaking-nid-3831.html)
+_Highlight:_ The rapid integration of <b>Artificial Intelligence</b> (<b>AI</b>) into marketing has unlocked unprecedented opportunities for personalization, efficiency,&nbsp;...
+
+- **8. <b>AI&#39;s</b> Escalating Sophistication Presents New Legal Dilemmas** [link](https://nysba.org/ais-escalating-sophistication-presents-new-legal-dilemmas/)
+_Highlight:_ Infringement Risk and <b>Fair</b> Use. As <b>artificial intelligence</b> evolves, so do the legal challenges surrounding its outputs, with one of the most pressing&nbsp;...
+
+- **9. Blog: Keeping Collections Personal in the Age of <b>AI</b> - Mortgage Finance Gazette –** [link](https://www.mortgagefinancegazette.com/fintech/keeping-collections-personal-in-the-age-of-ai-28-05-2025/)
+_Highlight:_ Yet, many consumers still report dissatisfaction with how FIs approach debt collection, citing concerns around <b>fairness</b>, communication, and support.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
