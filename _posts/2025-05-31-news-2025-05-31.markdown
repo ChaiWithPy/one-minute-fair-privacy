@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-05-31 One-Minute Post
+date: 2025-05-31 06:59:39 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI at Work may widen inequality in the workplace. Experts offer guidance on navigating the ethical landscape in AI governance. AdvaMed releases AI Policy Roadmap to guide Congress and Federal Agencies. Meanwhile, CJEU receives questions on copyright rules applying to AI chatbot, and the Communications Ministry highlights ethical standards for AI use at NHRC conference. On the bias front, AI models perpetuate societal biases, and researchers defend the scientific consensus on bias and discrimination in AI. Additionally, Trump's 'Big, Beautiful' Blunder on AI is discussed. In terms of fairness, medical cannabis access and fair tax policies are on the agenda, and Social Security announces a major change to its phone system by integrating AI.
+
+## Articles we found interesting:
+
+- **1. Leadership experts: How to get your workplace to embrace <b>AI</b> - CNBC** [link](https://www.cnbc.com/2025/05/30/leadership-experts-how-to-get-your-workplace-to-embrace-ai.html)
+_Highlight:_ <b>AI</b> at Work<b>AI</b> may widen inequality in the workplace. Experts offer ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices.
+
+- **2. CJEU Receives Questions on Copyright Rules Applying to <b>AI</b> Chatbot | Inside Global Tech** [link](https://www.insideglobaltech.com/2025/05/30/cjeu-receives-questions-on-copyright-rules-applying-to-ai-chatbot/)
+_Highlight:_ Her practice covers a wide range of regulatory and policy matters at the cross-section of <b>privacy</b>, content moderation, <b>artificial intelligence</b>, and&nbsp;...
+
+- **3. AdvaMed Response to House <b>Privacy</b> Working Group RFI** [link](https://www.advamed.org/member-center/resource-library/advamed-response-to-house-privacy-working-group-rfi/)
+_Highlight:_ AdvaMed Releases “<b>AI</b> Policy Roadmap” to Guide Congress and Federal Agencies. April 22, 2025. Washington, D.C.—AdvaMed, the Medtech Association, today&nbsp;...
+
+- **4. <b>AI</b> Governance: Navigating the Ethical Landscape in 2025 - Techgenyz** [link](https://techgenyz.com/ai-governance-navigating-the-ethical-landscape/)
+_Highlight:_ The effects of unregulated <b>AI</b> systems are becoming more and more obvious, ranging from algorithmic <b>bias</b> and data privacy to disinformation and job&nbsp;...
+
+- **5. The Times They Are Indeed A-Changin&#39;: <b>AI</b> and the New Productivity Frontier** [link](https://cxotoday.com/story/the-times-they-are-indeed-a-changin-ai-and-the-new-productivity-frontier/)
+_Highlight:_ <b>Bias</b>: <b>AI</b> models learn from data, and if that data reflects existing societal biases, the AI can perpetuate or even amplify them. This is a&nbsp;...
+
+- **6. Trump&#39;s &#39;Big, Beautiful&#39; Blunder on <b>AI</b>: Starving Science | TechPolicy.Press** [link](https://www.techpolicy.press/trumps-big-beautiful-blunder-on-ai-starving-science/)
+_Highlight:_ <b>AI Bias</b> is Not Ideological. It&#39;s Science.April 1, 2025. Podcast. Researchers Defend the Scientific Consensus on <b>Bias</b> and Discrimination in <b>AI</b>April&nbsp;...
+
+- **7. Medical cannabis access, &#39;<b>fair</b>&#39; tax policies and more on deck as study committee season cranks up** [link](https://georgiarecorder.com/2025/05/30/medical-cannabis-access-fair-tax-policies-and-more-on-deck-as-study-committee-season-cranks-up/)
+_Highlight:_ <b>Artificial intelligence</b>. <b>Artificial intelligence</b>, or <b>AI</b>, has been a hot-button issue both in Georgia and around the country. During the 2025&nbsp;...
+
+- **8. Social Security Announces Major Change to Phone System - Newsweek** [link](https://www.newsweek.com/social-security-major-changes-phone-system-artificial-intelligence-frank-bisignano-2078364)
+_Highlight:_ We&#39;re going to bring <b>AI</b> into the phone system.&quot; He added: &quot;I intend it to be completed this year.&quot; Newsweek has contacted the SSA for comment outside&nbsp;...
+
+- **9. Communications Ministry highlights ethical standards for <b>AI</b> use at NHRC conference** [link](https://m.thepeninsulaqatar.com/article/30/05/2025/communications-ministry-highlights-ethical-standards-for-ai-use-at-nhrc-conference)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) during ... <b>fairness</b>, and accountability in the development of <b>AI</b> systems. On the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
