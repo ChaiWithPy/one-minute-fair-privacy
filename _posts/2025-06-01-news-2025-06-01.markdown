@@ -1,0 +1,40 @@
+---
+layout: post
+title: 2025-06-01 One-Minute Post
+date: 2025-06-01 07:14:20 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+GOP push to ban state AI laws will only help big tech, while 50% of professional services users have utilized unauthorized AI tools. Renowned N.B. swordsmith transitions to law, focusing on privacy and AI. AI agents need smart rules to address biases. Educational AI has pros and cons, including the risk of bias. There's a critical need for ethical oversight and regulation of AI to prevent bias and injustice. AI chatbots are transforming consumer interactions, highlighting the importance of fairness. Fairness metrics are crucial in uncovering bias in AI-assisted decision-making outcomes.
+
+## Articles we found interesting:
+
+- **1. GOP Push to Ban State <b>AI</b> Laws Will Only Help Big Tech | Truthout** [link](https://truthout.org/articles/gop-push-to-ban-state-ai-laws-will-only-help-big-tech/)
+_Highlight:_ ... <b>privacy</b> and civil liberties as <b>AI</b> advances. But even Biden&#39;s executive order, as a set of unbinding guidelines, failed to manifest as concrete&nbsp;...
+
+- **2. 50% of Professional Services Users Have Utilized <b>AI</b> Tools Not Authorized by Company - JD Supra** [link](https://www.jdsupra.com/legalnews/50-of-professional-services-users-have-7787860/)
+_Highlight:_ ... <b>AI</b> usage.” The professions surveyed included accounting, consulting ... <b>Privacy</b> Tip #445 – Apple Users: Update to iOS 18.5 &middot; U.S. Retailers&nbsp;...
+
+- **3. Renowned N.B. swordsmith begins forging a career in law | CBC News** [link](https://www.cbc.ca/news/canada/new-brunswick/swordsmith-new-path-law-school-1.7544611)
+_Highlight:_ Now he&#39;s interested in law related to <b>privacy</b> and <b>artificial intelligence</b>. He wants to work on the copyright implications of <b>AI</b> and the fact it is&nbsp;...
+
+- **4. <b>AI</b> Agents Gone Wild? Nah, Let&#39;s Talk Smart Rules for Our Smart Helpers!** [link](https://medium.datadriveninvestor.com/ai-agents-gone-wild-nah-lets-talk-smart-rules-for-our-smart-helpers-0ade3b9bb960)
+_Highlight:_ ... <b>AI</b> can perpetuate or even amplify those <b>biases</b>. Imagine an <b>AI</b> agent ... <b>Bias</b> Detection: <b>Biases</b> can be subtle and hidden deep within the model.
+
+- **5. Pros and cons of educational <b>AI</b> - Living - Al-Ahram Weekly** [link](https://english.ahram.org.eg/NewsContent/50/1210/547021/AlAhram-Weekly/Living/Pros-and-cons-of-educational-AI-.aspx)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) has certainly transformed the way we see life. ... One of the biggest drawbacks is <b>bias</b> and the possibility that <b>AI</b> might&nbsp;...
+
+- **6. Critical need for ethical oversight and regulation of <b>artificial intelligence</b> | Opinion | The Vibes** [link](https://www.thevibes.com/articles/opinion/108867/critical-need-for-ethical-oversight-and-regulation-of-artificial-intelligence)
+_Highlight:_ ... <b>AI</b> is not just a tool, it reflects the values of those who create ... <b>bias</b> leading to injustice, job displacement, economic inequality, and&nbsp;...
+
+- **7. Cookie Documentation - Funnel - Confluence Digital <b>Fairness</b> Act Series: Topic 2 - Inside Privacy** [link](https://www.insideprivacy.com/artificial-intelligence/cookie-documentation-funnel-confluence-digital-fairness-act-series-topic-2-transparency-and-disclosure-obligations-for-ai-chatbots-in-consumer-interactions/)
+_Highlight:_ <b>AI</b> chatbots are transforming how businesses handle consumer inquiries and complaints, offering speed and availability that traditional channels&nbsp;...
+
+- **8. Example human subjects experiment interfaces to measure: 1/ trajectory... - ResearchGate** [link](https://www.researchgate.net/figure/Example-human-subjects-experiment-interfaces-to-measure-1-trajectory-distance-upper_fig3_392106188)
+_Highlight:_ ... <b>Fairness</b> Metrics | Although popularized <b>AI fairness</b> metrics, e.g., demographic parity, have uncovered bias in <b>AI</b>-assisted decision-making outcomes&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
