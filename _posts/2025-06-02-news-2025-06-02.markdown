@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2025-06-02 One-Minute Post
+date: 2025-06-02 07:14:19 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Record labels are in talks to settle disputes with AI firms Udio and Suno, while Meta is reportedly replacing human risk assessors with AI. Australia is harnessing AI for security, emphasizing privacy and ethical usage. In education, vetting AI tools is crucial to address biases. International arbitration faces obstacles in AI adoption due to concerns about errors and bias. Google's new app runs AI offline on smartphones, prompting the need to address bias. The book "AI Fairness: Designing Equal Opportunity Algorithms" highlights the importance of fair AI algorithms.
+
+## Articles we found interesting:
+
+- **1. Record Labels in Talks to Settle Fights With <b>AI</b> Firms Udio, Suno - Bloomberg Law News** [link](https://news.bloomberglaw.com/privacy-and-data-security/record-labels-in-talks-to-settle-fights-with-ai-firms-udio-suno)
+_Highlight:_ ... <b>AI</b> companies compensate recording artists for their work, according ... Latest Stories in <b>Privacy</b> &amp; Data Security Law. Big Law&#39;s Increasing <b>AI</b>&nbsp;...
+
+- **2. Meta reportedly replacing human risk assessors with <b>AI</b> - Mashable** [link](https://mashable.com/article/meta-ai-replacing-humans-risk-assessment)
+_Highlight:_ A phone displaying the circular Meta <b>AI</b> logo and text that reads &quot;Ask Meta <b>AI</b> ... <b>privacy</b> and integrity reviews. But in the near future, these essential&nbsp;...
+
+- **3. Harnessing <b>AI</b> to reinforce security and identity in Australia | Biometric Update** [link](https://www.biometricupdate.com/202506/harnessing-ai-to-reinforce-security-and-identity-in-australia)
+_Highlight:_ With the rise of <b>AI</b>-driven security solutions comes the responsibility to uphold data <b>privacy</b>, ethical <b>AI</b> usage and regulatory compliance. <b>Privacy</b>&nbsp;...
+
+- **4. Vetting <b>AI</b> tools for schools? Consider these 4 pieces of advice | K-12 Dive** [link](https://www.k12dive.com/news/vetting-ai-tools-for-schools-consider-these-4-pieces-of-advice/749288/)
+_Highlight:_ When it comes to any technology, but especially <b>AI</b>, Hagel said, “everything is programmed with some sort of <b>biases</b>, whether it&#39;s the <b>bias</b> that already&nbsp;...
+
+- **5. Arbitration and <b>AI</b> | White &amp; Case LLP** [link](https://www.whitecase.com/insight-our-thinking/2025-international-arbitration-survey-arbitration-and-ai)
+_Highlight:_ The principal obstacles to the greater use of <b>AI</b> in international arbitration are concerns about errors and <b>bias</b> (51%), confidentiality risks (47%),&nbsp;...
+
+- **6. New Google app runs <b>AI</b> offline on smartphones - Techzine Global** [link](https://www.techzine.eu/news/applications/131900/new-google-app-runs-ai-offline-on-smartphones/)
+_Highlight:_ Google invites developers to provide feedback on their experience with <b>AI</b> Edge Gallery, an offline options for <b>AI</b> usage ... How to deal with <b>bias</b> and&nbsp;...
+
+- **7. <b>AI Fairness</b> : Designing Equal Opportunity Algorithms: Derek Leben: 9780262552363 - Hive** [link](https://www.hive.co.uk/Product/Derek-Leben/AI-Fairness--Designing-Equal-Opportunity-Algorithms/31251842)
+_Highlight:_ Pages:240 pages, 33 BLACK AND WHITE ILLUS. Publisher:MIT Press Ltd; Publication Date:13/05/2025; Category&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
