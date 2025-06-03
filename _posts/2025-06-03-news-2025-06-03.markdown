@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-03 One-Minute Post
+date: 2025-06-03 07:12:38 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta is considering using AI to review privacy and societal risks. Meanwhile, MIT researchers emphasize the need to address bias in AI datasets. Workday faces a lawsuit alleging bias and fairness issues in its AI-based hiring system. Solera Health introduces an enhanced AI governance framework to ensure responsible and fair use of AI in digital health. Additionally, researchers are exploring whether AI can learn to play fair in negotiation scenarios. In the political arena, there is optimism that Congress will act on AI task force recommendations, potentially impacting privacy regulations.
+
+## Articles we found interesting:
+
+- **1. House <b>AI</b> Task Force member optimistic Congress will move on group&#39;s recs later this year** [link](http://www.fcw.com/artificial-intelligence/2025/06/house-ai-task-force-member-optimistic-congress-will-move-groups-recs-later-year/405730/%3Foref%3Dng-homepage-river)
+_Highlight:_ Your <b>Privacy</b> Choices; Exercise Your <b>Privacy</b> Rights &middot; Ranking member Sen. Mark Warner, D-Va., right, and Sen. Senators urge DHS to reinstate disbanded&nbsp;...
+
+- **2. Can <b>AI</b> ETFs Keep Shining? - CNBC** [link](https://www.cnbc.com/video/2025/06/02/can-ai-etfs-keep-shining.html)
+_Highlight:_ ... <b>AI</b> ETFs and Bitcoin ETFs seeing big outflows ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **3. Meta wants to replace its human workers with <b>AI</b> to review <b>privacy</b> and societal risks** [link](https://fortune.com/2025/06/02/meta-replace-human-workers-ai-klarna-salesforce-duolingo/)
+_Highlight:_ <b>AI</b> stepping in at Meta to assess <b>privacy</b> and societal risks. From the start, humans have conducted nearly all of Meta&#39;s <b>privacy</b> and integrity reviews.
+
+- **4. 3 Questions: How to help students recognize potential <b>bias</b> in their <b>AI</b> datasets | MIT News** [link](https://news.mit.edu/2025/3-questions-recognizing-potential-bias-in-ai-datasets-0602)
+_Highlight:_ Courses on developing <b>AI</b> models for health care need to focus more on teaching how to identify and address <b>bias</b>, says MIT Research Scientist Leo&nbsp;...
+
+- **5. The hidden security risks of open source <b>AI</b> | Computer Weekly** [link](https://www.computerweekly.com/opinion/The-hidden-security-risks-of-open-source-AI)
+_Highlight:_ Opaque models make <b>bias</b> hard to detect – and nearly impossible to fix. If a <b>biased</b> model is used in hiring, lending, or healthcare, it can quietly&nbsp;...
+
+- **6. California Employers: <b>Artificial Intelligence</b> in Hiring Brings New Compliance Risks** [link](https://www.jdsupra.com/legalnews/california-employers-artificial-1498037/)
+_Highlight:_ ... <b>bias</b>) <b>AI</b> as a violation of anti-discrimination laws. Federal and California agencies have increased their focus on how AI and automated decision&nbsp;...
+
+- **7. Workday Hit With Lawsuit Claiming Its <b>AI</b> Shuts Out Black, Disabled And Older Jobseekers** [link](https://www.ibtimes.co.uk/workday-hit-lawsuit-claiming-its-ai-shuts-out-black-disabled-older-jobseekers-1734573)
+_Highlight:_ The case raises major questions about bias, <b>fairness</b>, and accountability in algorithm-driven hiring. It alleges that Workday&#39;s <b>AI</b>-based system has&nbsp;...
+
+- **8. Solera Health Unveils Enhanced <b>AI</b> Governance Framework for Responsible and ... - Morningstar** [link](https://www.morningstar.com/news/globe-newswire/9460959/solera-health-unveils-enhanced-ai-governance-framework-for-responsible-and-transparent-use-of-artificial-intelligence-in-digital-health)
+_Highlight:_ ... artificial intelligence (AI) across its partner ecosystem. As ... To prevent bias and promote <b>fairness</b>, <b>AI</b> systems must meet diverse data&nbsp;...
+
+- **9. Can <b>AI</b> Learn To Play <b>Fair</b>? - Dataconomy** [link](https://dataconomy.com/2025/06/02/can-ai-learn-to-play-fair/)
+_Highlight:_ Can <b>AI</b> learn to play <b>fair</b>? Researchers tested six LLMs in over 2,700 ultimatum games to measure how reasoning styles affect negotiation behavior&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
