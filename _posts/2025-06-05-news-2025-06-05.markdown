@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-05 One-Minute Post
+date: 2025-06-05 07:00:02 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+European Commission releases guidelines on AI systems, while Texas passes comprehensive AI governance act. Trump overhauls AI Safety Institute for new 'Innovation Centre' amid concerns of bias. Mnangagwa urges AI-driven governance for fairness in SADC integration. Massachusetts Sen. Markey vows Senate showdown over Republican 10-year ban on AI regulation.
+
+## Articles we found interesting:
+
+- **1. Texas Legislature Passes Comprehensive <b>AI</b> Governance Act | Regulatory Oversight** [link](https://www.regulatoryoversight.com/2025/06/texas-legislature-passes-comprehensive-ai-governance-act/)
+_Highlight:_ ... <b>privacy</b> and consumer protection enforcement, including against <b>AI</b> systems. Paxton and other state AGs have utilized <b>privacy</b>, consumer protection&nbsp;...
+
+- **2. European Commission Guidelines on the Definition of an “<b>AI</b> System” | Inside <b>Privacy</b>** [link](https://www.insideprivacy.com/artificial-intelligence/european-commission-guidelines-on-the-definition-of-an-ai-system/)
+_Highlight:_ In February 2025, the European Commission published two sets of guidelines to clarify key aspects of the EU <b>Artificial Intelligence</b> Act (“<b>AI</b>&nbsp;...
+
+- **3. Unlocking <b>AI&#39;s</b> potential through <b>privacy</b> - RSM US** [link](https://rsmus.com/insights/services/risk-fraud-cybersecurity/unlocking-ai-s-potential-through-privacy.html)
+_Highlight:_ In today&#39;s rapidly evolving technological landscape, <b>artificial intelligence</b> (<b>AI</b>) stands as a transformative force, promising unprecedented&nbsp;...
+
+- **4. Trump overhauls Biden-era <b>AI</b> Safety Institute to create new &#39;Innovation Centre&#39;** [link](https://www.capacitymedia.com/article/trump-overhauls-biden-ai-safety-institute-to-create-new-innovation-centre)
+_Highlight:_ The reworking of the institute comes as President Trump attacks what his administration perceives as &#39;ideological <b>bias</b>&#39; from foundation models, with&nbsp;...
+
+- **5. Republicans Are Trying to Block My State From Regulating <b>AI</b> - Rolling Stone** [link](https://www.rollingstone.com/politics/political-commentary/trump-tax-bill-republicans-ai-regulation-stop-1235354733/)
+_Highlight:_ ... <b>AI</b> only grows. The Biden administration formed the U.S. <b>Artificial</b> ... <b>bias</b>. <b>AI</b> systems learn from wide datasets, and if these datasets&nbsp;...
+
+- **6. Top Issues To Consider In <b>AI</b> Tool Contracts: A Customer&#39;s Perspective - Mondaq** [link](https://www.mondaq.com/unitedstates/new-technology/1633390/top-issues-to-consider-in-ai-tool-contracts-a-customers-perspective)
+_Highlight:_ As artificial intelligence (AI) continues to revolutionize ... <b>Bias</b>: <b>AI</b> tools are susceptible &quot;bias&quot; based on who programmed the tool&nbsp;...
+
+- **7. Southern Africa: Mnangagwa Urges <b>AI</b>-Driven Governance for SADC Integration** [link](https://allafrica.com/stories/202506040002.html)
+_Highlight:_ He cited Zimbabwe&#39;s Cyber and Data Protection Act as an example of regulatory frameworks designed to ensure <b>fairness</b> in <b>AI</b>-driven services.
+
+- **8. <b>AI</b> for Arizona: Sun Devils help lead state&#39;s first policy task force - ASU News** [link](https://news.asu.edu/20250603-local-national-and-global-affairs-ai-arizona-sun-devils-help-lead-states-first-policy-task)
+_Highlight:_ The brakes involve governance, ensuring transparency, explainability and <b>fairness</b>. To succeed in <b>AI</b>, we must be smart about both. Any solution&nbsp;...
+
+- **9. Massachusetts Sen. Markey slams Republican 10-year ban on <b>AI</b> regulation, vows Senate ...** [link](https://www.newbedfordguide.com/massachusetts-sen-markey-slams-republican-10-year-ban-ai-regulation-vows-senate-showdown/2025/06/03)
+_Highlight:_ “We can lead an <b>AI</b> revolution that drives innovation while protecting civil rights, promoting <b>fairness</b>, and safeguarding our environment. But this&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
