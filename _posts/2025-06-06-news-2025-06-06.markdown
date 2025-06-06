@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-06-06 One-Minute Post
+date: 2025-06-06 07:22:47 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Information Commissioner emphasizes the need for trust in AI data protection. TrustArc's report shows privacy leaders outperforming peers. TD's Trustworthy AI team prioritizes privacy and confidentiality. AI is revolutionizing medical device development, but bias risks need to be addressed. AI in HR systems requires bias detection and diversity monitoring. Insurers are urged to engage in AI self-governance to tackle algorithmic bias.
+
+## Articles we found interesting:
+
+- **1. Information Commissioner: People must trust their data is protected in the age of <b>AI</b> | ICO** [link](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2025/06/information-commissioner-people-must-trust-their-data-is-protected-in-the-age-of-ai/)
+_Highlight:_ ... <b>AI</b> responsibly to support innovation while safeguarding <b>privacy</b>; scrutinising emerging <b>AI</b> risks and trends, such as the rise of agentic <b>AI</b> as&nbsp;...
+
+- **2. TrustArc&#39;s 2025 Benchmarks Report: <b>Privacy</b> Leaders Are Outpacing Peers by 16 Points - Here&#39;s How** [link](https://www.prnewswire.com/news-releases/trustarcs-2025-benchmarks-report-privacy-leaders-are-outpacing-peers-by-16-points---heres-how-302474561.html)
+_Highlight:_ PRNewswire/ -- TrustArc, the <b>privacy</b> platform for navigating global compliance and <b>AI</b> risk, today released its 6th Annual Global <b>Privacy</b>&nbsp;...
+
+- **3. Meet the Trustworthy <b>AI</b> team at TD - TD Stories** [link](https://stories.td.com/ca/en/article/layer-6-trustworthy-ai-td)
+_Highlight:_ ... <b>privacy</b> and <b>confidentiality</b> of personal information.&quot; Growing trust. Cresswell sees the nascent and growing <b>AI</b> field as an opportunity for TD to&nbsp;...
+
+- **4. <b>AI</b> is Transforming Medical Device Development—But Who&#39;s Keeping it Safe?** [link](https://www.mpo-mag.com/exclusives/ai-is-transforming-medical-device-development-but-whos-keeping-it-safe/)
+_Highlight:_ In addition, clinical trial design can be supported by using <b>AI</b> to identify suitable patient cohorts and address risks due to <b>bias</b>. <b>AI</b> can also&nbsp;...
+
+- **5. What Role Does <b>AI</b> Play In Modern HR Systems Across The UK? - HR News** [link](https://hrnews.co.uk/what-role-does-ai-play-in-modern-hr-systems-across-the-uk/)
+_Highlight:_ <b>Bias</b> Detection: Algorithms flag <b>biased</b> language in job descriptions. Monitoring Representation: Tracks diversity metrics across teams. Risks: Data&nbsp;...
+
+- **6. Why insurers should engage in <b>AI</b> self-governance now** [link](https://www.postonline.co.uk/technology/7957774/why-insurers-should-engage-in-ai-self-governance-now)
+_Highlight:_ These internal frameworks must address critical concerns surrounding <b>AI</b> in insurance such as the potential for <b>bias</b> in algorithms, the need for&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
