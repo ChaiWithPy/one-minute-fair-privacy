@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-07 One-Minute Post
+date: 2025-06-07 07:07:31 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Anthropic CEO criticizes GOP AI regulation proposal for being too blunt. Healthcare organizations face challenges in AI adoption regarding privacy and cybersecurity. AI's impact on communications networks raises concerns about privacy and consumer protection. AI bias leads to prejudiced outcomes, prompting calls for more civil rights enforcement. Judicial adoption of AI brings risks of algorithmic power distortion and fairness. Specific learning strategies can enhance AI model fairness in hospitals. AI tackles toxic speech online, raising questions about algorithmic fairness.
+
+## Articles we found interesting:
+
+- **1. Anthropic CEO: GOP <b>AI</b> regulation proposal &#39;too blunt&#39; - The Hill** [link](https://thehill.com/policy/technology/5334913-anthropic-ceo-ai-regulation-donald-trump-gop-megabill/)
+_Highlight:_ Anthropic CEO Dario Amodei criticized the latest Republican proposal to regulate <b>artificial intelligence</b> (<b>AI</b>) ... <b>PRIVACY</b> POLICY 11/18/2024; TERMS &amp;&nbsp;...
+
+- **2. New Horizons in Health Law: From Accessibility Compliance to <b>AI</b> Regulation** [link](https://nysba.org/events/new-horizons-in-health-law-from-accessibility-compliance-to-ai-regulation/)
+_Highlight:_ As <b>AI</b> adoption increases, healthcare organizations must confront challenges posed by regulatory compliance, liability, cybersecurity, data <b>privacy</b>,&nbsp;...
+
+- **3. The Opportunities and Challenges of <b>AI</b> in Our Communications Networks** [link](https://www.benton.org/blog/opportunities-and-challenges-ai-our-communications-networks)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) is here and cementing its place in our ... <b>privacy</b> and consumer protection issues that have arisen with <b>AI</b> usage.
+
+- **4. When <b>AI</b> Erased My Disability | TIME** [link](https://time.com/7291170/ai-erased-my-disability-essay/)
+_Highlight:_ <b>AI bias</b> occurs when <b>artificial intelligence</b> systems produce prejudiced or unfair outcomes due to <b>biased</b> data, flawed algorithms, or a lack of&nbsp;...
+
+- **5. State <b>AI</b> Moratorium Eroding Reconciliation Bill Support - MeriTalk** [link](https://www.meritalk.com/articles/state-ai-moratorium-eroding-reconciliation-bill-support/)
+_Highlight:_ ... <b>bias</b> in <b>AI</b> models, saying that more civil rights enforcement is necessary before use of the technology is more widespread. “<b>Artificial intelligence</b>&nbsp;...
+
+- **6. <b>AI</b>, the disruptor-in-chief - POLITICO** [link](https://www.politico.com/newsletters/future-pulse/2025/06/06/ai-the-disruptor-in-chief-00391248)
+_Highlight:_ ... <b>biases</b> because “traditional <b>bias</b> mitigation strategies that are standard practice, such as adversarial training, explainable <b>AI</b> methods, data&nbsp;...
+
+- **7. Technological risks in the judicial adoption of <b>AI</b> | Law.asia** [link](https://law.asia/ai-risks-in-judicial-systems/)
+_Highlight:_ Judicial <b>fairness</b> and tech bias. The deep application of <b>AI</b> in judicial proceedings also brings risks of algorithmic power distortion and <b>fairness</b>.
+
+- **8. Specific learning strategies can enhance <b>AI</b> model effectiveness in hospitals - MSN** [link](https://www.msn.com/en-us/health/medical/specific-learning-strategies-can-enhance-ai-model-effectiveness-in-hospitals/ar-AA1G61yN)
+_Highlight:_ Patient characteristics and model <b>fairness</b> across&nbsp;...
+
+- **9. <b>AI</b> tackles toxic speech online: Can algorithms judge <b>fairness</b> as well as accuracy?** [link](https://techxplore.com/news/2025-06-ai-tackles-toxic-speech-online.html)
+_Highlight:_ One novel approach relies on <b>artificial intelligence</b>. <b>AI</b> screening tools can analyze content on large scales while sparing human screeners the trauma&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
