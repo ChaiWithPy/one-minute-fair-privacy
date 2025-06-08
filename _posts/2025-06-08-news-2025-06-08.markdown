@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-06-08 One-Minute Post
+date: 2025-06-08 07:07:32 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+A ban on state AI laws could smash Big Tech's legal guardrails, while a law firm uses AI to pursue justice for clients. An AI unicorn goes belly up, and Sage unveils AI Trust Label to empower SMBs. AI Regulation in 2025 focuses on responsible innovation, addressing concerns over data privacy and algorithmic bias. The rise of Sora and Generative Video AI raises concerns about biased training data.
+
+## Articles we found interesting:
+
+- **1. A ban on state <b>AI</b> laws could smash Big Tech&#39;s legal guardrails | The Verge** [link](https://www.theverge.com/politics/681727/ro-khanna-ai-state-law-moratorium-reconciliation)
+_Highlight:_ She spent 5 years covering tech policy at CNBC, writing about antitrust, <b>privacy</b>, and content moderation reform. Senate Commerce Republicans have kept&nbsp;...
+
+- **2. Tech Talk: Law firm uses <b>AI</b> to pursue justice for clients - MyNorthwest.com** [link](https://mynorthwest.com/local/tech-talk-law-firm-ai/4096394)
+_Highlight:_ <b>AI</b> hallucinations. RELATED STORIES. Tech Talk: Genealogy&nbsp;...
+
+- **3. <b>AI</b> unicorn goes belly up - Morning Brew** [link](https://www.morningbrew.com/stories/2025/06/06/ai-unicorn-goes-belly-up)
+_Highlight:_ Putting the artificial in <b>AI</b>: Builder.<b>ai</b> may have ... All Rights Reserved. <b>Privacy</b>Terms of ServiceDo Not Sell / Share My Personal Information
+
+- **4. <b>AI</b> Regulation in 2025: How Governments Are Shaping Responsible Innovation** [link](https://www.techiexpert.com/ai-regulation-in-2025-how-governments-are-shaping-responsible-innovation/)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) ... <b>AI</b> is evolving at a great pace and this has raised concerns over data privacy, algorithmic <b>bias</b>, misinformation and&nbsp;...
+
+- **5. Sage Unveils <b>AI</b> Trust Label to Empower SMB&#39;s - IT News Africa** [link](https://www.itnewsafrica.com/2025/06/sage-unveils-ai-trust-label-to-empower-smbs/)
+_Highlight:_ It focuses on key trust indicators such as compliance with privacy and data regulations, how customer data is used, safeguards to prevent <b>bias</b> and&nbsp;...
+
+- **6. The Rise of Sora and Generative Video <b>AI</b>: What It Means for Creators and Brand** [link](https://www.techiexpert.com/the-rise-of-sora-and-generative-video-ai-what-it-means-for-creators-and-brand/)
+_Highlight:_ A persistent issue with Sora and Generative Video <b>AI</b> is <b>bias</b>. If the training data is <b>biased</b>, the models reflects racial or gender stereotypes. The&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
