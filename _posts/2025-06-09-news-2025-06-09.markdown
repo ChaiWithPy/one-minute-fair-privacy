@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-09 One-Minute Post
+date: 2025-06-09 07:02:37 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California Privacy Protection Agency (CPPA) proposes new data privacy and AI rules, while ChatGPT is keeping deleted chats. IsItCap.com launches a free AI tool to detect fake news and media bias. Lawyers risk trouble for relying on AI-generated fake cases, and 2025 gaokao uses AI to ensure fairness. LinkedIn sets a new industry standard with its empathetic AI framework, and Anthropic debuts AI tools for US national security. AI literacy in education is emphasized, focusing on bias in algorithms and datasets. CERSI-AI is shaping safe and effective AI in healthcare, emphasizing the need to detect and mitigate bias within AI models.
+
+## Articles we found interesting:
+
+- **1. ChatGPT Is Keeping Your Deleted Chats — Even After You Delete Them - 9meters** [link](https://9meters.com/technology/ai/chatgpt-is-keeping-your-deleted-chats-even-after-you-delete-them)
+_Highlight:_ The change reveals how fast the boundaries of user <b>privacy</b>, <b>AI</b> accountability, and legal oversight are shifting. As artificial intelligence&nbsp;...
+
+- **2. California <b>Privacy</b> Agency Proposes New Data <b>Privacy</b> and <b>AI</b> Rules - law.co.il** [link](https://www.law.co.il/en/news/2025/06/08/california-privacy-agency-proposes-new-data-privacy-and-ai-r/)
+_Highlight:_ The California <b>Privacy</b> Protection Agency (CPPA) recently issued draft regulations regarding data deletion requirements for data brokers and&nbsp;...
+
+- **3. Anthropic debuts <b>AI</b> tools for US national security | Digital Watch Observatory** [link](https://dig.watch/updates/anthropic-debuts-ai-tools-for-us-national-security)
+_Highlight:_ Anthropic has launched a new line of <b>AI</b> models, Claude Gov ... By clicking on the Subscribe button, you are agreeing to our <b>Privacy</b> Policy.
+
+- **4. IsItCap.com Launches Free <b>AI</b> Tool to Detect Fake News and Media <b>Bias</b> - EIN Presswire** [link](https://www.einpresswire.com/article/820158726/isitcap-com-launches-free-ai-tool-to-detect-fake-news-and-media-bias)
+_Highlight:_ Free <b>AI</b> tool IsItCap.com helps users detect fake news, analyze <b>bias</b>, and compare sources—100% free, ad-free, and lightning fast.
+
+- **5. <b>AI</b> Literacy in Education: Why College Campuses Must Act Now** [link](https://www.campussafetymagazine.com/insights/ai-literacy-in-education-why-college-campuses-must-act-now/170277/)
+_Highlight:_ As <b>artificial intelligence</b> (<b>AI</b>) transforms how we live, learn, and ... <b>bias</b> in algorithms and data sets, and apply <b>AI</b> tools in discipline&nbsp;...
+
+- **6. CERSI-<b>AI</b>: shaping safe and effective <b>AI</b> in healthcare** [link](https://hospitalhealthcare.com/in-depth/health-technology/cersi-ai-shaping-safe-and-effective-ai-in-healthcare/)
+_Highlight:_ ... <b>biased</b> or unrepresentative datasets. Regulatory bodies must implement measures to detect and mitigate <b>bias</b> within <b>AI</b> models. This includes&nbsp;...
+
+- **7. Lawyers Risk Serious Trouble for Relying on <b>AI</b>-Generated Fake Cases - Regtechtimes** [link](https://regtechtimes.com/lawyers-risk-serious-trouble-for-relying-on-ai/)
+_Highlight:_ If lawyers use fake cases, it can confuse judges and damage the <b>fairness</b> of the whole legal process. This is why the court said that using <b>AI</b> to&nbsp;...
+
+- **8. 2025 gaokao sees high-tech vigilance meet human care - Xinhua** [link](https://english.news.cn/20250607/3e7529a9cf4f4cb6b2d659d998589b0c/c.html)
+_Highlight:_ ... <b>fairness</b> of the exam for its 13.35 million candidates nationwide. ... In many places, <b>artificial intelligence</b> (<b>AI</b>) technology is introduced for this&nbsp;...
+
+- **9. How LinkedIn&#39;s Empathetic <b>AI</b> Framework Sets a New Industry Standard - Solutions Review** [link](https://solutionsreview.com/how-linkedins-empathetic-ai-framework-sets-a-new-industry-standard/)
+_Highlight:_ In a 2023 research paper titled Operationalizing <b>AI Fairness</b>, LinkedIn engineers laid out a formal framework for how to audit, monitor, and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
