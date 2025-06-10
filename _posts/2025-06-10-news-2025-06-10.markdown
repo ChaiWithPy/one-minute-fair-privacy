@@ -1,0 +1,25 @@
+---
+layout: post
+title: 2025-06-10 One-Minute Post
+date: 2025-06-10 07:14:37 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple faces challenges with AI missteps and trade war, while Malaysian telcos navigate privacy concerns. Generative AI in M&A raises compliance issues.
+
+## Articles we found interesting:
+
+- **1. Deals, data and deep learning: Navigating generative <b>AI</b> in cross-border M&amp;A - Dentons** [link](https://www.dentons.com/en/insights/articles/2025/june/9/deals-data-and-deep-learning)
+_Highlight:_ As generative <b>artificial intelligence</b> (<b>AI</b>) ... Compliance with applicable law: Sellers should affirm that their <b>AI</b> systems comply with <b>AI</b>, IP, <b>privacy</b>&nbsp;...
+
+- **2. Apple heads into annual showcase reeling from <b>AI</b> missteps, tech upheaval and Trump&#39;s trade war** [link](https://www.cbs8.com/article/news/nation-world/apple-annual-showcase-ai-missteps-tech-upheaval-trump-trade-war/507-44f78e4e-681c-47b7-858d-7e83e5ba264b)
+_Highlight:_ ... <b>AI</b> leader, and <b>AI</b> chipmaker Nvidia. Copyright 2025 Associated Press ... <b>Privacy</b> Policy &middot; Ad Choices &middot; EEO Public File Report &middot; FCC Online Public&nbsp;...
+
+- **3. Malaysian telcos balance <b>privacy</b> concerns amid government data collection mandate** [link](https://www.lightreading.com/security/malaysian-telcos-balance-privacy-concerns-amid-government-data-collection-mandate)
+_Highlight:_ About the Author &middot; Nvidia promises &#39;massive increase in data&#39; from <b>AI</b>.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
