@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-11 One-Minute Post
+date: 2025-06-11 07:09:55 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI is reshaping healthcare, but faces privacy concerns. California's News/Media Alliance comments on proposed privacy protection. Apple integrates AI assistance with privacy. Senator Markey aims to strip Republican proposal banning AI regulation. Amsterdam experiments with fair welfare AI. India prepares reporting standard for AI failures. ANGL's Token Launch aims for fairness in AI ownership. Chinese tech firms freeze AI tools for fairness in college entrance exams. Justice Surya Kant emphasizes AI's subordination to fairness, equity, and human dignity.
+
+## Articles we found interesting:
+
+- **1. How <b>AI</b> is Reshaping Healthcare: ROI, Governance, and Trust - EisnerAmper** [link](https://www.eisneramper.com/insights/artificial-intelligence-insights/ai-reshaping-healthcare-0625/)
+_Highlight:_ Despite <b>AI&#39;s</b> clear potential, <b>privacy</b> concerns, integration hurdles, and skepticism among leadership slow adoption. However, <b>AI</b> adoption is inevitable&nbsp;...
+
+- **2. News/Media Alliance Submits Comment on California <b>Privacy</b> Protection Agency Proposed ...** [link](https://www.newsmediaalliance.org/comments-on-proposed-cppa-data-broker-requirements/)
+_Highlight:_ <b>AI</b> Principles &middot; – Global <b>AI</b> Principles &middot; JCPA Resource Center Menu Toggle ... News/Media Alliance Submits Comment on California <b>Privacy</b> Protection&nbsp;...
+
+- **3. Apple opens core <b>AI</b> model to developers amid measured WWDC strategy - <b>AI</b> News** [link](https://www.artificialintelligence-news.com/news/apple-opens-core-ai-model-to-developers-amid-measured-wwdc-strategy/)
+_Highlight:_ “Now we can bring intelligence and <b>privacy</b> together in ways that deeply respect our users.” Xcode 26 integrates <b>AI</b> assistance. Xcode 26 now embeds&nbsp;...
+
+- **4. Senator Markey to File Amendment to Strip Republican Proposal to Ban <b>AI</b> Regulation by ...** [link](https://www.markey.senate.gov/news/press-releases/senator-markey-to-file-amendment-to-strip-republican-proposal-to-ban-ai-regulation-by-states-from-reconciliation-package)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) for the next 10 years. “Despite the ... <b>bias</b>, and renew Americans&#39; faith in the accuracy and fairness of&nbsp;...
+
+- **5. Inside Amsterdam&#39;s high-stakes experiment to create fair welfare <b>AI</b>** [link](https://www.technologyreview.com/2025/06/11/1118233/amsterdam-fair-welfare-ai-discriminatory-algorithms-failure/)
+_Highlight:_ De Koning, who managed Smart Check&#39;s pilot phase, was excited about what he saw as the project&#39;s potential to improve efficiency and remove <b>bias</b> from&nbsp;...
+
+- **6. India prepares reporting standard as <b>AI</b> failures may hold clues to managing risks - Mint** [link](https://www.livemint.com/industry/telecom/india-draft-standard-tec-dot-report-ai-incidents-manage-risks-11749551887853.html)
+_Highlight:_ Recording and analysing <b>AI</b> incidents is important because system failures, <b>bias</b>, privacy breaches, and unexpected results have raised concerns&nbsp;...
+
+- **7. ANGL&#39;s Token Launch: Ushering in a New Era of <b>AI</b> Ownership and Decentralized Automation** [link](https://www.usatoday.com/story/special/contributor-content/2025/06/09/angls-token-launch-ushering-in-a-new-era-of-ai-ownership-and-decentralized-automation/84120467007/)
+_Highlight:_ Simultaneously, blockchain technology has emerged as a means to enhance <b>fairness</b>, transparency, and security in both <b>AI</b> development and data ownership&nbsp;...
+
+- **8. Chinese tech firms freeze <b>AI</b> tools in crackdown on exam cheats | China - The Guardian** [link](https://www.theguardian.com/world/2025/jun/09/chinese-tech-firms-freeze-ai-tools-exam-cheats-universities-gaokao)
+_Highlight:_ ... <b>fairness</b> in the college entrance examination”. Yuanbao, owned by the tech company Tencent, Alibaba&#39;s Qwen, and Moonshot&#39;s Kimi have also turned&nbsp;...
+
+- **9. <b>AI</b> must be subordinate to <b>fairness</b>, equity, human dignity: Justice Surya Kant** [link](https://www.hindustantimes.com/india-news/ai-must-be-subordinate-to-fairness-equity-human-dignity-justice-surya-kant-101749525519765.html)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) must always remain subordinate to <b>fairness</b>, equity, and human dignity. Justice Surya&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
