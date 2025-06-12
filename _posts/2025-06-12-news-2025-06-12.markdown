@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-06-12 One-Minute Post
+date: 2025-06-12 07:10:57 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Indianapolis Public Schools to expand staff use of AI as board considers policy, emphasizing privacy. OpenAI CEO proposes 'AI privilege' to address privacy concerns. Privacy4Cars' 10th patent uses AI to generate privacy scores for vehicles, prioritizing data protection. Wisconsin state lawmakers and industry experts share concerns about proposed limits to AI regulation, highlighting bias issues. Social workers' use of AI is rising, but concerns around data protection and bias persist. Anchorage Daily News discusses the hardwired trust in AI and the need to combat automation bias.
+
+## Articles we found interesting:
+
+- **1. Indianapolis Public Schools to expand staff use of <b>AI</b> as board considers policy - Chalkbeat** [link](https://www.chalkbeat.org/indiana/2025/06/11/indianapolis-public-schools-artificial-intelligence-policy/)
+_Highlight:_ ... <b>Privacy</b> Act, which mandates the <b>privacy</b> of student records. Staff must only use <b>AI</b> tools approved by the district, which would license the&nbsp;...
+
+- **2. Exploring &#39;<b>AI</b> privilege&#39;: <b>Privacy</b> in <b>AI</b> conversations - NewsBytes** [link](https://www.newsbytesapp.com/news/science/exploring-ai-privilege-privacy-in-ai-conversations/tldr)
+_Highlight:_ OpenAI CEO, Sam Altman, proposes &#39;<b>AI</b> privilege&#39;, likening <b>AI</b> conversations to confidential doctor-patient discussions amid a <b>privacy</b>-threatening&nbsp;...
+
+- **3. Privacy4Cars&#39; 10th patent uses <b>AI</b> to generate <b>privacy</b> scores for vehicles** [link](https://www.autoremarketing.com/ar/technology/privacy4cars-10th-patent-uses-ai-to-generate-privacy-scores-for-vehicles/)
+_Highlight:_ “Keeping with our commitment to driving <b>privacy</b>, we&#39;ve leveraged emerging <b>AI</b> tools and technologies to create a new process that computes a dynamic&nbsp;...
+
+- **4. Wisconsin state lawmakers, industry experts share concerns about proposed limits to <b>AI</b> regulation** [link](https://www.wpr.org/news/wisconsin-lawmakers-industry-experts-concern-limits-ai-regulation)
+_Highlight:_ And sometimes <b>AI</b> is perpetuating <b>bias</b> and discrimination, Zimmermann said. If the sources <b>AI</b> pulls information from are <b>biased</b>, it perpetuates&nbsp;...
+
+- **5. Use of <b>AI</b> rising among social workers, poll finds - Community Care** [link](https://www.communitycare.co.uk/2025/06/12/use-of-ai-rising-among-social-workers-poll-finds/)
+_Highlight:_ However, social work researchers and the British Association of Social Workers (BASW) have raised concerns around data protection, <b>bias</b> and <b>AI</b>&nbsp;...
+
+- **6. You are hardwired to blindly trust <b>AI</b>. Here&#39;s how to fight it. - Anchorage Daily News** [link](https://www.adn.com/alaska-life/advice/2025/06/11/you-are-hardwired-to-blindly-trust-ai-heres-how-to-fight-it/)
+_Highlight:_ Automation <b>bias</b>. Many <b>AI</b> technologies say you shouldn&#39;t treat them as gospel. ChatGPT&#39;s text box says, “ChatGPT can make mistakes. Check important&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
