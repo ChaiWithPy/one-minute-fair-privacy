@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-13 One-Minute Post
+date: 2025-06-13 07:15:22 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Google search case raises concerns about privacy protections in AI services. Tips on avoiding AI data collection and protecting online privacy. NSA issues cybersecurity guidance for AI systems. AI bias in generative AI and autonomous agents. Push for fairness in AI-driven city management and legal compliance. Chinese AI firms block features to ensure fairness in high-stakes exams.
+
+## Articles we found interesting:
+
+- **1. <b>Privacy</b> protections in the Google search case - Brookings Institution** [link](https://www.brookings.edu/articles/privacy-protections-in-the-google-search-case/)
+_Highlight:_ Search is quickly becoming only a component of <b>artificial intelligence</b> (<b>AI</b>) services. Instead of a standalone service that returns links to user&nbsp;...
+
+- **2. How to Avoid <b>AI</b> Data Collection &amp; Protect Your <b>Privacy</b> Online - Katie Couric Media** [link](https://katiecouric.com/news/tech/how-to-avoid-ai-data-tracking-protect-privacy-online/)
+_Highlight:_ How <b>artificial intelligence</b> collects your data and tracks your behavior and how to protect your <b>privacy</b> online.
+
+- **3. NSA Issues Cybersecurity Guidance and Best Practices for <b>AI</b> Systems - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D4baff108-d7d0-49f9-874f-f7ceaad131f5)
+_Highlight:_ Encryption safeguards the <b>confidentiality</b> and integrity of data, even if the system on which the data is processed has been compromised. The CSI&nbsp;...
+
+- **4. <b>AI bias</b> by design - The Business Times** [link](https://www.businesstimes.com.sg/wealth/wealth-investing/ai-bias-design)
+_Highlight:_ THE promise of generative <b>artificial intelligence</b> (<b>AI</b>) is speed and scale, but the hidden cost may be analytical distortion.
+
+- **5. Autonomous Agents vs. Traditional <b>AI</b> Tools - AutoGPT** [link](https://autogpt.net/autonomous-agents-vs-traditional-ai-tools/)
+_Highlight:_ One of the primary issues with any <b>AI</b> system, including autonomous agents, is the potential for <b>bias</b>. If these agents are trained on <b>biased</b> data, they&nbsp;...
+
+- **6. From Cannes to Campaigns: A Push for Women&#39;s Health - Creative Salon** [link](https://creative.salon/articles/features/weber-shandwick-women-s-health-rachel-pay-cannes)
+_Highlight:_ Our Salon-on-the-Sea discussions will acknowledge triumphs while confronting enduring issues such as patriarchal structures, <b>AI biases</b> in health data,&nbsp;...
+
+- **7. Milestone launches Project Hafnia for <b>AI</b>-driven city management - SecurityBrief Australia** [link](https://securitybrief.com.au/story/milestone-launches-project-hafnia-for-ai-driven-city-management)
+_Highlight:_ ... <b>AI</b> models — fully anchored in Europe. This marks an important step forward in supporting the EU&#39;s commitment to transparency, <b>fairness</b>, and&nbsp;...
+
+- **8. <b>AI</b> In Legal &amp; Compliance: From Strategy To Safeguards (Part 1 Of 2) - New Technology** [link](https://www.mondaq.com/unitedstates/new-technology/1636704/ai-in-legal-compliance-from-strategy-to-safeguards-part-1-of-2)
+_Highlight:_ Regulatory agencies worldwide are increasingly scrutinizing algorithmic <b>fairness</b>. Data Privacy, Security, and Legal Privilege <b>AI</b> systems require&nbsp;...
+
+- **9. Chinese <b>AI</b> firms block features amid high-stakes university entrance exams** [link](https://www.washingtonpost.com/world/2025/06/10/china-exam-gaokao-ai-cheating-test/)
+_Highlight:_ “Dear user, to ensure the <b>fairness</b> of gaokao, this function is unavailable during gaokao hours. Tencent Yuanbao wishes gaokao sitters all success&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
