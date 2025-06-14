@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-06-14 One-Minute Post
+date: 2025-06-14 07:11:26 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta's new AI app is raising privacy concerns due to public sharing of prompts. Meanwhile, state regulators are focusing on bias, transparency, and compliance in AI use. Companies are also urged to implement ethical AI guidelines addressing bias and privacy to pave the path to AI success.
+
+## Articles we found interesting:
+
+- **1. Here&#39;s how to turn off public posting on the Meta <b>AI</b> app - CNBC** [link](https://www.cnbc.com/2025/06/13/meta-ai-app-turn-off-public-posting.html)
+_Highlight:_ Meta&#39;s new standalone <b>AI</b> app is sharing prompts publicly, sparking some <b>privacy</b> concerns. <b>AI</b> generative images of women kissing while mud&nbsp;...
+
+- **2. Meta <b>AI</b> is a &#39;<b>Privacy</b> Disaster&#39; — OK Boomer - Security Boulevard** [link](https://securityboulevard.com/2025/06/meta-ai-feed-privacy-richixbw/)
+_Highlight:_ The Meta <b>AI</b> app&#39;s public feed is full of private, personal, identifiable information. &middot; “Slow-motion <b>privacy</b> disaster” &middot; “Struggles with bowel movements&nbsp;...
+
+- **3. Companies are bullish on <b>AI</b> but remain skeptical of the payoff - CNBC** [link](https://www.cnbc.com/2025/06/13/companies-are-bullish-on-ai-but-remain-skeptical-of-the-payoff.html)
+_Highlight:_ To effectively leverage <b>AI</b>, especially for building <b>AI</b> ... Advertise With Us. Please Contact Us &middot; <b>Privacy</b> Policy; California Consumer <b>Privacy</b> Act (CCPA)&nbsp;...
+
+- **4. The Evolving Landscape of <b>AI</b> Regulation in Financial Services | Insights &amp; Resources** [link](https://www.goodwinlaw.com/en/insights/publications/2025/06/alerts-finance-fs-the-evolving-landscape-of-ai-regulation)
+_Highlight:_ As the federal momentum faded, state regulators stepped in, passing legislation focused on <b>bias</b>, transparency, and compliance in the use of <b>AI</b>-driven&nbsp;...
+
+- **5. GenAI and data quality: Paving the path to <b>AI</b> success - Moody&#39;s** [link](https://www.moodys.com/web/en/us/insights/ai/genai-and-data-quality-paving-the-path-to-ai-success.html)
+_Highlight:_ Implementing real-time data quality monitoring at all pipeline stages; Developing ethical <b>AI</b> guidelines addressing <b>bias</b> and privacy; Fostering&nbsp;...
+
+- **6. How is generative <b>AI</b> impacting our economy, society and policy? - EU Science Hub** [link](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/how-generative-ai-impacting-our-economy-society-and-policy-2025-06-13_en)
+_Highlight:_ ... <b>biases</b> and stereotypes, particularly if their data reflect historical and systemic inequalities. A JRC experiment found gender <b>bias</b> in <b>AI</b> models&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
