@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-15 One-Minute Post
+date: 2025-06-15 07:01:50 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta's AI chatbot defaults to public interactions, raising privacy concerns. AI tools and social media platforms are also collecting and storing user data. Meanwhile, there's a growing focus on AI bias mitigation, with experts highlighting inherent human biases in AI models. Additionally, ethical biases in publicly available datasets are being uncovered, emphasizing the need for fairness in AI applications. This comes as there's a call for integrating fairness and inclusion into AI design and governance, and the use of AI in online casinos raises questions about tracking and predicting user behavior.
+
+## Articles we found interesting:
+
+- **1. Meta chatbot shows why <b>AI privacy</b> is a delusion - UnHerd** [link](https://unherd.com/newsroom/meta-chatbot-shows-why-ai-privacy-is-a-delusion/%3Fus%3D1)
+_Highlight:_ The feature, which launched earlier this year, defaults to making all interactions public unless users actively change their <b>privacy</b> settings — a&nbsp;...
+
+- **2. <b>AI</b> tools collect, store data about you from all your devices – here&#39;s how to be aware of what ...** [link](https://thecurrentga.org/2025/06/14/ai-tools-collect-store-data-about-you-from-all-your-devices-heres-how-to-be-aware-of-what-youre-revealing/)
+_Highlight:_ Here&#39;s how websites you browse can track you using cookies or tracking pixels. Like generative <b>AI</b> platforms, social media platforms offer <b>privacy</b>&nbsp;...
+
+- **3. Your Meta <b>AI</b> requests may not be as private as you think - Quartz** [link](https://qz.com/meta-ai-privacy-security-zuckerberg)
+_Highlight:_ Meta has another <b>privacy</b> scandal on its hands, but this time with its <b>AI</b> chatbot equivalent to ChatGPT. Suggested Reading.
+
+- **4. <b>AI</b> for <b>Bias</b> Mitigation in Algorithms - Free Risk Assessment Services - Newser** [link](http://www.newser.com/blank/AI-for-Bias-Mitigation-in-Algorithms)
+_Highlight:_ <b>AI</b> for <b>Bias</b> Mitigation in Algorithms ✌️【Recruitment】✌️Start with $100 and earn big! High returns, low risk, and consistent growth.
+
+- **5. Masked Protesters Surround Seattle ICE Office With Agents And Detained Illegals Inside** [link](https://www.allsides.com/news/2025-06-14-2000/technology-masked-protesters-surround-seattle-ice-office-agents-and-detained)
+_Highlight:_ What&#39;s Its <b>Bias</b>? AllSides Staff. June 13th, 2025. RED BLUE TRANSLATOR ... Could <b>AI</b> Save Small Businesses? Mindbody Makes a Case to Wellness&nbsp;...
+
+- **6. <b>Artificial intelligence</b> models are vulnerable to inherent human <b>biases</b>, says an expert** [link](https://www.telegraphindia.com/west-bengal/kolkata/artificial-intelligence-models-are-vulnerable-to-inherent-human-biases-says-an-expert-prnt/cid/2107917)
+_Highlight:_ &#39;<b>AI</b> systems have been trained with data. The <b>biases</b> we see in society are going to be reflected in any system that has been trained on that data,&#39;&nbsp;...
+
+- **7. Rethinking <b>AI</b>: The lessons for India - Deccan Herald** [link](https://www.deccanherald.com/opinion/rethinking-ai-the-lessons-for-india-3583594)
+_Highlight:_ ... <b>fairness</b>, and inclusion into <b>AI</b> design, deployment, and governance. The ... The report makes a strong case for &#39;<b>AI</b>-augmented human development&#39; rather&nbsp;...
+
+- **8. <b>AI</b> in Online Casinos: Tracking and Predicting Behaviour - Helsinki Times** [link](https://www.helsinkitimes.fi/gambling/ai-in-online-casinos-tracking-and-predicting-behaviour/)
+_Highlight:_ ... <b>fairness</b>. Below, we examine how <b>AI</b> is being used in online casinos to track and predict player behaviour, and what this means for users, operators&nbsp;...
+
+- **9. Uncovering ethical biases in publicly available fetal ultrasound datasets - Nature** [link](https://www.nature.com/articles/s41746-025-01739-3)
+_Highlight:_ To ensure trustworthiness in clinical <b>AI</b> applications, it is essential to evaluate and mitigate algorithmic bias, ensuring <b>fairness</b>. Developing and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
