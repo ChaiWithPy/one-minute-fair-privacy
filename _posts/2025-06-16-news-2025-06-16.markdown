@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-06-16 One-Minute Post
+date: 2025-06-16 07:07:25 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta AI faces backlash for data privacy concerns. Salesforce's CRM benchmark highlights AI agents' struggles with real-world business scenarios and data privacy. CMA ends Google ad oversight, prioritizing user control and privacy. Southeast Asia's marketers leverage AI-powered products for a competitive edge, while TTA study reveals generative AI's distortion of responses about race and ethnicity. Workday's pivotal discovery dispute marks a crucial moment for AI bias lawsuits.
+
+## Articles we found interesting:
+
+- **1. Can Meta <b>AI</b> Be Trusted with Your Personal Data — Or Is It Already a <b>Privacy</b> Nightmare?** [link](https://the420.in/is-meta-ai-a-data-privacy-disaster-users-unknowingly-share-sensitive-information-publicly/)
+_Highlight:_ Meta <b>AI</b> is under fire as users unknowingly share personal, legal, and health info publicly. Is this a data <b>privacy</b> disaster in the making?
+
+- **2. Salesforce&#39;s CRM benchmark finds <b>AI</b> agents struggle in real-world business scenarios** [link](https://the-decoder.com/salesforces-crm-benchmark-finds-ai-agents-struggle-in-real-world-business-scenarios/)
+_Highlight:_ The benchmark builds on the original CRMArena, adding more business functions, multi-turn dialogs, and tests for data <b>privacy</b>. Using synthetic data&nbsp;...
+
+- **3. CMA Signals End of Google Ad Oversight as <b>Privacy</b> Policies Prioritize User Control** [link](https://coincentral.com/cma-ends-google-ad-oversight-user-privacy-takes-center-stage/)
+_Highlight:_ ... <b>privacy</b> becomes a core driver of innovation. Google&#39;s workforce restructuring reflects a broader strategic pivot toward <b>AI</b> and <b>privacy</b>-first solutions&nbsp;...
+
+- **4. How Southeast Asia&#39;s Marketers Are Using <b>AI</b>-Powered Products for a Competitive Edge** [link](https://www.brandinginasia.com/how-southeast-asias-marketers-are-using-ai-powered-products-for-a-competitive-edge/)
+_Highlight:_ INNOCEAN to Hold Cannes Lions Seminars on the New Role of Brands and <b>AI Bias</b>. Jun 16, 2025. For India Launch Kickers Appoints Team Pumpkin as&nbsp;...
+
+- **5. TTA study reveals generative <b>AI</b> distorts responses about race and ethnicity - Chosun Biz** [link](https://biz.chosun.com/en/en-it/2025/06/16/CH46UWEHIFF4XH4COKCIQCGXOM/)
+_Highlight:_ Participants identify vulnerabilities in LLMs by inducing information distortion, <b>biased</b> outputs, and security vulnerabilities over 55 minutes. TTA&nbsp;...
+
+- **6. Workday Discovery Dispute Is Pivotal Moment for <b>AI Bias</b> Lawsuits - Bloomberg Law News** [link](https://news.bloomberglaw.com/privacy-and-data-security/workday-discovery-dispute-is-pivotal-moment-for-ai-bias-lawsuits)
+_Highlight:_ Job seekers bringing a closely watched <b>bias</b> lawsuit targeting Workday&#39;s <b>AI</b>-powered hiring software are fighting to uncover information needed to&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
