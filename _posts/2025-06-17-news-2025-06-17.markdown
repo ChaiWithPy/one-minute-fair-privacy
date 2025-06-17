@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-17 One-Minute Post
+date: 2025-06-17 07:21:44 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Quebec's Privacy Regulator outlines best practices for AI in the workplace, emphasizing algorithmic impact assessments and privacy law compliance. Tokio Marine establishes global AI governance policy with oversight rules to address bias and ensure human judgment. HR leaders are advised on the potential risks related to ethics, privacy, and fairness when using AI to enhance performance and compliance. Meanwhile, Wits CISO highlights the importance of addressing algorithmic bias in AI systems, as mandated by the EU AI Act. Anwar stresses the need for Asia's energy transition to be grounded in equity and fairness. Financial institutions are urged to tackle AI bias in security as it poses a critical threat.
+
+## Articles we found interesting:
+
+- **1. Québec <b>Privacy</b> Regulator Identifies Best Practices For The Use Of <b>AI</b> In The Workplace** [link](https://www.mondaq.com/canada/privacy-protection/1637706/qu%25C3%25A9bec-privacy-regulator-identifies-best-practices-for-the-use-of-ai-in-the-workplace)
+_Highlight:_ conducting algorithmic impact assessments for higher-risk <b>AI</b> activity; and; ensuring that <b>privacy</b> law requirements are followed with respect to the&nbsp;...
+
+- **2. <b>AI</b> Is The Productivity Advantage Amid Tariff Uncertainty - Forbes** [link](https://www.forbes.com/councils/forbestechcouncil/2025/06/16/ai-is-the-productivity-advantage-amid-tariff-uncertainty/)
+_Highlight:_ Importantly, secure <b>AI</b> isn&#39;t just about productivity—it&#39;s central to preserving data <b>privacy</b>. As enterprises rely more heavily on <b>AI</b> to process large&nbsp;...
+
+- **3. Who&#39;s Minding Your Data? The Case for Dedicated <b>Privacy</b> Leadership** [link](https://www.corporatecomplianceinsights.com/who-minding-your-data-case-dedicated-privacy-leadership/)
+_Highlight:_ Organizations today must simultaneously navigate international regulations like GDPR, a patchwork of US state <b>privacy</b> laws, <b>AI</b>-introduced&nbsp;...
+
+- **4. Tokio Marine sets global <b>AI</b> governance policy with oversight rules - Insurance Asia** [link](https://insuranceasia.com/insurance/news/tokio-marine-sets-global-ai-governance-policy-oversight-rules)
+_Highlight:_ ... <b>bias</b>, data protection, and operational reliability. Key provisions ensure <b>AI</b> decisions remain subject to human judgment and commit the group to&nbsp;...
+
+- **5. <b>AI</b> governance in Africa: Wits CISO Galeboe Mogotsi shares a higher education perspective** [link](https://cio-sa.co.za/articles/ai-governance-in-africa-wits-ciso-galeboe-mogotsi-shares-a-higher-education-perspective/)
+_Highlight:_ ... <b>AI</b> technologies.” Algorithmic <b>bias</b>, which the EU <b>AI</b> Act specifically addresses by mandating that all providers of high-risk <b>AI</b> systems evaluate&nbsp;...
+
+- **6. Why financial institutions must tackle <b>AI bias</b> in security - Bobsguide** [link](https://www.bobsguide.com/financial-institutions-must-tackle-ai-bias-in-security/)
+_Highlight:_ As financial institutions deploy <b>Artificial Intelligence</b> for security, the risk of algorithmic <b>bias</b> becomes a critical threat.
+
+- **7. Smart <b>AI</b> at Work: What HR Leaders Need to Know in 2025 - Arkansas Business** [link](https://www.arkansasbusiness.com/article/smart-ai-hr/)
+_Highlight:_ ... <b>AI</b> to enhance performance and compliance with the potential risks related to ethics, privacy, and <b>fairness</b>. While <b>artificial intelligence</b> is&nbsp;...
+
+- **8. Asia&#39;s energy transition must be grounded in equity and <b>fairness</b>, says Anwar | FMT** [link](https://www.freemalaysiatoday.com/category/nation/2025/06/16/asias-energy-transition-must-be-grounded-in-equity-and-fairness-says-anwar)
+_Highlight:_ ... <b>fairness</b>, warning that a one-size-fits-all ... Related News. Cover Image for TNB earmarks RM43bil to update national grid with <b>AI</b>, battery storage.
+
+- **9. Rise of legal <b>AI</b> - The News International** [link](https://www.thenews.com.pk/print/1321598-rise-of-legal-ai)
+_Highlight:_ Rise of legal <b>AI</b>. Algorithms can assist, but only humans can weigh morality, emotion and <b>fairness</b>. By Danish Ahmed Soomro. June 16, 2025.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
