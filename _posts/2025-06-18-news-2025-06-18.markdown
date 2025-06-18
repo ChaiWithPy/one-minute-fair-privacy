@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-06-18 One-Minute Post
+date: 2025-06-18 07:25:05 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI in SA Healthcare: Data Privacy Lags Behind as Cyber Threats Surge - South Africa needs to strengthen privacy governance in healthcare as AI's role expands. AI, Security, and Data Privacy: Navigating the Digital Frontier - The intersection of AI, cybersecurity, and data privacy is reshaping the digital landscape. Study shows AI agents struggle with CRM and confidentiality - AI agents face challenges in maintaining confidentiality. 4 principles for using AI to spot abuse without making it worse - Addressing historical inequality and bias in AI algorithms. AICD & Governance Institute: AI in minute-taking - Assessing AI's suitability and potential bias in minute preparation. Position Bias in AI Models Threatens Accuracy in High-Stakes Applications - Attention bias in AI models favors text beginnings and ends, prompting mitigation strategies.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> in SA Healthcare: Data <b>Privacy</b> Lags Behind as Cyber Threats Surge - iAfrica.com** [link](https://iafrica.com/ai-in-sa-healthcare-data-privacy-lags-behind-as-cyber-threats-surge/)
+_Highlight:_ South Africa has laid the groundwork for <b>privacy</b> governance, but Mahomed cautions that legal protections must move beyond theory. With <b>AI&#39;s</b> role in&nbsp;...
+
+- **2. <b>AI</b>, Security, and Data <b>Privacy</b>: Navigating the Digital Frontier | Formtek Blog** [link](https://formtek.com/blog/ai-security-and-data-privacy-navigating-the-digital-frontier/)
+_Highlight:_ The intersection of <b>artificial intelligence</b>, cybersecurity, and data <b>privacy</b> is reshaping the digital landscape. Organizations are leveraging <b>AI</b>&nbsp;...
+
+- **3. Study shows <b>AI</b> agents struggle with CRM and <b>confidentiality</b> | MarTech** [link](https://martech.org/study-shows-ai-agents-struggle-with-crm-and-confidentiality/)
+_Highlight:_ Study shows <b>AI</b> agents struggle with CRM and <b>confidentiality</b> &middot; The study, led by a Salesforce researcher, found agents had a 58% success rate on simple&nbsp;...
+
+- **4. 4 principles for using <b>AI</b> to spot abuse—without making it worse - Fast Company** [link](https://www.fastcompany.com/91352223/ai-spot-abuse-without-making-it-worse-principles)
+_Highlight:_ But history is full of inequality, <b>bias</b>, and flawed assumptions. So are people, who design, test, and fund <b>AI</b>. That means <b>AI</b> algorithms can wind up&nbsp;...
+
+- **5. AICD &amp; Governance Institute: <b>AI</b> in minute-taking - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D7b0f076e-3bd9-4314-b531-258c13699401)
+_Highlight:_ ... <b>bias</b>). <b>AI</b> may not be suitable for all companies and Boards. In assessing whether to use AI tools to assist with minute preparation, companies&nbsp;...
+
+- **6. Position <b>Bias</b> in <b>AI</b> Models Threatens Accuracy in High-Stakes Applications, MIT Warns** [link](https://www.digitalinformationworld.com/2025/06/position-bias-in-ai-models-threatens.html)
+_Highlight:_ Attention <b>bias</b> in <b>AI</b> models favors text beginnings, ends, MIT study maps root, proposes mitigation strategies.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
