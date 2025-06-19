@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-19 One-Minute Post
+date: 2025-06-19 07:20:13 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+G7 nations commit to advancing AI and quantum technologies while emphasizing responsible design and deployment, including privacy, transparency, and fairness. Lawsuits over AI call-monitoring raise concerns about privacy violations. New Jersey Data Privacy Act expands regulations to address AI privacy. Margaret Mitchell criticizes the hype around artificial general intelligence and highlights the impact of bias in AI. AI's unintentional perpetuation of biases and stereotypes raises concerns. Variable bias in AI models offers superior results. AI's potential for weaponization and misuse prompts the study of fairness and human-AI interaction. Airfairness launches an AI flight compensation tool, emphasizing fairness in travel disruptions.
+
+## Articles we found interesting:
+
+- **1. G7 nations commit to advancing <b>AI</b> and quantum - Nextgov/FCW** [link](http://www.fcw.com/emerging-tech/2025/06/g7-nations-commit-advancing-ai-and-quantum/406166/%3Foref%3Dng-homepage-river)
+_Highlight:_ ... <b>AI</b> systems are designed and deployed responsibly. Story Continues Below Sponsor ... <b>privacy</b>, as well as promoting transparency, fairness, and&nbsp;...
+
+- **2. <b>AI</b> Call-Monitoring Lawsuits Are Heating Up: 5 Steps Your Business Can Take to Minimize Risk** [link](https://www.fisherphillips.com/en/news-insights/ai-call-monitoring-lawsuits-are-heating-up.html)
+_Highlight:_ ... <b>AI</b> conversation tools, violated the state&#39;s <b>privacy</b> law by capturing, analyzing, and storing her customer service call without her knowledge or&nbsp;...
+
+- **3. <b>AI Privacy</b> | Klein Moynihan Turco LLP - JDSupra** [link](https://www.jdsupra.com/legalnews/ai-privacy-3634935/)
+_Highlight:_ For example, recently announced regulations expanding on the requirements of the New Jersey Data <b>Privacy</b> Act (the “NJDPA”) attempt to address <b>AI</b>&nbsp;...
+
+- **4. Margaret Mitchell: artificial general intelligence is &#39;just vibes and snake oil&#39; - Financial Times** [link](https://www.ft.com/content/7089bff2-25fc-4a25-98bf-8828ab24f48e)
+_Highlight:_ People [learnt] about <b>bias</b> and <b>AI</b>. That&#39;s amazing. I never would have thought that we would have made that much of an impact. [But] now&nbsp;...
+
+- **5. Opinion: <b>Artificial intelligence</b> risks are growing - Fleet News** [link](https://www.fleetnews.co.uk/news/opinion-artificial-intelligence-risks-are-growing)
+_Highlight:_ <b>AI</b> learns patterns from existing human-generated data, often perpetuating embedded <b>biases</b> and stereotypes unintentionally. Such <b>bias</b> in generated&nbsp;...
+
+- **6. Variable <b>Bias</b> Completes The PLDC Model And Offers Superior MPC Results** [link](https://semiengineering.com/variable-bias-completes-the-pldc-model-and-offers-superior-mpc-results/)
+_Highlight:_ <b>AI</b> Research Scientist on Hardware Acceleration Approach for KAN Via Algorithm-Hardware Co-Design; Paul Karazuba on A Buyers Guide To An NPU; Ramesh&nbsp;...
+
+- **7. 22 New Jobs <b>A.I.</b> Could Give You - The New York Times** [link](https://www.nytimes.com/2025/06/17/magazine/ai-new-jobs.html)
+_Highlight:_ Because I hadn&#39;t done the work and the thinking myself, I couldn&#39;t tell if it was being <b>fair</b> or reasonable. Everyone who tries to use <b>A.I.</b>&nbsp;...
+
+- **8. Grok&#39;s &#39;white genocide&#39; responses show how generative <b>AI</b> can be weaponized - Seattle PI** [link](https://www.seattlepi.com/news/article/grok-s-white-genocide-responses-show-how-20382915.php)
+_Highlight:_ We are computer scientists who study AI <b>fairness</b>, <b>AI</b> misuse and human-AI interaction. We find that the potential for AI to be weaponized for influence&nbsp;...
+
+- **9. Airfairness Launches <b>AI</b> Flight Compensation Tool After Acquiring Weekend-Built Startup via ...** [link](https://www.prnewswire.com/news-releases/airfairness-launches-ai-flight-compensation-tool-after-acquiring-weekend-built-startup-via-linkedin-302484483.html)
+_Highlight:_ Flight delay compensation startup airfairness acquires viral <b>AI</b> tool built in response to travel disruptions. (CNW Group/Airfairness). The Flight&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
