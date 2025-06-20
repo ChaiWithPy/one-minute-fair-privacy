@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-20 One-Minute Post
+date: 2025-06-20 07:15:31 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Samsung introduces Knox Vault for secure Galaxy S25 features, while the world's first AI government is being set up near the Philippines. Irish privacy watchdog seeks extra funding for expanded role. Agentic AI redefines the future of work, addressing bias challenges. X0PA AI launches Agentic AI suite for talent acquisition to eliminate bias. Meta attempts to acquire Safe Superintelligence, focusing on bias and trust. In-demand AI skills for 2025 include AI ethics and fairness. Concerns arise over AI in hiring processes, potentially causing harm. Airfairness launches AI flight compensation tool after acquiring a startup, emphasizing fairness.
+
+## Articles we found interesting:
+
+- **1. Samsung Builds an <b>AI Privacy</b> Fortress: Knox Vault Powers Secure Galaxy S25 Features** [link](https://www.techtimes.com/articles/310912/20250619/samsung-builds-ai-privacy-fortress-knox-vault-powers-secure-galaxy-s25-features.htm)
+_Highlight:_ Our secure hybrid <b>AI</b> approach keeps your data private and secure while delivering a cutting-edge, personalized <b>AI</b>.&quot; Galaxy S25 <b>AI Privacy</b> Features&nbsp;...
+
+- **2. Where is the world&#39;s first <b>AI</b> government being set up? - GovTech** [link](https://www.govtech.com/question-of-the-day/where-is-the-worlds-first-ai-government-being-set-up)
+_Highlight:_ Where is the world&#39;s first <b>AI</b> government being set up? &middot; Answer: An island near the Philippines. &middot; <b>Privacy</b> Preference Center&nbsp;...
+
+- **3. Irish <b>privacy</b> watchdog seeks extra funding to handle expanded role | Euronews** [link](https://www.euronews.com/next/2025/06/19/irish-privacy-watchdog-seeks-extra-funding-to-handle-expanded-role)
+_Highlight:_ The Irish data protection authority has already involved in questions related to the lawfulness of <b>AI</b> apps such as Meta <b>AI</b> and X&#39;s Grok.
+
+- **4. <b>AI</b> that acts, not just answers: How Agentic <b>AI</b> is redefining the future of work - ET CIO** [link](https://cio.economictimes.indiatimes.com/news/artificial-intelligence/ai-that-acts-not-just-answers-how-agentic-ai-is-redefining-the-future-of-work/121965718)
+_Highlight:_ ... <b>AI</b> vs <b>AI</b> Agents: Clarifying the terminology. The terms &#39;Agentic <b>AI</b> ... The <b>bias</b> challenge: <b>AI</b> systems can perpetuate and amplify human <b>biases</b>&nbsp;...
+
+- **5. X0PA <b>AI</b> Launches Complete Agentic <b>AI</b> Suite for Talent Acquisition with Zeus and Ruby** [link](https://wgnradio.com/business/press-releases/ein-presswire/823987480/x0pa-ai-launches-complete-agentic-ai-suite-for-talent-acquisition-with-zeus-and-ruby)
+_Highlight:_ Each <b>AI</b> agent specializes in different aspects of recruitment, working together to eliminate <b>bias</b>, streamline workflows, aind deliver data-driven&nbsp;...
+
+- **6. Meta snatches CEO SSI after failed takeover and OpenAI staff - Techzine Global** [link](https://www.techzine.eu/news/applications/132402/meta-snatches-ceo-ssi-after-failed-takeover-and-openai-staff/)
+_Highlight:_ Meta recently attempted to acquire Safe Superintelligence, an <b>AI</b> startup founded by OpenAI co-founder Ilya Sutskever ... How to deal with <b>bias</b> and trust&nbsp;...
+
+- **7. 8 <b>AI</b> Skills That Will Actually Get You Hired In 2025 - NDTV** [link](https://www.ndtv.com/webstories/feature/8-ai-skills-that-will-actually-get-you-hired-in-2025-41911)
+_Highlight:_ In 2025, in-demand <b>AI</b> skills include prompt engineering, machine learning model tuning, data labeling, <b>AI</b> ethics, generative <b>AI</b> tools, automation,&nbsp;...
+
+- **8. Is <b>AI</b> in hiring doing more harm than good? | Canadian HR Reporter** [link](https://www.hrreporter.com/focus-areas/automation-ai/is-ai-in-hiring-doing-more-harm-than-good/392778)
+_Highlight:_ While many organisations are now actively integrating <b>artificial intelligence</b> (<b>AI</b>) into their recruitment processes, they may be at risk of doing&nbsp;...
+
+- **9. Airfairness Launches <b>AI</b> Flight Compensation Tool After Acquiring Weekend-Built Startup via ...** [link](https://finance.yahoo.com/news/airfairness-launches-ai-flight-compensation-130000636.html)
+_Highlight:_ Following a splash at last year&#39;s Collision tech conference and selection as the #1 startup to watch in 2025, airfairness is launching the&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
