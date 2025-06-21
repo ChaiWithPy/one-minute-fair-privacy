@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-21 One-Minute Post
+date: 2025-06-21 07:08:54 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California issues a study on AI privacy risks. MPs in Kenya push for AI regulation to protect against privacy breaches. SEBI releases draft guidelines for responsible AI use, focusing on bias mitigation and data privacy. The EU targets biased AI systems. Companies like Keva and PwC are adopting ethical principles and launching AI assurance offerings to ensure fairness and transparency. Solar company sues Google for damaging information in AI overviews, emphasizing fairness, truth, and accountability in AI.
+
+## Articles we found interesting:
+
+- **1. As Regulation Ban Looms, California Issues Frontier <b>AI</b> Study - GovTech** [link](https://www.govtech.com/artificial-intelligence/as-regulation-ban-looms-california-issues-frontier-ai-study)
+_Highlight:_ ... <b>privacy</b> risks, copyright infringement and the like. “Without ... Do Not Sell My Personal Information | <b>Privacy</b> &amp; <b>AI</b> &middot; gov-footer-logo-2024&nbsp;...
+
+- **2. Why MPs want use of <b>artificial intelligence</b> regulated | Daily Nation** [link](https://nation.africa/kenya/news/politics/why-mps-want-use-of-artificial-intelligence-regulated-5088566)
+_Highlight:_ The MPs also argued that regulation would protect Kenyans from potential harms caused by <b>AI</b>, such as <b>privacy</b> breaches, <b>AI</b>-powered fake technology&nbsp;...
+
+- **3. <b>AI Privacy</b> - New Technology - United States - Mondaq** [link](https://www.mondaq.com/unitedstates/new-technology/1639700/ai-privacy)
+_Highlight:_ With the use of <b>artificial intelligence</b> (&quot;<b>AI</b>&quot;) becoming more pervasive every day, it should not surprise our readers that regulators are&nbsp;...
+
+- **4. SEBI releases draft guidelines for responsible <b>AI</b> use in markets; seeks public input by July** [link](https://www.msn.com/en-in/money/topstories/sebi-releases-draft-guidelines-for-responsible-ai-use-in-markets-seeks-public-input-by-july/ar-AA1H5Th6%3Focid%3Dfinance-verthp-feeds)
+_Highlight:_ In a landmark move to regulate the growing use of <b>Artificial Intelligence</b> (<b>AI</b>) ... <b>bias</b> mitigation, and data privacy and cybersecurity. Under model&nbsp;...
+
+- **5. EU Takes On the &#39;Real&#39; Threat: Masculine <b>AI</b> - The European Conservative** [link](https://europeanconservative.com/articles/news/eu-takes-on-the-real-threat-masculine-ai/)
+_Highlight:_ The European Union has declared war on “masculinist” algorithms, urging tighter control over <b>AI</b> systems it claims are <b>biased</b> against women.
+
+- **6. <b>AI</b> Governance: Building Trust and Transparency for Healthcare <b>AI</b> - MedCity News** [link](https://medcitynews.com/2025/06/ai-governance-building-trust-and-transparency-for-healthcare-ai/)
+_Highlight:_ Similar to a nutrition label, an applied model card provides decision-makers with an <b>AI</b> initiative overview, intended use, <b>bias</b>, risks, warning&nbsp;...
+
+- **7. Solar Company Sues Google for Giving Damaging Information in <b>AI</b> Overviews - Futurism** [link](https://futurism.com/company-sues-google-ai-overviews)
+_Highlight:_ ... <b>fairness</b>, truth, and accountability in the age of <b>artificial intelligence</b>,&quot; Nicholas Kasprowicz, general counsel for the solar company, Wolf River&nbsp;...
+
+- **8. Keva adopts ethical principles guiding own use of <b>artificial intelligence</b> | News | IPE** [link](https://www.ipe.com/news/keva-adopts-ethical-principles-guiding-own-use-of-artificial-intelligence/10131203.article)
+_Highlight:_ ... <b>AI</b> use such as transparency and openness, data protection and privacy, <b>fairness</b> and non-discrimination and security and reliability. In order to&nbsp;...
+
+- **9. PwC launches <b>AI</b> assurance offering to support <b>AI</b> adoption - Accounting Times** [link](https://www.accountingtimes.com.au/technology/pwc-aims-to-bolster-ai-adoption-with-assurance-offering)
+_Highlight:_ ... <b>fairness</b> of their <b>AI</b> systems, assess governance frameworks and control environments and evaluate data sourcing and related management practices to&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
