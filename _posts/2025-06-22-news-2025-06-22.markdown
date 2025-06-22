@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-22 One-Minute Post
+date: 2025-06-22 06:59:24 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Meta's CTO countered job offers to AI startup employees. University of South Carolina offers ChatGPT tools with a tuition freeze. Election Commission sources express concerns over voter privacy. Inaccurate race data in health records poses bias risk in AI healthcare. Sebi proposes responsible AI rules for fairness and bias prevention in the securities market. India Stack advocates for open and inclusive AI.
+
+## Articles we found interesting:
+
+- **1. Meta CTO Bosworth says OpenAI countered lucrative job offers to <b>AI</b> startup&#39;s employees** [link](https://www.cnbc.com/2025/06/20/metas-andrew-bosworth-says-openai-countered-lucrative-job-offers.html)
+_Highlight:_ ... <b>AI</b> talent, said Andrew Bosworth, Meta&#39;s technology chief ... Advertise With Us. Please Contact Us &middot; <b>Privacy</b> Policy; California Consumer <b>Privacy</b> Act (&nbsp;...
+
+- **2. University of South Carolina to freeze tuition, offer ChatGPT in fall - WLTX** [link](https://www.wltx.com/article/news/education/university-free-chatgpt-ai-tools-tuition-freeze-fall-2025/101-2b5b8156-9d01-4741-987e-30cb0a78b6cb)
+_Highlight:_ USC will freeze in-state tuition for a seventh year and give students and staff free ChatGPT access and new <b>AI</b> tools starting in fall 2025.
+
+- **3. &quot;Contrary To Voter <b>Privacy</b>&quot;: Poll Body Sources On Voting Footage Demands - NDTV** [link](https://www.ndtv.com/india-news/contrary-to-privacy-of-voters-election-commission-sources-on-demands-for-maharashtra-polls-cctv-footage-be-made-public-8724136)
+_Highlight:_ ... <b>AI</b>-generated, newsroom-reviewed. Election Commission sources said retaining polling footage beyond 45 days risks voter <b>privacy</b> and security; Rahul&nbsp;...
+
+- **4. Inaccurate Race Data in Electronic Health Records Poses Risk of <b>Bias</b> in <b>AI</b> Healthcare Systems** [link](https://www.geneonline.com/inaccurate-race-data-in-electronic-health-records-poses-risk-of-bias-in-ai-healthcare-systems/)
+_Highlight:_ These inaccuracies can compromise the effectiveness of <b>AI</b> tools designed to analyze patient information, potentially leading to <b>biased</b> outcomes that&nbsp;...
+
+- **5. Ethical <b>AI</b>: Why Responsible Tech Development Matters - Techiexpert.com** [link](https://www.techiexpert.com/ethical-ai-responsible-development-matters/)
+_Highlight:_ <b>AI</b> and <b>Bias</b>. One serious challenge in the development of <b>AI</b> is algorithmic <b>bias</b>. The system may end up replicating and amplifying <b>biases</b> if the&nbsp;...
+
+- **6. Redefining Mentorship in Medical Education with <b>Artificial Intelligence</b>: A Delphi Study on ...** [link](https://www.researchgate.net/publication/392826112_Redefining_Mentorship_in_Medical_Education_with_Artificial_Intelligence_A_Delphi_Study_on_the_Feasibility_and_Implications)
+_Highlight:_ ... <b>bias</b>, are paramount in the deployment of <b>AI</b> mentors. These insights advocate the strategic implementation of <b>AI</b> mentors in medical education&nbsp;...
+
+- **7. <b>AI</b> needs to be open and inclusive like India Stack | Mumbai news - Hindustan Times** [link](https://www.hindustantimes.com/cities/mumbai-news/ai-needs-to-be-open-and-inclusive-like-india-stack-101750447194860.html)
+_Highlight:_ In India, digital systems like Aadhaar and UPI prioritize privacy and <b>fairness</b>, but as <b>AI</b> evolves, the public deserves transparency and&nbsp;...
+
+- **8. Sebi Proposes Responsible <b>AI</b> Rules in Securities Market - BW Legal World** [link](https://www.bwlegalworld.com/article/sebi-proposes-responsible-ai-rules-in-securities-market-560806)
+_Highlight:_ ... <b>fairness</b> and bias prevention and data security. The Securities and Exchange Board of India (Sebi) has released a draft framework aimed at&nbsp;...
+
+- **9. Sebi Charts <b>AI</b> Rulebook For Stock Market! A Five-Point Framework to Govern Machine ...** [link](https://www.msn.com/en-in/money/markets/sebi-charts-ai-rulebook-for-stock-market-a-five-point-framework-to-govern-machine-learning-use-in-securities/ar-AA1H8xE5)
+_Highlight:_ ... <b>AI</b> guidelines, with a focus on ethics and <b>fairness</b>. Sebi&#39;s consultation paper draws heavily from those precedents while tailoring recommendations&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
