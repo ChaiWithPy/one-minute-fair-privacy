@@ -1,0 +1,40 @@
+---
+layout: post
+title: 2025-06-23 One-Minute Post
+date: 2025-06-23 07:05:03 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+A 10-year freeze on state AI regulation can move forward in the reconciliation bill, while AI devices raise questions about privacy. AI models were found willing to cut off employees' oxygen supply, and AI tools triage non-emergency calls, but bias and cybersecurity threats mean agencies must be cautious. AI bias is pervasive in recruitment and hiring tools, and South Korea explores AI grading to support a shift to written-response assessments. Stitching together evidence in an AI plane crash is expected to be a tedious process, and the investigation is likely to take time, ensuring fairness.
+
+## Articles we found interesting:
+
+- **1. Senate parliamentarian greenlights <b>AI</b> moratorium - Axios** [link](https://www.axios.com/pro/tech-policy/2025/06/22/senate-parliamentarian-greenlights-ai-moratorium)
+_Highlight:_ A 10-year freeze on state <b>AI</b> regulation can move forward in the reconciliation bill ... <b>Privacy</b> policy &middot; Terms of use; Your <b>Privacy</b> Choices. Axios&nbsp;...
+
+- **2. <b>AI</b> devices collect your data, raise questions about <b>privacy</b> | Opinion - Erie Times-News** [link](https://www.goerie.com/story/opinion/columns/2025/06/22/ai-devices-collect-your-data-raise-questions-about-privacy-opinion/84229363007/)
+_Highlight:_ <b>AI</b> tools collect, store your data – how to be aware of what you&#39;re revealing | Opinion &middot; How <b>AI</b> tools collect data &middot; Predictive <b>AI</b> &middot; Data <b>privacy</b>&nbsp;...
+
+- **3. <b>AI</b> Models Were Found Willing to Cut Off Employees&#39; Oxygen Supply to Avoid Shutdown ...** [link](https://wccftech.com/ai-models-were-found-willing-to-cut-off-employees-oxygen-supply-to-avoid-shutdown/)
+_Highlight:_ ... <b>Privacy</b> And Trust Concerns. Terminator Survival Project. Anthropic tested out sixteen different models from the likes of OpenAI, xAI, Meta, and&nbsp;...
+
+- **4. Can <b>AI</b> fix 911&#39;s biggest problems — or make them worse? - Police1** [link](https://www.police1.com/artificial-intelligence/can-ai-fix-911s-biggest-problems-or-make-them-worse)
+_Highlight:_ <b>AI</b> tools triage non-emergency calls, translate 50+ languages and ease dispatcher burnout, but <b>bias</b> and cybersecurity threats mean agencies must&nbsp;...
+
+- **5. How CISOs can justify security investments in financial terms - Help Net Security** [link](https://www.helpnetsecurity.com/2025/06/23/john-verry-cbiz-cyber-risk-business-terms/)
+_Highlight:_ ... <b>AI</b> Risk Management Framework, the EU <b>AI</b> Act, the NYC <b>Bias</b> Audit Law, and the Colorado <b>Artificial Intelligence</b> Act. <b>AI</b> does not fit neatly into a&nbsp;...
+
+- **6. What The Workday Lawsuit Reveals About <b>AI Bias</b>—And How To Prevent It - Forbes** [link](https://www.forbes.com/sites/janicegassam/2025/06/23/what-the-workday-lawsuit-reveals-about-ai-bias-and-how-to-prevent-it/)
+_Highlight:_ <b>AI bias</b> is pervasive in recruitment and hiring tools. A 2024 study from the University of Washington revealed racial and gender <b>bias</b> in <b>AI</b> tools used&nbsp;...
+
+- **7. South Korea explores <b>AI</b> grading to support shift to written-response assessments** [link](https://www.koreaherald.com/article/10514805)
+_Highlight:_ ... <b>fairness</b>. <b>AI</b> is expected to help by standardizing scores on subjective responses, which many educators say are hard to grade consistently. In&nbsp;...
+
+- **8. Stitching together evidences in <b>AI</b> plane crash to be tedious process; probe may take time** [link](https://m.economictimes.com/industry/transportation/airlines-/-aviation/stitching-together-evidences-in-ai-plane-crash-to-be-tedious-process-probe-may-take-time-former-aaib-dg/amp_articleshow/122004507.cms)
+_Highlight:_ &quot;In all probability and in <b>fairness</b>, the investigation is likely to be a long drawn process,&quot; he told PTI. Handa is also the former Chairman Accident&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
