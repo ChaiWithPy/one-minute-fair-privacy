@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-24 One-Minute Post
+date: 2025-06-24 07:12:45 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California Attorney General and privacy regulators oppose ban on state AI, emphasizing the need to protect against AI-related harms. Fayetteville police's use of Clearview AI raises concerns about accuracy and bias in facial recognition software. Meanwhile, SEBI proposes a framework for responsible AI/ML use in securities markets to address biases and promote model diversity. Elon Musk acknowledges the challenge of eliminating bias in AI. On the fairness front, efforts are being made to embed ethical AI in public procurement in Ghana and revolutionize minority business in government staffing contracts using AI. Additionally, a new Linux distro routes all traffic through the Tor network, prioritizing privacy.
+
+## Articles we found interesting:
+
+- **1. Attorney General Bonta, Consortium of <b>Privacy</b> Regulators Strongly Oppose Ban on State <b>AI</b> ...** [link](https://oag.ca.gov/news/press-releases/attorney-general-bonta-consortium-privacy-regulators-strongly-oppose-ban-state)
+_Highlight:_ Ban would leave Americans unprotected from current <b>AI</b>-related harms OAKLAND — California Attorney General Rob Bonta, as part of the Consortium of&nbsp;...
+
+- **2. This Linux distro routes all your traffic through the Tor network - and it&#39;s my new favorite for <b>privacy</b>** [link](https://www.zdnet.com/article/this-linux-distro-routes-all-your-traffic-through-the-tor-network-and-its-my-new-favorite-for-privacy/)
+_Highlight:_ For me, the best route to <b>privacy</b> goes through Linux and one of the many <b>privacy</b> ... How a researcher with no malware-coding skills tricked <b>AI</b> into&nbsp;...
+
+- **3. DappCon 2025: <b>AI</b>, <b>privacy</b>, and community currencies shape the future of blockchain** [link](https://cointelegraph.com/press-releases/dappcon-2025-ai-privacy-and-community-currencies-shape-the-future-of-blockchain)
+_Highlight:_ 100+ speakers, 900+ attendees, and a limitless appetite for innovation: DappCon 2025, hosted by Gnosis, was one of the best Web3 events of the&nbsp;...
+
+- **4. Fayetteville police use controversial facial recognition software. Is it cause for concern?** [link](https://www.fayobserver.com/story/news/local/2025/06/24/fayetteville-police-department-using-clearview-ai-for-investigations/83518223007/)
+_Highlight:_ Accuracy and <b>bias</b> in facial recognition software are concerns ... <b>AI</b> literacy among law enforcement and public awareness are crucial for&nbsp;...
+
+- **5. Elon Musk wants to put his thumb on the <b>AI</b> scale** [link](https://www.axios.com/2025/06/24/elon-musk-grok-ai-bias-political-influence)
+_Highlight:_ Yes, but: It&#39;s also not the case that current <b>AI</b> — or any generative <b>AI</b> really — can be free from <b>bias</b>. The training data reflects <b>biases</b> based on&nbsp;...
+
+- **6. SEBI Proposes Framework for Responsible Use of <b>AI</b>/ML - Regulation Asia** [link](https://www.regulationasia.com/sebi-proposes-framework-for-responsible-ai-ml-use-in-securities-markets/)
+_Highlight:_ ... <b>biases</b>, promote model diversity, and train staff on responsible <b>AI</b> practices. ... The consultation is open for feedback until 11 July 2025. Related:<b>AI</b>/&nbsp;...
+
+- **7. <b>Fair</b> DRM Scheduler Looking Good For Better <b>Fairness</b> &amp; Scheduling Of GPU Clients** [link](https://www.phoronix.com/news/Fair-DRM-Scheduler-v5)
+_Highlight:_ Ubuntu Linux Performance On The AMD Ryzen <b>AI</b> Max PRO 390 &quot;Strix Halo&quot; &middot; Framework Laptop 12: An Upgrade-Friendly, Convertible 2-in-1 Linux Laptop.
+
+- **8. Embedding Ethical <b>AI</b> in Public Procurement: Ghana&#39;s path to trustworthy automation in E ...** [link](https://www.myjoyonline.com/embedding-ethical-ai-in-public-procurement-ghanas-path-to-trustworthy-automation-in-e-governance/)
+_Highlight:_ Public trust in government institutions fundamentally depends on the perceived <b>fairness</b>, transparency, and accountability of decision-making processes&nbsp;...
+
+- **9. How <b>AI</b> is Revolutionizing Minority Business in Govt Staffing Contracts - Deccan Chronicle** [link](https://www.deccanchronicle.com/news/business-tech/how-ai-is-revolutionizing-minority-business-in-govt-staffing-contracts-1887035)
+_Highlight:_ The findings highlight both the promise and challenges of <b>AI</b> in fostering equitable hiring, and propose strategies to ensure <b>fairness</b> in <b>AI</b>-driven&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
