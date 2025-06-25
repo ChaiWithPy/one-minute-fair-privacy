@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-25 One-Minute Post
+date: 2025-06-25 07:13:13 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Snowden warns of AI surveillance threat to privacy and freedom. European Commission opens public consultation on high-risk AI systems. Senate closer to passing 10-year moratorium on state AI regulation. AI-powered hiring tools favor black and female job candidates. New study reveals bias in AI text detection tools impacting academic publishing fairness. Google faces UK pressure over AI search summary and advertising fairness. SEBI's Consultation Paper on AI/ML Guidelines focuses on reconciling innovation with investor protection, including fairness and bias. AI is redefining leadership and decision-making in 2025, with evolving concerns about fairness and bias testing.
+
+## Articles we found interesting:
+
+- **1. Snowden Warns <b>AI</b> Surveillance Threatens <b>Privacy</b> and Freedom - MediaNama** [link](https://www.medianama.com/2025/06/223-edward-snowden-ai-surveillance-privacy-freedom/)
+_Highlight:_ Edward Snowden warns that <b>AI&#39;s</b> growing surveillance capabilities are threatening <b>privacy</b> and personal freedoms, reshaping our digital lives.
+
+- **2. How Internet of Things devices affect your <b>privacy</b> – even when they&#39;re not yours** [link](https://theconversation.com/how-internet-of-things-devices-affect-your-privacy-even-when-theyre-not-yours-251592)
+_Highlight:_ <b>AI</b> chipmaker Nvidia has created a digital environment, or model, where people can upload their connected device data. This environment can help train&nbsp;...
+
+- **3. The European Commission opens public consultation on high-risk <b>AI</b> systems** [link](https://www.insideglobaltech.com/2025/06/24/the-european-commission-opens-public-consultation-on-high-risk-ai-systems/)
+_Highlight:_ Her practice covers a wide range of regulatory and policy matters at the cross-section of <b>privacy</b>, content moderation, <b>artificial intelligence</b>, and&nbsp;...
+
+- **4. The Senate is one step closer to passing a 10-year moratorium on state <b>AI</b> regulation** [link](https://reason.com/2025/06/24/the-senate-is-one-step-closer-to-passing-a-10-year-moratorium-on-state-ai-regulation/)
+_Highlight:_ For the past several years, states have been trying to regulate the burgeoning <b>artificial intelligence</b> (<b>AI</b>) industry. ... <b>AI</b> &#39;anti-<b>bias</b>&#39; regulations.&quot;&nbsp;...
+
+- **5. <b>AI</b>-powered hiring tools favor black and female job candidates over white and male applicants: study** [link](https://nypost.com/2025/06/24/business/ai-hiring-tools-favor-black-female-candidates-over-whites-males/)
+_Highlight:_ This pattern emerged across both commercial and open-source models — including Gemma-3 and Mistral-24B — and persisted even when anti-<b>bias</b> language&nbsp;...
+
+- **6. New study reveals <b>bias</b> in <b>AI</b> text detection tools impacts academic publishing fairness** [link](https://techxplore.com/news/2025-06-reveals-bias-ai-text-tools.html)
+_Highlight:_ A study published in PeerJ Computer Science reveals significant accuracy-<b>bias</b> trade-offs in <b>artificial intelligence</b> text detection tools that&nbsp;...
+
+- **7. Google Faces UK Pressure Over <b>AI</b> Search Summary, Advertising - Bloomberg.com** [link](https://www.bloomberg.com/news/articles/2025-06-24/google-faces-uk-pressure-over-ai-search-summary-advertising)
+_Highlight:_ The UK&#39;s Competition and Markets Authority (CMA) is investigating Google&#39;s online search and advertising business, citing concerns over <b>fairness</b> in&nbsp;...
+
+- **8. SEBI&#39;s Consultation Paper on <b>AI</b>/ML Guidelines: Reconciling Innovation with Investor Protection** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D1ad14350-2973-4596-8e27-b4458dc6c039)
+_Highlight:_ In light of increased adoption of <b>artificial intelligence</b> (<b>AI</b>) and ... <b>Fairness</b> and Bias: Market participants should implement appropriate&nbsp;...
+
+- **9. How <b>AI</b> Is Redefining Leadership and Decision-Making in 2025 - Unite.<b>AI</b>** [link](https://www.unite.ai/how-ai-is-redefining-leadership-and-decision-making-in-2025/)
+_Highlight:_ As <b>AI</b> tools evolve, so do concerns about their <b>fairness</b>. ... To prevent <b>AI</b> bias, we thoroughly test algorithms for <b>fairness</b> before deployment.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
