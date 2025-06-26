@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-26 One-Minute Post
+date: 2025-06-26 07:09:37 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+NIST's updated Privacy Framework 1.1 should emphasize fundamental privacy. Meanwhile, top AI models show bias towards Chinese propaganda. Uber and Palantir alums raise $35M to disrupt corporate recruitment with AI, addressing concerns about AI bias. SEBI floats paper on responsible AI use in Indian Securities Market, emphasizing fairness and non-discrimination. Additionally, a court differentiates fair use from copyright theft for AI firms. Organizations are acknowledging the need to mitigate bias in AI systems to ensure fair and equitable outcomes.
+
+## Articles we found interesting:
+
+- **1. We Get <b>Privacy</b> For Work: Assessing The Risks Of <b>AI</b> Tools (Video) - New Technology** [link](https://www.mondaq.com/unitedstates/new-technology/1641348/we-get-privacy-for-work-assessing-the-risks-of-ai-tools-video)
+_Highlight:_ The widespread adoption of <b>AI</b> tools has the potential to increase efficiency in the workplace but can also create potential pitfalls if proper&nbsp;...
+
+- **2. CDT Submits Comments on NIST&#39;s Updated <b>Privacy</b> Framework** [link](https://cdt.org/insights/cdt-submits-comments-on-nists-updated-privacy-framework/)
+_Highlight:_ The final draft of the NIST <b>Privacy</b> Framework 1.1 should emphasize fundamental <b>privacy</b> ... CDT Europe&#39;s assessment of the <b>AI</b> Office&#39;s guidelines on&nbsp;...
+
+- **3. Lawmakers Unveil <b>Privacy</b> Bill to Protect Californians&#39; Location Data - Contra Costa News** [link](https://contracosta.news/2025/06/25/lawmakers-unveil-privacy-bill-to-protect-californians-location-data/)
+_Highlight:_ ... <b>Privacy</b>, <b>AI</b> Safeguards, Health Equity, and Utility Reform; Feb 20 – Bauer-Kahan Introduces Bill to Regulate AI Use for Children. support. 0 comments&nbsp;...
+
+- **4. Top <b>AI</b> models parrot Chinese propaganda, report finds - The Register** [link](https://www.theregister.com/2025/06/26/top_ai_models_parrot_chinese/)
+_Highlight:_ Five popular <b>AI</b> models all show signs of <b>bias</b> toward viewpoints promoted by the Chinese Communist Party, and censor material it finds distasteful&nbsp;...
+
+- **5. How data analytics is transforming modern industries - Innovation News Network** [link](https://www.innovationnewsnetwork.com/how-data-analytics-is-transforming-modern-industries/59276/)
+_Highlight:_ Algorithmic <b>bias</b>: Over 90% of organisations acknowledge the need to mitigate <b>bias</b> in <b>AI</b> systems to ensure fair and equitable outcomes. Data privacy:&nbsp;...
+
+- **6. Exclusive: Uber and Palantir alums raise $35M to disrupt corporate recruitment with <b>AI</b>** [link](https://fortune.com/2025/06/25/uber-palantir-alums-metaview-raise-35m-ai-revolution-recruitment-hiring/)
+_Highlight:_ However, <b>AI</b> tools often bring their own <b>bias</b> to the table, something that has worried HR professionals. For example, three-quarters of employers&nbsp;...
+
+- **7. SEBI Floats Paper on Responsible <b>AI</b> Use in Indian Securities Market - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D5e0aa361-1d5f-483c-adc3-2d678ab542c7)
+_Highlight:_ Shadow testing is recommended, along with continuous monitoring throughout deployment. <b>Fairness</b>: <b>AI</b>/ML-based models must be fair and not discriminate&nbsp;...
+
+- **8. <b>AI</b> Firms Face New Legal Boundaries as Court Differentiates <b>Fair</b> Use from Copyright Theft** [link](https://www.digitalinformationworld.com/2025/06/ai-firms-face-new-legal-boundaries-as.html)
+_Highlight:_ Judge clarifies that training <b>AI</b> on legally bought books is <b>fair</b> use; pirated content remains infringement.
+
+- **9. Building <b>AI</b> Tools to Ensure <b>Fairness</b> in Machine Learning Algorithms - Newser** [link](https://www.newser.com/blank/Building-AI-Tools-to-Ensure-Fairness-in-Machine-Learning-Algorithms)
+_Highlight:_ Building <b>AI</b> Tools to Ensure <b>Fairness</b> in Machine Learning Algorithms ✌️【Yield】✌️$100 is all you need to start your profitable journey. Invest today for&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
