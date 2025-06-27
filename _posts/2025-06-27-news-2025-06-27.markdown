@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-06-27 One-Minute Post
+date: 2025-06-27 07:04:26 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+T-RIZE introduces privacy-preserving AI through a flower pilot program, bridging AI and blockchain. Meanwhile, businesses remain concerned about AI security, privacy, and trust issues. In education, there's a focus on developing AI prompting skills for critical thinking, addressing ethical concerns like AI bias and misinformation. In healthcare, the ethical dilemma of AI-driven health insurance decisions is being debated, with a focus on addressing bias within AI systems. Additionally, the Pittsburgh housing authority is deploying AI to address application backlogs, aiming to mitigate system bias.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> security issues dominate corporate worries, spending - Cybersecurity Dive** [link](https://www.cybersecuritydive.com/news/artificial-intelligence-security-spending-reports/751685/)
+_Highlight:_ Security, <b>privacy</b> and related trust issues remain some of businesses&#39; biggest concerns about generative <b>artificial intelligence</b>, according to a&nbsp;...
+
+- **2. T-RIZE Unveils Blueprint for <b>Privacy</b>-Preserving <b>AI</b> Through Flower Pilot Program | Reuters** [link](https://www.reuters.com/press-releases/t-rize-unveils-blueprint-for-privacy-preserving-ai-through-flower-pilot-program-2025-06-26/)
+_Highlight:_ &quot;We&#39;re bridging <b>AI</b> and blockchain not for hype, but to solve real enterprise problems, starting with due diligence workflows where <b>privacy</b> and proof&nbsp;...
+
+- **3. Is Canada&#39;s <b>AI</b> Minister just an industry spokesman now? - The Globe and Mail** [link](https://www.theglobeandmail.com/business/commentary/article-is-canadas-ai-minister-just-an-industry-spokesman-now/)
+_Highlight:_ ... <b>AI</b> innovation … It is to make sure that the horse doesn&#39;t kick people in the face. And we need to protect people&#39;s data and their <b>privacy</b>.” That&nbsp;...
+
+- **4. Helping Students Develop <b>AI</b> Prompting Skills for Critical Thinking - Faculty Focus** [link](https://www.facultyfocus.com/articles/teaching-with-technology-articles/helping-students-develop-ai-prompting-skills-for-critical-thinking/)
+_Highlight:_ Moreover, effective prompting can highlight ethical concerns, such as <b>AI bias</b> and misinformation, which promotes digital literacy (Kasneci et al. 2023)&nbsp;...
+
+- **5. Human vs. <b>AI</b>: The Ethical Dilemma of Health Insurance Decisions - NBC Palm Springs** [link](https://www.nbcpalmsprings.com/therogginreport/2025/06/26/human-vs-ai-the-ethical-dilemma-of-health-insurance-decisions)
+_Highlight:_ ... <b>bias</b> within <b>AI</b> systems. As one contributor pointed ... <b>AI</b> in healthcarehealth insurance<b>AI</b> algorithmspersonalized plansfairnesstransparency<b>bias</b>&nbsp;...
+
+- **6. Pittsburgh housing authority recruits <b>AI</b> to help with application backlogs - PublicSource** [link](https://www.publicsource.org/pittsburgh-housing-authority-deploys-artificial-intelligence-pilot-program/)
+_Highlight:_ The authority&#39;s board approved a $160,000 yearlong contract to assist a lean staff amid reservations about system <b>bias</b>. Avatar photo by Eric&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
