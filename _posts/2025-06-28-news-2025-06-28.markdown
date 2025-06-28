@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-28 One-Minute Post
+date: 2025-06-28 06:55:20 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+The EU's AI Act mandates strict privacy and ethical standards. Germany raises concerns over DeepSeek AI's spying capabilities. Texas enacts comprehensive AI governance laws addressing bias in healthcare algorithms. OWASP launches AI Testing Guide to address security and bias in AI systems. Schools need AI policies to teach students about AI limitations and recognizing bias. Gen Alpha slang baffles parents and AI, highlighting the importance of fairness, accountability, and transparency in AI models. India's healthcare sector is being transformed with AI-driven CX, emphasizing the need for robust governance frameworks prioritizing privacy, data security, and fairness in AI solutions. The World Economic Forum discusses the importance of governance, fairness, use cases, and the AI workforce in business.
+
+## Articles we found interesting:
+
+- **1. DeepSeek&#39;s Data <b>Privacy</b> Crisis: Implications for <b>AI</b> Stocks and Geopolitical Tech ... - AInvest** [link](https://www.ainvest.com/news/deepseek-data-privacy-crisis-implications-ai-stocks-geopolitical-tech-investment-strategies-2506/)
+_Highlight:_ The bloc&#39;s <b>AI</b> Act, due to take effect in 2026, mandates strict compliance with <b>privacy</b> and ethical standards for <b>AI</b> systems operating within its&nbsp;...
+
+- **2. Germany seeks to block Chinese DeepSeek <b>AI</b> over <b>privacy</b> - UPI.com** [link](https://www.upi.com/Top_News/World-News/2025/06/27/germany-officials-deepseek-ai-block-privacy-data-concerns/1401751036793/)
+_Highlight:_ German officials on Friday raised the alarm over the spying capabilities of Hangzhou DeepSeek <b>Artificial Intelligence</b> Basic Technology Research&nbsp;...
+
+- **3. German official urges Apple and Google to ban <b>AI</b> company DeepSeek, citing <b>privacy</b> concerns** [link](https://www.euronews.com/next/2025/06/27/german-official-urges-apple-and-google-to-ban-ai-company-deepseek-citing-privacy-concerns)
+_Highlight:_ A German data protection official has accused the Chinese <b>artificial intelligence</b> (<b>AI</b>) company DeepSeek of illegally transferring user data to&nbsp;...
+
+- **4. Texas Enacts Comprehensive <b>AI</b> Governance Laws with Sector-Specific Healthcare Provisions** [link](https://www.hklaw.com/en/insights/publications/2025/06/texas-enacts-comprehensive-ai-governance-laws)
+_Highlight:_ Texas has taken a significant step in regulating <b>artificial intelligence</b> (<b>AI</b>) ... <b>bias</b> in healthcare algorithms is evaluated. The statute also addresses&nbsp;...
+
+- **5. OWASP Launches <b>AI</b> Testing Guide to Address Security, <b>Bias</b>, and Risk in <b>AI</b> Systems** [link](https://www.infoq.com/news/2025/06/ai-testing-guide/)
+_Highlight:_ The OWASP Foundation has officially introduced the <b>AI</b> Testing Guide (AITG), a new open-source initiative aimed at assisting organizations in the&nbsp;...
+
+- **6. The <b>AI</b> Education Gap: Why Schools Need <b>AI</b> Policies Now - Forbes** [link](https://www.forbes.com/sites/sarahhernholm/2025/06/27/the-ai-education-gap-why-schools-need-policies-now/)
+_Highlight:_ Students require instruction on prompt engineering, understanding <b>AI</b> limitations, recognizing <b>bias</b> in <b>AI</b>-generated outputs, and maintaining academic&nbsp;...
+
+- **7. Gen Alpha slang baffles parents—and <b>AI</b> - Fast Company** [link](https://www.fastcompany.com/91359435/gen-alpha-slang-baffles-parents-and-ai)
+_Highlight:_ ... <b>Fairness</b>, Accountability, and Transparency in Athens. The paper details how four leading <b>AI</b> models—GPT-4, Claude, Gemini, and Llama 3—all&nbsp;...
+
+- **8. Transforming India&#39;s healthcare sector with <b>AI</b>-driven CX** [link](https://www.expresshealthcare.in/news/transforming-indias-healthcare-sector-with-ai-driven-cx/449613/)
+_Highlight:_ This means embedding robust governance frameworks that prioritise privacy, data security, and <b>fairness</b>. <b>AI</b> solutions should act as collaborative&nbsp;...
+
+- **9. <b>AI</b> and business: Agents, AI+, data, ethics and more – here&#39;s what leaders need to know** [link](https://www.weforum.org/stories/2025/06/ai-and-business-agents-ai-plus-data-ethics-and-more/)
+_Highlight:_ The topics of governance, <b>fairness</b>, use cases and the <b>AI</b> workforce all came up, with speakers from a broad cross-section of industries sharing&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
