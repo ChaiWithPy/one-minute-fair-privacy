@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-06-29 One-Minute Post
+date: 2025-06-29 06:45:41 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Fair Just Prosecution warns AI in law enforcement may breach constitution, posing threats to individual privacy. Meta hires OpenAI researchers, raising concerns about bias in AI. Meanwhile, agentic AI faces resistance from shoppers, highlighting bias issues. On the fairness front, Intuit India champions data scientists at WiDS, promoting inclusivity in AI and machine learning. AI-generated art raises ethical concerns about copyright, while AI-driven damages in arbitration spark debates about fairness. These developments underscore the ongoing challenges and debates surrounding AI privacy, bias, and fairness.
+
+## Articles we found interesting:
+
+- **1. Fair Just Prosecution Warns <b>AI</b> in Law Enforcement May Breach Constitution - Davis Vanguard** [link](https://davisvanguard.org/2025/06/concerns-ai-justice-system/)
+_Highlight:_ ... AI misreported it as being inside the glove box, the court could rule the search unlawful. FJP also cautioned that AI threatens individual <b>privacy</b>. <b>AI</b>&nbsp;...
+
+- **2. Facebook is asking to use Meta <b>AI</b> on photos in your camera roll you haven&#39;t yet shared** [link](https://techcrunch.com/2025/06/27/facebook-is-asking-to-use-meta-ai-on-photos-in-your-camera-roll-you-havent-yet-shared/)
+_Highlight:_ Updated after publication with Facebook&#39;s comments. Topics. <b>AI</b>, Facebook, meta <b>ai</b>, <b>privacy</b>. Sarah Perez. Consumer News Editor. Sarah has&nbsp;...
+
+- **3. “Turn Off the Blue Circle Now”: Urgent Warning for WhatsApp Users as Meta <b>AI</b> Feature ...** [link](https://www.rudebaguette.com/en/2025/06/turn-off-the-blue-circle-now-urgent-warning-for-whatsapp-users-as-meta-ai-feature-sparks-major-privacy-concerns/)
+_Highlight:_ There are secure alternatives to WhatsApp like Signal and Telegram that prioritize user <b>privacy</b> through advanced encryption. Regaining control of&nbsp;...
+
+- **4. Meta Hires Four More OpenAI Researchers - The Information** [link](https://www.theinformation.com/articles/meta-hires-four-openai-researchers)
+_Highlight:_ Meta Platforms is hiring four more OpenAI <b>artificial intelligence</b> researchers as Meta CEO Mark Zuckerberg continues an unprecedented recruiting&nbsp;...
+
+- **5. <b>AI</b> wants to buy your next outfit, but shoppers say no thanks, even with the discounts | TechRadar** [link](https://www.techradar.com/pro/would-you-let-ai-make-purchases-for-you-two-thirds-of-us-say-no-even-with-better-deals-but-i-dont-think-it-matters-anyway)
+_Highlight:_ Agentic <b>AI</b> is coming for your wallet, but most people still want to read ... This perceived <b>bias</b> undermines confidence in <b>AI</b> agents and fuels&nbsp;...
+
+- **6. Research: 70% of Restaurants Either Actively Using or Piloting <b>AI</b> to Boost Loyalty Programs |** [link](https://restauranttechnologynews.com/2025/06/research-70-of-restaurants-either-actively-using-or-piloting-ai-to-boost-loyalty-programs/)
+_Highlight:_ Algorithmic <b>bias</b> and lack of transparency; Inadequate cybersecurity. Still, 54% of leading companies report having an integrated <b>AI</b> risk management&nbsp;...
+
+- **7. <b>AI</b>-Generated Art and the Ethical Complications of Copyright - India Legal** [link](https://indialegallive.com/laws-research-indepth/ai-generated-art-and-the-ethical-complications-of-copyright/)
+_Highlight:_ Artifical Intelligence (<b>AI</b>) has changed the creative industries dramatically, allowing the efficient and complex production of art, music and&nbsp;...
+
+- **8. Intuit India Champions Data Scientists at WiDS - Analytics India Magazine** [link](https://analyticsindiamag.com/ai-highlights/intuit-india-champions-data-scientists-at-wids/)
+_Highlight:_ The event served as an inspiring platform for professionals to connect, learn, and explore the future of <b>AI</b> and machine learning in an inclusive&nbsp;...
+
+- **9. <b>AI</b>-Driven Damages in Arbitration: Promise or Peril? A Debate Recap from CIAW 2025** [link](https://www.lexology.com/library/detail.aspx%3Fg%3Daef85a20-63a9-4d29-831f-ae6612fed195)
+_Highlight:_ At California International Arbitration Week 2025, Young CalArb and the Silicon Valley Arbitration &amp; Mediation Center - Young Professionals…
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
