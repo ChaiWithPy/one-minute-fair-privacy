@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-06-30 One-Minute Post
+date: 2025-06-30 07:02:30 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI therapy bots pose risks to public health due to privacy concerns. Tech is transforming security clearance compliance, raising privacy issues. State regulators are urged to define third-party data for AI to prevent bias in insurance. Germany's move to block a Chinese AI firm is seen as bias. AI's impact on the LGBTQ+ community is discussed, highlighting algorithmic bias and online censorship.
+
+## Articles we found interesting:
+
+- **1. Dangerous <b>AI</b> therapy-bots are running amok. Congress must act. - The Hill** [link](https://thehill.com/opinion/technology/5373802-ai-therapist-bots-pose-risks/)
+_Highlight:_ These <b>AI</b> systems are already endangering public health — offering false ... <b>PRIVACY</b> POLICY 04/24/2025; TERMS &amp; CONDITIONS &middot; CONTACT &middot; ADVERTISE.
+
+- **2. How Tech is Transforming Security Clearance Compliance - Federal News Network** [link](https://federalnewsnetwork.com/podcast/security-clearance-insecurity/how-tech-is-transforming-security-clearance-compliance/)
+_Highlight:_ ... <b>AI</b> Outlook Series Episode 2: Leveraging <b>AI</b> to enhance your ... See <b>Privacy</b> Policy at https://art19.com/<b>privacy</b> and California <b>Privacy</b>&nbsp;...
+
+- **3. A bumbling game of robot soccer was a breakthrough for embodied <b>AI</b> - NBC News** [link](https://www.nbcnews.com/world/china/bumbling-game-robot-soccer-was-breakthrough-embodied-ai-rcna215780)
+_Highlight:_ The soccer tournament was played by <b>AI</b>-powered robots in Beijing on Saturday. ... Your <b>Privacy</b> Choices &middot; CA Notice &middot; Terms of Service (Updated JULY 7,&nbsp;...
+
+- **4. State regulators should better define third-party data for <b>AI</b>, insurtech group says** [link](https://www.dig-in.com/news/naic-should-better-define-third-party-ai-data-aitc-says)
+_Highlight:_ Insurers are advised to watch how they use <b>AI</b> for pricing and guard against <b>bias</b>. May 20, 2025. <b>AI</b> data management crucial for insurers&#39; compliance.
+
+- **5. Germany&#39;s move to block DeepSeek a &#39;<b>bias</b>&#39; against Chinese firm, may harm cross-border ...** [link](https://www.globaltimes.cn/page/202506/1337221.shtml)
+_Highlight:_ Germany&#39;s data protection commissioner has reportedly asked Apple and Google to remove Chinese <b>artificial intelligence</b> (<b>AI</b>) start-up DeepSeek from&nbsp;...
+
+- **6. <b>AI</b> and the LGBTQ+ Community: Navigating Challenges and Calls for Change - OpenTools** [link](https://opentools.ai/news/ai-and-the-lgbtq-community-navigating-challenges-and-calls-for-change)
+_Highlight:_ Dive into the complexities of <b>AI&#39;s</b> impact on the LGBTQ+ community, from algorithmic <b>bias</b> to online censorship. Uncover the ongoing challenges and&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
