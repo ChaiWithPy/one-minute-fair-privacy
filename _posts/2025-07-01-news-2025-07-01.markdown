@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-01 One-Minute Post
+date: 2025-07-01 07:05:13 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Illinois schools prepare for next year's AI tools while focusing on data privacy agreements. The AI Armageddon series highlights the importance of addressing AI privacy problems. AutoGPT's dispassionate approach to esports wager optimization aims to eliminate human bias. HR leaders recognize bias as a top concern when evaluating AI tools. Cloudera reports significant concerns around bias and fairness in AI systems, emphasizing the need for a fair AI economy.
+
+## Articles we found interesting:
+
+- **1. Illinois Schools Use Summer to Prepare Next Year&#39;s <b>AI</b> Tools - Government Technology** [link](https://www.govtech.com/education/k-12/illinois-schools-use-summer-to-prepare-next-years-ai-tools)
+_Highlight:_ Connolly said while the district has not purchased any <b>AI</b>-specific programs for the classroom, the district made data <b>privacy</b> agreements with&nbsp;...
+
+- **2. <b>AI</b> Armageddon Series - Data Protection Report** [link](https://www.dataprotectionreport.com/2025/06/ai-armageddon-series/)
+_Highlight:_ The biggest <b>AI privacy</b> problems no one is talking about: Installment 1: The Agent2Agent (“A2A”) Protocol In the <b>privacy</b> world, everyone is focused&nbsp;...
+
+- **3. <b>Privacy</b>-preserving <b>Artificial Intelligence</b> (PEKI)** [link](https://www.dlr.de/en/ki/research-transfer/cooperations/privacy-preserving-ai)
+_Highlight:_ This collaboration involves developing <b>AI</b> technologies that can utilise personal data without compromising user <b>privacy</b>.
+
+- **4. Beyond Human <b>Bias</b>: AutoGPT&#39;s Dispassionate Approach to Esports Wager Optimization** [link](https://autogpt.net/beyond-human-bias/)
+_Highlight:_ This is where AutoGPT enters the game. Unlike human bettors, this cutting-edge <b>AI</b> operates without <b>bias</b> or distraction. It processes vast volumes of&nbsp;...
+
+- **5. <b>AI</b> in hiring out-performs humans in fairness | The Global Recruiter** [link](https://www.theglobalrecruiter.com/ai-in-hiring-out-performs-humans-in-fairness/)
+_Highlight:_ Three-quarters (75 per cent) of HR leaders cite <b>bias</b> as a top concern when evaluating <b>AI</b> tools, second only to data privacy. The report, which&nbsp;...
+
+- **6. <b>AI</b>-assisted technique offers effective and painless breast imaging alternative** [link](https://medicalxpress.com/news/2025-06-ai-technique-effective-painless-breast.html)
+_Highlight:_ With the maturity of <b>artificial intelligence</b> (<b>AI</b>) and ... Study shows racial <b>bias</b> in <b>AI</b>-generated treatment regimens for psychiatric patients.
+
+- **7. Why the Government urgently must focus on the next <b>AI</b> wave** [link](https://www.openaccessgovernment.org/why-the-government-urgently-must-focus-on-the-next-ai-wave/194434/)
+_Highlight:_ ... <b>fair AI</b> economy. Political leaders must ensure these voices are being ... The same principle applies here: it&#39;s sink or swim time, and the Government&nbsp;...
+
+- **8. Leading the <b>AI</b> charge in India&#39;s rapidly evolving data economy - ET Edge Insights** [link](https://etedge-insights.com/resources/in-conversation/leading-the-ai-charge-in-indias-rapidly-evolving-data-economy/)
+_Highlight:_ In fact, Cloudera reported that 72% of enterprise leaders report significant concerns around bias and <b>fairness</b> in <b>AI</b> systems. In response to these&nbsp;...
+
+- **9. The Future of <b>AI</b>: Sam Altman&#39;s Controversial Roadmap Explained - Geeky Gadgets** [link](https://www.geeky-gadgets.com/sam-altman-ai-vision-future/)
+_Highlight:_ ... <b>fairness</b>, and power dynamics. What Is the Singularity? The singularity ... Dive deeper into <b>Artificial Intelligence</b> (<b>AI</b>) with other articles and guides&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
