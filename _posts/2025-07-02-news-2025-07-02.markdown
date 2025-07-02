@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-02 One-Minute Post
+date: 2025-07-02 06:51:05 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Congress has dropped a plan to block state AI rules, impacting consumer privacy. California will regulate AI use in employment to address bias. Meanwhile, a Texas teenager's research shows surprising signs of fairness in AI. Sapia.ai launches JAS™, an AI-designed, skills-based hiring platform with fairness controls. Entrepreneurs are urged to prioritize ethical AI for long-term trust. AI bias controls and fairness are becoming essential in the AI landscape.
+
+## Articles we found interesting:
+
+- **1. Congress Dropped a Plan to Block State <b>AI</b> Rules. Why That Matters for Consumers - CNET** [link](https://www.cnet.com/tech/services-and-software/congress-dropped-a-plan-to-block-state-ai-rules-why-that-matters-for-consumers/)
+_Highlight:_ ... <b>artificial intelligence</b> that accelerates US leadership in <b>AI</b> while ... <b>privacy</b> and transparency more broadly, without focusing on the technology.
+
+- **2. USA: <b>AI</b> law moratorium removed from One Big Beautiful Bill Act | News - DataGuidance** [link](https://www.dataguidance.com/news/usa-ai-law-moratorium-removed-one-big-beautiful-bill)
+_Highlight:_ ... <b>artificial intelligence</b> (<b>AI</b>) assisted harms. Senator Cantwell noted ... <b>Artificial Intelligence Privacy</b> Overview. Jurisdictions: United States&nbsp;...
+
+- **3. Senate overwhelmingly passes amendment removing state <b>AI</b> moratorium - Nextgov/FCW** [link](http://www.fcw.com/artificial-intelligence/2025/07/senate-overwhelmingly-passes-amendment-removing-state-ai-moratorium/406448/%3Foref%3Dng-homepage-river)
+_Highlight:_ Your <b>Privacy</b> Choices; Exercise Your <b>Privacy</b> Rights &middot; Mass layoffs likely ... <b>AI</b>-generated deepfake content and <b>AI&#39;s</b> use in education. “This 99-1&nbsp;...
+
+- **4. California to Regulate Use of <b>AI</b> in Employment Starting October 1, 2025 | JD Supra** [link](https://www.jdsupra.com/legalnews/california-to-regulate-use-of-ai-in-3968666/)
+_Highlight:_ ... <b>bias</b> expressly unlawful in the employment context. This post explains what employers, HR professionals, and employment attorneys need to know now&nbsp;...
+
+- **5. State <b>AI</b> Law Moratorium Struck From Senate Budget Bill - Law360 Employment Authority** [link](https://www.law360.com/employment-authority/articles/2359101/state-ai-law-moratorium-struck-from-senate-budget-bill)
+_Highlight:_ <b>AI Bias</b> Law Lays &#39;Foundation&#39; For New State Patchwork. May 20, 2024. Colo. Gov. Voices &#39;Reservations&#39; In Signing <b>AI Bias</b> Bill. May 10, 2024. Bakery To&nbsp;...
+
+- **6. <b>AI</b> is not the new printer, but the colleague standing there** [link](https://www.dqindia.com/interview/ai-is-not-the-new-printer-but-the-colleague-standing-there-9455822)
+_Highlight:_ Imagine a Job Description generator that has a lot of speed and comes buttoned up with <b>bias</b> controls. Or a tool that helps find exactly the right&nbsp;...
+
+- **7. Texas Teenager Finds Surprising Signs of <b>Fairness</b> in <b>AI</b>: Research to Debut at Global ...** [link](https://cbs4indy.com/business/press-releases/ein-presswire/826575496/texas-teenager-finds-surprising-signs-of-fairness-in-ai-research-to-debut-at-global-edtech-conference)
+_Highlight:_ Stephen&#39;s Episcopal School in Austin, Texas, will present his research on <b>AI fairness</b> at the 2025 ISTELive Conference. Study shows large language&nbsp;...
+
+- **8. Why Every Entrepreneur Must Prioritize Ethical <b>AI</b> — Now** [link](https://www.entrepreneur.com/science-technology/why-every-entrepreneur-must-prioritize-ethical-ai-now/489807)
+_Highlight:_ <b>AI</b> offers powerful growth, but ethical leadership ensures long-term trust. Entrepreneurs must proactively embrace <b>fairness</b>, transparency and&nbsp;...
+
+- **9. Sapia.<b>ai</b> launches JAS™: A breakthrough in <b>AI</b>-designed, skills-based hiring | Morningstar** [link](https://www.morningstar.com/news/business-wire/20250701952153/sapiaai-launches-jas-a-breakthrough-in-ai-designed-skills-based-hiring)
+_Highlight:_ Generate structured, scored interviews instantly; Interview in 50+ languages, backed by explainable <b>AI</b> and <b>fairness</b> controls. All with complete human-&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
