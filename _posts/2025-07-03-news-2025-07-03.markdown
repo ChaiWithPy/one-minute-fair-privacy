@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-07-03 One-Minute Post
+date: 2025-07-03 06:54:37 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+University of Nevada, Reno releases AI usage policy emphasizing caution around data privacy. Oasis Protocol Foundation launches ROFL Mainnet for maintaining user data confidentiality in AI applications. Concerns arise about AI-generated works and fair use, highlighting differences in privacy laws between Canada and the US. Unregulated use of AI tools in hiring raises urgent concerns about bias and data privacy. Telecommunications industry sees a transformative shift driven by AI, but unintentional bias in AI models remains a challenge. Companies are rethinking their vetting of engineering candidates due to concerns about bias in AI-written code, emphasizing the need for adaptability.
+
+## Articles we found interesting:
+
+- **1. <b>Artificial Intelligence</b> Technology Usage Policy - University of Nevada, Reno** [link](https://www.unr.edu/oit/artificial-intelligence-policy)
+_Highlight:_ ... <b>AI</b> usage across the institution to be cautious around information security, data <b>privacy</b>, copyright, and academic integrity. Key Considerations&nbsp;...
+
+- **2. Oasis Protocol Foundation Launches ROFL Mainnet: Verifiable OffChain Compute ... - TheStreet** [link](https://www.thestreet.com/crypto/press-releases/oasis-protocol-foundation-launches-rofl-mainnet-verifiable-offchain-compute-framework-powering-ai-applications)
+_Highlight:_ Zeph, a <b>privacy</b>-first <b>AI</b> companion platform, utilizes ROFL to maintain user data <b>confidentiality</b> through trusted execution environments. In a&nbsp;...
+
+- **3. Deals, data and deep learning: Navigating generative <b>AI</b> in cross-border M&amp;A | Lexpert** [link](https://www.lexpert.ca/news/legal-insights/deals-data-and-deep-learning-navigating-generative-ai-in-cross-border-ma/392824)
+_Highlight:_ While Canada and the US currently exclude copyright for <b>AI</b>-generated works, key differences are emerging in areas such as fair use and <b>privacy</b>&nbsp;...
+
+- **4. Hired by an Algorithm: The Unchecked Power of <b>AI</b> in Recruitment** [link](https://www.orfonline.org/expert-speak/hired-by-an-algorithm-the-unchecked-power-of-ai-in-recruitment)
+_Highlight:_ As <b>AI</b> tools reshape modern hiring, their unregulated use raises urgent concerns about <b>bias</b>, accountability, and data privacy.
+
+- **5. Agentic <b>AI</b> is only as reliable as its data - TM Forum Inform** [link](https://inform.tmforum.org/features-and-opinion/agentic-ai-is-only-as-reliable-as-its-data)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) is driving a transformative shift in the telecommunications industry. ... This emergent unintentional <b>bias</b>, driven by data&nbsp;...
+
+- **6. How companies are rethinking their vetting of engineering candidates in the age of <b>AI</b> coding tools** [link](https://finance.yahoo.com/news/companies-rethinking-vetting-engineering-candidates-174232842.html)
+_Highlight:_ ... <b>bias</b> in <b>AI</b>-written code. “<b>AI</b> doesn&#39;t just level the playing field, it tilts towards those that can adapt quickly,” says Golden. For both new&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
