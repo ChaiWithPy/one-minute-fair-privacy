@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-04 One-Minute Post
+date: 2025-07-04 07:06:17 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Ilya Sutskever takes over as CEO of Safe Superintelligence, focusing on AI privacy. G7 Data Protection Authorities prioritize responsible innovation and privacy protection. Shirley Angelina Lingamdinne's AI corrects gender bias. Colorado passes legislation for AI fairness at work. UNESCO Global Forum discusses fairness, transparency, and societal impact of AI.
+
+## Articles we found interesting:
+
+- **1. Ilya Sutskever becomes CEO of Safe Superintelligence after Meta poached Daniel Gross** [link](https://www.cnbc.com/2025/07/03/ilya-sutskever-is-ceo-of-safe-superintelligence-after-meta-hired-gross.html)
+_Highlight:_ Ilya Sutskever will assume the CEO role at Safe Superintelligence, the <b>AI</b> startup he co-founded after leaving OpenAI ... California Consumer <b>Privacy</b> Act&nbsp;...
+
+- **2. Resolution Opposing Federal Ban on State Regulation of <b>Artificial Intelligence</b>** [link](https://texasgop.org/resolution-opposing-federal-ban-on-state-regulation-of-artificial-intelligence/)
+_Highlight:_ ... <b>privacy</b>, public safety, accountability, and state sovereignty; and. WHEREAS, unregulated <b>AI</b> threatens student <b>privacy</b> by collecting and&nbsp;...
+
+- **3. Responsible innovation and the protection of minors: two priorities for the G7 Data ... - CNIL** [link](https://www.cnil.fr/en/responsible-innovation-and-protection-minors-two-priorities-g7-data-protection-authorities)
+_Highlight:_ Data governance and <b>AI</b>: Five Data Protection Authorities Commit to Innovative and <b>Privacy</b>-Protecting... 11 February 2025 &middot; <b>Artificial intelligence</b>.
+
+- **4. The Economic and Ethical Imperative: How Shirley Angelina Lingamdinne&#39;s <b>AI</b> Corrects ...** [link](http://www.techtimes.com/articles/311192/20250704/economic-ethical-imperative-how-shirley-angelina-lingamdinnes-ai-corrects-gender-bias.htm)
+_Highlight:_ This is not a mere statistical anomaly but a systemic <b>bias</b> embedded in the digital infrastructure of modern life, from product design to financial&nbsp;...
+
+- **5. <b>AI</b> and Ethical Hiring: Can Machines Reduce <b>Bias</b> in Recruitment? - Gauteng Tourism Authority** [link](https://www.gauteng.net/whats-on-g/ai-and-ethical-hiring/)
+_Highlight:_ Learn how <b>AI</b> can transform recruitment by reducing <b>bias</b> and increasing diversity in interview pools and candidate selection.
+
+- **6. <b>AI</b> transforms healthcare for faster, smarter care in emergency crises - News-Medical** [link](https://www.news-medical.net/news/20250704/AI-transforms-healthcare-for-faster-smarter-care-in-emergency-crises.aspx)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) is a revolutionary ... However, challenges like mistranslation risks and language model training data <b>bias</b> remain.
+
+- **7. How California is trying to regulate <b>AI</b> in the workplace through a &#39;No Robo Bosses&#39; bill** [link](https://fortune.com/2025/07/03/no-robo-bosses-california-ai-bill-what-employers-should-know/)
+_Highlight:_ Colorado was the first state to pass legislation around <b>AI</b> at work, focused on algorithmic <b>fairness</b>, annual impact assessments, and worker rights.
+
+- **8. Efficient doesn&#39;t mean <b>fair</b>: <b>AI</b>, advice, and the price &amp; value test - Professional Adviser** [link](https://www.professionaladviser.com/opinion/4515380/efficient-doesnt-mean-fair-ai-advice-price-value-test)
+_Highlight:_ Many advice firms completed their initial <b>Fair</b> Value Assessments last year. But how many have revisited them since introducing <b>AI</b> into their workflows&nbsp;...
+
+- **9. UNESCO Global Forum on the Ethics of <b>AI</b> 2025: Advancing Global Dialogue in Bangkok** [link](https://www.ateneo.edu/news/2025/07/03/unesco-global-forum-ethics-ai-2025-advancing-global-dialogue-bangkok)
+_Highlight:_ Attendees explored issues such as <b>fairness</b>, transparency, accountability, privacy, and the societal impact of <b>AI</b> technologies across diverse contexts.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
