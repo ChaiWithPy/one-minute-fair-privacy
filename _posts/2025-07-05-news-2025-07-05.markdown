@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-07-05 One-Minute Post
+date: 2025-07-05 07:01:44 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+European CEOs push for a two-year pause on EU AI Act, while the EU remains firm on the timeline. Congress passes a bill unleashing record biometric and AI funding, raising privacy concerns. Legal industry AI faces scrutiny for potential bias consequences. The debate on trusting AI to manage mutual funds continues, highlighting inherent biases. Dr. Grace Lordon discusses rewiring workplaces with behavioral science to address bias issues.
+
+## Articles we found interesting:
+
+- **1. 46 European CEOs want two-year pause for EU <b>AI</b> Act - Techzine Global** [link](https://www.techzine.eu/news/privacy-compliance/132758/46-european-ceos-want-two-year-pause-for-eu-ai-act/)
+_Highlight:_ All rights reserved. Techzine Service. Become a partner &middot; Advertising &middot; About Us &middot; Contact &middot; Terms &amp; Conditions &middot; <b>Privacy</b> Statement. Notifications.
+
+- **2. EU sticks to <b>AI</b> Act timeline despite pressure from companies - Techzine Global** [link](https://www.techzine.eu/news/privacy-compliance/132765/eu-sticks-to-ai-act-timeline-despite-pressure-from-companies/)
+_Highlight:_ Techzine News <b>Privacy</b> &amp; Compliance EU sticks to <b>AI</b> Act timeline despite pressure from companies ... <b>ai</b> act / <b>Artificial Intelligence</b> / compliance&nbsp;...
+
+- **3. Congress Passes “One Big Beautiful Bill,” Unleashing Record Biometric and <b>AI</b> Funding at ...** [link](https://idtechwire.com/congress-passes-one-big-beautiful-bill-unleashing-record-biometric-and-ai-funding-at-u-s-borders/)
+_Highlight:_ ... <b>AI</b> surveillance towers, and domestic monitoring, stirring <b>privacy</b> concerns&nbsp;...
+
+- **4. Promise, Peril And The Path Forward: Legal Industry <b>AI</b> - New Technology - Mondaq** [link](https://www.mondaq.com/unitedstates/new-technology/1646174/promise-peril-and-the-path-forward-legal-industry-ai)
+_Highlight:_ ... <b>bias</b> with legal consequences had the <b>AI</b> tool been relied on without oversight. This same risk of <b>bias</b> exists in legal applications, where <b>AI</b> might&nbsp;...
+
+- **5. Can you trust <b>AI</b> to manage your mutual funds?: Bruce Keith on human vs <b>AI</b> debate** [link](https://m.economictimes.com/markets/stocks/news/can-you-trust-ai-to-manage-your-mutual-funds-bruce-keith-on-human-vs-ai-debate/articleshow/122249208.cms)
+_Highlight:_ <b>AI</b> excels in data-driven insights and behavioral analysis but carries inherent <b>biases</b> and lacks accountability without regulatory frameworks. By NEHA&nbsp;...
+
+- **6. From <b>Bias</b> to Breakthrough: Dr. Grace Lordon on Rewiring Workplaces with Behavioural Science** [link](https://europeanbusinessmagazine.com/business/from-bias-to-breakthrough-dr-grace-lordon-on-rewiring-workplaces-with-behavioural-science/)
+_Highlight:_ Grace Lordan: “I think the workplace is already evolving, which is super exciting. And the big thing that <b>artificial intelligence</b> is helping tackle is&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
