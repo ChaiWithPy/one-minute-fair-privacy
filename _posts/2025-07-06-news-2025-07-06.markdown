@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-06 One-Minute Post
+date: 2025-07-06 07:57:26 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+AI tools are raising concerns about data privacy, while educators are navigating the use of AI in classrooms with special privacy protections. Racist stereotypes are shaping AI, leading to biased outcomes, and India's digital divide is causing welfare bias. On the other hand, AI training has been approved as fair use in groundbreaking court decisions, and there are calls to fix AI's data theft problem with onchain attribution for fairness. Additionally, there's a growing debate over the misuse of celebrity identity and AI, highlighting the need for privacy protection.
+
+## Articles we found interesting:
+
+- **1. Local educators navigate the use of <b>AI</b> in classrooms - The Gazette** [link](https://www.thegazette.com/stem/local-educators-navigate-the-use-of-ai-in-classrooms/)
+_Highlight:_ Some schools have purchased special generative <b>AI</b> software designed for schools, such as Magic School, that have special <b>privacy</b> protections for the&nbsp;...
+
+- **2. Fame&#39;s flip side: Can celebrities protect their personalities? - Deccan Herald** [link](https://www.deccanherald.com/opinion/fames-flip-side-can-celebrities-protect-their-personalities-3617490)
+_Highlight:_ Rights &amp; Reputation: As stars like Arijit Singh and Anil Kapoor seek legal protection, the debate grows over misuse of celebrity identity and <b>AI</b>&nbsp;...
+
+- **3. <b>AI</b> tools raise questions about data <b>privacy</b> | Commentary | phillytrib.com** [link](https://www.phillytrib.com/commentary/ai-tools-raise-questions-about-data-privacy/article_77b94b30-5d35-4fe0-8da7-712294b8b096.html)
+_Highlight:_ Like it or not, <b>artificial intelligence</b> has become part of daily life. Many devices — including electric razors and toothbrushes — have become&nbsp;...
+
+- **4. ARTHUR GOLDSTUCK: How racist stereotypes shape <b>AI</b> - BusinessLIVE** [link](https://www.businesslive.co.za/bt/opinion/2025-07-06-arthur-goldstuck-how-racist-stereotypes-shape-ai/)
+_Highlight:_ It has long been known that <b>AI</b> can be <b>biased</b>. It can pick up the subconscious belief system of those who program it, or it can reflect the world&nbsp;...
+
+- **5. Justice in the Age of <b>Artificial Intelligence</b>: Who Rules, Man or Machine? 1-2 - Ammon News** [link](https://en.ammonnews.net/article/82765)
+_Highlight:_ ... <b>AI</b> hallucination. The story began when a visiting attorney from ... <b>bias</b>. As clearly demonstrated by the Florida case, <b>AI</b> tools, despite&nbsp;...
+
+- **6. India&#39;s Digital Divide and the Consequent Welfare <b>Bias</b> - Your View &amp; Story En.tempo.co** [link](https://en.tempo.co/read/2025110/indias-digital-divide-and-the-consequent-welfare-bias)
+_Highlight:_ Similarly, Amazon scrapped an <b>AI</b> hiring tool that downgraded applicants with the word “women&#39;s” (“women&#39;s chess club”) in their resume. Even digital&nbsp;...
+
+- **7. <b>AI</b> Training Approved as <b>Fair</b> Use in Groundbreaking Court Decisions: Bartz v. Anthropic ...** [link](https://opentools.ai/news/ai-training-approved-as-fair-use-in-groundbreaking-court-decisions-bartz-v-anthropic-and-kadrey-v-meta)
+_Highlight:_ California courts decide in favor of <b>AI</b>, ruling that using copyrighted works to train <b>AI</b> models qualifies as <b>fair</b> use. These landmark decisions in&nbsp;...
+
+- **8. Fix <b>AI&#39;s</b> data theft problem with onchain attribution — TradingView News** [link](https://www.tradingview.com/news/cointelegraph:a381de03e094b:0-fix-ai-s-data-theft-problem-with-onchain-attribution/)
+_Highlight:_ As <b>AI</b> models are projected to generate trillions of dollars in value ... This isn&#39;t just about <b>fairness</b> but about power and whether we want a&nbsp;...
+
+- **9. Privacy, ethics, transparency, and accountability in <b>AI</b> systems for wearable devices** [link](https://www.researchgate.net/publication/393185459_Privacy_ethics_transparency_and_accountability_in_AI_systems_for_wearable_devices)
+_Highlight:_ especially as <b>AI</b> integrates more into healthcare and wearables. 5 Bias and <b>fairness</b>. Wearable sensors are electronic devices humans&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
