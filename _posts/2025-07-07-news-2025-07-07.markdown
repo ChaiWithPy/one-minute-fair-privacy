@@ -1,0 +1,25 @@
+---
+layout: post
+title: 2025-07-07 One-Minute Post
+date: 2025-07-07 06:58:36 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Sal Khan emphasizes AI's potential in education, while acknowledging privacy concerns. Virtual drama education faces challenges of privacy, algorithmic bias, and digital equity in AI integration. The call for an "Operation Warp Speed" for AI raises questions about privacy laws and the potential for fully automated AI coders.
+
+## Articles we found interesting:
+
+- **1. Kids learning quantum physics: Sal Khan on <b>A.I.</b>&#39;s promise and its risks - NBC News** [link](https://www.nbcnews.com/meet-the-press/video/kids-learning-quantum-physics-sal-khan-on-a-i-s-promise-and-its-risks-242759237659)
+_Highlight:_ Sal Khan says <b>A.I.</b> can help teachers create &#39;an exceptional ... Your <b>Privacy</b> Choices; CA Notice &middot; Terms of Service (Updated JULY 7, 2023)&nbsp;...
+
+- **2. Ethical boundaries and cybercultural dynamics in virtual drama education - ScienceDirect.com** [link](https://www.sciencedirect.com/science/article/pii/S2590291125004401)
+_Highlight:_ However, challenges such as data <b>privacy</b>, algorithmic bias, and the digital divide must be addressed to ensure equitable and ethical <b>AI</b> integration.
+
+- **3. We need an Operation Warp Speed for <b>AI</b> - Washington Examiner** [link](https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/3462359/we-need-operation-warp-speed-ai/)
+_Highlight:_ Recommended Stories. The internet makes our <b>privacy</b> laws obsolete ... Once such acceleration is achieved, fully automated <b>AI</b> coders or <b>AI</b> research&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
