@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-08 One-Minute Post
+date: 2025-07-08 07:10:55 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Germany blocks AI app DeepSeek over unlawful data transfers to China. Adalytics reports YouTube billing advertisers for ads on pirated/violent content. Law360 mandates the use of an in-house AI bias detection tool. California approves new AI employment bias safeguards. Developing nations' bloc pushes AI rules, fair pay for data. viaim offers Prime Day deals on AI-powered recording tools for global, privacy-first workflows.
+
+## Articles we found interesting:
+
+- **1. viaim Offers Prime Day Deals on <b>AI</b>-Powered Recording Tools for Global, <b>Privacy</b>-First Workflows** [link](https://ktla.com/business/press-releases/cision/20250707CN24677/viaim-offers-prime-day-deals-on-ai-powered-recording-tools-for-global-privacy-first-workflows)
+_Highlight:_ ... <b>AI</b>-Powered Recording Tools for Global, <b>Privacy</b>-First Workflows. News provided by. VIAIM. Jul 07, 2025, 1:00 PM ET. NEW YORK, July 7, 2025 /PRNewswire/&nbsp;...
+
+- **2. viaim Offers Prime Day Deals on <b>AI</b>-Powered Recording Tools for Global, <b>Privacy</b>-First Workflows** [link](https://www.newswire.ca/news-releases/viaim-offers-prime-day-deals-on-ai-powered-recording-tools-for-global-privacy-first-workflows-856027687.html)
+_Highlight:_ CNW/ -- <b>AI</b> workplace technology brand viaim has announced a global Prime Day promotion, offering at least 20 percent off across its entire product&nbsp;...
+
+- **3. Germany Moves to Block <b>AI</b> App DeepSeek Over Unlawful Data Transfers to China** [link](https://www.bitdefender.com/en-us/blog/hotforsecurity/germany-block-deepseek-data-china)
+_Highlight:_ Serious data <b>privacy</b> concerns. According to the German Commissioner, DeepSeek collects and processes numerous types of user data, including: All text&nbsp;...
+
+- **4. Digest: Adalytics Reports YouTube Billing Advertisers for Ads on Pirated/Violent Content** [link](https://www.exchangewire.com/blog/2025/07/08/digest-adalytics-reports-youtube-billing-advertisers-for-ads-on-pirated-violent-content-googles-hidden-search-terms-cost-advertisers-millions/)
+_Highlight:_ Law360 Staff Push Back on Mandatory <b>AI Bias</b> Tool. Law360, the legal news outlet, has mandated the use of an in-house <b>AI</b> “<b>bias</b>” detection tool for&nbsp;...
+
+- **5. Evaluating accountability, transparency, and <b>bias</b> in <b>AI</b>-assisted healthcare decision- making** [link](https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-025-01243-z)
+_Highlight:_ <b>Bias</b> in <b>AI</b> emerged as a persistent worry among clinicians, administrators, and developers, particularly for underrepresented patient groups and rare&nbsp;...
+
+- **6. California approves new <b>AI</b> employment <b>bias</b> safeguards - Outsource Accelerator** [link](https://news.outsourceaccelerator.com/california-new-ai-safeguards/)
+_Highlight:_ Previously, the state of New York also enforced a law on <b>AI</b> hiring <b>bias</b>, while Virginia is set to regulate high-risk <b>AI</b> systems by 2026. ← Ciklum&nbsp;...
+
+- **7. Google Hit with EU Antitrust Complaint Over <b>AI</b> Overviews - TECHi** [link](https://www.techi.com/google-eu-antitrust-complaint-ai-overviews/)
+_Highlight:_ ... <b>fair</b> choice and advantage in utilizing their content. Although they ... An even greater question on <b>fairness</b> in <b>AI</b> is brought to the case as&nbsp;...
+
+- **8. Developing nations&#39; bloc pushes <b>AI</b> rules, <b>fair</b> pay for data - Tech in Asia** [link](https://www.techinasia.com/news/developing-nations-bloc-pushes-ai-rules-fair-pay-for-data/amp/)
+_Highlight:_ The bloc also seeks to establish mechanisms to ensure <b>fair</b> payment for material used in training <b>AI</b> models.
+
+- **9. boost sales by using <b>ai</b> to personalize product recommendations based on customer data - Newser** [link](https://www.newser.com/app/boost-sales-by-using-ai-to-personalize-product-recommendations-based-on-customer-data)
+_Highlight:_ Grow your wealth with high-yield returns!Further reading: For example, to achieve our <b>fairness</b> goals, Microsoft&#39;s Responsible <b>AI</b> Standards require&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
