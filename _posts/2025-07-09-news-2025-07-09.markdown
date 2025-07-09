@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-09 One-Minute Post
+date: 2025-07-09 07:01:02 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Apple silently acquires two AI startups to enhance vision pro realism and strengthen privacy. Implementing artificial intelligence in critical care medicine raises concerns about biases. Zenolabs.AI CEO launches the Equitable AI Trust Index, focusing on fairness and societal impact. AI use in higher education raises transparency and fairness issues. AI tools are not politically neutral, impacting fairness and accuracy.
+
+## Articles we found interesting:
+
+- **1. Apple Silently Acquires Two <b>AI</b> Startups To Enhance Vision Pro Realism And Strengthen ...** [link](https://wccftech.com/apple-silently-acquires-two-ai-startups-to-enhance-and-strengthen-apple-intelligence/)
+_Highlight:_ Apple Silently Acquires Two <b>AI</b> Startups To Enhance Vision Pro Realism And Strengthen Apple Intelligence With Smarter, Safer, And More <b>Privacy</b>-Focused&nbsp;...
+
+- **2. Sensormatic Solutions Enables Enhanced Retail Traffic Analytics with Re-ID Technology ...** [link](https://www.stocktitan.net/news/JCI/sensormatic-solutions-enables-enhanced-retail-traffic-analytics-with-7mtyozn816p7.html)
+_Highlight:_ ... <b>AI</b>, enabling precise customer insights without <b>privacy</b> concerns. Learn more ... <b>AI</b> Capabilities. Rhea-<b>AI</b> Impact. (Low). Rhea-<b>AI</b> Sentiment. (Neutral).
+
+- **3. Blackout risks rising as <b>AI</b>, reindustrialization push strain grid - The Hill** [link](https://thehill.com/policy/technology/5388348-trump-energy-report-grid-risk/)
+_Highlight:_ ... (<b>AI</b>) and the push to reshore manufacturing strain the electrical grid. In a ... <b>PRIVACY</b> POLICY 04/24/2025; TERMS &amp; CONDITIONS &middot; CONTACT &middot; ADVERTISE.
+
+- **4. Implementing <b>Artificial Intelligence</b> in Critical Care Medicine: a consensus of 22** [link](https://ccforum.biomedcentral.com/articles/10.1186/s13054-025-05532-2)
+_Highlight:_ When considering <b>AI&#39;s</b> potential influence on physicians&#39;choices and behaviour, the possibility of including or reinforcing <b>biases</b> should be examined&nbsp;...
+
+- **5. Top 10: Ethical <b>AI</b> Companies | Sustainability Magazine** [link](https://sustainabilitymag.com/top10/top-10-ethical-ai-companies)
+_Highlight:_ To identify and reduce <b>bias</b> in enterprise <b>AI</b> applications, Salesforce&#39;s <b>AI</b> ethics researchers collaborate with academic institutions on developing&nbsp;...
+
+- **6. <b>Artificial Intelligence</b>, Machine Learning, and Big Data in Thailand: Legal and Regulatory ...** [link](https://www.lexology.com/library/detail.aspx%3Fg%3D54e27706-1d02-4e28-8886-a1ca53e87b91)
+_Highlight:_ <b>Bias</b> in <b>AI</b> outcomes remains unregulated, though: PDPA indirectly applies where profiling results in discrimination. Public Sector <b>AI</b> Procurement&nbsp;...
+
+- **7. Zenolabs.<b>AI</b> CEO Rohan Sharma Launches First-of-its-Kind - GlobeNewswire** [link](https://www.globenewswire.com/news-release/2025/07/08/3111802/0/en/Zenolabs-AI-CEO-Rohan-Sharma-Launches-First-of-its-Kind-Equitable-AI-Trust-Index-and-Releases-Springer-Book-AI-and-the-Boardroom.html)
+_Highlight:_ ... <b>AI</b> transparency, <b>fairness</b>, and societal impact, Zenolabs.<b>AI</b> CEO Rohan Sharma today launched the Equitable <b>AI</b> Trust Index™—the first public&nbsp;...
+
+- **8. <b>AI</b> is running rampant on college campuses as professors and students lean on <b>artificial intelligence</b>** [link](https://fortune.com/2025/07/08/ai-higher-education-college-professors-students-chatgpt/)
+_Highlight:_ Some students argue that this diminishes the value of their education and raises transparency and <b>fairness</b> issues. <b>AI</b> use is continuing to cause&nbsp;...
+
+- **9. BSA 42 | <b>Artificial intelligence</b> | National Centre for Social Research** [link](https://natcen.ac.uk/publications/bsa-42-artificial-intelligence)
+_Highlight:_ <b>Artificial Intelligence</b> (<b>AI</b>) is not politically neutral. ... <b>AI</b> tools on <b>fairness</b> and accuracy than those with authoritarian or right-wing views&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
