@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-10 One-Minute Post
+date: 2025-07-10 07:03:50 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Perplexity AI launches AI-powered web browser for select subscribers, while Signal Foundation warns of privacy threat from agentic AI. G7 leaders reaffirm support for responsible AI deployment. OpenAI to release web browser in challenge to Google Chrome, as US scrutinizes Chinese AI for ideological bias. AI creating a new gender divide, with 44% showing gender bias. MeritFinder launches US-based AI hiring platform redefining recruitment with fairness-first automation. AI is revolutionizing gaming experiences and development, ensuring fairness with anti-cheat measures.
+
+## Articles we found interesting:
+
+- **1. Perplexity launches <b>AI</b>-powered web browser for select group of subscribers - CNBC** [link](https://www.cnbc.com/2025/07/09/perplexity-launches-ai-powered-web-browser-for-select-subscribers.html)
+_Highlight:_ Perplexity <b>AI</b> launched a new <b>artificial intelligence</b>-powered web ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **2. Signal Chief Meredith Whittaker Sounds Alarm On Agentic <b>A.I.</b>&#39;s <b>Privacy</b> Threat - Observer** [link](https://observer.com/2025/07/signal-meredith-whittaker-agentic-ai-risk/)
+_Highlight:_ Signal Foundation president Meredith Whittaker warns that agentic <b>A.I.</b> poses a grave risk to <b>privacy</b> by bypassing protections at the application&nbsp;...
+
+- **3. G7 leaders reaffirm support for responsible <b>AI</b> deployment | Insights - MLT Aikins** [link](https://www.mltaikins.com/insights/g7-leaders-reaffirm-support-for-responsible-ai-deployment/)
+_Highlight:_ As <b>artificial intelligence</b> (<b>AI</b>) transforms every sector of the global ... <b>privacy</b>, human rights and democratic values. To lead this effort&nbsp;...
+
+- **4. Exclusive: OpenAI to release web browser in challenge to Google Chrome - Reuters** [link](https://www.reuters.com/business/media-telecom/openai-release-web-browser-challenge-google-chrome-2025-07-09/)
+_Highlight:_ US scrutinizes Chinese <b>AI</b> for ideological <b>bias</b>, memo shows. 12 hours ago. Illustration shows message reading &quot;<b>AI artificial intelligence</b>&quot;, keyboard&nbsp;...
+
+- **5. <b>AI</b> is Creating a New Gender Divide - Newsweek** [link](https://www.newsweek.com/ai-misogyny-gender-gap-bias-technology-2095557)
+_Highlight:_ It found that 44 percent showed gender <b>bias</b>. Beyond the studies and the data, what is the actual impact of this gender disparity on women? Enter: the&nbsp;...
+
+- **6. <b>AI</b> for good, with caveats: How a keynote speaker was censored during an international ...** [link](https://thebulletin.org/2025/07/ai-for-good-with-caveats-how-a-keynote-speaker-was-censored-during-an-international-artificial-intelligence-summit/)
+_Highlight:_ ... <b>bias</b> and <b>AI</b> ethics and fairness, wrote in a Bluesky post. I spoke to Birhane to understand what happened behind the scenes, how this undermines&nbsp;...
+
+- **7. MeritFinder Launches U.S.-Based <b>AI</b> Hiring Platform, Redefining Recruitment with <b>Fairness</b> ...** [link](https://www.prnewswire.com/news-releases/meritfinder-launches-us-based-ai-hiring-platform-redefining-recruitment-with-fairness-first-automation-302497633.html)
+_Highlight:_ &quot;<b>AI</b> alone won&#39;t fix hiring—but <b>fairness</b>-first automation might,&quot; said Martin Sedighi, Founder and CEO. &quot;We built MeritFinder to give every applicant&nbsp;...
+
+- **8. <b>AI</b> Update: Is <b>AI</b> Moving Too Fast and Is Humanity Moving Too Slow? | Business Valuation Resources** [link](https://www.bvresources.com/blogs/bvwire-news/2025/07/08/ai-update-is-ai-moving-too-fast-and-is-humanity-moving-too-slow)
+_Highlight:_ <b>Fairness</b> Opinion Research Service &middot; Contributor Network. Discounts ... <b>artificial intelligence</b> (<b>AI</b>) from time to time. What started out as a&nbsp;...
+
+- **9. How <b>AI</b> is Revolutionizing Gaming Experiences and Development - TechPluto** [link](https://www.techpluto.com/how-ai-is-revolutionizing-gaming-experiences-and-development/)
+_Highlight:_ ... <b>AI</b> to deepen your immersion. E. Anti-Cheat and <b>Fair</b> Play. In the competitive world of online gaming, <b>fairness</b> is paramount. <b>AI</b> plays a crucial role&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
