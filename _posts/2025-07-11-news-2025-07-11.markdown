@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-07-11 One-Minute Post
+date: 2025-07-11 06:51:43 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+New York passes Responsible AI Safety and Education Act, focusing on AI privacy. AI2 unveils FlexOlmo, a privacy-first AI model countering big tech's data harvesting. Government agency employers warned against using AI for hiring decisions, emphasizing the need to screen for bias and exclusion patterns. Tech's diversity crisis is baking bias into AI systems, prompting a call for education on AI bias and privacy issues.
+
+## Articles we found interesting:
+
+- **1. New York Passes the Responsible <b>AI</b> Safety and Education Act - Hunton Andrews Kurth LLP** [link](https://www.hunton.com/privacy-and-information-security-law/new-york-passes-the-responsible-ai-safety-and-education-act)
+_Highlight:_ <b>Privacy</b> Blog. <b>Privacy</b> &amp; Information Security Law Blog. Global <b>Privacy</b> and Cybersecurity Law Updates and Analysis. Home; &gt; Insights; &gt; Blogs. New York&nbsp;...
+
+- **2. FlexOlmo: AI2 Unveils <b>Privacy</b>-First <b>AI</b> Model to Counter Big Tech&#39;s Data Harvesting** [link](https://winbuzzer.com/2025/07/10/flexolmo-ai2-unveils-privacy-first-ai-model-to-counter-big-techs-data-harvesting-xcxwbn/)
+_Highlight:_ FlexOlmo addresses a major bottleneck in <b>AI</b> development: accessing valuable private data while respecting <b>privacy</b>. The approach aims to foster secure&nbsp;...
+
+- **3. The legal landscape of generative <b>AI</b> in Canada: Understanding the voluntary code of conduct** [link](https://www.mltaikins.com/insights/the-legal-landscape-of-generative-ai-in-canada-understanding-the-voluntary-code-of-conduct/)
+_Highlight:_ ... <b>AI</b> practices. The leading Technology, Intellectual Property and <b>Privacy</b> team at MLT Aikins will happily assist with guidance on the commitments&nbsp;...
+
+- **4. Government agency employers warned against using <b>AI</b> for hiring decisions - HR Leader** [link](https://www.hrleader.com.au/tech/27033-government-agency-employers-warned-against-using-ai-for-hiring-decisions)
+_Highlight:_ <b>AI</b> outputs should also be screened for <b>bias</b> and regularly audited for exclusion patterns. <b>AI</b> datasets, including “names, experiences, qualifications&nbsp;...
+
+- **5. Google&#39;s Gemini <b>AI</b> app can now turn photos into short video clips | The Star** [link](https://www.thestar.com.my/tech/tech-news/2025/07/11/googles-gemini-ai-app-can-now-turn-photos-into-short-video-clips)
+_Highlight:_ Related News &middot; Tech&#39;s diversity crisis is baking <b>bias</b> into <b>AI</b> systems &middot; <b>AI</b>-generated images of child sexual abuse are flooding the Internet &middot; <b>AI</b> slows&nbsp;...
+
+- **6. Tech&#39;s diversity crisis is baking <b>bias</b> into <b>AI</b> systems | The Star** [link](https://www.thestar.com.my/tech/tech-news/2025/07/11/tech039s-diversity-crisis-is-baking-bias-into-ai-systems)
+_Highlight:_ She said she wants to learn not only how to educate marginalised communities on <b>AI</b> technology but to understand privacy issues and <b>AI bias</b>, also&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
