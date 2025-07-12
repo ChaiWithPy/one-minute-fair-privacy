@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-12 One-Minute Post
+date: 2025-07-12 06:59:03 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Consumer Reports supports California AI Transparency Act, AB 853 to tackle AI-generated content online. Organizations adopting AI without strategy as privacy risks mount. AI recruiters rolled out quickly despite privacy concerns. French criminal probe into AI chatbot for generating antisemitic remarks. Missouri AG asserts AI chatbots are biased against Trump. Telangana govt moves to fight caste bias. Michael Dell raises fairness concerns over Meta's AI hiring spree. Nvidia's impact reflected on fairness. AI tools like DeSci Labs' Referee Finder aim to boost fairness and transparency in scientific peer review.
+
+## Articles we found interesting:
+
+- **1. Consumer Reports supports California <b>AI</b> Transparency Act, AB 853** [link](https://advocacy.consumerreports.org/research/consumer-reports-supports-california-ai-transparency-act-ab-853/)
+_Highlight:_ This bill takes on a growing problem for consumers: differentiating between authentic and <b>AI</b>-generated content online. ... <b>Privacy</b> Policy User Agreement&nbsp;...
+
+- **2. Most Organizations Adopting <b>AI</b> Without Strategy as Risks Mount** [link](https://www.corporatecomplianceinsights.com/news-roundup-july-11-2025/)
+_Highlight:_ DataGrail&#39;s analysis of <b>privacy</b> requests processed in 2024 found that deletion requests increased 82% while access requests declined 45%, marking the&nbsp;...
+
+- **3. Looking for a job? An <b>AI</b> recruiter might interview you next** [link](https://www.nbcnews.com/tech/innovation/ai-job-recruiters-used-top-companies-glitches-rcna215128)
+_Highlight:_ The use of <b>AI</b> recruiters has rolled out quickly among major companies despite glitches and <b>privacy</b> concerns.
+
+- **4. &#39;X Is Threat To…&#39; France Launches CRIMINAL PROBE Into Musk&#39;s X Over Hate Speech And ...** [link](https://www.youtube.com/watch%3Fv%3DJzL_EvE7aOU)
+_Highlight:_ ... <b>AI</b> chatbot Grok generated antisemitic remarks, prompting backlash from French politicians and a public apology from the company. The French&nbsp;...
+
+- **5. Missouri attorney general asserts that <b>AI</b> chatbots are <b>biased</b> against Trump - Baltimore Sun** [link](https://www.baltimoresun.com/2025/07/11/missouri-attorney-general-asserts-that-ai-chatbots-are-biased-against-trump/)
+_Highlight:_ Missouri Attorney General Andrew Bailey, a Republican, called <b>AI</b> responses to be just &quot;the tip of the iceberg&quot; of what he calls ongoing efforts of&nbsp;...
+
+- **6. Telangana govt moves HC to reopen Rohith Vemula case; bill to fight caste <b>bias</b> ready** [link](https://timesofindia.indiatimes.com/city/hyderabad/telangana-govt-moves-hc-to-reopen-rohith-vemula-case-bill-to-fight-caste-bias-ready/articleshow/122399076.cms)
+_Highlight:_ The ISB Online&#39;s Leadership with <b>AI</b> Programme equips leaders with the expertise to identify opportunities and craft actionable strategies for&nbsp;...
+
+- **7. Michael Dell said Meta&#39;s <b>AI</b> hiring spree could raise questions of <b>fairness</b> among employees** [link](https://www.businessinsider.com/dell-meta-ai-hiring-spree-raises-question-fairness-among-staff-2025-7)
+_Highlight:_ &quot;It&#39;ll be a challenge culturally for sure,&quot; Dell said of Meta&#39;s aggressive hiring of top <b>AI</b> talent with huge signing bonuses.
+
+- **8. After Nvidia&#39;s record-breaking market cap milestone, Jim Cramer reflects on the <b>AI</b> giant&#39;s impact** [link](https://www.msn.com/en-us/money/markets/after-nvidia-s-record-breaking-market-cap-milestone-jim-cramer-reflects-on-the-ai-giant-s-impact/ar-AA1IiuTA)
+_Highlight:_ &quot;In <b>fairness</b>, they did create the last industrial revolution, the rise of the personal computer, although that was a long time ago.&quot; CNBC&#39;s Jim&nbsp;...
+
+- **9. The editor&#39;s challenge in peer review - PharmiWeb.com** [link](https://www.pharmiweb.com/article/the-editor-s-challenge-in-peer-review)
+_Highlight:_ <b>AI</b> tools like DeSci Labs&#39; Referee Finder can streamline reviewer selection, expand expertise, and boost <b>fairness</b> and transparency in scientific&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
