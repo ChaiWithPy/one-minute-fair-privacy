@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-13 One-Minute Post
+date: 2025-07-13 07:05:18 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+HCLSoftware introduces Sovereign AI capabilities for government and regulated sectors, prioritizing data privacy. Meanwhile, Mark Cuban emphasizes the use of AI for health monitoring, raising concerns about privacy. In Louisville, 34% of workers are expected to see job responsibilities shift to AI, prompting discussions on privacy and fairness. On the bias front, Musk's AI chatbot, Grok 4, faces backlash for mirroring political views, sparking concerns about bias and transparency. Additionally, ALPA India demands a fair probe into an AI plane crash, citing biased reports. TIS Watch AI flags unsafe online goods, enhancing e-commerce fairness. Broker transparency and merger fairness also come under scrutiny, highlighting the impact of AI on fairness in various industries.
+
+## Articles we found interesting:
+
+- **1. HCLSoftware Introduces Sovereign <b>AI</b> Capabilities in Domino 14.5 to Support Data <b>Privacy</b> ...** [link](https://themachinemaker.com/news/hclsoftware-introduces-sovereign-ai-capabilities-in-domino-14-5-to-support-data-privacy-needs-of-government-and-regulated-sectors/)
+_Highlight:_ <b>privacy</b>-focused <b>AI</b> extension built specifically for government bodies and highly regulated industries that require full control over their data&nbsp;...
+
+- **2. Mark Cuban: I use <b>AI</b> daily for monitoring health, writing code, more - CNBC** [link](https://www.cnbc.com/2025/07/11/mark-cuban-i-use-ai-daily-for-monitoring-health-writing-code-more.html)
+_Highlight:_ ... <b>AI</b> to give you the output you desire, noted Cuban. Just make sure ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices.
+
+- **3. Report: 34% of Louisville workers expected to see half of their job responsibilities shift to <b>AI</b>** [link](https://www.whas11.com/article/news/local/report-louisville-workers-expected-half-job-responsibilities-shift-ai/417-3b2cf090-b9bb-47d9-8b94-a1502b0a55ce)
+_Highlight:_ Report: 34% of Louisville workers expected to see half of their job responsibilities shift to <b>AI</b> ... <b>Privacy</b> Policy &middot; Ad Choices &middot; EEO Public File&nbsp;...
+
+- **4. Grok&#39;s Offensive Behavior Prompts Apology from xAI - AutoGPT** [link](https://autogpt.net/groks-offensive-behavior-prompts-apology-from-xai/)
+_Highlight:_ This flamed fears of <b>AI bias</b> and lack of neutrality in the system&#39;s design. ... Despite the backlash, Musk confirmed that Grok will be available in&nbsp;...
+
+- **5. Pilots&#39; grouping ALPA India seeks fair, fact-based probe into <b>AI</b> plane crash** [link](https://www.outlookbusiness.com/news/pilots-grouping-alpa-india-seeks-fair-fact-based-probe-into-ai-plane-crash)
+_Highlight:_ Airline Pilots&#39; Association of India on Saturday demanded a fair and fact-based probe into the case, as the report seems <b>biased</b>.
+
+- **6. Grok 4 Under Fire for Channeling Elon Musk&#39;s Views: <b>Bias</b> and Transparency Concerns Arise** [link](https://opentools.ai/news/grok-4-under-fire-for-channeling-elon-musks-views-bias-and-transparency-concerns-arise)
+_Highlight:_ Elon Musk&#39;s <b>AI</b> chatbot, Grok 4, is stirring controversy for allegedly mirroring Musk&#39;s political views, raising concerns about potential <b>bias</b> and&nbsp;...
+
+- **7. TIS Watch <b>AI</b> flags unsafe online goods after successful trial - Nation Thailand** [link](https://www.nationthailand.com/business/trade/40052474)
+_Highlight:_ ... 125000 suspicious product listings and launched legal action against major online platforms, boosting consumer safety and e-commerce <b>fairness</b>.
+
+- **8. Broker Transparency – A Fight for <b>Fairness</b> or Just a Flashpoint - Yahoo Finance** [link](https://finance.yahoo.com/news/broker-transparency-fight-fairness-just-200000986.html)
+_Highlight:_ ... <b>fairness</b> […] The post Broker Transparency ... Software engineer workflows have been transformed in recent years by an influx of <b>AI</b> coding tools.
+
+- **9. Evaluating Merger <b>Fairness</b> in HSON, ENZB, and BRZH: Legal Risks and Shareholder ...** [link](https://www.ainvest.com/news/evaluating-merger-fairness-hson-enzb-brzh-legal-risks-shareholder-stake-2507/)
+_Highlight:_ Why did Goldman Sachs upgrade Kratos Defense (KTOS) to &quot;Buy&quot; – is this the stealth <b>AI</b> play in aerospace? Is AeroVironment (AVAV) still a buy after its&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
