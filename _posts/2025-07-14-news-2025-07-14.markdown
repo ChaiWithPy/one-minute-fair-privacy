@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-14 One-Minute Post
+date: 2025-07-14 07:00:37 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+French data watchdog rejects AI age cameras in tobacco shops, citing GDPR violations. UK data protection law introduces mandatory complaint reporting requirements. AI governance report highlights concerns ranging from data privacy to model bias. Trustees streamline candidate questioning process for fairness.
+
+## Articles we found interesting:
+
+- **1. French data watchdog rejects <b>AI</b> age cameras in tobacco shops - PPC Land** [link](https://ppc.land/french-data-watchdog-rejects-ai-age-cameras-in-tobacco-shops/)
+_Highlight:_ France&#39;s <b>privacy</b> authority declares enhanced surveillance systems neither necessary nor proportionate for age verification, citing GDPR violations&nbsp;...
+
+- **2. UK data protection law introduces mandatory complaint reporting requirements - PPC Land** [link](https://ppc.land/uk-data-protection-law-introduces-mandatory-complaint-reporting-requirements/)
+_Highlight:_ European Data Protection Board clarifies <b>AI</b> model <b>privacy</b> rules affecting UK operations; August 2024: <b>Privacy</b> advocates file lawsuits challenging&nbsp;...
+
+- **3. The Great Data Convergence: Where analytics meets <b>artificial intelligence</b>** [link](https://www.scmp.com/presented/tech/topics/generative-ai-and-cloud-services/article/3317873/great-data-convergence-where-analytics-meets-artificial-intelligence)
+_Highlight:_ To prepare for this <b>AI</b>-driven future, we&#39;re helping our customers build a robust, cloud-based data foundation with built-in security and <b>privacy</b>.
+
+- **4. Legal gaps in <b>AI</b> are a business risk, not just a compliance issue - Help Net Security** [link](https://www.helpnetsecurity.com/2025/07/14/ai-governance-risks-legal-security-teams/)
+_Highlight:_ <b>ai</b> governance legal. The report highlights concerns ranging from data privacy to model <b>bias</b>. But the core challenge is trust: when customers don&#39;t&nbsp;...
+
+- **5. AI171 Crash Probe: Air India Pilots&#39; Body Defends Crew Amid Suicide Speculation - Deccan Herald** [link](https://www.deccanherald.com/india/air-india-171-crew-acted-in-line-with-responsibility-under-challenging-conditions-ai-pilots-grouping-icpa-3628072)
+_Highlight:_ Air India 171 crew acted in line with responsibility under challenging conditions: <b>AI</b> Pilots&#39; grouping ICPA ... <b>bias</b> toward pilot error. HNS. DHNS.
+
+- **6. Your roadmap to mastering generative <b>AI</b> | London Daily News** [link](https://www.londondaily.news/your-roadmap-to-mastering-generative-ai/)
+_Highlight:_ Ethical considerations: <b>Bias</b> in <b>AI</b> outputs: How to identify and mitigate algorithmic <b>bias</b>. Data privacy: Ensuring that training data does not violate&nbsp;...
+
+- **7. JuanHand Earns Green Flag Recognition from Filipino <b>Fair</b> Loans Advocacy Group (FILFLAG)** [link](https://remate.ph/juanhand-earns-green-flag-recognition-from-filipino-fair-loans-advocacy-group-filflag/)
+_Highlight:_ ... <b>AI</b>. We deeply value this recognition from FILFLAG as it&#39;s a testament that Filipinos can choose a trusted, credible and proven online lending&nbsp;...
+
+- **8. Trustees streamline candidate questioning process for <b>fairness</b> - Citizen Portal AI** [link](https://citizenportal.ai/articles/5378146/Texas/Trustees-streamline-candidate-questioning-process-for-fairness)
+_Highlight:_ ... <b>AI</b> , all articles about Texas are free for you to enjoy throughout 2025! Trustees streamline candidate questioning process for <b>fairness</b>. This&nbsp;...
+
+- **9. Tax rises not discussed &#39;directly&#39; by cabinet, minister says - but &#39;<b>fairness</b>&#39; comment is latest hint** [link](https://news.inbox.lv/14ywh3a-tax-rises-not-discussed-directly-by-cabinet-minister-says-but-fairness-comment-is-latest-hint%3Flanguage%3Den)
+_Highlight:_ Finland taps new <b>AI</b> satellite to track toxic algae from space ... inbox.lv uses essential, analytical, marketing and other cookies. These files are&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
