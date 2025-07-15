@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-15 One-Minute Post
+date: 2025-07-15 07:12:19 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Virginia's Gov. Youngkin orders first AI regulatory audit. Amazon launches AI coding program. Meta's CEO announces AI data supercluster. Regulators discuss AI bias in financial markets. Stanford study warns of AI therapy chatbot bias. Flatiron Health shows AI can match human experts in tracking cancer progression. Women slower to adopt AI at work. Legal reckoning for AI hiring fairness.
+
+## Articles we found interesting:
+
+- **1. Gov. Youngkin signs executive order for first-in-the-nation <b>AI</b> regulatory audit - WVEC** [link](https://www.13newsnow.com/article/news/local/virginia/virginia-gov-youngkin-ai-artificial-intelligence-regulatory-review/291-7dd747a5-7086-4edd-9b29-454c38b61779)
+_Highlight:_ ... <b>AI</b> to our regulatory environment.&quot; Unable to load next article. WVEC-TV. Jobs &middot; Terms of Service &middot; <b>Privacy</b> Policy &middot; Ad Choices &middot; EEO Public File&nbsp;...
+
+- **2. Amazon jumps into <b>AI</b> vibe coding with preview of Kiro - CNBC** [link](https://www.cnbc.com/2025/07/14/aws-launches-kiro-ai-coding-program.html)
+_Highlight:_ The introduction comes days after Google said it&#39;s hiring staffers of <b>AI</b> ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **3. Meta CEO Zuckerberg says first <b>AI</b> data supercluster will come online in 2026 - CNBC** [link](https://www.cnbc.com/2025/07/14/meta-zuckerberg-ai.html)
+_Highlight:_ ... <b>AI</b>. In this ... Advertise With Us. Please Contact Us &middot; <b>Privacy</b> Policy; California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **4. Regulators Roundtable on Financial Markets Innovation and Supervision of Emergent Technology** [link](https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson23)
+_Highlight:_ Let&#39;s begin with <b>artificial intelligence</b> (<b>AI</b>). ... For example, we face real concerns around <b>bias</b> in <b>AI</b> models, especially when it comes to lending and&nbsp;...
+
+- **5. Stanford study on <b>AI</b> therapy chatbots warns of risks, <b>bias</b> - UPI.com** [link](https://www.upi.com/Top_News/US/2025/07/14/Stanford-study-chatbot-mental-health-ai-artificial-intelligence/3321752525053/)
+_Highlight:_ Stanford study on <b>AI</b> therapy chatbots warns of risks, <b>bias</b>. These new digital tools are powerful yet can stigmatize users with mental health issues&nbsp;...
+
+- **6. From <b>AI</b> colonialism to co-creation: bridging the global <b>AI</b> divide - Media@LSE** [link](https://blogs.lse.ac.uk/medialse/2025/07/14/from-ai-colonialism-to-co-creation-bridging-the-global-ai-divide/)
+_Highlight:_ In short, technology is replicating colonial history. Since then, I&#39;ve written on colonial harms in the contemporary world, including the <b>bias</b> in <b>AI</b>&nbsp;...
+
+- **7. Flatiron Health study shows <b>AI</b> can match human experts in tracking cancer progression** [link](https://www.medicaleconomics.com/view/flatiron-health-study-shows-ai-can-match-human-experts-in-tracking-cancer-progression)
+_Highlight:_ Flatiron also presented work on <b>AI fairness</b> in data extraction, emphasizing the need for bias evaluation as <b>AI</b> continues to play a larger role in&nbsp;...
+
+- **8. Women are slower to adopt <b>AI</b> at work. Here&#39;s why - Fast Company** [link](https://www.fastcompany.com/91352117/women-have-been-slower-to-adapt-ai-at-work-heres-why-women-work-ai)
+_Highlight:_ ... <b>fairness</b> when evaluating <b>AI</b> tools. In one study that examines public perceptions of <b>AI fairness</b> across three societal U.S.-based contexts&nbsp;...
+
+- **9. <b>AI</b> in hiring faces a legal reckoning: HR lessons from Mobley v. Workday - HR Executive** [link](https://hrexecutive.com/ai-in-hiring-faces-a-legal-reckoning-hr-lessons-from-mobley-v-workday/)
+_Highlight:_ This is sparking critical conversations about <b>fairness</b>, accountability, and governance in hiring practices. From screening resumes and ranking&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
