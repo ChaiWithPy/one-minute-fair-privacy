@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-17 One-Minute Post
+date: 2025-07-17 06:54:19 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Nvidia plans to resume chip exports to China as Jensen Huang praises Chinese AI models. A Florida woman falls victim to an AI voice cloning scam. UK introduces the Data (Use and Access) Act. Generative AI's environmental impact is highlighted. A global survey aims to address antisemitic bias in AI models. Indian insurance industry grapples with ensuring fairness in AI integration. AI's potential to improve medical and insurance billing while ensuring fairness is explored. Wimbledon 2025's use of AI for decision-making sparks debate on fairness.
+
+## Articles we found interesting:
+
+- **1. Jensen Huang lauds China&#39;s <b>AI</b> models as Nvidia gears up to resume chip exports - CNBC** [link](https://www.cnbc.com/2025/07/16/jensen-huang-china-ai-models-nvidia-gears-up-to-resume-chip-exports-.html)
+_Highlight:_ ... <b>AI</b> chip to the country soon. &quot;Models like DeepSeek, Alibaba ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b> Choices&nbsp;...
+
+- **2. Florida woman conned out of $15K after <b>AI</b> clones daughter&#39;s voice - The Hill** [link](https://thehill.com/policy/technology/5404134-florida-woman-ai-scam-clone-daughters-voice/)
+_Highlight:_ (WFLA) — A Florida woman wants to warn others after falling prey to an elaborate <b>AI</b> ... <b>PRIVACY</b> POLICY 04/24/2025; TERMS &amp; CONDITIONS &middot; CONTACT&nbsp;...
+
+- **3. The Data Shift: UK Sets a New Course With 2025 Data (Use and Access) Act - Goodwin** [link](https://www.goodwinlaw.com/en/insights/publications/2025/07/insights-technology-dpc-the-data-shift-uk-sets-a-new-course)
+_Highlight:_ ... <b>AI</b>, <b>Privacy</b>, and Governance Priorities &middot; Insight. April 18, 2025. Trump Administration Sets New Direction for <b>AI</b> Policy &middot; Alert. April 3, 2025&nbsp;...
+
+- **4. The environmental impact of generative <b>AI</b> - Charity Digital** [link](https://charitydigital.org.uk/topics/the-environmental-impact-of-generative-ai-12200)
+_Highlight:_ If every search on Google used generative <b>AI</b> tools like ChatGPT, it would burn through roughly as much electricity annually as the country of&nbsp;...
+
+- **5. The confirmation <b>bias</b>: Why investors see what they want to see, and often get it wrong - Mint** [link](https://www.livemint.com/money/personal-finance/confirmation-bias-in-investing-stock-market-investments-ai-in-investing-f-o-trading-11752726982321.html)
+_Highlight:_ The most significant danger of confirmation&nbsp;...
+
+- **6. Global survey seeks to address antisemitic <b>bias</b> in <b>AI</b> models - JNS.org** [link](https://www.jns.org/global-survey-seeks-to-address-antisemitic-bias-in-ai-models/)
+_Highlight:_ A new global survey spearheaded by world-renowned <b>artificial intelligence</b> (<b>AI</b>) expert Maya Ackerman and Israeli President Isaac Herzog is seeking&nbsp;...
+
+- **7. The Luigi Warning: Can Indian Insurance Escape the <b>AI</b> Trap? - Analytics India Magazine** [link](https://analyticsindiamag.com/ai-features/the-luigi-warning-can-indian-insurance-escape-the-ai-trap/)
+_Highlight:_ Indian tech companies are rapidly integrating <b>AI</b> into insurance operations, raising a tough question: How can we ensure our systems remain <b>fair</b>,&nbsp;...
+
+- **8. How <b>AI</b> can improve medical and insurance billing | ASU News** [link](https://news.asu.edu/20250715-health-and-medicine-how-ai-can-improve-medical-and-insurance-billing)
+_Highlight:_ Q: What is your future research focus on <b>AI</b>? A: This study is a step toward ethical <b>AI</b> by enhancing the <b>fairness</b> of <b>AI</b> for risk adjustment models.
+
+- **9. No judges, no appeals, no <b>fairness</b>: Wimbledon 2025 shows what happens when <b>AI</b> takes over** [link](https://dig.watch/updates/no-judges-no-appeals-no-fairness-wimbledon-2025-shows-what-happens-when-ai-takes-over)
+_Highlight:_ No judges, no appeals, no <b>fairness</b>: Wimbledon 2025 shows what happens when <b>AI</b> takes over. <b>AI</b> made the calls at Wimbledon — and sparked global debate.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
