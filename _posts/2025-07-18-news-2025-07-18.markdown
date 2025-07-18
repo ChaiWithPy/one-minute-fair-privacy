@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-18 One-Minute Post
+date: 2025-07-18 06:48:15 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+States are enforcing privacy laws, Microsoft leads in endpoint protection, Beeper introduces new privacy features. AI experts advise on addressing bias in education, Eventbrite CEO uses AI to reduce bias in hiring. Warden, an AI watchdog, secures investor backing for fairness audits. Research explores the fairness of AI-driven neonatal MRI interpretation. The Commission launches a public consultation on the Digital Fairness Act. Tech Xplore examines the fairness of machine learning decisions in high-stakes scenarios.
+
+## Articles we found interesting:
+
+- **1. States Continue <b>Privacy</b> Law Enforcement Efforts | Wiley Rein LLP - JDSupra** [link](https://www.jdsupra.com/legalnews/states-continue-privacy-law-enforcement-7610981/)
+_Highlight:_ [View source.] Send Print Report. Related Posts. New Jersey Proposes New Privacy Rules That Would Impact Compliance &middot; <b>Privacy</b>, <b>AI</b>,&nbsp;...
+
+- **2. Microsoft is named a Leader in the 2025 Gartner® Magic Quadrant™ for Endpoint Protection ...** [link](https://www.microsoft.com/en-us/security/blog/2025/07/16/microsoft-is-named-a-leader-in-the-2025-gartner-magic-quadrant-for-endpoint-protection-platforms/)
+_Highlight:_ ... <b>AI</b>-powered protection. Organizations simply deploy it once and then ... <b>Privacy</b> at Microsoft &middot; Investors &middot; Diversity and inclusion &middot; Accessibility&nbsp;...
+
+- **3. Beeper &#39;Plus&#39; subscription adds scheduled messages, <b>AI</b> voice transcription, more** [link](https://9to5google.com/2025/07/16/beeper-plus-features-better-privacy-announcement/)
+_Highlight:_ Beeper is introducing a new &quot;Plus&quot; subscription that adds a bunch of new features, while all users are getting a new <b>privacy</b> option.
+
+- **4. I Used My Master&#39;s Degree to Move to the US and Advance in Big Tech <b>AI</b> - Business Insider** [link](https://www.businessinsider.com/advice-on-how-to-land-big-tech-ai-job-education-2025-7)
+_Highlight:_ <b>AI</b> expert explains how to incorporate generative <b>AI</b> into your business strategy ... Do you have a story to share about <b>AI</b> or higher education <b>bias</b> in&nbsp;...
+
+- **5. Eventbrite CEO Julia Hartz uses <b>AI</b> to help her hire and promote people | Fortune** [link](https://fortune.com/2025/07/18/eventbrite-ceo-julia-hartz-ai-hiring-promoting/)
+_Highlight:_ ... <b>bias</b> and better understand team dynamics. She credits <b>AI</b> with helping her identify development gaps, improve coaching, and make more consistent&nbsp;...
+
+- **6. <b>AI</b>-Driven Neonatal MRI Interpretation: A Systematic Review of Diagnostic Efficiency ...** [link](https://www.cureus.com/articles/388857-ai-driven-neonatal-mri-interpretation-a-systematic-review-of-diagnostic-efficiency-prognostic-value-and-implementation-barriers-for-hypoxic-ischemic-encephalopathy)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>), especially deep learning techniques ... <b>Bias</b> 2 (RoB 2), and Assessment of Multiple Systematic Reviews 2 (AMSTAR&nbsp;...
+
+- **7. <b>AI</b> watchdog Warden wins investor backing - Bdaily** [link](https://bdaily.co.uk/articles/2025/07/17/ai-watchdog-warden-wins-investor-backing)
+_Highlight:_ Founded in 2023 by Jeffrey Pole and Eduard Schikurski, Warden helps vendors and employers audit hiring algorithms for <b>fairness</b> and compliance, using&nbsp;...
+
+- **8. When the stakes are high, do machine learning models make <b>fair</b> decisions? - Tech Xplore** [link](https://techxplore.com/news/2025-07-stakes-high-machine-fair-decisions.html)
+_Highlight:_ How machine learning can be <b>fair</b> and accurate. Oct 20, 2021. Study: When allocating scarce resources with <b>AI</b>, randomization can improve <b>fairness</b>. Jul&nbsp;...
+
+- **9. Commission kicks off public consultation on Digital <b>Fairness</b> Act - Euractiv** [link](https://www.euractiv.com/section/tech/news/commission-kicks-off-public-consultation-on-digital-fairness-act/)
+_Highlight:_ Commission should rethink <b>AI</b> gigafactories&#39; business model, says lobby. 17/07/2025. 2 min. read. More from this author. Browse all articles &middot; Tech.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
