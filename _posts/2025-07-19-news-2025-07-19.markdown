@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-07-19 One-Minute Post
+date: 2025-07-19 06:51:19 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+DuckDuckGo introduces a feature to filter out AI-generated images in search results, prioritizing user privacy. Meanwhile, a major AI training dataset contains millions of personal data examples, raising concerns about privacy protection. On the other hand, the Trump administration is reportedly preparing an executive order to address perceived liberal bias in AI models, particularly in relation to political and social issues. This move reflects the growing focus on fairness and bias in AI technologies.
+
+## Articles we found interesting:
+
+- **1. Industry Voices — Inflection Point: The Future of <b>AI</b> in U.S. Healthcare Policy | Insights** [link](https://www.hklaw.com/en/insights/publications/2025/07/industry-voices-inflection-point)
+_Highlight:_ ... (AI) in U.S. ... Artificial Intelligence Healthcare Regulatory Compliance HIPAA and Healthcare <b>Privacy Artificial Intelligence</b> Policy &amp; Regulation&nbsp;...
+
+- **2. DuckDuckGo now lets you hide <b>AI</b>-generated images in search results - TechCrunch** [link](https://techcrunch.com/2025/07/18/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results/)
+_Highlight:_ <b>Privacy</b>-focused browser DuckDuckGo is rolling out a new setting that lets users filter out <b>AI</b> images in search results. The company says it&#39;s&nbsp;...
+
+- **3. A major <b>AI</b> training data set contains millions of examples of personal data** [link](https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/)
+_Highlight:_ Another <b>privacy</b> mitigation measure comes from Hugging Face, a platform that distributes training data sets and hosts CommonPool, which integrates with&nbsp;...
+
+- **4. Trump Administration set to announce executive order targeting &quot;woke <b>AI</b>&quot; chatbots, report says** [link](https://mashable.com/article/trump-administration-ai-executive-order-targeting-woke-ai-chatbots)
+_Highlight:_ <b>Bias</b> within <b>AI</b> models, especially related to politics and social issues, has become a critical point of contention for conservatives that deem certain&nbsp;...
+
+- **5. Trump White House To Crack Down On &#39;Woke <b>AI</b>&#39; With Executive Order Targeting Political ...** [link](https://www.dailymotion.com/video/x9n6tbm)
+_Highlight:_ The Donald Trump administration is reportedly preparing a sweeping executive order aimed at curbing perceived liberal <b>bias</b> in <b>artificial</b>&nbsp;...
+
+- **6. Trump administration said to be preparing executive order targeting &#39;woke&#39; <b>AI</b>** [link](https://seekingalpha.com/news/4468734-trump-administration-preparing-executive-order-woke-ai)
+_Highlight:_ The White House plans an executive order targeting &quot;woke&quot; <b>AI</b> models amid liberal <b>bias</b> concerns.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
