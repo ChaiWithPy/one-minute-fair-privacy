@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-20 One-Minute Post
+date: 2025-07-20 06:51:13 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Delta Airlines is using AI for ticket pricing, raising privacy concerns. Meanwhile, the Trump administration is preparing an executive order targeting 'woke' AI to address bias concerns. Additionally, AI fairness is in focus as Europe's advertising industry opposes the Digital Fairness Act, and a US court deems AI training copies as 'fair use'.
+
+## Articles we found interesting:
+
+- **1. Delta Airlines Expands <b>AI</b>-Driven Ticket Pricing to Boost Profitability Amid <b>Privacy</b> Concerns** [link](https://www.ainvest.com/news/delta-airlines-expands-ai-driven-ticket-pricing-boost-profitability-privacy-concerns-2507/)
+_Highlight:_ Despite its innovative appeal, Delta&#39;s <b>AI</b>-based pricing model has elicited concern among <b>privacy</b> advocates, who fear it could lead to discriminatory&nbsp;...
+
+- **2. Delta Announces New System Where <b>AI</b> Makes Up the Price for Your Ticket on the Spot** [link](https://futurism.com/delta-system-ai-price-ticket)
+_Highlight:_ ... <b>AI</b>. The practice has already drawn plenty of scrutiny from lawmakers and <b>privacy</b> advocates, with senator Ruben Gallego (D-AZ) calling it out for&nbsp;...
+
+- **3. A surveillance vendor was caught exploiting a new SS7 attack to track people&#39;s phone locations** [link](https://techcrunch.com/2025/07/18/a-surveillance-vendor-was-caught-exploiting-a-new-ss7-attack-to-track-peoples-phone-locations/)
+_Highlight:_ ... <b>AI</b> products, despite many security and <b>privacy</b> risks associated with their use. Meta <b>AI&#39;s</b> stand-alone app, which debuted earlier this year to&nbsp;...
+
+- **4. Trump administration said to be preparing executive order targeting &#39;woke&#39; <b>AI</b> - MSN** [link](https://www.msn.com/en-us/news/technology/trump-administration-said-to-be-preparing-executive-order-targeting-woke-ai/ar-AA1IQ2ju)
+_Highlight:_ would require AI models of companies with federal contracts to be politically neutral, amid concerns that AI models may have liberal <b>bias</b>. <b>AI</b>...
+
+- **5. <b>AI</b> for President -- Can <b>AI</b> Systems Govern Countries? - OfficeChai** [link](https://officechai.com/miscellaneous/ai-for-president/)
+_Highlight:_ ... <b>bias</b>, emotional irrationality, corruption, and short-term thinking. From a technical standpoint, a governing <b>AI</b> could ingest and process&nbsp;...
+
+- **6. Key Business Litigation & Transaction Trends Every Executive Must Know in 2025 - JD Supra** [link](https://www.jdsupra.com/post/contentViewerEmbed.aspx%3Ffid%3D9b282675-2fec-4cbf-9eb1-694e69816c3b)
+_Highlight:_ The rapid and widespread adoption of <b>artificial intelligence</b> (“<b>AI</b> ... Companies face lawsuits involving <b>AI bias</b> in hiring, intellectual property&nbsp;...
+
+- **7. The Future Of Fares: Delta Is Now Using <b>AI</b> To Determine Ticket Prices - Simple Flying** [link](https://simpleflying.com/future-of-fares-delta-ai-ticket-prices/)
+_Highlight:_ <b>AI</b> Pricing Raises <b>Fairness</b> Concerns. Delta Air Lines aircraft tail Photo: SNEHIT PHOTO | Shutterstock. Delta&#39;s leadership remains optimistic about&nbsp;...
+
+- **8. Europe advertising industry opposes Digital <b>Fairness</b> Act - PPC Land** [link](https://ppc.land/europe-advertising-industry-opposes-digital-fairness-act/)
+_Highlight:_ Provisions against dark patterns exist in the UCPD, DSA, GDPR, and <b>AI</b> Act. Influencer marketing regulation already exists through the UCPD, AVMSD&nbsp;...
+
+- **9. <b>AI</b> training copies blessed as “<b>fair</b> use” by U.S. Court – Can a similar path be forged in Canada?** [link](https://www.jdsupra.com/legalnews/ai-training-copies-blessed-as-fair-use-9021008/)
+_Highlight:_ Judge Alsup&#39;s summary judgement order in Bartz v Anthropic PBC1 released June 23, 2025 is making waves in the copyright and <b>AI</b> world. The order,.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
