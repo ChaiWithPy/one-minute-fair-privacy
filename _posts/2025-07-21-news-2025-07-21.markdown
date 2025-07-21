@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-21 One-Minute Post
+date: 2025-07-21 06:47:19 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California courts are leading in regulating AI use, focusing on confidentiality, privacy, bias, safety, and security. NimbleEdge bets big on open-source AI with a privacy-first approach. WhatsApp's advanced chat privacy is questioned for blocking AI snooping. AI existential fears escalate, urging regulations and literacy to address bias. Kerala High Court bans AI use in judicial decisions, emphasizing transparency and fairness. JetBlue and Microsoft prioritize fairness in AI with responsible AI standards.
+
+## Articles we found interesting:
+
+- **1. California Courts Lead the Nation on Regulating <b>AI</b> Use - PYMNTS.com** [link](https://www.pymnts.com/cpi-posts/california-courts-lead-the-nation-on-regulating-ai-use/)
+_Highlight:_ ... <b>confidentiality</b>, <b>privacy</b>, bias, safety, and security associated with generative <b>AI</b> systems. According to the task force report cited by Reuters&nbsp;...
+
+- **2. No More Gatekeepers: Why NimbleEdge Is Betting Big On Open Source <b>AI</b> - Inc42** [link](https://inc42.com/startups/no-more-gatekeepers-why-nimbleedge-is-betting-big-on-open-source-ai/)
+_Highlight:_ ... <b>AI</b> platform, enabling developers to build, deploy and run scalable and <b>privacy</b>-first <b>AI</b>-native solutions directly on smartphones. Additionally&nbsp;...
+
+- **3. Fact Check: Can WhatsApp Chat <b>Privacy</b> Block <b>AI</b> Snooping? - Tech ARP** [link](https://www.techarp.com/fact-check/whatsapp-chat-privacy-ai/)
+_Highlight:_ Should you turn on WhatsApp Advanced Chat <b>Privacy</b> to block Meta <b>AI</b> from reading your chats? Here is what you need to know!
+
+- **4. <b>AI</b> Existential Fears Escalate: Surveys Reveal Panic Over Extinction, Job Loss, and <b>Bias</b> as ...** [link](https://www.webpronews.com/ai-existential-fears-escalate-surveys-reveal-panic-over-extinction-job-loss-and-bias-as-experts-push-for-regulations-and-literacy/)
+_Highlight:_ Debates pit philosophical risks against immediate harms like <b>bias</b>. Experts urge regulations, <b>AI</b> literacy, and personal resilience to harness benefits&nbsp;...
+
+- **5. The great <b>AI</b> work transformation — with RX Global&#39;s Robin Tapp and Salesforce&#39;s Felicity Starr** [link](https://uk.themedialeader.com/the-great-ai-work-transformation-with-rx-globals-robin-tapp-and-salesforces-felicity-starr/)
+_Highlight:_ ... <b>AI</b> can enhance business efforts ... Labour impact, data security and model <b>bias</b>. Related articles. How&nbsp;...
+
+- **6. California Judicial Council implements rule for generative <b>artificial intelligence</b> use in court** [link](https://www.canadianlawyermag.com/news/international/california-judicial-council-implements-rule-for-generative-artificial-intelligence-use-in-court/392781)
+_Highlight:_ Policies must tackle the risks to confidentiality, privacy, <b>bias</b>, safety, and security posed by generative <b>AI</b> systems; they must also cover&nbsp;...
+
+- **7. Kerala HC issues policy prohibiting <b>AI</b> in judicial decision-making - Madhyamam** [link](https://madhyamamonline.com/amp/kerala/kerala-hc-issues-policy-prohibiting-ai-judicial-decision-making-1429890)
+_Highlight:_ Judicial officers are instructed to adhere to core principles when using <b>AI</b> tools for official purposes. These include transparency, <b>fairness</b>,&nbsp;...
+
+- **8. Kerala High Court bans <b>AI</b> use in judicial decisions: Issues landmark guidelines for district judiciary** [link](https://www.indiatvnews.com/news/india/kerala-high-court-bans-ai-use-in-judicial-decisions-issues-landmark-guidelines-for-district-judiciary-artificial-intelligence-2025-07-20-999676)
+_Highlight:_ It underscores the importance of ensuring transparency, <b>fairness</b>, accountability, and confidentiality. Advertisement. Kerala High Court. Image Source&nbsp;...
+
+- **9. What analysts say about JetBlue Airways Corporation stock - Free Consultation** [link](https://www.jammulinksnews.com/blank/What-analysts-say-about-JetBlue-Airways-Corporation-stock)
+_Highlight:_ ... <b>fairness</b> goals, Microsoft&#39;s Responsible <b>AI</b> Standards require product teams to identify and manage potential unfairness risks when developing <b>AI</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
