@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-22 One-Minute Post
+date: 2025-07-22 06:55:53 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Dating apps prioritize AI over privacy. AI browsers raise privacy concerns. Financial services face privacy limitations. Georgia courts address AI bias. UK judiciary highlights AI bias and de-skilling. Pentagon funds biased AI models. Australian election fairness concerns. Trump's AI video raises fairness issues. Ethereum and AI project aims for fairness.
+
+## Articles we found interesting:
+
+- **1. Dating Apps Need to Learn How Consent Works | Electronic Frontier Foundation** [link](https://www.eff.org/deeplinks/2025/07/dating-apps-need-learn-how-consent-works)
+_Highlight:_ But dating apps are taking shortcuts in safeguarding the <b>privacy</b> and security of users in favour of developing and deploying <b>AI</b> tools on their&nbsp;...
+
+- **2. <b>AI</b> browsers like Perplexity Comet will reshape the internet, media - Fast Company** [link](https://www.fastcompany.com/91370139/ai-browsers-perplexity-comet-reshape-internet-media)
+_Highlight:_ With a browser agent, workers can automate their own tasks on the fly. Certainly, the data <b>privacy</b> concerns are even higher in a professional&nbsp;...
+
+- **3. Driving <b>AI</b> in Fraud and AML Compliance for Financial Services - with Nick Lewis of ...** [link](https://emerj.com/driving-ai-in-fraud-and-aml-compliance-for-financial-services-nick-lewis-standard-chartered-bank/)
+_Highlight:_ Data <b>privacy</b> laws, while essential and beneficial for law-abiding customers, limit financial organizations&#39; ability to carry out basic business&nbsp;...
+
+- **4. Panel floats limits for <b>artificial intelligence</b> in Georgia courtrooms as odd cases pop up elsewhere** [link](https://nowhabersham.com/panel-floats-limits-for-artificial-intelligence-in-georgia-courtrooms-as-odd-cases-pop-up-elsewhere/)
+_Highlight:_ <b>AI</b>-generated image of a courtroom by Udin. Georgia&#39;s judicial leaders ... <b>bias</b> – when <b>AI</b> is trained on <b>biased</b> data, leading to <b>biased</b> results.
+
+- **5. How does the UK judiciary perceive <b>AI</b> for judicial work? - Burges Salmon** [link](https://www.burges-salmon.com/articles/102kuy5/how-does-the-uk-judiciary-perceive-ai-for-judicial-work/)
+_Highlight:_ <b>AI bias</b> needs to be understood. <b>AI</b> could lead to de-skilling. For example, by over-reliance on <b>AI</b>, junior judges are not developing key skills. The&nbsp;...
+
+- **6. Pentagon awards up to $200 million to <b>AI</b> companies whose models are rife with ideological <b>bias</b>** [link](https://reason.com/2025/07/21/pentagon-awards-up-to-200-million-to-ai-companies-whose-models-are-rife-with-ideological-bias/)
+_Highlight:_ The Department of Defense awarded contracts to Google, OpenAI, Anthropic, and xAI. The last two are particularly concerning.
+
+- **7. Decoding a voter&#39;s poor handwriting is subjective – let&#39;s enlist <b>AI</b> to help with the Bradfield recount** [link](https://www.theguardian.com/commentisfree/2025/jul/21/ai-bradfield-recount-handwriting-australian-election-boele-kapterian)
+_Highlight:_ Voters deserve to know the fight between Gisele Kapterian and Nicolette Boele is being resolved with the <b>fairness</b> integral to Australian&nbsp;...
+
+- **8. Donald Trump Posts <b>AI</b> Video of Obama&#39;s Arrest: &#39;No One Is Above Law&#39; - Newsweek** [link](https://www.newsweek.com/donald-trump-posts-ai-video-obama-arrest-2101553)
+_Highlight:_ Tulsi Gabbard has alleged that Obama&#39;s administration manufactured intelligence about Russian interference in the 2016 election.
+
+- **9. Ethereum Meets <b>AI</b> in Lightchain&#39;s Bold New Project - Coinfomania** [link](https://coinfomania.com/ethereum-meets-ai/)
+_Highlight:_ Ethereum meets <b>AI</b> as Lightchain <b>AI</b> gives power back to users, combining blockchain tech with community-led <b>artificial intelligence</b> tools.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
