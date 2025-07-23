@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-23 One-Minute Post
+date: 2025-07-23 06:53:00 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+European Commission issues guidelines to protect minors' privacy online. Bipartisan agreement on regulating AI to ensure fairness and privacy. ChatGPT and Claude found to exhibit bias based on gender, ethnicity, and migration status. Trump administration's AI plans raise concerns about political bias. CARV and Fair3 co-hosting a Tech Fairness Hackathon to promote AI fairness. Challenges in making welfare AI fair, while real estate AI systems must be explainable and fair.
+
+## Articles we found interesting:
+
+- **1. European Commission Issues Guidelines on the Protection of Minors** [link](https://www.hunton.com/privacy-and-information-security-law/european-commission-issues-guidelines-on-the-protection-of-minors)
+_Highlight:_ <b>Privacy</b> settings: Defaulting minors&#39; accounts to private to mitigate ... Safeguarding <b>AI</b> features: Including child-friendly language and&nbsp;...
+
+- **2. Poll Finds Bipartisan Agreement On A Key Issue: Regulating <b>AI</b> | CT News Junkie** [link](https://ctnewsjunkie.com/2025/07/22/poll-finds-bipartisan-agreement-on-a-key-issue-regulating-ai/)
+_Highlight:_ The inclusion of the <b>AI</b> regulation moratorium was widely viewed as a win for <b>AI</b> ... <b>Privacy</b> Policy. Quantcast.
+
+- **3. We Are Not Talking About <b>AI</b> Memory Enough | TechPolicy.Press** [link](https://www.techpolicy.press/we-are-not-talking-about-ai-memory-enough)
+_Highlight:_ Lessons from National Digital ID Systems for <b>Privacy</b>, Security, and Trust in the <b>AI</b> AgeJune 25, 2025. <b>AI</b> Policy Should Put <b>Privacy</b> Front and Center&nbsp;...
+
+- **4. ChatGPT advised women to ask lower salaries than men - ZME Science** [link](https://www.zmescience.com/other/economics/chatgpt-advised-women-to-ask-lower-salaries-than-men/)
+_Highlight:_ In fact, both ChatGPT and Claude offer starkly different advice depending on the user&#39;s gender, ethnicity, and migration status. <b>AI Bias</b>. ChatGPT&nbsp;...
+
+- **5. The pre-framing <b>bias</b> of the &#39;locked narrative&#39; on Israel | The Jerusalem Post** [link](https://www.jpost.com/opinion/article-861831)
+_Highlight:_ Locking the narrative is useful in political communication, framing events or policies in a way that favors a particular viewpoint. &middot; Asking <b>AI</b> what it&nbsp;...
+
+- **6. Expert discusses the implications of Trump&#39;s plans for <b>artificial intelligence</b>** [link](https://news.vt.edu/articles/2025/07/Trump-artificial-intelligence-AI-action-plan-executive-order.html)
+_Highlight:_ “The Trump administration has fused <b>AI</b> development policy with other political issues, specifically around perceived political <b>bias</b>. Some news&nbsp;...
+
+- **7. CARV promotes the <b>AI</b> Beings roadmap: Holding global hackathons and achieving 12+ ...** [link](https://www.chaincatcher.com/en/article/2192702)
+_Highlight:_ To align with this transformation, CARV has partnered with Fair3 to co-host the Tech <b>Fairness</b> Hackathon, which has entered the voting stage and&nbsp;...
+
+- **8. The Download: How to melt rocks, and what you need to know about <b>AI</b>** [link](https://www.technologyreview.com/2025/07/22/1120562/the-download-how-to-melt-rocks-and-what-you-need-to-know-about-ai/)
+_Highlight:_ Why it&#39;s so hard to make welfare <b>AI fair</b>. There are plenty of stories ... <b>fair</b> or how to implement <b>fairness</b>. But the city of Amsterdam spent a&nbsp;...
+
+- **9. <b>AI</b> meets real estate - Balancing innovation and compliance in the EU, UK, and US** [link](https://www.mwe.com/insights/ai-meets-real-estate-balancing-innovation-and-compliance-in-the-eu-uk-and-us/)
+_Highlight:_ Systems used for decision-making like tenant screening or rent adjustments must be explainable, auditable, and <b>fair</b>. Drafting contracts that clearly&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
