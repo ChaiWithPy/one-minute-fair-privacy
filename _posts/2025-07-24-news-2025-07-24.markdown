@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-24 One-Minute Post
+date: 2025-07-24 06:49:48 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Proton releases Lumo, a privacy-focused AI chatbot. Trump administration targets biased AI models. Legal experts warn of fairness imperilment with AI in arbitration. Delta's AI ticket pricing draws privacy and fairness concerns from US lawmakers.
+
+## Articles we found interesting:
+
+- **1. Proton&#39;s <b>privacy</b>-focused Lumo chatbot encrypts all your conversations - Engadget** [link](https://www.engadget.com/ai/protons-privacy-focused-lumo-chatbot-encrypts-all-your-conversations-144551345.html)
+_Highlight:_ What&#39;s another <b>AI</b> chatbot in an already crowded field? That&#39;s the question Proton is trying to answer today with the release of its new Lumo&nbsp;...
+
+- **2. Proton launches Lumo, a <b>privacy</b>-focused <b>AI</b> chatbot - Malwarebytes** [link](https://www.malwarebytes.com/blog/news/2025/07/meet-lumo-protons-new-privacy-focused-ai-chatbot)
+_Highlight:_ Proton, known for its <b>privacy</b> focused set of services, announced the introduction of Lumo, a <b>privacy</b>-first <b>Artificial Intelligence</b> (<b>AI</b>) chatbot.
+
+- **3. Lumo Unveils Proton, A <b>Privacy</b>-Focused ChatGPT Competitor <b>AI</b> Chatbot | HotHardware** [link](https://hothardware.com/news/lumo-proton-privacy-chatgpt-ai-chatbot)
+_Highlight:_ Proton has recently released a new, &quot;<b>privacy</b> first&quot; <b>AI</b> model dubbed Lumo. Proton is one of the leading <b>privacy</b> companies that offers secure&nbsp;...
+
+- **4. Trump administration releases <b>AI</b> Action Plan, targets &#39;<b>biased</b>&#39; models, red tape** [link](https://www.capitalbrief.com/briefing/trump-administration-releases-ai-action-plan-restricts-biased-models-targets-red-tape-b29f82ea-e525-4a5f-b42e-4894f14a9af9/)
+_Highlight:_ ... <b>AI</b> models deemed free from ideological <b>bias</b>. It proposes removing references to misinformation, diversity, equity and climate change from risk&nbsp;...
+
+- **5. Author asks ChatGPT for advice on her book about tech — here&#39;s what it said - NPR** [link](https://www.npr.org/2025/07/23/g-s1-78913/author-asks-chatgpt-for-advice-on-her-book-about-tech-heres-what-it-said)
+_Highlight:_ Vauhini Vara analyzed the feedback <b>AI</b> gave her to explore the abilities, shortcomings and <b>biases</b> of the chatbot ... <b>bias</b> or pointing out your negative&nbsp;...
+
+- **6. Smart decisions?: How to detect and prevent <b>bias</b> in <b>AI</b> - Lexology** [link](https://www.lexology.com/library/detail.aspx%3Fg%3Ddfdd1bbe-4892-4965-8cb5-d0c9d8adbf05)
+_Highlight:_ More and more companies are using <b>artificial intelligence</b> to streamline processes such as recruitment, performance analysis, marketing, identity…
+
+- **7. Limitations Of <b>AI</b> In Arbitration, Legal Experts Weighs In** [link](https://www.bwlegalworld.com/article/limitations-of-ai-in-arbitration-legal-experts-weighs-in-564390)
+_Highlight:_ “Any attempt to outsource core adjudicative judgments to <b>AI</b> would imperil <b>fairness</b>,” warned Dr. Sudhir Raja Ravindran, Attorney-at-Law and&nbsp;...
+
+- **8. Delta plans to use <b>AI</b> in ticket pricing draws fire from US lawmakers** [link](https://travel.economictimes.indiatimes.com/news/aviation/international/delta-airlines-ai-ticket-pricing-plan-sparks-controversy-among-lawmakers/122851047)
+_Highlight:_ Senators emphasize data privacy issues and question the <b>fairness</b> of <b>AI</b>-driven pricing, especially when families are struggling financially.
+
+- **9. Connecticut needs more wage <b>fairness</b> to boost economy, says CT Voices for Children report** [link](https://www.ctpost.com/business/article/ct-voices-for-children-wage-fairness-labor-force-20780380.php)
+_Highlight:_ Our Use of <b>AI</b> &middot; Ethics Policy &middot; Annual DEI Report &middot; Hearst Connecticut Jobs. Contact. Contact Us &middot; FAQ. Services. Advertising &middot; Archives. Account.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
