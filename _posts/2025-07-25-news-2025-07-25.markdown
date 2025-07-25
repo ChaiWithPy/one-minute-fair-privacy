@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-25 One-Minute Post
+date: 2025-07-25 06:47:44 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Proton launches Lumo, a privacy-first AI chatbot. Trump targets "woke" AI models and signs orders to ensure fairness and impartiality. Meanwhile, a reporter uses AI to review privacy policies for protection against fraud. The fight for fairness continues as political figures engage in the battle to own the concept.
+
+## Articles we found interesting:
+
+- **1. Lumo: <b>Privacy</b>-first <b>AI</b> assistant | Hacker News** [link](https://news.ycombinator.com/item%3Fid%3D44657556)
+_Highlight:_ Switzerland has been considered the standard base of operations for <b>privacy</b> companies. Many companies including Proton used it as part of their&nbsp;...
+
+- **2. Proton Enters <b>AI</b> Race With Lumo: A <b>Privacy</b>-First Alternative to Big Tech Chatbots** [link](https://www.uctoday.com/unified-communications/proton-enters-ai-race-with-lumo-a-privacy-first-alternative-to-big-tech-chatbots/)
+_Highlight:_ ... <b>AI</b> chatbot, Lumo – a tool designed to compete with mainstream <b>AI</b> assistants while prioritising <b>privacy</b> and user control. Unlike tools such as&nbsp;...
+
+- **3. I Let <b>AI</b> Read <b>Privacy</b> Policies for Me. Here&#39;s What I Learned | Kiplinger** [link](https://www.kiplinger.com/personal-finance/i-let-ai-read-privacy-policies-for-me)
+_Highlight:_ A reporter uses <b>AI</b> to review <b>privacy</b> policies, in an effort to better protect herself from fraud and scams.
+
+- **4. Trump slams &#39;woke&#39; <b>AI</b> models - Financial Times** [link](https://www.ft.com/content/6223a39d-8f5d-4e29-9119-4818e7c1e1fe)
+_Highlight:_ ... <b>AI</b>-related projects from states with “burdensome” regulations. The administration also said it would vet <b>AI</b> models for “ideological <b>bias</b>” and&nbsp;...
+
+- **5. Business | Jul 26th 2025 Edition - The Economist** [link](https://www.economist.com/the-world-this-week/2025/07/24/business)
+_Highlight:_ ... <b>artificial intelligence</b> in America ... <b>AI</b> exports to America&#39;s allies. The president also signed an order intended to root out ideological <b>bias</b>&nbsp;...
+
+- **6. Coming <b>AI</b> debacle, flush corporate money, mitigating <b>bias</b> | Letters | journalgazette.net** [link](https://www.journalgazette.net/opinion/letters/coming-ai-debacle-flush-corporate-money-mitigating-bias/article_512a781c-2895-4404-839b-1442ef9c2830.html)
+_Highlight:_ Today&#39;s writers are Catherine Menze, Brent McBride and Michael Jones of Fort Wayne.
+
+- **7. Trump targets &#39;woke <b>AI</b>&#39; in series of executive orders on <b>artificial intelligence</b> - New York Post** [link](https://nypost.com/2025/07/23/us-news/trump-targets-woke-ai-in-series-of-executive-orders-on-artificial-intelligence/)
+_Highlight:_ “From now on, the US government will deal only with <b>AI</b> that pursues truth, <b>fairness</b>, and strict impartiality,” Trump said. Large language models&nbsp;...
+
+- **8. Trump <b>AI</b> plan targets &#39;woke&#39; regulations, backs Big Tech - Information Age | ACS** [link](https://ia.acs.org.au/article/2025/trump-ai-plan-targets--woke--regulations--backs-big-tech.html)
+_Highlight:_ ... <b>fairness</b>, and strict impartiality,” Trump said as he announced the plan at a government <b>AI</b> summit in Washington DC. The plan recommended removing&nbsp;...
+
+- **9. Starmer, Farage and the fight to own <b>fairness</b> - Financial Times** [link](https://www.ft.com/content/e1539ac8-3959-4e39-af4d-31d730f7b7d4)
+_Highlight:_ But <b>fairness</b> can also be a trap that pulls the left down ... Powering UK&#39;s <b>AI</b> growth plan risks burning political capital &middot; Peter Kyle&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
