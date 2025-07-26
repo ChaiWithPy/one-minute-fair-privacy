@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-07-26 One-Minute Post
+date: 2025-07-26 06:48:17 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+European Parliament Committee recommends EU Directive on algorithmic management, while Trump Administration releases AI Action Plan to ensure federal government AI models are free of bias. The focus is on combatting ideological bias in AI models. Increased use of AI in surveillance could conflict with privacy rights.
+
+## Articles we found interesting:
+
+- **1. European Parliament Committee Recommends Commission to Propose EU Directive on ...** [link](https://www.insideprivacy.com/european-union-2/european-parliament-committee-recommends-commission-to-propose-eu-directive-on-algorithmic-management/)
+_Highlight:_ Posted in Algorithmic Management, <b>Artificial Intelligence</b> (<b>AI</b>), European Union ... <b>privacy</b> and data protection, digital services and <b>AI</b>. She advises&nbsp;...
+
+- **2. New inquiry: Human Rights and the Regulation of <b>Artificial Intelligence</b> - Committees** [link](https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/208676/new-inquiry-human-rights-and-the-regulation-of-artificial-intelligence/)
+_Highlight:_ Increased use of <b>AI</b> in surveillance could conflict with an individual&#39;s right to <b>privacy</b> or freedom of expression. Those who have their rights&nbsp;...
+
+- **3. Kirkland Advises Crusoe on Strategic Partnership with Tallgrass to Develop <b>AI</b> Data Center ...** [link](https://www.kirkland.com/news/press-release/2025/07/kirkland-advises-crusoe-on-strategic-partnership-with-tallgrass-to-develop-ai-data-center-in-wyoming)
+_Highlight:_ ... <b>AI</b> data center campus located in southeast Wyoming. Designed to scale up to 10 gigawatts ... <b>Privacy</b> &amp; Disclaimers. © 2025 Kirkland &amp; Ellis LLP.
+
+- **4. Trump Administration Releases <b>AI</b> Action Plan and Issues Executive Orders to Promote Innovation** [link](https://www.omm.com/insights/alerts-publications/trump-administration-releases-ai-action-plan-and-issues-executive-orders-to-promote-innovation/)
+_Highlight:_ These orders aim to (i) ensure that all models procured by the federal government are free of ideological <b>bias</b>; (ii) accelerate the construction of <b>AI</b>&nbsp;...
+
+- **5. What To Know About &quot;America&#39;s <b>AI</b> Action Plan&quot; - Loeb Quick Takes** [link](https://quicktakes.loeb.com/post/102kxpo/what-to-know-about-americas-ai-action-plan)
+_Highlight:_ ... <b>bias</b>, discrimination or unfairness. Instead, the Plan focuses on combatting “ideological <b>bias</b>” in <b>AI</b> models and designing <b>AI</b> systems to “pursue&nbsp;...
+
+- **6. Top Takeaways: President Trump&#39;s New <b>AI</b> Action Plan | WilmerHale - JDSupra** [link](https://www.jdsupra.com/legalnews/top-takeaways-president-trump-s-new-ai-5269426/)
+_Highlight:_ In his latest move on <b>artificial intelligence</b> (“<b>AI</b> ... The focus here is on what the Action Plan describes as “ideological <b>bias</b>” in certain <b>AI</b> models.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
