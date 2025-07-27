@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-27 One-Minute Post
+date: 2025-07-27 06:43:20 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+China releases AI action plan days after the U.S. as global tech race heats up, while the U.S. is focusing on reducing alleged "woke" bias in AI models. Meanwhile, a new study emphasizes the need to correct biases in hydro climatic interactions for realistic river discharge prediction. On the other hand, opinions are split on students using AI for coursework, with concerns raised about fairness and the need for a strategy to address AI misuse. Additionally, the integration of AI in the classroom is highlighted, emphasizing the importance of safeguarding privacy, safety, and learning. These developments underscore the growing emphasis on addressing bias and fairness issues in AI, as well as the need for responsible innovation in the global tech landscape.
+
+## Articles we found interesting:
+
+- **1. <b>AI</b> and quantum tech reshape global business | Digital Watch Observatory** [link](https://dig.watch/updates/ai-and-quantum-tech-reshape-global-business)
+_Highlight:_ Data <b>privacy</b>, <b>AI</b> bias, and antitrust issues highlight the need for responsible innovation, with industry leaders urged to balance risk and growth&nbsp;...
+
+- **2. A classroom guide to teaching with <b>AI</b> | American Federation of Teachers** [link](https://www.aft.org/news/classroom-guide-teaching-ai)
+_Highlight:_ The last stage is where Sam shines—all while safeguarding <b>privacy</b>, safety and learning. “When we integrate <b>AI</b> in the classroom, we need to start&nbsp;...
+
+- **3. Meta Says Open <b>AI</b> Hire is Superintelligence Group Chief Scientist - Bloomberg.com** [link](https://www.bloomberg.com/news/articles/2025-07-25/meta-says-open-ai-hire-is-superintelligence-group-chief-scientist)
+_Highlight:_ <b>Privacy</b> Scandal &middot; Scale <b>AI</b> &middot; Defense Tech Push &middot; FTC Trial &middot; MAGA Rebrand. Back Forward. Technology. <b>AI</b>. Meta Says Open <b>AI</b> Hire is Superintelligence&nbsp;...
+
+- **4. China releases <b>AI</b> action plan days after the U.S. as global tech race heats up - CNBC** [link](https://www.cnbc.com/2025/07/26/china-ai-action-plan.html)
+_Highlight:_ Days earlier, U.S. President Donald Trump announced an American action plan for <b>AI</b> that included calls to reduce alleged &quot;woke&quot; <b>bias</b> in <b>AI</b> models and&nbsp;...
+
+- **5. Explainable <b>AI</b>-driven assessment of hydro climatic interactions shaping river discharge ... - Nature** [link](https://www.nature.com/articles/s41598-025-13221-x)
+_Highlight:_ These <b>biases</b> must be corrected before using GCM outputs for hydrological modeling, particularly for river discharge prediction, to ensure realistic&nbsp;...
+
+- **6. Teens say they are turning to <b>artificial intelligence</b> for friendship - Lincoln Journal Star** [link](https://journalstar.com/news/nation-world/government-politics/article_cc47e73e-e465-5bb8-9d1e-7fadc71e593c.html)
+_Highlight:_ ... <b>bias</b>. Amazon&#39;s SageMaker Clarify tool helps developers detect <b>bias</b> in <b>AI</b> model predictions. Matej Kastelic // Shutterstock. Communication of <b>AI</b>&nbsp;...
+
+- **7. Opinions split on students using <b>AI</b> for coursework - BBC** [link](https://www.bbc.com/news/articles/c86g6dg2z47o)
+_Highlight:_ ... <b>AI</b> misuse. Risk to <b>fairness</b>. Ms Duffy called for a strategy on <b>AI</b> after an independent curriculum and assessment review said it would consider&nbsp;...
+
+- **8. <b>AI</b> is reshaping the future of banking in Malta and Europe** [link](https://timesofmalta.com/article/ai-reshaping-future-banking-malta-europe.1113278)
+_Highlight:_ <b>Artificial intelligence</b> (<b>AI</b>) is transforming the global banking ... <b>fairness</b> and clear human oversight. Smarter, personalised service for&nbsp;...
+
+- **9. &#39;Unacceptable&#39; for pupils to use <b>AI</b> to complete coursework, public says | The Independent** [link](https://www.the-independent.com/news/uk/home-news/ai-school-coursework-grammar-students-b2795395.html)
+_Highlight:_ But the interim report, published in March, said the review had heard about the “risks” to standards and <b>fairness</b> concerning <b>AI</b> in relation to&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
