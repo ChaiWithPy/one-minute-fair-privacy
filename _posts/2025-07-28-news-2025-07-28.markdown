@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-07-28 One-Minute Post
+date: 2025-07-28 06:38:52 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Trump's AI action plan may face legal challenges due to biases in foundational AI models. Meanwhile, the healthcare sector is embracing AI, but faces concerns about amplifying bias. In Chattanooga, an AI council is addressing privacy concerns in government AI use. OpenAI CEO warns about legal privacy protections in AI therapy. Additionally, Chinese AI events highlight the need to reduce biases in AI, as Trump's plan calls for.
+
+## Articles we found interesting:
+
+- **1. UTC, Chattanooga pact accelerates <b>AI&#39;s</b> local potential** [link](https://www.timesfreepress.com/news/2025/jul/26/utc-chattanooga-pact-accelerates-ais-local/)
+_Highlight:_ ... <b>AI</b> council would explore ways to show local officials the benefits of using <b>AI</b> in government while addressing legitimate concerns such as data <b>privacy</b>&nbsp;...
+
+- **2. The legal pushback that could complicate Trump&#39;s <b>AI</b> plan - Yahoo Finance** [link](https://finance.yahoo.com/news/the-legal-pushback-that-could-complicate-trumps-ai-plan-140035912.html)
+_Highlight:_ ... <b>AI</b>, and freeing foundational <b>AI</b> models of ... Terms and <b>Privacy</b> Policy &middot; Your <b>Privacy</b> Choices &middot; CA <b>Privacy</b> Notice &middot; Ad Terms Feedback More Info.
+
+- **3. Sam Altman Warns ChatGPT Lacks Legal <b>Privacy</b> Protection Unlike Real Therapists | N18G** [link](https://www.youtube.com/watch%3Fv%3DA5I0Kf5o0go)
+_Highlight:_ OpenAI CEO Sam Altman warns ChatGPT conversations lack legal protections unlike real therapists. Growing number of users turning to <b>AI</b> for therapy&nbsp;...
+
+- **4. Trump&#39;s <b>AI</b> Action Plan May Face Legal Challenges? Expert: The Issue Lies in &#39;Who Decides ...** [link](https://news.futunn.com/en/post/59700095/trump-s-ai-action-plan-may-face-legal-challenges-expert)
+_Highlight:_ ... <b>AI</b>, and eliminating ideological <b>biases</b> in foundational <b>AI</b> models. ... He added that evaluating <b>bias</b> in <b>AI</b> systems is itself a challenging task.
+
+- **5. <b>AI</b> In Healthcare: Why Compliance Can&#39;t Afford To Fall Behind - New Technology - Mondaq** [link](https://www.mondaq.com/uk/new-technology/1656084/ai-in-healthcare-why-compliance-cant-afford-to-fall-behind)
+_Highlight:_ The healthcare sector is rapidly embracing <b>artificial intelligence</b> (<b>AI</b>) ... <b>AI</b> can amplify <b>bias</b>, disrupt internal controls, and create regulatory&nbsp;...
+
+- **6. Where is Nvidia? Chinese rivals take the limelight at major <b>AI</b> event in Shanghai - CNBC** [link](https://www.cnbc.com/2025/07/28/nvidia-absent-at-major-china-ai-event-.html)
+_Highlight:_ The plans come just days after U.S. President Donald Trump announced an American action plan for <b>AI</b> that included calls to reduce alleged &quot;woke&quot; <b>bias</b>&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
