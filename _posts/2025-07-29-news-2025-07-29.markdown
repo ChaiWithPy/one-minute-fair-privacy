@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-29 One-Minute Post
+date: 2025-07-29 06:55:49 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Cintara and Secret AI partner for privacy-preserving AI on blockchain. Cohere accesses Canadian AI infrastructure for privacy. Workday faces AI bias lawsuit. Researchers confront bias in large language models. AI low-balls women and minorities in salary advice. NIH updates policy for fairness in AI grant proposals. India joins global push for safe AI with a focus on fairness, privacy, and security. China's universities approach AI and the pitfalls of welfare algorithms in ensuring fairness.
+
+## Articles we found interesting:
+
+- **1. Cintara and Secret <b>AI</b> Partner to Bring <b>Privacy</b>-Preserving <b>AI</b> to Blockchain - The Daily Hodl** [link](https://dailyhodl.com/2025/07/28/cintara-and-secret-ai-partner-to-bring-privacy-preserving-ai-to-blockchain/)
+_Highlight:_ Secret <b>AI&#39;s</b> encrypted computation ensures that sensitive data remains fully protected during inference and execution, meeting strict global <b>privacy</b>&nbsp;...
+
+- **2. Fundamental Copyright Principles Underscored in <b>AI</b> Context: Voice Attributes Are Not Protectable** [link](https://www.crowell.com/en/insights/client-alerts/fundamental-copyright-principles-underscored-in-ai-context-voice-attributes-are-not-protectable)
+_Highlight:_ ... <b>privacy</b> rights in the age of <b>AI</b>. Lehrman and Sage, both established voice-over actors, discovered that Lovo had used their voice recordings to&nbsp;...
+
+- **3. Cohere to access Canadian <b>AI</b> infrastructure and new clients through partnership with Bell** [link](https://betakit.com/cohere-to-access-canadian-ai-infrastructure-and-new-clients-through-partnership-with-bell/)
+_Highlight:_ Both organizations claim the partnership will allow Cohere to offer <b>AI</b> solutions while “maintaining security, <b>privacy</b>, and data residency in Canada.
+
+- **4. Survey of Managers Highlights The Widespread Use and Potential Risks of Unsanctioned <b>AI</b> Use** [link](https://www.lawandtheworkplace.com/2025/07/survey-of-managers-highlights-the-widespread-use-and-potential-risks-of-unsanctioned-ai-use/)
+_Highlight:_ <b>AI Bias</b> Lawsuit Against Workday Reaches Next Stage as Court Grants Conditional Certification of ADEA Claim. June 11, 2025. Another Legal Challenge&nbsp;...
+
+- **5. To explore <b>AI bias</b>, researchers pose a question: How do you imagine a tree?** [link](https://news.stanford.edu/stories/2025/07/ai-llm-ontological-systems-bias-research)
+_Highlight:_ To confront <b>bias</b>, scientists say we must examine the ontological frameworks within large language models – and how our perceptions influence&nbsp;...
+
+- **6. Salary advice from <b>AI</b> low-balls women and minorities: report - TechRadar** [link](https://www.techradar.com/ai-platforms-assistants/chatgpt/salary-advice-from-ai-low-balls-women-and-minorities-report)
+_Highlight:_ <b>AI</b> models hand out negotiation tips with a side of social <b>bias</b>.
+
+- **7. NIH Policy Update: New Limits on Applications and <b>Artificial Intelligence</b> Use in Grant Proposals** [link](https://www.research.utah.edu/resources-opportunities/nih-policy-update-new-limits-on-applications-and-artificial-intelligence-use-in-grant-proposals/)
+_Highlight:_ ... <b>Fairness</b> and Originality in NIH Research Applications“. This policy update addresses the growing use of <b>artificial intelligence</b> (<b>AI</b>) in grant&nbsp;...
+
+- **8. India joins global push for safe <b>AI</b> as domestic framework takes shape - Storyboard18** [link](https://www.storyboard18.com/how-it-works/india-joins-global-push-for-safe-ai-as-domestic-framework-takes-shape-77365.htm)
+_Highlight:_ ... <b>AI</b> systems through transparency, <b>fairness</b>, privacy, and security. The 2021 Responsible <b>AI</b> Approach Document by NITI Aayog laid out principles such&nbsp;...
+
+- **9. The Download: How China&#39;s universities approach <b>AI</b>, and the pitfalls of welfare algorithms** [link](https://www.technologyreview.com/2025/07/28/1120752/the-download-how-chinas-universities-approach-ai-and-the-pitfalls-of-welfare-algorithms/)
+_Highlight:_ Read the full story. Why it&#39;s so hard to make welfare <b>AI fair</b>. There are ... <b>fair</b> or how to implement <b>fairness</b>. But the city of Amsterdam did&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
