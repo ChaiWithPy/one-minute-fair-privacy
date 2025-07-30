@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-30 One-Minute Post
+date: 2025-07-30 06:34:53 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+California Privacy Protection Agency has approved draft regulations, removing references to AI and behavioral advertising. Clearview AI facial recognition software has been approved for use by OKC police, despite privacy concerns. A ransomware gang is using AI chatbots for negotiations. The Trump Administration has unveiled an AI action plan to prevent biased AI in federal agencies. Vogue featuring an AI model has sparked debate over beauty standards. A framework for black-box inference attacks on cognitive bias in autonomous systems has been proposed. AI in the military is being guided by principles of fairness and privacy. Columbia students have developed Truely, an AI detection software to ensure fair job interviews.
+
+## Articles we found interesting:
+
+- **1. California <b>Privacy</b> Protection Agency Approves Draft Regulations After Over a Year in ...** [link](https://www.foley.com/p/102kxz2/california-privacy-protection-agency-approves-draft-regulations-after-over-a-year/)
+_Highlight:_ Removal of references to “<b>Artificial Intelligence</b>” and behavioral advertising with respect to ADMT and a relaxation of when ADMT may be used and the&nbsp;...
+
+- **2. Clearview <b>AI</b> facial recognition software approved for OKC police use - The Oklahoman** [link](https://www.oklahoman.com/story/news/local/oklahoma-city/2025/07/29/clearview-ai-facial-recognition-software-approved-for-okc-police-use-amid-legal-controversy/85206189007/)
+_Highlight:_ Councilwoman JoBeth Hamon opposed the contract, citing <b>privacy</b> concerns and Clearview <b>AI&#39;s</b> legal issues regarding biometric data collection. Clearview&nbsp;...
+
+- **3. Ransomware gang uses an <b>AI</b> chatbot to negotiate - Axios** [link](https://www.axios.com/2025/07/29/ransomware-gang-ai-chatbot-negotiate)
+_Highlight:_ gang is using <b>AI</b> chatbots to negotiate with their victims, according to research from Picus Security. ... Your <b>Privacy</b> Choices. Axios Homepage. Axios&nbsp;...
+
+- **4. Trump Administration Unveils Sweeping <b>AI</b> Action Plan To Accelerate U.S. <b>AI</b> Leadership** [link](https://www.mondaq.com/unitedstates/new-technology/1657642/trump-administration-unveils-sweeping-ai-action-plan-to-accelerate-us-ai-leadership)
+_Highlight:_ The Preventing Woke <b>AI</b> in the Federal Government Executive Order bars federal agencies from procuring <b>AI</b> tools or systems deemed &quot;ideologically <b>biased</b>&nbsp;...
+
+- **5. Vogue Features <b>AI</b> Model in August Issue, Sparks Debate Over Beauty Standards - AllSides** [link](https://www.allsides.com/story/business-vogue-features-ai-model-august-issue-sparks-debate-over-beauty-standards)
+_Highlight:_ The Telegraph UK (Lean Right <b>bias</b>) said the ad left readers &quot;disturbed&quot;, and quoted a real-life model who shared concerns about potential job&nbsp;...
+
+- **6. Weaponizing Cognitive <b>Bias</b> in Autonomous Systems: A Framework for Black-box Inference Attacks** [link](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1623573/full)
+_Highlight:_ Keywords: cognitive <b>bias</b>, Visual Reasoning Vulnerabilities, Trustworthy <b>AI</b> Evaluation, Priority inversion, Non-perturbative Black-box Attacks.
+
+- **7. <b>AI</b> in the military: Path to ethical and strategic leadership - Hindustan Times** [link](https://www.hindustantimes.com/ht-insight/future-tech/ai-in-the-military-path-to-ethical-and-strategic-leadership-101753781956575.html)
+_Highlight:_ <b>Fairness</b>: Algorithmic biases should not influence critical decisions. Privacy: Protects sensitive data from unauthorised access. The more autonomous&nbsp;...
+
+- **8. After Cluely gamed job interviews, these Columbia students built Truely to catch <b>AI</b> &#39;cheating ...** [link](https://timesofindia.indiatimes.com/education/news/after-cluely-gamed-job-interviews-these-columbia-students-built-truely-to-catch-ai-cheating-in-real-time/articleshow/122974421.cms)
+_Highlight:_ “We just try and make sure that the interview is <b>fair</b> on both sides,” Shen said in an interview with The Columbia Spectator. “That&#39;s pretty much the&nbsp;...
+
+- **9. &#39;The anti-Cluely&#39;: Columbia students launch Truely, new <b>AI</b> detection software challenging ...** [link](https://www.columbiaspectator.com/news/2025/07/28/the-anti-cluely-columbia-students-launch-truely-new-ai-detection-software-challenging-interview-coder/)
+_Highlight:_ “We just try and make sure that the interview is <b>fair</b> on both sides,” Shen told Spectator. “That&#39;s pretty much the goal of Truely, it&#39;s pretty simple.
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
