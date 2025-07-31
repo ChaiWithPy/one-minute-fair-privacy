@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-07-31 One-Minute Post
+date: 2025-07-31 06:41:45 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+White House tech director plans to balance AI national security and export promotion, while Cloudflare declares war on AI scrapers to protect privacy. RegTech aims to unify ESG and privacy, and the Trump Administration's 2025 AI Action Plan focuses on eliminating bias. Algorithmic bias in hiring and insurance for AI products are under scrutiny, and philanthropy is urged to lead in building ethical AI for the public good. Legal experts criticize electoral reforms as government defends fairness, and jury selection discusses fairness and punishment in a burglary case.
+
+## Articles we found interesting:
+
+- **1. White House tech director breaks down plan to balance <b>AI</b> national security and export promotion** [link](http://www.fcw.com/artificial-intelligence/2025/07/white-house-tech-director-breaks-down-plan-balance-ai-national-security-and-export-promotion/407097/%3Foref%3Dng-homepage-river)
+_Highlight:_ Your <b>Privacy</b> Choices; Exercise Your <b>Privacy</b> Rights &middot; Sen. Ron Wyden (D-OR) ... Speaking Wednesday morning at the Center for Strategic and International&nbsp;...
+
+- **2. How Cloudflare declared war on <b>AI</b> scrapers - Fast Company** [link](https://www.fastcompany.com/91376582/how-cloudflare-declared-war-on-ai-scrapers)
+_Highlight:_ This site is protected by reCAPTCHA and the Google <b>Privacy</b> Policy and Terms of Service apply. <b>Privacy</b> Policy. ABOUT THE AUTHOR. Robert Safian is the&nbsp;...
+
+- **3. Can RegTech unify ESG and <b>privacy</b> into one framework? - FinTech Global** [link](https://fintech.global/2025/07/30/can-regtech-unify-esg-and-privacy-into-one-framework/)
+_Highlight:_ The firm said, “With the advent of <b>AI</b> adoption in RegTech, this intrinsically draws together data <b>privacy</b> laws and ESG concerns under the compliance&nbsp;...
+
+- **4. The Trump Administration&#39;s 2025 <b>AI</b> Action Plan – Winning the Race - Sidley Austin LLP** [link](https://www.sidley.com/en/insights/newsupdates/2025/07/the-trump-administrations-2025-ai-action-plan)
+_Highlight:_ ... (<b>AI</b>) systems are trustworthy and free from ideological <b>bias</b>, and safeguarding <b>AI</b> from misuse, theft, or other risks posed by malicious actors. The&nbsp;...
+
+- **5. When Automation Moves Too Fast: The Hidden Risks of <b>AI</b> in Hiring | Mitratech Holdings, Inc** [link](https://www.jdsupra.com/legalnews/when-automation-moves-too-fast-the-7910795/)
+_Highlight:_ Algorithmic <b>bias</b> at scale: <b>AI</b> trained on historical hiring data frequently reinforces systemic <b>biases</b>, leading to legal and regulatory penalties.
+
+- **6. Navigating Insurance for <b>Artificial Intelligence</b> and Life Science Products - JD Supra** [link](https://www.jdsupra.com/legalnews/navigating-insurance-for-artificial-5794593/)
+_Highlight:_ Data <b>Bias</b>: <b>AI</b> models rely heavily on the quality of training data. If the data is biased or incomplete, it can lead to skewed outcomes&nbsp;...
+
+- **7. How Philanthropy Can Lead in Building Ethical <b>AI</b> for the Public Good - Non Profit News** [link](https://nonprofitquarterly.org/how-philanthropy-can-lead-in-building-ethical-ai-for-the-public-good/)
+_Highlight:_ Funders should support nonprofit organizations that are working on algorithmic <b>fairness</b>, data ethics, and digital rights to ensure that <b>AI</b> systems don&nbsp;...
+
+- **8. Legal expert criticises electoral reforms as govt defends <b>fairness</b> - Pacific Media Network** [link](https://pmn.co.nz/read/politics-/legal-expert-criticises-electoral-reforms-as-government-defends-fairness)
+_Highlight:_ Legal expert criticises electoral reforms as govt defends <b>fairness</b> ... <b>ai</b> pe. Keep scrolling. Pae hifo <b>ai</b> pe. Keep scrolling. New Zealand Foreign&nbsp;...
+
+- **9. Jury Selection Discusses <b>Fairness</b> and Range of Punishment in Burglary Case** [link](https://citizenportal.ai/articles/5499301/Texas/Jury-Selection-Discusses-Fairness-and-Range-of-Punishment-in-Burglary-Case)
+_Highlight:_ This article was created by <b>AI</b> using a video recording of the meeting. ... As the judge guided the potential jurors through the selection process, she&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
