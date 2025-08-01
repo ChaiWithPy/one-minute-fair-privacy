@@ -1,0 +1,43 @@
+---
+layout: post
+title: 2025-08-01 One-Minute Post
+date: 2025-08-01 06:30:40 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+New California regulations will impact AI and privacy policies, raising concerns over AI glasses. President Trump's AI action plan aims to remove ideological bias, while AI bias poses risks for learners with SEND. Valitron.ai launches to restore fairness and trust in recruitment, as a 13-point global AI governance action plan emphasizes fairness and inclusiveness.
+
+## Articles we found interesting:
+
+- **1. New California Regs Will Impact Your <b>AI</b> and <b>Privacy</b> Policies: FAQs on Automated Decision ...** [link](https://www.fisherphillips.com/en/news-insights/new-california-regs-will-impact-your-ai-and-privacy-policies.html)
+_Highlight:_ New California Regs Will Impact Your <b>AI</b> and <b>Privacy</b> Policies: FAQs on Automated Decision-Making, Risk Assessments, and Cybersecurity Audits.
+
+- **2. <b>Privacy</b> concerns raised over <b>AI</b> glasses - IBL News** [link](https://iblnews.org/privacy-concerns-raised-over-ai-glasses/)
+_Highlight:_ <b>Privacy</b> concerns raised over <b>AI</b> glasses ... Your browser can&#39;t play this video. ... A social media personality recently used the glasses to record “&nbsp;...
+
+- **3. <b>AI</b> Use for Injury Surveillance in Emergency Departments | <b>Artificial Intelligence</b> | JAMA Network Open** [link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837063)
+_Highlight:_ For example, a study on child abuse detection used NLP to identify cases of suspected abuse while ensuring the <b>confidentiality</b> of patient records.
+
+- **4. President Trump <b>AI</b> Action Plan Key Insights - Latham &amp; Watkins LLP** [link](https://www.lw.com/en/insights/president-trump-ai-action-plan-key-insights)
+_Highlight:_ Removing “Ideological <b>Bias</b>” From <b>AI</b> in the Federal Government. Another ... <b>bias</b> reduction for developers that provide <b>AI</b> systems to federal agencies.
+
+- **5. <b>AI bias</b> poses serious risks for learners with SEND - Schools Week** [link](https://schoolsweek.co.uk/ai-bias-poses-serious-risks-for-learners-with-send/)
+_Highlight:_ <b>Bias</b> in <b>AI</b> refers to systematic and unfair discrimination that arises from the design, training, or deployment of artificial systems. In the context&nbsp;...
+
+- **6. “It&#39;s a feature, not a bug” – How journalists can spot and mitigate <b>AI bias</b> - Reuters Institute** [link](https://reutersinstitute.politics.ox.ac.uk/news/its-feature-not-bug-how-journalists-can-spot-and-mitigate-ai-bias)
+_Highlight:_ Early adopters experimented, while leadership teams engaged in lengthy discussions about ethical concerns, including <b>bias</b>, as they drew up their <b>AI</b>&nbsp;...
+
+- **7. Public service embrace of <b>AI</b> goes next level with new integration tool | Region Canberra** [link](https://region.com.au/public-service-embrace-of-ai-goes-next-level-with-new-integration-tool/890601/)
+_Highlight:_ <b>Fairness</b> – <b>AI</b> systems should be inclusive and accessible, and should not involve or result in unfair discrimination against individuals, communities&nbsp;...
+
+- **8. Valitron.<b>ai</b> Launches to Solve the &#39;Application Avalanche&#39; Crisis: <b>AI</b>-Powered Interviews ...** [link](https://www.qcnews.com/business/press-releases/ein-presswire/834703716/valitron-ai-launches-to-solve-the-application-avalanche-crisis-ai-powered-interviews-restore-trust-in-recruitment)
+_Highlight:_ <b>AI</b>-powered Valitron slashes hiring time by 43% and costs by 81%, restoring <b>fairness</b> and trust amid the rise of mass <b>AI</b>-generated job applications.
+
+- **9. 13-point Global <b>AI</b> Governance Action Plan published - Newswire** [link](https://www.newswire.lk/2025/07/31/13-point-global-ai-governance-action-plan-published/)
+_Highlight:_ ... <b>fairness</b> and inclusiveness, and fostering open cooperation. The ... <b>Artificial intelligence</b> (<b>AI</b>) is a new frontier in human development. It&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
