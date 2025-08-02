@@ -1,0 +1,34 @@
+---
+layout: post
+title: 2025-08-02 One-Minute Post
+date: 2025-08-02 06:38:26 -0400
+description: Welcome to Chai With Py's One Minute Fairness and Privacy, which aims to provide you the current happenings in the world of Fairness, Privacy, and AI.
+img: # one_minute_logo.png # Add image post (optional)
+fig-caption: One Minute Logo# Add figcaption (optional)
+tags: [Privacy, Fairness, Bias, AI]
+---
+
+Amazon plans to include ads in Alexa for AI revenue, sparking privacy concerns. Troutman Pepper Locke welcomes a privacy and cybersecurity leader. Freshfields advises ServiceNow in a $750m investment into Genesys AI-powered experience. The Global South's role in AI peacekeeping is discussed, highlighting a blind spot in algorithmic bias. Bill Dembski explores AI's potential to reinforce bias or level the playing field. Tech firms express concerns about the EU AI Act's deadline, focusing on bias and harmful AI-generated content.
+
+## Articles we found interesting:
+
+- **1. Amazon to Insert Ads in Alexa+ for <b>AI</b> Revenue Amid <b>Privacy</b> Backlash - WebProNews** [link](https://www.webpronews.com/amazon-to-insert-ads-in-alexa-for-ai-revenue-amid-privacy-backlash/)
+_Highlight:_ This involves organic product recommendations in natural talks, sparking <b>privacy</b> debates and user backlash. Success could redefine <b>AI</b> monetization,&nbsp;...
+
+- **2. Troutman Pepper Locke Welcomes <b>Privacy</b> and Cybersecurity Leader as Partner** [link](https://www.acainternational.org/news/troutman-pepper-locke-welcomes-privacy-and-cybersecurity-leader-as-partner/)
+_Highlight:_ Stauss has an extensive portfolio of state data <b>privacy</b> legislation, <b>artificial intelligence</b> regulation, and cybersecurity matters. He is a frequent&nbsp;...
+
+- **3. Freshfields Advises ServiceNow in $750m Investment into Genesys <b>AI</b>-powered Experience ...** [link](https://www.freshfields.com/de/unser-denken/media-center/nachrichtensuche/2025/08/freshfields-advises-servicenow-in-%24750m-investment-into-genesys-ai-powered-experience-orchestration/)
+_Highlight:_ Your <b>Privacy</b>. Your <b>Privacy</b>. When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This&nbsp;...
+
+- **4. Ethics Without Borders: The Global South&#39;s Role in <b>AI</b> Peacekeeping - Modern Diplomacy** [link](https://moderndiplomacy.eu/2025/08/02/ethics-without-borders-the-global-souths-role-in-ai-peacekeeping/)
+_Highlight:_ While the discourse around <b>AI</b> has rightly emphasized digital sovereignty, data colonialism, and algorithmic <b>bias</b>, there&#39;s a blind spot in&nbsp;...
+
+- **5. Bill Dembski: Pursuing Truth and Trust in <b>AI</b> and LLMs - Evolution News** [link](https://evolutionnews.org/2025/08/bill-dembski-pursuing-truth-and-trust-in-ai-and-llms/)
+_Highlight:_ Learn more in YouTube&#39;s privacy policy. Always display content from YouTube. Open &quot;Will <b>AI</b> Reinforce <b>Bias</b> or Level the Playing Field for Intelligent&nbsp;...
+
+- **6. EU <b>AI</b> Act: Tech Firms Concerned About Aug. 2 Deadline - TechRepublic** [link](https://www.techrepublic.com/article/news-eu-ai-act-gpai-models/)
+_Highlight:_ ... <b>bias</b> and harmful <b>AI</b>-generated content. Oliver Howley, partner in the technology department at law firm Proskauer, spoke to TechRepublic about&nbsp;...
+
+
+Updated Everyday by: (<a href="https://supritivijay.github.io/">Supriti Vijay</a> & <a href="https://amanpriyanshu.github.io/">Aman Priyanshu</a>)
